@@ -1,0 +1,68 @@
+
+0.8.0 j
+ResGameConfig clickGameStagejava.lang.NullPointerException
+	at com.zhfy.game.model.content.conversion.Fb2Smap.army_Attack(Fb2Smap.java:40226)
+	at com.zhfy.game.model.content.conversion.Fb2Smap.army_Attack(Fb2Smap.java:40140)
+	at com.zhfy.game.screen.stage.SMapGameStage.playerUnitAttack(SMapGameStage.java:1234)
+	at com.zhfy.game.screen.stage.SMapGameStage.clickGameStage(SMapGameStage.java:630)
+	at com.zhfy.game.screen.stage.SMapGameStage.access$100(SMapGameStage.java:49)
+	at com.zhfy.game.screen.stage.SMapGameStage$1.clicked(SMapGameStage.java:308)
+	at com.badlogic.gdx.scenes.scene2d.utils.ClickListener.touchUp(ClickListener.java:88)
+	at com.badlogic.gdx.scenes.scene2d.InputListener.handle(InputListener.java:71)
+	at com.badlogic.gdx.scenes.scene2d.Stage.touchUp(Stage.java:355)
+	at com.badlogic.gdx.InputMultiplexer.touchUp(InputMultiplexer.java:124)
+	at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:70)
+	at com.badlogic.gdx.backends.lwjgl.DefaultLwjglInput.processEvents(DefaultLwjglInput.java:255)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.mainLoop(LwjglApplication.java:220)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:127)
+
+0.8.0 j
+ResGameConfig clickGameStagejava.lang.NullPointerException
+	at com.zhfy.game.model.content.conversion.Fb2Smap.army_Attack(Fb2Smap.java:40226)
+	at com.zhfy.game.model.content.conversion.Fb2Smap.army_Attack(Fb2Smap.java:40140)
+	at com.zhfy.game.screen.stage.SMapGameStage.playerUnitAttack(SMapGameStage.java:1234)
+	at com.zhfy.game.screen.stage.SMapGameStage.clickGameStage(SMapGameStage.java:630)
+	at com.zhfy.game.screen.stage.SMapGameStage.access$100(SMapGameStage.java:49)
+	at com.zhfy.game.screen.stage.SMapGameStage$1.clicked(SMapGameStage.java:308)
+	at com.badlogic.gdx.scenes.scene2d.utils.ClickListener.touchUp(ClickListener.java:88)
+	at com.badlogic.gdx.scenes.scene2d.InputListener.handle(InputListener.java:71)
+	at com.badlogic.gdx.scenes.scene2d.Stage.touchUp(Stage.java:355)
+	at com.badlogic.gdx.InputMultiplexer.touchUp(InputMultiplexer.java:124)
+	at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:70)
+	at com.badlogic.gdx.backends.lwjgl.DefaultLwjglInput.processEvents(DefaultLwjglInput.java:255)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.mainLoop(LwjglApplication.java:220)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:127)
+
+0.8.0 j
+ResGameConfig clickGameStagejava.lang.NullPointerException
+	at com.zhfy.game.model.content.conversion.Fb2Smap.army_Attack(Fb2Smap.java:40226)
+	at com.zhfy.game.model.content.conversion.Fb2Smap.army_Attack(Fb2Smap.java:40140)
+	at com.zhfy.game.screen.stage.SMapGameStage.playerUnitAttack(SMapGameStage.java:1234)
+	at com.zhfy.game.screen.stage.SMapGameStage.clickGameStage(SMapGameStage.java:630)
+	at com.zhfy.game.screen.stage.SMapGameStage.access$100(SMapGameStage.java:49)
+	at com.zhfy.game.screen.stage.SMapGameStage$1.clicked(SMapGameStage.java:308)
+	at com.badlogic.gdx.scenes.scene2d.utils.ClickListener.touchUp(ClickListener.java:88)
+	at com.badlogic.gdx.scenes.scene2d.InputListener.handle(InputListener.java:71)
+	at com.badlogic.gdx.scenes.scene2d.Stage.touchUp(Stage.java:355)
+	at com.badlogic.gdx.InputMultiplexer.touchUp(InputMultiplexer.java:124)
+	at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:70)
+	at com.badlogic.gdx.backends.lwjgl.DefaultLwjglInput.processEvents(DefaultLwjglInput.java:255)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.mainLoop(LwjglApplication.java:220)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:127)
+
+0.8.0 j
+ResGameConfig clickGameStagejava.lang.NullPointerException
+	at com.zhfy.game.model.content.conversion.Fb2Smap.army_Attack(Fb2Smap.java:40226)
+	at com.zhfy.game.model.content.conversion.Fb2Smap.army_Attack(Fb2Smap.java:40140)
+	at com.zhfy.game.screen.stage.SMapGameStage.playerUnitAttack(SMapGameStage.java:1234)
+	at com.zhfy.game.screen.stage.SMapGameStage.clickGameStage(SMapGameStage.java:630)
+	at com.zhfy.game.screen.stage.SMapGameStage.access$100(SMapGameStage.java:49)
+	at com.zhfy.game.screen.stage.SMapGameStage$1.clicked(SMapGameStage.java:308)
+	at com.badlogic.gdx.scenes.scene2d.utils.ClickListener.touchUp(ClickListener.java:88)
+	at com.badlogic.gdx.scenes.scene2d.InputListener.handle(InputListener.java:71)
+	at com.badlogic.gdx.scenes.scene2d.Stage.touchUp(Stage.java:355)
+	at com.badlogic.gdx.InputMultiplexer.touchUp(InputMultiplexer.java:124)
+	at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:70)
+	at com.badlogic.gdx.backends.lwjgl.DefaultLwjglInput.processEvents(DefaultLwjglInput.java:255)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.mainLoop(LwjglApplication.java:220)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:127)

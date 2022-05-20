@@ -1,0 +1,139 @@
+<Files  game="fb1" fileType="bin" ifET="false">
+	<bm0 id="bm0" name="masterData" ifCycle="false" Count="one" remark="主数据 128" >
+		<bm id="bm0_1" size="4" name="Version" remark="版本" type="Short" function="no" defaul="1"/>
+		<bm id="bm0_2" size="4" name="mapId" remark="对应的mapId" type="Short" function="no" defaul="1"/>
+		<bm id="bm0_3" size="8" name="yearMin" remark="初始年" type="Integer" function="no" defaul="1"/>
+		<bm id="bm0_4" size="8" name="yearNow" remark="当前年份" type="Integer" function="no" defaul="1840"/>
+		<bm id="bm0_5" size="8" name="monthNow" remark="当前月" type="Integer" function="no" defaul="1"/>
+		<bm id="bm0_6" size="8" name="yearCount" remark="记录年条数" type="Integer" function="no" defaul="1"/>
+		<bm id="bm0_7" size="8" name="regionCount" remark="地块总数" type="Integer" function="no" defaul="1"/>
+		<bm id="bm0_8" size="8" name="monthCount" remark="月数据总数" type="Integer" function="no" defaul="0"/>
+		<bm id="bm0_9" size="8" name="eventCount" remark="事件触发总数" type="Integer" function="no" defaul="0"/>
+		<bm id="bm0_10" size="8" name="countryChangeCount" remark="国家变更,出现总数" type="Integer" function="no" defaul="0"/>
+		<bm id="bm0_11" size="8" name="countryCountt" remark="国家数据" type="Integer" function="no" defaul="0"/>
+		<bm id="bm0_12" size="4" name="playerCountry" remark="玩家国家id" type="Short" function="no" defaul="0"/>
+		<!--当玩家的阵营不存在时询问玩家退出游戏或者选择近似阵营-->
+		<bm id="bm0_13" size="8" name="playerScore" remark="玩家分数" type="Integer" function="no" defaul="0"/>
+		<bm id="bm0_14" size="2" name="gameMode"  remark="游戏模式" type="Byte" function="no" defaul="0"/><!--0battle 1征服-->
+		<bm id="bm0_15" size="8" name="regionInfoCount"  remark="地图信息" type="Integer" function="no" defaul="0"/><!--buildRegion-->
+		<bm id="bm0_16" size="8" name="seaLandCount"  remark="海陆信息" type="Integer" function="no" defaul="0"/><!--coast-->
+		<bm id="bm0_17" size="8" name="coastGridCount"  remark="海岸信息" type="Integer" function="no" defaul="0"/><!--coast-->
+		<bm id="bm0_18" size="4" name="generalsCount"  remark="将军总数"  type="Short" function="no" defaul="0"/>
+		<bm id="bm0_19" size="4" name="regionConnectCount"  remark="地区连接"  type="Short" function="no" defaul="0"/>
+	</bm0>
+	<bm1 id="bm1" name="gridData" ifCycle="true" Count="bm0_7" remark="地块条数" >
+		<bm id="bm1_1" size="8" name="historyIndex" remark="序列" type="Integer" function="no" defaul="0"/>
+		<bm id="bm1_2" size="4" name="year" remark="年份" type="Short" function="no" defaul="1840"/>
+		<bm id="bm1_3" size="4" name="regionIndex" remark="地区id" type="Short" function="no" defaul="1"/>
+		<bm id="bm1_4" size="4" name="nowCountryIndex" remark="地块所属国" type="Short" function="no" defaul="0"/><!--当前地块拥有国-->
+		<bm id="bm1_5" size="4" name="battleId" remark="交战id/交战国" type="Short" function="no" defaul="0"/><!--对战国家/战争id-->
+		<bm id="bm1_6" size="2" name="state" remark="状态" type="Byte" function="no" defaul="0"/>	<!-- 0正常 1战斗中 2可参战-->
+		<bm id="bm1_7" size="8" name="eventId" remark="事件id" type="Integer" function="no" defaul="0"/>
+		<bm id="bm1_8" name="cityLv" size="4" remark="城市lv" defaul="0" type="Short" function="no"/>
+		<bm id="bm1_9" name="cityType" size="4" remark="城市type" defaul="0" type="Short" function="no"/><!--0农业城市1经济城市2工业基地 3军事基地-->
+		<bm id="bm1_10" name="cityHpMax" size="4" remark="城市hp" defaul="0" type="Short" function="no"/>
+		<bm id="bm1_11" name="cityHpNow" size="4" remark="当前hp" defaul="0" type="Short" function="no"/>
+	</bm1>
+	<bm2 id="bm2" name="monthData" ifCycle="true" Count="bm0_8" remark="月数据条数" >
+		<bm id="bm2_1" size="4" name="year" remark="年" type="Short" function="no" defaul="0"/>
+		<bm id="bm2_2" size="2" name="month" remark="月" type="Byte" function="no" defaul="1"/>
+		<bm id="bm2_3" size="4" name="regionIndex" remark="地区id" type="Short" function="no" defaul="0"/>
+		<bm id="bm2_4" size="4" name="nowCountryIndex" remark="战前所属国" type="Short" function="no" defaul="0"/>
+		<bm id="bm2_5" size="4" name="nextCountryId" remark="战后归属国" type="Short" function="no" defaul="0"/>
+		<bm id="bm2_6" size="2" name="getType" remark="战斗方式" type="Byte" function="no" defaul="0"/>	<!-- 0本土 1扩张 2协议(非战争形式获得)-->
+		<bm id="bm2_7" size="8" name="battleId" remark="对战国家/战争id" type="Integer" function="no" defaul="0"/>
+		<bm id="bm2_8" size="2" name="state" remark="状态" type="Byte" function="no" defaul="0"/><!--0未触发,1已执行,2等触发-->
+	</bm2>
+	<bm3 id="bm3" name="eventData" ifCycle="true" Count="bm0_9" remark="事件数据条数" >
+		<bm id="bm3_1" size="4" name="year" remark="年" type="Short" function="no" defaul="0"/>
+		<bm id="bm3_2" size="2" name="month" remark="月" type="Byte" function="no" defaul="0"/>
+		<bm id="bm3_3" size="8" name="eventId" remark="事件id" type="Integer" function="no" defaul="0"/><!--0为无-->
+		<bm id="bm3_4" size="2" name="state" remark="状态" type="Byte" function="no" defaul="0"/><!--0未触发,1已执行,2等触发-->
+		<bm id="bm3_5" size="4" name="countryId"  remark="国家" defaul="0" type="Short" function="no"/>
+		<bm id="bm3_6" size="2" name="changeType"  remark="改变类型" defaul="0" type="Byte" function="no"/>
+		<!--1 buff-->
+		<bm id="bm3_7" size="4" name="changeValue"  remark="值" defaul="0" type="Short" function="no"/>
+		<bm id="bm3_8" size="4" name="changeValue2"  remark="值2" defaul="0" type="Short" function="no"/>
+	</bm3>
+	<bm4 id="bm4" name="countryEData" ifCycle="true" Count="bm0_10" remark="国家变更条数" >
+		<bm id="bm4_1" size="4" name="year" remark="年" type="Short" function="no" defaul="0"/>
+		<bm id="bm4_2" size="2" name="month" remark="月" type="Byte" function="no" defaul="0"/>
+		<bm id="bm4_3" size="4" name="lastCountryId" remark="前国家id" type="Short" function="no" defaul="0"/>
+		<bm id="bm4_4" size="4" name="nextCountryId" remark="变更后国家id" type="Short" function="no" defaul="0"/>
+	</bm4>
+	<bm5 id="bm5" name="countryData" ifCycle="true" Count="bm0_11" remark="国家信息数量" >
+		<bm id="bm5_1" name="countryId" size="4" remark="军团国家" defaul="0" type="Short" function="no"/>
+		<bm id="bm5_2" name="intern" size="4" remark="阵营" defaul="0" type="Short" function="no"/>
+		<bm id="bm5_3" name="suzerainId" size="4" remark="宗主国" defaul="0" type="Short" function="no"/>
+		<bm id="bm5_4" name="tendency" size="2" remark="国家倾向" defaul="0" type="Byte" function="no"/><!--0陆地1海洋2经济-->
+		<bm id="bm5_5" name="military" size="2"  remark="军令" defaul="0" type="Byte" function="no"  /><!--每次战役都消耗军令,军令=时代+随机值-->
+		<bm id="bm5_6" name="politSpec" size="2" remark="政治相性" defaul="0" type="Byte" function="no"/>
+		<!--公式:0-45保守主义 45-90经济主义 90-135军国主义 135-180民族主义-->
+		<bm id="bm5_7" name="foreignTendency" size="2" remark="文化相性" defaul="0" type="Byte" function="no"/><!--公式:美国10英国15法国25北欧40德国45意大利35东欧50俄罗斯60土耳其75沙特90伊朗105印度120中国135韩日150东南亚165拉美葡西180-->
+		<bm id="bm5_8" name="threat" size="2" remark="威胁度" defaul="0" type="Byte" function="no"/><!--0~100 超过30以后,为针对概率,沿海接壤刷新随机低国,如果过大,所有国家会联合针对你 -->
+		<bm id="bm5_9" name="capitalId" size="4" remark="首都" defaul="0" type="Short" function="no"/>
+		<bm id="bm5_10" name="infantryLvMax" size="2" remark="步兵科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_11" name="cannonLvMax" size="2" remark="火炮科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_12" name="tankLvMax" size="2" remark="坦克科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_13" name="fortLvMax" size="2" remark="要塞科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_14" name="navyLvMax" size="2" remark="海军科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_15" name="airLvMax" size="2" remark="空军科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_16" name="supplyLvMax" size="2" remark="补给科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_17" name="defenceLvMax" size="2" remark="防空科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_18" name="missileLvMax" size="2" remark="导弹科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_19" name="nuclearLvMax" size="2" remark="核弹科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_20" name="generalEnterMax" size="2" remark="军官出战上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_21" name="generalLvMax" size="2" remark="军官等级上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_22" name="cultureLvMax" size="2" remark="文化科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_23" name="miracleNow" size="2" remark="航天科技" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_24" name="recruitGeneralLvNow" size="2" remark="文明级别" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_25" name="countryBuff1" size="4" remark="buff标记1" defaul="0" type="Short" function="no"/>
+		<bm id="bm5_26" name="buff1Round" size="2" remark="剩余回合1" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_27" name="countryBuff2" size="4" remark="buff标记2" defaul="0" type="Short" function="no"/>
+		<bm id="bm5_28" name="buff2Round" size="2" remark="剩余回合2" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_29" name="countryBuff3" size="4" remark="buff标记3" defaul="0" type="Short" function="no"/>
+		<bm id="bm5_30" name="buff3Round" size="2" remark="剩余回合3" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_31" name="ifEnabled" size="2" remark="是否启用" defaul="0" type="Byte" function="no"/><!--启用时如果玩家的文化相性与该国家在10以内,询问玩家是否转阵营,0启用,1未启用-->
+	</bm5>
+	<bm6 id="bm6" name="regionData" ifCycle="true" Count="bm0_15" remark="地块归属信息" >
+		<bm id="bm6_1" size="8" name="political" remark="核心地块" type="Integer" function="no" defaul="0"/>
+	</bm6>
+	<bm7 id="bm7" name="blockData" ifCycle="true" Count="bm0_16" remark="海陆信息">
+		<bm id="bm7_1" size="8" name="blockType" remark="地块类型" type="Integer" function="no" defaul="0"/>
+	</bm7>
+	<bm8 id="bm8" name="coastData" ifCycle="true" Count="bm0_17" remark="核心信息">
+		<bm id="bm8_1" size="8" name="coastId" remark="核心地块" type="Integer" function="no" defaul="0"/>
+	</bm8>
+	<bm9 id="bm	9" name="generalData" ifCycle="true" Count="bm0_18" remark="将军数据" ><!--区域的属性设置-->
+		<bm id="bm9_1" name="generalIndex" size="4" remark="将军序列" defaul="0" type="Short" function="no"/>
+		<bm id="bm9_2" name="idIndex" size="8" remark="地块坐标" defaul="0" type="Integer" function="no"/>
+		<bm id="bm9_3" name="generalImageName" size="4" remark="将军id" defaul="0" type="Short" function="no"/>
+		<bm id="bm9_4" name="rank" size="2" remark="军衔" defaul="0" type="Byte" function="no"/>
+		<bm id="bm9_5" name="buildPolicy" size="4" remark="军团id" defaul="0" type="Short" function="no"/>
+		<bm id="bm9_6" name="star" size="4" remark="杀敌数" defaul="0" type="Short" function="no"/>
+		<bm id="bm9_7" name="type" size="2" remark="好感度" defaul="0" type="Byte" function="no"/>
+		<bm id="bm9_8" name="state" size="2" remark="状态" defaul="0" type="Byte" function="no"/>
+		<bm id="bm9_9" name="restLife" size="2" remark="剩余寿命" defaul="0" type="Byte" function="no"/><!--倒计时-->
+	</bm9>
+	<bm10 id="bm10" name="connectData" ifCycle="true" Count="bm0_19" remark="地块连接信息">
+		<bm id="bm10_1" size="4" name="regionMainIndex" remark="主地区id" type="Short" function="no" defaul="1"/>
+		<bm id="bm10_2" size="4" name="regionConnectCount" remark="地块连接数" type="Short" function="no" defaul="0"/>
+		<bm id="bm10_3" size="4" name="regionMinorIndex1" remark="副地区id1" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_4" size="4" name="regionMinorIndex2" remark="副地区id2" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_5" size="4" name="regionMinorIndex3" remark="副地区id3" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_6" size="4" name="regionMinorIndex4" remark="副地区id4" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_7" size="4" name="regionMinorIndex5" remark="副地区id5" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_8" size="4" name="regionMinorIndex6" remark="副地区id6" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_9" size="4" name="regionMinorIndex7" remark="副地区id7" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_10" size="4" name="regionMinorIndex8" remark="副地区id8" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_11" size="4" name="regionMinorIndex9" remark="副地区id9" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_12" size="4" name="regionMinorIndex10" remark="副地区id10" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_13" size="4" name="regionMinorIndex11" remark="副地区id11" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_14" size="4" name="regionMinorIndex12" remark="副地区id12" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_15" size="4" name="regionMinorIndex13" remark="副地区id13" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_16" size="4" name="regionMinorIndex14" remark="副地区id14" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_17" size="4" name="regionMinorIndex15" remark="副地区id15" type="Short" function="no" defaul="-1"/>
+		<bm id="bm10_18" size="4" name="regionMinorIndex16" remark="副地区id16" type="Short" function="no" defaul="-1"/>
+	</bm10>
+
+</Files>

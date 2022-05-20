@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reports>
+	<report id="0" name="邻国好感度危机" reportCounts="11" measureIds="0" measureCounts="13" measures="挑衅"/>
+	<report id="1" name="敌人核心领土处于交战状态" reportCounts="12" measureIds="2" measureCounts="32"  measures="进攻"/>
+	<report id="2" name="敌人主要领土处于交战状态" reportCounts="6" measureIds="2" measureCounts="32" measures="进攻"/>
+	<report id="3" name="占有敌人的主要领土且其处于交战状态" reportCounts="7" measureIds="3" measureCounts="25" measures="防御"/>
+	<report id="4" name="占有敌人的核心领土且其处于交战状态" reportCounts="10" measureIds="3" measureCounts="25" measures="防御"/>
+	<report id="5" name="自己的主要领土被敌军占有:" reportCounts="8" measureIds="2" measureCounts="32" measures="进攻"/>
+	<report id="6" name="自己的核心领土被敌军占有:" reportCounts="8" measureIds="2,5" measureCounts="32,11" measures="进攻,消灭入侵者"/>
+	<report id="7" name="敌人的首都处于交战状态:" reportCounts="19" measureIds="1,2" measureCounts="15,32" measures="奇袭,进攻"/>
+	<report id="8" name="自己的首都处于交战状态:" reportCounts="10" measureIds="3,5" measureCounts="25,11" measures="防御,消灭入侵者"/>
+	<report id="9" name="自己主要领土处于交战状态:" reportCounts="8" measureIds="3,5" measureCounts="25,11" measures="防御,消灭入侵者"/>
+	<report id="10" name="自己核心领土处于交战状态:" reportCounts="10" measureIds="3,5" measureCounts="25,11" measures="防御,消灭入侵者"/>
+	<report id="11" name="友军主要领土处于交战状态:" reportCounts="8" measureIds="2" measureCounts="32" measures="进攻"/>
+	<report id="12" name="友军核心领土处于交战状态:" reportCounts="10" measureIds="2" measureCounts="32" measures="进攻"/>
+	<report id="13" name="敌人的将领处于我们的领土:消灭敌人主要将领 " reportCounts="10" measureIds="4" measureCounts="10" measures="消灭敌人主要将领"/>
+</reports>

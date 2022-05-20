@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<scripts> 
+   <script id="0" trigger="default" triggerValue="-1" remark="" triggerLegionIndex="57" triggerRound="0"> 
+  
+   
+   <cmds  remark="通过点击下一步按钮,来切换id"  ifBreak="true"> > 
+	 <!-- <cmd action="saveStagePreview" remark=""/>-->
+		
+		<cmd action="disableOperation" remark="禁止操作"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="0" remark="指挥官阁下,接下来由我来介绍游戏在军团模式下的相关功能,在此过程中,你可以点击对话框右下的按钮来进行或终止教程"/>
+		<cmd action="showScriptButton" remark="显示脚本按钮"/>
+		<cmd action="brightenScriptButton" remark="高亮脚本按钮"/>
+		<cmd action="resetAllState" remark="重置状态"/>
+	</cmds>
+	
+	<cmds  remark="" > 
+	<cmd action="camChange" hexagon="16365" moveSecond="1" targetZoom="0.9" zoomstate="1" zoomMin="0.6" zoomMax="0.9" remark="设置位置"/>
+	
+		<cmd action="restoreScriptButton" remark="关闭高亮按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="1"  remark="军团模式可以看作征服模式的简化,但又有一些不同,这里只着重介绍改变的功能"/>
+	</cmds>
+	<cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="2"  remark="军团模式下没有外交功能,但如果攻击中立势力,将会使其敌对,如果你的任务目标是消灭敌方,那么贸然的进攻将可能导致任务失败"/>
+	</cmds>
+	<cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="3"  remark="军团模式下资源不再有存储上限,军团的金融,外贸等级将只能提供一定比例税率加成"/>
+	</cmds>
+	<cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="4"  remark="军团模式下可以通过提升奇观来增加游戏结算回合"/>
+	</cmds>
+	<cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="5"  remark="军团模式下需要完成指定任务才可以胜利"/>
+		<cmd action="brightenButton" groupId="0" targetId="17"  remark="高亮任务按钮"/>
+	</cmds>
+	
+	<cmds  remark="" > 
+		<cmd action="restoreButton" groupId="0" targetId="17"  remark="关闭高亮的任务按钮"/>
+		<cmd action="clickButton" groupId="0" buttonId="17"  remark="点击任务按钮"/>
+	    <cmd action="hidDialogue" />
+	</cmds>
+	
+	
+	
+	<cmds  remark="" > 
+	    <cmd action="clickButton" groupId="2" buttonId="0"  remark="点击关闭按钮"/>
+	</cmds>
+	
+	<cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="6"  remark="指挥官阁下,以上为游戏在军团模式下玩法介绍,你也可以通过作者在b站的专栏对游戏有更好的了解,作者b站账号:黑星的鱼"/>
+	</cmds>
+	
+	
+	
+	<cmds remark="">  
+	  <cmd action="exitGame" remark="退出游戏"/>
+	</cmds>
+  </script> 
+</scripts>

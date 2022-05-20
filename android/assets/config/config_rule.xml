@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rules>
+	<rule id="0" name="Fb2Map" type="0" path="rule/rule_fb2_map.xml" />
+	<rule id="1" name="Fb2Smap" type="0" path="rule/rule_fb2_smap.xml" />
+	<rule id="2" name="Fb2History" type="0" path="rule/rule_fb2_history.xml" />
+</rules>
+
+

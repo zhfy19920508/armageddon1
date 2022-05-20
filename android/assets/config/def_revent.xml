@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<revents>
+	<revent id="0" name="国际援助"  content="1" args="0" minV="0" maxV="0" randomChance="30" playerChance="30" remark=""/>
+	
+	<revent id="1" name="科技突破"  content="1" args="0" minV="0" maxV="0" randomChance="10" playerChance="5" remark=""/>
+	
+	<revent id="2" name="经济危机"  content="1" args="0" minV="10" maxV="30" randomChance="10" playerChance="5" remark=""/>
+	
+	<revent id="3" name="天灾"  content="1" args="-10,-80" minV="0" maxV="0" randomChance="10" playerChance="10" remark=""/>
+	
+	<revent id="4" name="瘟疫"  content="1" args="0" minV="0" maxV="0" randomChance="5" playerChance="15" remark=""/>
+	
+	
+	<revent id="5" name="外交恶化"  content="1" args="0" minV="0" maxV="0" randomChance="0" playerChance="2" remark=""/>
+	
+	<revent id="6" name="叛军"  content="1" args="0" minV="0" maxV="0" randomChance="5" playerChance="5" remark=""/>
+	
+	
+	<revent id="7" name="丰收"  content="1" args="0" minV="1" maxV="30" randomChance="10" playerChance="5" remark=""/>
+	
+</revents>

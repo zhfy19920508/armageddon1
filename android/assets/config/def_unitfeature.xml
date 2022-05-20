@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<unitFeatures>
+	<unitFeature id="1" name="弹头携带" reqCardId="0" reqCardLv="0" reqAge="0" useMode="-1" baseEffect="0" updEffect="0" remark="该单位可以携带弹头"/>
+	<unitFeature id="2" name="空军携带" reqCardId="3011" reqCardLv="5" reqAge="1" useMode="-1" baseEffect="0" updEffect="0" remark="该单位可以携带空军"/>
+	<unitFeature id="3" name="军队运输" reqCardId="0" reqCardLv="0" reqAge="0" useMode="-1" baseEffect="0" updEffect="0" remark="处于该单位射程的部分种类军队可以被运输"/>
+	<unitFeature id="4" name="工事建造" reqCardId="3020" reqCardLv="1" reqAge="0" useMode="0,1" baseEffect="0" updEffect="0" remark="该单位可以建造工事"/>
+	<unitFeature id="5" name="制导武器" reqCardId="0" reqCardLv="0" reqAge="0" useMode="-1" baseEffect="0" updEffect="0" remark="该单位可以进行远程打击"/>
+	<unitFeature id="6" name="致命武器" reqCardId="0" reqCardLv="0" reqAge="0" useMode="-1" baseEffect="0" updEffect="0" remark="该单位极度危险,可能造成致命伤害"/>
+	<unitFeature id="7" name="冲击" reqCardId="3021" reqCardLv="3" reqAge="1" useMode="0,1" baseEffect="15" updEffect="5" remark="消灭目标位置的敌军后有{0}%几率移动到目标位置,并使周围敌军士气下降"/>
+	<unitFeature id="8" name="火力" reqCardId="3022" reqCardLv="4" reqAge="0" useMode="-1" baseEffect="10" updEffect="5" remark="有{0}%不会受到反击"/>
+	<unitFeature id="9" name="威慑" reqCardId="3023" reqCardLv="6" reqAge="0" useMode="0,1" baseEffect="20" updEffect="5" remark="使建筑血量为0时,有{0}%几率可以直接占领"/>
+	<unitFeature id="10" name="布雷" reqCardId="3027" reqCardLv="3" reqAge="1" useMode="0,1" baseEffect="5" updEffect="5" remark="未行动时,{0}%几率在所在位置部署地雷"/>
+	<unitFeature id="11" name="驻体" reqCardId="3028" reqCardLv="4" reqAge="0" useMode="-1" baseEffect="10" updEffect="5" remark="结算防御减免时,额外增加{0}%几率使受到的伤害减半"/>
+	<unitFeature id="12" name="扫雷" reqCardId="3020" reqCardLv="3" reqAge="1" useMode="0,1" baseEffect="35" updEffect="10" remark="减免受到的{0}%陷阱伤害"/>
+	<unitFeature id="13" name="连击" reqCardId="3021" reqCardLv="4" reqAge="1" useMode="0,1" baseEffect="20" updEffect="5" remark="消灭敌军后有{0}%几率重置进攻状态"/>
+	<unitFeature id="14" name="机动" reqCardId="3005" reqCardLv="4" reqAge="1" useMode="0,1" baseEffect="10" updEffect="5" remark="消灭敌军后有{0}%几率重置移动状态"/>
+	<unitFeature id="15" name="游击" reqCardId="3027" reqCardLv="6" reqAge="0" useMode="0,1" baseEffect="0" updEffect="0" remark="可以先进攻再移动"/>
+	<unitFeature id="16" name="碾压" reqCardId="3021" reqCardLv="5" reqAge="1" useMode="0,1" baseEffect="5" updEffect="5" remark="当单位的血量大于等于目标且目标为非将领单位且无掩体时且可通行时,有{0}%几率直接消灭并移动到目标位置恐惧周围敌军"/>
+	<unitFeature id="17" name="下潜" reqCardId="0" reqCardLv="0" reqAge="0" useMode="-1" baseEffect="0" updEffect="0" remark="在不占领建筑或设施的情况下无法成为陆地单位的目标,也无法向陆地的单位发起进攻"/>
+	<unitFeature id="18" name="声呐" reqCardId="3023" reqCardLv="3" reqAge="1" useMode="-1" baseEffect="15" updEffect="5" remark="进攻拥有下潜特性的单位时,伤害额外增加{0}%"/>
+	<unitFeature id="19" name="防空" reqCardId="3014" reqCardLv="5" reqAge="1" useMode="-1" baseEffect="10" updEffect="10" remark="有{0}%几率减免受到的空袭伤害,同时增加额外的对敌方空军的反击伤害"/>
+	<unitFeature id="20" name="警戒" reqCardId="3013" reqCardLv="3" reqAge="0" useMode="0,1" baseEffect="0.5" updEffect="0.5" remark="如果没有行动过,增加额外的视野{0}"/>
+	<unitFeature id="21" name="蓄力" reqCardId="3022" reqCardLv="6" reqAge="2" useMode="-1" baseEffect="10" updEffect="5" remark="如果没有移动过,则攻击暴击率增加{0}"/>
+	<unitFeature id="22" name="弹道" reqCardId="3026" reqCardLv="6" reqAge="2" useMode="-1" baseEffect="1" updEffect="0.5" remark="如果没有移动过,则最大射程增加{0}"/>
+	<unitFeature id="23" name="舰炮" reqCardId="3028" reqCardLv="3" reqAge="0" useMode="-1" baseEffect="15" updEffect="5" remark="进攻处于海洋的单位时暴击率增加{0}"/>
+	<unitFeature id="24" name="休整" reqCardId="3012" reqCardLv="3" reqAge="0" useMode="-1" baseEffect="8" updEffect="6" remark="在己方区域休整时恢复效率增加{0}%"/>
+	<unitFeature id="25" name="反击" reqCardId="3009" reqCardLv="6" reqAge="0" useMode="-1" baseEffect="20" updEffect="5" remark="在敌人的回合反击时造成额外{0}%伤害"/>
+	<unitFeature id="26" name="防患" reqCardId="0" reqCardLv="0" reqAge="0" useMode="-1" baseEffect="0" updEffect="0" remark="不会受到区域天气的负面影响"/>
+	<unitFeature id="27" name="识途" reqCardId="0" reqCardLv="0" reqAge="0" useMode="-1" baseEffect="0" updEffect="0" remark="不会受到地形造成的负面影响"/>
+	<unitFeature id="28" name="空战" reqCardId="0" reqCardLv="0" reqAge="0" useMode="-1" baseEffect="0" updEffect="0" remark="该单位可以参与空战,在其射程内时也可以被召唤进行护航"/>
+	<unitFeature id="29" name="轰炸" reqCardId="0" reqCardLv="0" reqAge="0" useMode="-1" baseEffect="0" updEffect="0" remark="该单位可以对地面单位造成伤害"/>
+	<unitFeature id="30" name="侦查" reqCardId="3011" reqCardLv="3" reqAge="0" useMode="0,1" baseEffect="0" updEffect="0" remark="所处区域根据机场等级获得少量额外的视野,该单位可以侦查敌军,并使其士气下降"/>
+	<unitFeature id="31" name="预警" reqCardId="3011" reqCardLv="8" reqAge="2" useMode="0,1" baseEffect="0" updEffect="0" remark="所处区域根据机场等级获得额外视野,所处该区域的陆地单位均可以反击来袭的敌方空军"/>
+	<unitFeature id="32" name="干扰" reqCardId="3024" reqCardLv="8" reqAge="2" useMode="0,1" baseEffect="10" updEffect="10" remark="{0}%几率使目标区域内的敌方部队行动回合+1"/>
+	<unitFeature id="33" name="重整" reqCardId="0" reqCardLv="0" reqAge="0" useMode="0,1" baseEffect="0" updEffect="0" remark="可以与任意陆地单位合并恢复其状态"/>
+	<unitFeature id="34" name="破城" reqCardId="3020" reqCardLv="5" reqAge="1" useMode="-1" baseEffect="30" updEffect="10" remark="对建筑和工事造成额外伤害"/>
+</unitFeatures>

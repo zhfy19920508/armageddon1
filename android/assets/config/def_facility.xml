@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<facilitys>
+	<facility id="1" name="港口" type="1" level="1" image="city_port" />
+</facilitys>

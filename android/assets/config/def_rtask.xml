@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rrtasks>
+	<rtask id="0" name="厉兵秣马" age="0" type="0" baseLv="3" maxLv="10" lvValue="2" round="8" starProgress="10" star="2" bountyRate="10" addBountyRateForLv="2" remark="0=升级武器,或进行合编{0}/{1},回合{2}"/>
+	<rtask id="1" name="招兵买马" age="0" type="0" baseLv="3" maxLv="10" lvValue="2" round="8" starProgress="5" star="1" bountyRate="5" addBountyRateForLv="1" remark="1=招募单位{0}/{1},回合{2}"/>
+	<rtask id="2" name="拜将封侯" age="0" type="0" baseLv="1" maxLv="5" lvValue="2" round="15" starProgress="10" star="3" bountyRate="15" addBountyRateForLv="3" remark="2=单位进阶至将领{0}/{1},回合{2}"/>
+	<rtask id="3" name="战无不胜" age="0" type="2" baseLv="5" maxLv="10" lvValue="2" round="4" starProgress="0" star="2" bountyRate="10" addBountyRateForLv="2" remark="3=将军单位击杀敌军{0}/{1},回合{2}"/>
+	<rtask id="4" name="运筹帷幄" age="0" type="1" baseLv="3" maxLv="12" lvValue="2" round="6" starProgress="0" star="1" bountyRate="5" addBountyRateForLv="1" remark="4=地区升级{0}/{1},回合{2}"/>
+	<rtask id="5" name="开疆扩土" age="0" type="2" baseLv="3" maxLv="12" lvValue="2" round="6" starProgress="10" star="2" bountyRate="10" addBountyRateForLv="2" remark="5=获得新的领土{0}/{1},回合{2}"/>
+	<rtask id="6" name="钢铁命令" age="0" type="0" baseLv="3" maxLv="12" lvValue="2" round="4" starProgress="0" star="2" bountyRate="10" addBountyRateForLv="2" remark="6=消灭敌方单位{0}/{1},回合{2}"/>
+	<rtask id="7" name="血战到底" age="0" type="0" baseLv="3" maxLv="12" lvValue="2" round="4" starProgress="0" star="1" bountyRate="5" addBountyRateForLv="1" remark="7=我方单位阵亡{0}/{1},回合{2}"/>
+	<rtask id="8" name="壮士暮年" age="0" type="0" baseLv="1" maxLv="5" lvValue="2" round="20" starProgress="20" star="3" bountyRate="30" addBountyRateForLv="5" remark="8=将军替换{0}/{1},回合{2}"/>
+	<rtask id="9" name="拉帮结派" age="0" type="1" baseLv="1" maxLv="5" lvValue="2" round="8" starProgress="20" star="4" bountyRate="20" addBountyRateForLv="4" remark="9=结盟新的势力{0}/{1},回合{2}"/>
+	<rtask id="10" name="狭路相逢" age="0" type="2" baseLv="3" maxLv="8" lvValue="2" round="8" starProgress="0" star="2" bountyRate="10" addBountyRateForLv="2" remark="10=以残血消灭敌方单位{0}/{1},回合{2}"/>
+	<rtask id="11" name="贸易大师" age="0" type="1" baseLv="3" maxLv="10" lvValue="2" round="8" starProgress="30" star="3" bountyRate="15" addBountyRateForLv="3" remark="11=进行数次成功的贸易{0}/{1},回合{2}"/>
+	<rtask id="12" name="叹为观止" age="0" type="1" baseLv="1" maxLv="5" lvValue="2" round="8" starProgress="0" star="5" bountyRate="25" addBountyRateForLv="5" remark="12=升级或刷新军团特性{0}/{1},回合{2}"/>
+	<rtask id="13" name="劳民伤财" age="0" type="2" baseLv="3" maxLv="10" lvValue="6" round="8" starProgress="0" star="5" bountyRate="25" addBountyRateForLv="6" remark="13=获得多余的科技研发回合{0}/{1},回合{2}"/>
+	<rtask id="14" name="孤注一掷" age="0" type="2" baseLv="1" maxLv="4" lvValue="2" round="8" starProgress="0" star="3" bountyRate="15" addBountyRateForLv="3" remark="14=使资源的多项小于收入的10% {0}/{1},回合{2}"/>
+	<rtask id="15" name="全力以赴" age="0" type="1" baseLv="3" maxLv="12" lvValue="2" round="4" starProgress="0" star="2" bountyRate="10" addBountyRateForLv="2" remark="15=提升数个单位士气高昂{0}/{1},回合{2}"/>
+	<rtask id="16" name="知彼知己" age="0" type="1" baseLv="3" maxLv="12" lvValue="3" round="4" starProgress="0" star="2" bountyRate="10" addBountyRateForLv="2" remark="16=侦探到数个敌军{0}/{1},回合{2}"/>
+	<rtask id="17" name="兵者诡道" age="0" type="2" baseLv="3" maxLv="8" lvValue="2" round="6" starProgress="0" star="1" bountyRate="5" addBountyRateForLv="1" remark="17=消灭敌方士气低落单位{0}/{1},回合{2}"/>
+	<rtask id="18" name="上兵伐谋" age="1" type="1" baseLv="3" maxLv="12" lvValue="2" round="6" starProgress="0" star="2" bountyRate="10" addBountyRateForLv="2" remark="18=通过空军,消灭敌方单位{0}/{1},回合{2}"/>
+	<rtask id="19" name="攻心为上" age="0" type="1" baseLv="1" maxLv="5" lvValue="2" round="6" starProgress="0" star="4" bountyRate="20" addBountyRateForLv="4" remark="19=对敌国使用数次外交卡{0}/{1},回合{2}"/>
+	<rtask id="20" name="以逸待劳" age="0" type="1" baseLv="15" maxLv="20" lvValue="3" round="6" starProgress="0" star="2" bountyRate="10" addBountyRateForLv="2" remark="20=将数个单位回复至满血{0}/{1},回合{2}"/>
+	<rtask id="21" name="兵贵神速" age="0" type="2" baseLv="3" maxLv="8" lvValue="2" round="2" starProgress="0" star="4" bountyRate="20" addBountyRateForLv="4" remark="21=占领数个区域{0}/{1},回合{2}"/>
+	<rtask id="22" name="决胜千里" age="2" type="2" baseLv="3" maxLv="8" lvValue="2" round="2" starProgress="0" star="3" bountyRate="15" addBountyRateForLv="4" remark="22=使用飞弹消灭数个单位{0}/{1},回合{2}"/>
+	<rtask id="23" name="恃强凌弱" age="0" type="2" baseLv="5" maxLv="10" lvValue="2" round="6" starProgress="0" star="2" bountyRate="10" addBountyRateForLv="2" remark="23=单位武器等级高于被击杀敌方{0}/{1},回合{2}"/>
+	<rtask id="24" name="乐善好施" age="0" type="1" baseLv="1" maxLv="5" lvValue="2" round="6" starProgress="0" star="5" bountyRate="25" addBountyRateForLv="5" remark="24=对友军使用数次援助{0}/{1},回合{2}"/>
+	<rtask id="25" name="鸟尽弓藏" age="0" type="1" baseLv="3" maxLv="14" lvValue="5" round="2" starProgress="0" star="2" bountyRate="10" addBountyRateForLv="3" remark="25=解散数个满血单位{0}/{1},回合{2}"/>
+	<rtask id="26" name="马革裹尸" age="0" type="2" baseLv="3" maxLv="14" lvValue="5" round="2" starProgress="0" star="2" bountyRate="10" addBountyRateForLv="3" remark="26=主动阵亡数个单位{0}/{1},回合{2}"/>
+	<rtask id="27" name="纸上谈兵" age="0" type="1" baseLv="3" maxLv="8" lvValue="2" round="6" starProgress="0" star="3" bountyRate="15" addBountyRateForLv="3" remark="27=对友军使用数次外交卡{0}/{1},回合{2}"/>
+	<rtask id="28" name="万邦来朝" age="0" type="1" baseLv="3" maxLv="8" lvValue="2" round="6" starProgress="0" star="3" bountyRate="30" addBountyRateForLv="2" remark="28=拥有一定数量的友好势力{0}/{1},回合{2}"/>
+	<rtask id="29" name="打草惊蛇" age="0" type="2" baseLv="3" maxLv="8" lvValue="2" round="6" starProgress="0" star="3" bountyRate="15" addBountyRateForLv="3" remark="29=数次触发敌军的重视{0}/{1},回合{2}"/>
+	<rtask id="30" name="破釜沉舟" age="0" type="2" baseLv="3" maxLv="8" lvValue="2" round="6" starProgress="0" star="2" bountyRate="10" addBountyRateForLv="2" remark="30=进行数次失败的贸易{0}/{1},回合{2}"/>
+	<rtask id="31" name="趁胜追击" age="0" type="2" baseLv="3" maxLv="8" lvValue="2" round="6" starProgress="0" star="2" bountyRate="10" addBountyRateForLv="2" remark="31=提升数个单位士气至高昂{0}/{1},回合{2}"/>
+	<rtask id="32" name="赤地千里" age="1" type="2" baseLv="3" maxLv="8" lvValue="2" round="2" starProgress="50" star="4" bountyRate="20" addBountyRateForLv="4" remark="32=使用数次超武{0}/{1},回合{2}"/>
+	<rtask id="33" name="予取予求" age="0" type="1" baseLv="1" maxLv="5" lvValue="2" round="6" starProgress="0" star="5" bountyRate="15" addBountyRateForLv="5" remark="33=对友军使用数次求援{0}/{1},回合{2}"/>
+</rrtasks>

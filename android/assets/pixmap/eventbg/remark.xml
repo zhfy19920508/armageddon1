@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<eventimgs>
+
+	<eventimg id="0" name="印度民族大起义" img="event_0"/>1
+    <eventimg id="1" name="克里米亚战争" img="event_1"/>1
+	<eventimg id="2" name="英法战争" img="event_2"/>
+	<eventimg id="3" name="克里米亚战争2" img="event_3"/>
+	<eventimg id="4" name="一战英国军" img="event_4"/>
+	<eventimg id="5" name="英国军队庆祝" img="event_5"/>
+	<eventimg id="6" name="英锡战争" img="event_6"/>
+	
+</eventimgs>

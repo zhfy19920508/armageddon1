@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<goods>
+	<goods id="1000" name="每日免费勋章包" type="1" image="city_port" priceType="0" price="12" remark="21"/>
+	<goods id="1001" name="外交方针卡牌包" type="1" image="city_port" priceType="0" price="5" remark="21"/>
+	<goods id="1002" name="军团特性升级包" type="1" image="city_port" priceType="0" price="5" remark="21"/>
+	<goods id="1003" name="征服路线直通包" type="1" image="city_port" priceType="0" price="2" remark="21"/>
+	<goods id="2000" name="功能vip" type="2" image="city_port" priceType="0" price="10" remark="21"/>
+	<goods id="2001" name="地图vip" type="2" image="city_port" priceType="0" price="10" remark="21"/>
+	<goods id="3000" name="近代-英国剧情包" type="3" image="city_port" priceType="0" price="50" remark="1"/>
+	<goods id="3001" name="近代-美国剧情包" type="3" image="city_port" priceType="0" price="50" remark="21"/>
+	<goods id="3002" name="近代-大清剧情包" type="3" image="city_port" priceType="0" price="12" remark="21"/>
+	
+	
+	<goods id="4000" name="勋章购买" type="2" image="city_port" priceType="1" price="10" remark="21"/>
+	<goods id="4001" name="勋章购买" type="2" image="city_port" priceType="1" price="10" remark="21"/>
+	<goods id="4002" name="勋章购买" type="2" image="city_port" priceType="1" price="10" remark="21"/>
+	<goods id="4003" name="勋章购买" type="2" image="city_port" priceType="1" price="10" remark="21"/>
+</goods>

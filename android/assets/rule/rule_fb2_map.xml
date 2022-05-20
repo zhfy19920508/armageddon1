@@ -1,0 +1,37 @@
+<Files  game="gg1" fileType="bin" ifET="false">
+	<bm0 id="bm0" name="masterData" ifCycle="false" Count="one" remark="主数据 128" >
+		<bm id="bm0_1" size="4" name="mapVersion" remark="版本" type="Short" function="no" defaul="1"/>
+		<bm id="bm0_2" size="4" name="mapWidth" remark="w" type="Short" function="mapW" defaul="!"/>
+		<bm id="bm0_3" size="4" name="mapHeight" remark="h" type="Short" function="mapH" defaul="!"/>
+		<bm id="bm0_4" size="8" name="regionCount" remark="区域总数" defaul="0" type="Integer" function="no" />
+		
+	</bm0>
+	<bm1 id="bm1" name="hexagonData" ifCycle="true" Count="sumGride" remark="地形" >
+		<bm id="bm1_1" size="2" name="blockType" remark="terrainimg的type " type="Byte" function="no" defaul="300"/>
+		<bm id="bm1_2" size="2" name="backTile" remark="底层地形" type="Byte" function="no" defaul="100"/>
+		<bm id="bm1_3" size="2" name="backIdx" remark="图像编号" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_4" size="2" name="backRefX" remark="偏移横" type="Byte" function="no" defaul="1"/>
+		<bm id="bm1_5" size="2" name="backRefY" remark="偏移纵" type="Byte" function="no" defaul="2"/>
+		<bm id="bm1_6" size="2" name="foreTile" remark="面层地形" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_7" size="2" name="foreIdx" remark="图像编号" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_8" size="2" name="foreRefX" remark="底层偏移x" type="Byte" function="no" defaul="1.0"/>
+		<bm id="bm1_9" size="2" name="foreRefY" remark="底层偏移y" type="Byte" function="no" defaul="0.0"/>
+		<bm id="bm1_10" size="2" name="presetRailway" remark="预置铁路信息 地图文件中仅有预置信息" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_11" size="2" name="ifCoast" remark="是否是海岸" type="Byte" function="no" defaul="0" />  
+		<bm id="bm1_12" size="8" name="regionId" remark="核心地块" type="Integer" function="no" defaul="0"/>
+	</bm1>
+	
+	
+	<bm1 id="bm2" name="regionData" ifCycle="true" Count="bm0_4" remark="地形" >
+		<bm id="bm2_1" size="8" name="region" remark="核心地块" type="Integer" function="no" defaul="0"/>
+		<bm id="bm2_2" size="2" name="climateZone" remark="气候区域" type="Byte" function="no" defaul="0"/>
+		<bm id="bm2_3" size="2" name="depLv" remark="发展潜力" type="Byte" function="no" defaul="0"/>
+		<bm id="bm2_4" size="2" name="mineralLv" remark="矿产" type="Byte" function="no" defaul="0"/>
+		<bm id="bm2_5" size="2" name="foodLv" remark="食物等级 0~15" type="Byte" function="no" defaul="0"/>
+		<bm id="bm2_6" size="2" name="oilLv" remark="石油" type="Byte" function="no" defaul="0"/>
+		<bm id="bm2_7" size="4" name="areaId" remark="区域名称" type="Short" function="no" defaul="0"/>
+		<bm id="bm2_8" size="4" name="strategicRegion" remark="战略地区" type="Short" function="no" defaul="0"/>
+	</bm1>
+	
+	
+</Files>

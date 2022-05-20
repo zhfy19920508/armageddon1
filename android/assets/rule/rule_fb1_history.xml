@@ -1,0 +1,21 @@
+<Files  game="fb1" fileType="bin" ifET="false">
+	<bm0 id="bm0" name="masterData" ifCycle="false" Count="one" remark="主数据 128" >
+		<bm id="bm0_1" size="4" name="Version" remark="版本" type="Short" function="no" defaul="1"/>
+		<bm id="bm0_2" size="4" name="mapId" remark="使用的地图文件" type="Short" function="no" defaul="1"/>
+		<bm id="bm0_3" size="8" name="yearBegin" remark="开始年份" type="Integer" function="no" defaul="1840"/>
+		<bm id="bm0_4" size="8" name="regionCount" remark="地区总数" type="Integer" function="no" defaul="1"/>
+		<bm id="bm0_5" size="8" name="yearCount" remark="记录年条数" type="Integer" function="no" defaul="0"/>
+		<bm id="bm0_6" size="8" name="hisCount" remark="总记录条数" type="Integer" function="no" defaul="0"/>
+	</bm0>
+	<bm1 id="bm1" name="historyData" ifCycle="true" Count="bm0_6" remark="历史条数" >
+		<bm id="bm1_1" size="8" name="historyIndex" remark="历史序列" type="Integer" function="no" defaul="0"/>
+		<bm id="bm1_2" size="4" name="year" remark="年份" type="Short" function="no" defaul="1840"/>
+		<bm id="bm1_3" size="4" name="regionIndex" remark="地区id" type="Short" function="no" defaul="1"/>
+		<bm id="bm1_4" size="4" name="nowCountryIndex" remark="当前年份归属国家" type="Short" function="no" defaul="0"/><!--暂时无用-->
+		<bm id="bm1_5" size="4" name="lastCountryIndex" remark="战斗后的归属国家" type="Short" function="no" defaul="0"/><!--0默认说明之前就有-->
+		<bm id="bm1_6" size="2" name="getType" remark="获得方式" type="Byte" function="no" defaul="0"/>	<!-- 0本土 1扩张 2协议(非战争形式获得)-->
+		<bm id="bm1_7" size="8" name="battleId" remark="对战国家" type="Integer" function="no" defaul="0"/><!--0-999为国家,1000以后为事件-->
+	</bm1>
+
+
+</Files>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<scripts> 
+  <script id="0" trigger="default" triggerValue="-1" triggerLegionIndex="7" triggerRound="0" remark="" > 
+  
+   
+    <cmds  remark="通过点击下一步按钮,来切换id"  ifBreak="true"> > 
+	 <!-- <cmd action="saveStagePreview" remark="" />-->
+		
+		<cmd action="disableOperation" remark="禁止操作"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="0" remark="介绍"/>
+		<cmd action="showScriptButton" remark="显示脚本按钮"/>
+		<cmd action="brightenScriptButton" remark="高亮脚本按钮"/>
+		<cmd action="resetAllState" remark="重置状态"/>
+		  <cmd action="setLegionData" legionIndex="7" round="0" infantrycardmax="1" generalcardmax="3" remark="高亮按钮"/>
+	</cmds>
+	<!---->
+	<cmds  remark="游戏左上角分别是指挥官当前的金钱,工业,科技,原料,这些是我们进行战斗的必要资源" > 
+	<cmd action="camChange" hexagon="20282" moveSecond="1" targetZoom="0.9" zoomstate="1" zoomMin="0.9" zoomMax="0.9" remark="设置位置"/>
+	
+		<cmd action="restoreScriptButton" remark="关闭高亮按钮"/>
+		<cmd action="brightenImage" groupId="0" targetId="0"  remark="高亮按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="1"  remark="介绍资源"/>
+	
+	</cmds>
+	
+	<cmds  remark="部队在进攻时会消耗工业值,而在进入一战后,除步兵以外的单位在移动时都会消耗石油" > 
+	  <cmd action="restoreImage" groupId="0" targetId="0"  remark="关闭高亮按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="24"  remark="介绍资源"/>
+	
+	</cmds>
+	
+	
+	<cmds remark="部队下方的闪动白圈标示该部队可以行动,点击白色光圈的部队,将会出现目标标记和区域箭头 20282--19913  19913--19914"  > 
+	 
+	   <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="2" remark="" remark=""/>
+	   <cmd action="clickHexagon" hexagon="20282" remark="点击地块"/>
+	</cmds>
+	
+	
+	<cmds remark="部队移动到19913"  > 
+		 <cmd action="clickHexagon" hexagon="19913" remark="点击地块"/>
+	</cmds>
+	
+	<cmds remark="点击19913,部队移动"> 
+	 
+	   <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="3" remark="蓝色标记代表可移动区域,深蓝色标记代表可合并单位,红色标记代表可进攻单位,绿色标记代表的关键点,而在选中单位的时候移动或缩放镜头会取消当前的选中操作"/>
+	  <cmd action="resetDefaultState" remark="恢复状态"/>
+	 <cmd action="camChange" hexagon="20282" moveSecond="1" targetZoom="1.5"  zoomstate="1" zoomMin="0.6" zoomMax="0.9" remark="设置位置"/>   
+	</cmds>
+	
+	
+	<cmds remark="点击19913,部队移动"> 
+	  <cmd action="clickHexagon" hexagon="20282" remark="点击地块"/>
+	     <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="4" remark="在显示图标的情况下,点击附近区域,单位会主动向目标区域行动并将该区域设置为行动目标,在缩放地图时会显示指示箭头,在接下来的回合,如果不主动操作,该单位将会自动向目标区域行动"/>
+		  <cmd action="clickHexagon" hexagon="19914" remark="点击地块"/>
+	</cmds>
+	
+	<cmds remark=""> 
+	    <cmd action="camChange" hexagon="19914" moveSecond="1"  targetZoom="1.2"  zoomstate="2" zoomMin="1.2" zoomMax="1.5" remark="设置位置"/>
+	      <cmd action="clickHexagon" hexagon="19914" remark="点击地块"/>
+	 
+	</cmds>
+	
+	<cmds remark="点击19914">  
+	 <cmd action="clickHexagon" hexagon="20282" remark="点击地块"/>
+	 <cmd action="clickHexagon" hexagon="19914" remark="点击地块"/>
+	<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="5" remark="合并单位,可以恢复部队的状态和血量,陆军更是可以通过合并来组合成一个强势的联合部队"/>
+	</cmds>
+	
+	<cmds remark="点击19913,部队合并">  
+	
+	   <cmd action="clickHexagon" hexagon="19913" remark="点击地块"/>
+	</cmds>
+	
+	
+	<cmds remark="">  
+	
+	
+	 <cmd action="camMove" hexagon="18059" moveSecond="1" remark=""/>
+	 <cmd action="clickHexagon" hexagon="18059" remark="点击地块"/>
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="6" remark=""/>
+	 <cmd action="brightenButton" groupId="0" targetId="12"  remark="高亮按钮"/>
+	</cmds>
+	
+
+	<cmds remark="" >  
+	 <cmd action="restoreButton" groupId="0" targetId="12"  remark="关闭高亮按钮"/>
+	 <cmd action="hidDialogue"  remark=""/>
+	 <cmd action="hidScriptButton"  remark=""/>
+	 <cmd action="clickButton" groupId="0" buttonId="12"  remark="点击按钮"/>
+	 <cmd action="enableOperation" remark="开启操作"/>
+	</cmds>
+	<cmds remark="">  
+	    <cmd action="disableOperation" remark="禁止操作"/>
+		 <cmd action="hidUI"  remark=""/>
+		 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="7" remark=""/>
+	    <cmd action="showScriptButton" remark=""/>
+	</cmds>
+	<cmds remark="部队右边栏切换">  
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="8" remark=""/>
+	<cmd action="camMove" hexagon="21025" moveSecond="1" remark=""/>
+	 <cmd action="clickHexagon" hexagon="21025" remark="点击地块"/>
+	  <cmd action="brightenButton" groupId="0" targetId="2000"  remark="高亮按钮"/>
+	   
+	</cmds>
+	<cmds remark="">  
+	  <cmd action="restoreButton" groupId="0" targetId="2000"  remark="关闭高亮按钮"/>
+		<cmd action="brightenImage" groupId="0" targetId="2002"  remark="高亮hp"/>
+		<cmd action="brightenImage" groupId="0" targetId="2021"  remark="高亮物资"/>
+	   <cmd action="clickButton" groupId="0" buttonId="2000"  remark="点击按钮"/>
+	    <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="9" remark=""/>
+	</cmds>
+	<cmds remark="士气是部队能否发挥完整战斗力的重要属性之一,包围,击杀,修整,合编都可以提升部队的士气">  
+	    <cmd action="restoreImage" groupId="0" targetId="2002"  remark="关闭高亮hp"/>
+		 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="10" remark=""/>
+	</cmds>
+	
+	
+	<cmds remark="">  
+	  <cmd action="restoreImage" groupId="0" targetId="2021"  remark="关闭高亮物资"/>
+	     <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="11" remark="当有空余将领编制并且部队达到6级或合编到满编状态时,会自动升级为将领部队,将领部队拥有更强的属性和能力"/>
+	    
+	  <cmd action="createArmy" hexagon="19912" legionIndex="7" cardId="1202" ifMaxGroup="false" ifGeneral="false" remark="创建满编单位"/>
+	    <cmd action="resetUnityState" hexagon="19912" remark="重置单位状态,血量"/>
+	    <cmd action="addLegionTech" legionIndex="7" techId="3029"  remark="升级军团将领科技"/>
+	  <cmd action="camMove" hexagon="19912" moveSecond="1" remark=""/>
+	   <cmd action="clickHexagon" hexagon="19912" remark="点击地块"/>
+	</cmds>
+	
+	<cmds remark="">  
+	 <cmd action="clickHexagon" hexagon="19913" remark="点击地块"/>
+	 
+	  <cmd action="clearDialogues"  remark="清空对话"/>
+	</cmds>
+	
+	<cmds remark="">  
+	 <cmd action="clickHexagon" hexagon="19913" remark="点击地块"/>
+	 <cmd action="brightenButton" groupId="0" targetId="11"  remark="高亮按钮"/>
+	  <cmd action="clickButton" groupId="0" buttonId="11"  remark="点击按钮"/>
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="12" remark="选择单位,再点击单位详情,我们可以看到做个单位的详细信息,这里可以进行解散,配置特殊武器(需区域有特武),升级武器(需区域研发回合为0,且对应设施等级满足)等操作"/>
+	</cmds>
+	
+	
+	<cmds remark="">  
+	 <cmd action="hidDialogue"  remark=""/>
+	 <cmd action="hidScriptButton"  remark=""/>
+	 <cmd action="enableOperation" remark="开启操作"/>
+	</cmds>
+	
+	<cmds remark="">  
+	 <!--<cmd action="hidUI" remark="关闭界面"/>-->
+	  <cmd action="disableOperation" remark="禁止操作"/>
+	  <cmd action="showScriptButton" remark=""/>
+	 
+	 
+	   <cmd action="brightenButton" groupId="0" targetId="1"  remark="高亮按钮"/>
+	  <cmd action="restoreButton" groupId="0" targetId="11"  remark="关闭高亮按钮"/>
+	 
+	  <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="13" remark="区域升级建造设施的前提是解锁对应的科技,点击左下角我们进入军团的科技界面"/>
+	  <cmd action="setLegionData" legionIndex="7" round="0"  remark="高亮按钮"/>
+	  
+	   <cmd action="addLegionResource" legionIndex="7" money="1200" industry="550" food="840" tech="50"  remark="增加资源"/>
+	</cmds>
+		<cmds remark="">  
+	  <cmd action="clickButton" groupId="0" buttonId="1"  remark="点击按钮"/>
+	  
+	   <cmd action="restoreButton" groupId="0" targetId="1"  remark="关闭高亮按钮"/>
+	
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="14" remark="军团科技主要分为三类功能:解锁设施等级,提高单位招募数量,特殊类"/>
+	</cmds>
+	
+	<cmds remark="">  
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="15" remark="升级军团科技时,如果升级项与与军团科技等级最低项有较大差距时,会增加一定等级的研发回合"/>
+	
+	  
+	</cmds>
+	
+	<cmds remark="">  
+	 <cmd action="hidDialogue"  remark=""/>
+	  <cmd action="hidScriptButton"  remark=""/>
+	  <cmd action="enableOperation" remark="开启操作"/>
+	  <cmd action="clearDialogues"  remark="清空对话"/>
+	</cmds>
+	
+	
+	
+	<cmds remark=""> 
+	<cmd action="clickHexagon" hexagon="20652" remark="点击地块"/>
+	 <cmd action="camMove" hexagon="20652" moveSecond="1" remark=""/>
+	 <cmd action="brightenButton" groupId="0" targetId="1000"  remark="高亮按钮"/>
+	 <cmd action="clickButton" groupId="0" buttonId="1000"  remark="点击按钮"/>
+	
+	 <cmd action="showScriptButton"  remark=""/>
+	 <cmd action="disableOperation" remark="关闭操作"/>
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="16" remark="触摸单个区域,可以看到该地区的基础信息,点击旁边的天气标志,可以看到天气对战斗效率的影响"/>
+	 <cmd action="removeArmy" hexagon="20282" />
+	 
+	</cmds>
+	
+	
+	<cmds remark="">  
+	<cmd action="hidPromptText"  remark="关闭提示"/>
+	 <cmd action="restoreButton" groupId="0" targetId="1000"  remark="关闭高亮按钮"/>
+	
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="17" remark="点击我方区域,可以进行建造基础设施,建造军用设施,查看区域详情,招募兵种和设置方针五种操作"/>
+	 
+	  <cmd action="resetSelectBuildState" />
+	 
+	  <cmd action="brightenButton" groupId="0" targetId="3"  remark="高亮按钮 民用"/>
+	  <cmd action="brightenButton" groupId="0" targetId="4"  remark="高亮按钮 军用"/>
+	  <cmd action="brightenButton" groupId="0" targetId="11"  remark="高亮按钮 详情"/>
+	  <cmd action="brightenButton" groupId="0" targetId="5"  remark="高亮按钮 招募"/>
+	  <cmd action="brightenButton" groupId="0" targetId="6"  remark="高亮按钮 方针"/>
+	 
+	</cmds>
+	
+	<cmds remark="">  
+	
+	  <cmd action="restoreButton" groupId="0" targetId="3"  remark="高亮按钮 民用"/>
+	  <cmd action="restoreButton" groupId="0" targetId="4"  remark="高亮按钮 军用"/>
+	  <cmd action="restoreButton" groupId="0" targetId="11"  remark="高亮按钮 详情"/>
+	  <cmd action="restoreButton" groupId="0" targetId="5"  remark="高亮按钮 招募"/>
+	  <cmd action="restoreButton" groupId="0" targetId="6"  remark="高亮按钮 方针"/>
+	 <cmd action="clickButton" groupId="0" buttonId="3"  remark="点击按钮"/>
+	   <cmd action="resetSelectBuildState" />
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="18" remark="升级城市设施,不仅可以提高区域的资源产出,也会逐步解锁相应的兵种和城市功能"/>
+	</cmds>
+	
+	<cmds remark="">  
+	  <cmd action="hidDialogue"  remark=""/>
+	  <cmd action="hidScriptButton"  remark=""/>
+	  <cmd action="enableOperation" remark="开启操作"/>
+	  <cmd action="clearDialogues"  remark="清空对话"/>
+	</cmds>
+	<cmds remark="">  
+	 <cmd action="disableOperation" remark="关闭操作"/>
+	  <cmd action="hidUI" remark=""/>
+	   <cmd action="showScriptButton"  remark=""/>
+	<cmd action="setBuildData" regionId="20282"  round="0" cityLv="6"/>
+	 <cmd action="clickButton" groupId="0" buttonId="11"  remark="点击按钮"/>
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="19" remark="点击详情,可以看到该区域的详情介绍,如果某个设施等级超过5级且该区域研发回合为0,则可以在这里选择使用对应的战术卡"/>
+	   <cmd action="brightenButton" groupId="0" targetId="11"  remark="高亮按钮 详情"/>
+	   
+	   
+	</cmds>
+	
+	
+	<cmds remark="">  
+	  <cmd action="restoreButton" groupId="0" targetId="11"  remark="高亮按钮 详情"/>
+	  <cmd action="hidDialogue"  remark=""/>
+	  <cmd action="hidScriptButton"  remark=""/>
+	  <cmd action="enableOperation" remark="开启操作"/>
+	  <cmd action="clearDialogues"  remark="清空对话"/>
+	  
+	    <cmd action="addLegionTech" legionIndex="7" techId="3020" remark=""/>
+	  
+	  
+	</cmds>
+	
+	<cmds remark="">  
+	 <cmd action="disableOperation" remark="关闭操作"/>
+	  <cmd action="hidUI" remark=""/>
+	   <cmd action="showScriptButton"  remark=""/>
+	   <cmd action="resetBuildState" regionId="20282"  />
+	 <cmd action="clickButton" groupId="0" buttonId="5"  remark="点击按钮"/>
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="20" remark="招募兵种时,其基础属性受到招募区域的设施等级影响,设施较好的区域招募的初始兵种将拥有较高的战斗力"/>
+	</cmds>
+	<cmds remark="">  
+	  <cmd action="hidDialogue"  remark=""/>
+	  <cmd action="hidScriptButton"  remark=""/>
+	  <cmd action="enableOperation" remark="开启操作"/>
+	  <cmd action="clearDialogues"  remark="清空对话"/>
+	</cmds>
+	<cmds remark="">   <cmd action="disableOperation" remark="关闭操作"/>
+	  <cmd action="hidUI" remark=""/>
+	  <cmd action="showScriptButton"  remark=""/>
+	   <cmd action="resetBuildState" regionId="20282"  />
+	 <cmd action="clickButton" groupId="0" buttonId="6"  remark="点击按钮"/>
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="21" remark="区域设置方针后,在资源充足的情况下,游戏将自动对区域进行建设和发展"/>
+	 
+	  <cmd action="brightenButton" groupId="0" targetId="6"  remark="高亮按钮 方针"/>
+	</cmds>
+	<cmds remark="">  
+	 <cmd action="restoreButton" groupId="0" targetId="6"  remark="高亮按钮 方针"/>
+	  <cmd action="hidDialogue"  remark=""/>
+	  <cmd action="hidScriptButton"  remark=""/>
+	  <cmd action="enableOperation" remark="开启操作"/>
+	  <cmd action="clearDialogues"  remark="清空对话"/>
+	</cmds>
+	<cmds remark="">   <cmd action="disableOperation" remark="关闭操作"/>
+	  <cmd action="hidUI" remark=""/>
+	  <cmd action="showScriptButton"  remark=""/>
+	 <cmd action="enableOperation" remark="开启操作"/> 
+	   <cmd action="brightenButton" groupId="0" targetId="2"  remark="高亮按钮"/>
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="22" remark="点击右下方的小沙漏可进行下一回合"/>
+	</cmds>
+	<cmds remark="">  
+	   <cmd action="restoreButton" groupId="0" targetId="2"  remark="高亮按钮"/>
+	 <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="23" remark="指挥官阁下,以上为游戏的基础操作教程,你也可以通过进阶教程或作者在b站的专栏对游戏有更好的了解,作者b站账号:黑星的鱼"/>
+	</cmds>
+	
+	
+	<cmds remark="">  
+	  <cmd action="exitGame" remark="退出游戏"/>
+	</cmds>
+  </script> 
+</scripts>

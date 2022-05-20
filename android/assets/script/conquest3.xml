@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<scripts> 
+
+<!--
+1914 巴尔干矛盾爆发一战
+1914 土耳其加入同盟
+1915 意大利加入协约
+
+
+
+
+-->
+
+  
+  
+<script id="3301" trigger="legionStatility" triggerValue="0,70" triggerYear="1,1916" triggerCountry="33"   ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="俄国革命 领土变更" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+	<cmd action="createCountry" country="79" internIndex="30" capitalId="0" tax="300" res="9000" generalNum="10"  eventId="672" updRegionStr="565,568,1316,965,1676,1680,2411,2076,2788,2800,2785,2421,3543,3177,3534,3161,3539,3901,5009,5389,6126,6122,7263,6899,6859,7972,7969,8366,8377,8716,8719,9471,9080,9468" remark="创建国家"/>
+
+						
+	</cmds>
+  </script>   
+  
+<script id="3302" trigger="legionStatility" triggerValue="0,70" triggerYear="1,1916" triggerCountry="33" ifRepeat="false" triggerRound="-1" modeType="0" preEvent="3301" remark="俄国革命 波兰 领土变更" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="createCountry" country="21" internIndex="99" capitalId="0" tax="300" res="4000" generalNum="4"  eventId="693"  updRegionStr="7587,7966,8333,9076,9065,9070,9808,10182,9815,10918,10924,11664" remark="创建国家"/>
+	</cmds>
+  </script> 
+
+  
+
+<script id="600" trigger="default" triggerValue="-1" triggerYear="1,1914" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="埃塞俄比亚 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+	
+	<cmd action="replaceFlagAndColor" sourceCountry="6" targetCountry="7"  r="180" g="254" b="220" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+
+<script id="6400" trigger="default" triggerValue="-1" triggerYear="1,1915" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="摩洛哥 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		
+	<cmd action="replaceFlagAndColor" sourceCountry="64" targetCountry="65"  r="166" g="150" b="120" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+<script id="7000" trigger="default" triggerValue="-1" triggerYear="1,1910" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="葡萄牙 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+	
+	<cmd action="replaceFlagAndColor" sourceCountry="70" targetCountry="71"  r="170" g="201" b="150" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+<script id="9300" trigger="default" triggerValue="-1" triggerYear="1,1916" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="暹罗 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		
+	<cmd action="replaceFlagAndColor" sourceCountry="93" targetCountry="94"  r="180" g="230" b="100" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+  
+  
+
+</scripts>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dialogues>
+<dialogue id="0" type="0" count="0" chance="100" remark="剧情对话"/>
+	<dialogue id="0" type="0" count="0" chance="100" remark="剧情对话"/>
+	<dialogue id="1" type="1" count="9" chance="80" remark="将领晋升 {0}代表我方国家"/>
+	<dialogue id="2" type="2" count="16" chance="40" remark="将领杀敌"/>
+	<dialogue id="3" type="3" count="14" chance="30" remark="将领阵亡"/>
+	<dialogue id="4" type="4" count="16" chance="30" remark="将领补充"/>
+	<dialogue id="5" type="5" count="19" chance="30" remark="将领占领建筑"/>
+	<dialogue id="6" type="6" count="32" chance="30" remark="将领求援"/>
+	<dialogue id="7" type="7" count="23" chance="30" remark="将领秒杀 {0} 代表敌人"/>
+	<dialogue id="8" type="8" count="24" chance="70" remark="占领首都 {0} 代表敌人"/>
+	<dialogue id="9" type="9" count="18" chance="30" remark="地区被进攻 {0}代表敌人"/>
+	<dialogue id="10" type="10" count="22" chance="40" remark="进攻区域 {0}代表地名"/>
+	<dialogue id="11" type="11" count="17" chance="70" remark="守卫首都 {0}代表地名"/>
+	<dialogue id="12" type="12" count="10" chance="100" remark="开头语 {0}代表我方国家"/>
+	<dialogue id="13" type="13" count="133" chance="100" remark="随机名言"/>
+	<dialogue id="14" type="14" count="16" chance="10" remark="将领战斗互动"/>
+	<dialogue id="15" type="15" count="24" chance="100" remark="将领执行任务"/>
+	<dialogue id="16" type="16" count="63" chance="100" remark="随机征服提示"/>
+	<dialogue id="17" type="17" count="45" chance="100" remark="宣战宣言"/>
+	<dialogue id="18" type="18" count="27" chance="50" remark="敌将占领我方领土 {0}代表敌方国家"/>
+	<dialogue id="19" type="19" count="28" chance="50" remark="敌将核心区域被占领 {0}代表敌方国家"/>
+	<dialogue id="20" type="20" count="35" chance="50" remark="敌将警告&&敌将非核心区域被占领"/>
+	<dialogue id="21" type="21" count="23" chance="50" remark="敌将友好"/>
+	<dialogue id="22" type="22" count="27" chance="30" remark="ai生气"/>
+
+
+
+</dialogues>
+
+

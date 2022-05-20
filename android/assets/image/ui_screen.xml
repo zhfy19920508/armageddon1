@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0b4905fe83f9a1a2b5dd5cadadb85ad5$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="ui_screen.png" width="512" height="1024">
+    <sprite n="borderButton_back.png" x="398" y="666" w="70" h="70"/>
+    <sprite n="button_battle.png" x="374" y="215" w="131" h="69"/>
+    <sprite n="image_comingsoon.png" x="127" y="764" w="185" h="35"/>
+    <sprite n="button_freeConquest.png" x="304" y="702" w="64" h="58"/>
+    <sprite n="button_login.png" x="374" y="144" w="131" h="69"/>
+    <sprite n="button_map.png" x="374" y="73" w="131" h="69"/>
+    <sprite n="button_newworld.png" x="54" y="718" w="50" h="48"/>
+    <sprite n="button_register.png" x="374" y="2" w="131" h="69"/>
+    <sprite n="coq_1855.png" x="2" y="470" w="370" h="154"/>
+    <sprite n="coq_1894.png" x="2" y="314" w="370" h="154"/>
+    <sprite n="coq_1914.png" x="2" y="158" w="370" h="154"/>
+    <sprite n="coq_1918.png" x="2" y="2" w="370" h="154"/>
+    <sprite n="historyType_0.png" x="54" y="790" w="50" h="50"/>
+    <sprite n="historyType_1.png" x="2" y="946" w="50" h="50"/>
+    <sprite n="historyType_2.png" x="2" y="894" w="50" h="50"/>
+    <sprite n="historyType_3.png" x="2" y="842" w="50" h="50"/>
+    <sprite n="icon_title_vs.png" x="370" y="738" w="58" h="49"/>
+    <sprite n="mapmark_arrow_blue_1.png" x="374" y="552" w="92" h="36"/>
+    <sprite n="mapmark_arrow_blue_2.png" x="304" y="666" w="92" h="34"/>
+    <sprite n="mapmark_arrow_blue_3.png" x="374" y="439" w="93" h="73"/>
+    <sprite n="mapmark_arrow_blue_4.png" x="374" y="325" w="107" h="37"/>
+    <sprite n="mapmark_arrow_defense_blue.png" x="468" y="555" w="42" h="39"/>
+    <sprite n="mapmark_arrow_defense_red.png" x="468" y="514" w="42" h="39"/>
+    <sprite n="mapmark_arrow_red_1.png" x="374" y="514" w="92" h="36"/>
+    <sprite n="mapmark_arrow_red_2.png" x="374" y="590" w="92" h="34"/>
+    <sprite n="mapmark_arrow_red_3.png" x="374" y="364" w="93" h="73"/>
+    <sprite n="mapmark_arrow_red_4.png" x="374" y="286" w="107" h="37"/>
+    <sprite n="mapmark_city_1.png" x="469" y="364" w="12" h="14"/>
+    <sprite n="mapmark_city_2.png" x="488" y="384" w="14" h="13"/>
+    <sprite n="mapmark_city_3.png" x="469" y="384" w="17" h="14"/>
+    <sprite n="mapmark_city_4.png" x="483" y="312" w="24" h="21"/>
+    <sprite n="mapmark_city_5.png" x="483" y="335" w="23" h="22"/>
+    <sprite n="mapmark_island.png" x="483" y="359" w="20" h="23"/>
+    <sprite n="mapmark_port.png" x="483" y="286" w="25" h="24"/>
+    <sprite n="sideframe_0.png" x="2" y="626" w="300" h="90"/>
+    <sprite n="window_account.png" x="2" y="718" w="50" h="50"/>
+    <sprite n="window_goods.png" x="2" y="790" w="50" h="50"/>
+    <sprite n="window_option.png" x="430" y="738" w="50" h="50"/>
+    <sprite n="window_work.png" x="53" y="845" w="50" h="50"/>
+    <sprite n="window_input.png" x="112" y="845" w="50" h="50"/>
+</TextureAtlas>

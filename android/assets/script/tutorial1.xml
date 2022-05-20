@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<scripts> 
+   <script id="0" trigger="default" triggerValue="-1" triggerLegionIndex="9" triggerRound="0"  remark=""> 
+ 
+    <cmds remark="通过点击下一步按钮,来切换id" ifBreak="true"> 
+      <cmd action="disableOperation" remark="禁止操作"/>  
+      <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="0" remark="指挥官阁下,接下来由我来介绍游戏在征服模式下的相关功能,在此过程中,你可以点击对话框右下的按钮来进行或终止教程"/>  
+      <cmd action="showScriptButton" remark="显示脚本按钮"/>  
+      <cmd action="brightenScriptButton" remark="高亮脚本按钮"/>  
+      <cmd action="addLegionResource" legionIndex="9" money="8200" industry="8550" food="8440" tech="8200" miracle="8" mineral="8000" oil="8200"  remark="增加资源"/> 
+	  <cmd action="setFavor" legionIndex1="9" legionIndex2="10" favor="35" remark="设置好感度 荷兰"/>
+	<cmd action="setFavor" legionIndex1="9" legionIndex2="13" favor="50" remark="设置好感度 比利时"/>
+	<cmd action="setFavor" legionIndex1="9" legionIndex2="7" favor="5" remark="设置好感度 英国"/>
+	<cmd action="setFavor" legionIndex1="9" legionIndex2="14" favor="20" remark="设置好感度 法国"/>
+	<cmd action="setFavor" legionIndex1="9" legionIndex2="12" favor="80" remark="设置好感度 奥地利"/>
+	 <cmd action="createAir" region="10533" cardId="1501"/>  
+      <cmd action="createAir" region="10533" cardId="1501"/> 
+      <cmd action="createNul" region="10533" cardId="1701"/>  
+      <cmd action="createNul" region="10533" cardId="1702"/>  
+      <cmd action="createNul" region="10533" cardId="1701"/>  
+      <cmd action="createNul" region="10533" cardId="1702"/>  
+      <cmd action="resetAirState" region="10533"/>  
+      <cmd action="resetNulState" region="10533"/>  
+	<cmd action="resetAllState" remark="重置状态"/>
+	<cmd action="resetAllBuildType" remark="重置建筑类型"/>
+	
+	 <cmd action="createArmy" hexagon="10163" cardId="1301"/>  
+    </cmds>  
+	
+	
+	
+
+
+	
+		
+		
+			<cmds  remark="" > 
+			
+			 <cmd action="hidPromptText"   remark="关闭提示"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="2"  remark="在征服中,指挥官的资源会有储藏上限,在军团科技中可以通过提高金融等级来提高资源储藏上限"/>
+		</cmds>
+		
+		
+		<cmds  remark="" > 
+	 <cmd action="clickButton" groupId="0" buttonId="1"  remark="点击按钮"/>
+	  <cmd action="clickButton" groupId="1" buttonId="9"  remark="点击按钮"/>
+	   <cmd action="clickButton" groupId="1" buttonId="9"  remark="点击按钮"/>
+	<cmd action="enableOperation"  remark=""/>
+	<cmd action="hidScriptButton" remark="隐藏剧本按钮"/>
+	</cmds>
+	<cmds  remark="" > 
+	<cmd action="showScriptButton" remark="显示剧本按钮"/>
+	<cmd action="disableOperation"  remark=""/>
+	   <cmd action="clickButton" groupId="1" buttonId="10"  remark="点击按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="3"  remark="征服模式下,游戏结束条件为游戏到达指定回合或逐步控制大部分区域或指挥官失去所有区域,不同胜利方式会触发不同的结局"/>
+	</cmds>
+	
+	
+		<cmds  remark="" > 
+	 <cmd action="camChange" hexagon="8693" moveSecond="1" zoomstate="1" targetZoom="0.9"  zoomMin="0.6" zoomMax="0.9" remark="设置位置"/>       
+		<cmd action="restoreScriptButton" remark="关闭高亮按钮"/>
+		<cmd action="brightenButton" groupId="0" targetId="18"  remark="高亮按钮"/>
+		<cmd action="brightenButton" groupId="0" targetId="20"  remark="高亮按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="1"  remark="在征服中有独特的路线设置,在右上的任务模块中完成任意一个任务后,就可以点击中上的标志按钮查看他们的效果"/>
+	
+	 <cmd action="setPlayerAmbition" ambition="50"/>  
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="4"  remark="可以通过右上角的奖杯按钮,查看游戏进度"/>
+	    <cmd action="brightenButton" groupId="0" targetId="10"  remark="高亮成就按钮"/>
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+	 <cmd action="restoreButton" groupId="0" targetId="10"  remark="恢复成就按钮"/>
+	 <cmd action="clickButton" groupId="0" buttonId="10"  remark="点击成就按钮"/>
+	<cmd action="hidDialogue" remark="关闭对话"/>
+	<cmd action="enableOperation" remark="容许操作"/>
+		<cmd action="hidScriptButton" remark="隐藏剧本按钮"/>
+	</cmds>
+	
+	
+	
+	<cmds  remark="" > 
+	<cmd action="disableOperation"  remark=""/>
+	<cmd action="showScriptButton" remark="显示剧本按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="12"  remark="在右上角的军团科技界面,可以一览军团科技大部分的等级和兵种数据,这里顶部展示的是回合收入等信息"/>
+		<cmd action="brightenButton" groupId="0" targetId="7"  remark="高亮按钮"/>
+		
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+			 <cmd action="clickButton" groupId="0" buttonId="7"  remark=""/>
+	<cmd action="restoreButton" groupId="0" targetId="7"  remark="关闭按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="13"  remark="兵种最右边则是该类兵种耗费的原料,如果兵种的原料无法及时供应,则可能出现科技降级的情况"/>
+	</cmds>
+	 
+	
+	<cmds  remark="" > 
+	 <cmd action="hidUI" />
+	 <cmd action="camChange" hexagon="10905" moveSecond="2" zoomstate="2" targetZoom="1.6" zoomMin="0.6" zoomMax="1.5" remark="设置位置"/>
+	
+	
+		
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="5"  remark="每个国家都有属于自己的版图颜色,但是非友方势力的区域颜色将会比较暗淡,可以点击设置界面中的地图,来切换阵营显示方式"/>
+		<cmd action="brightenButton" groupId="0" targetId="0"  remark="高亮阵营显示按钮"/>
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+	 <cmd action="clickButton" groupId="0" buttonId="0"  remark="点击阵营显示按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="6"  remark="该显示模式下,根据与不同国家的好感度,会显示不同的颜色,蓝色为友方势力,绿色为我方势力,青色为附属国势力,红色为敌对势力,浅灰色为中立偏友好势力,深灰色为中立偏敌对势力"/>
+	</cmds>
+	 
+	 
+	  
+	 <cmds  remark="" >
+		<cmd action="restoreButton" groupId="0" targetId="0"  remark="恢复暂停界面"/>
+		<cmd action="hidUI" />
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="34"  remark="在统帅模式下,你将掌握这个国家的军事和外交大权,但是你并不能随意的操控,你需要时刻注意着与政府的政治点"/>
+		
+		 <cmd action="brightenButton" groupId="0" targetId="21"  remark="高亮统帅按钮"/>
+		
+	</cmds>
+	 
+	 
+	 <cmds  remark="" > 
+	 <cmd action="clickButton" groupId="0" buttonId="21"  remark="点击特性按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="35"  remark="在统帅模式下,你将掌握这个国家的军事和外交大权,但是你并不能随意的操控,你需要时刻注意着与政府的政治点,点击野心条右边第二个按钮进入统帅界面"/>
+	</cmds>
+	 
+	  <cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="36"  remark="改革是一个持续而长久的过程,不同的政策会导致不同的结果,而过度剧烈的改革会导致国家动荡,甚至发生大规模的叛乱事件"/>
+	</cmds>
+	  <cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="37"  remark="在这个模式下购买和使用卡牌都会消耗政治点,但可以通过完成军事任务或调整官员工资来积攒"/>
+	</cmds>
+	 
+	 
+	 
+	 
+	 
+	 
+	 <cmds  remark="" >
+		<cmd action="restoreButton" groupId="0" targetId="21"  remark="恢复统帅按钮"/>
+		<cmd action="hidUI" />
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="7"  remark="征服模式下,每个国家都可以获取独特的特性"/>
+		
+		 <cmd action="brightenButton" groupId="0" targetId="15"  remark="高亮特性按钮"/>
+		
+	</cmds>
+	
+	
+	
+	<cmds  remark="" > 
+	 <cmd action="restoreButton" groupId="0" targetId="15"  remark="恢复特性按钮"/>
+	 <cmd action="clickButton" groupId="0" buttonId="15"  remark="点击特性按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="8"  remark="在特性界面,可以通过军团科技中获取的奇迹点来刷新或升级特性"/>
+	</cmds>
+	<cmds  remark="" > 
+		<cmd action="hidDialogue" remark="关闭对话"/>
+		<cmd action="enableOperation" remark="容许操作"/>
+		<cmd action="hidScriptButton" remark="隐藏剧本按钮"/>
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+	 <cmd action="hidUI" />
+	<cmd action="showScriptButton" remark="显示剧本按钮"/>
+	<cmd action="disableOperation"  remark=""/>
+	<cmd action="refreshTrade"  remark=""/>
+	 <cmd action="restoreButton" groupId="0" targetId="15"  remark="恢复特性按钮"/>
+	
+	<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="9"  remark="征服中,可以通过右上角的贸易功能来获取短缺的资源"/>
+		<cmd action="brightenButton" groupId="0" targetId="16"  remark="高亮按钮"/>
+	</cmds>
+	<cmds  remark="" > 
+	   <cmd action="clickButton" groupId="0" buttonId="16"  remark=""/>
+		<cmd action="restoreButton" groupId="0" targetId="16"  remark="关闭按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="10"  remark="每回合依据军团科技的贸易等级来重置外贸次数,外贸次数可以用来进行贸易和外交操作"/>
+	</cmds>
+	<cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="11"  remark="贸易可能会失败,建议多与友好势力进行贸易,不但可以获得紧缺的资源,还可以收获好感度"/>
+		
+	</cmds>
+	
+	<cmds  remark="" > 
+		<cmd action="hidDialogue" remark="关闭对话"/>
+		<cmd action="enableOperation" remark="容许操作"/>
+		<cmd action="hidScriptButton" remark="隐藏剧本按钮"/>
+	</cmds>
+	
+	
+	
+	
+	
+	
+	
+	<cmds  remark="" > 
+	<cmd action="disableOperation" remark="容许操作"/>
+	  <cmd action="showScriptButton" remark="显示剧本按钮"/>
+	  <cmd action="hidUI" remark=""/>
+	  <cmd action="brightenButton" groupId="0" targetId="18"  remark="高亮按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="16"  remark="最后一个按钮则是任务按钮,在征服模式中,会随机刷新相关任务,完成对应任务后可以获得相关资源奖励"/>
+		<cmd action="endAllTask"  remark="强制完成所有任务"/>
+	</cmds>
+	
+		<cmds  remark="" > 
+		<cmd action="hidDialogue" remark="关闭对话"/>
+	    <cmd action="clickButton" groupId="0" buttonId="18"  remark=""/>
+		<cmd action="restoreButton" groupId="0" targetId="18"  remark="关闭按钮"/>
+		<cmd action="enableOperation" remark="容许操作"/>
+		<cmd action="hidScriptButton" remark="隐藏剧本按钮"/>
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+	<cmd action="showScriptButton" remark="显示剧本按钮"/>
+	   <cmd action="disableOperation"  remark=""/>
+	   
+	    <cmd action="hidUI" remark=""/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="14"  remark="接着是简报按钮,指挥官可以在简报中可以查看所属势力的各项基础信息"/>
+		<cmd action="brightenButton" groupId="0" targetId="17"  remark="高亮按钮"/>
+	</cmds>
+	
+	<cmds  remark="" > 
+	
+	<cmd action="hidScriptButton" remark="隐藏剧本按钮"/>
+		<cmd action="hidDialogue" remark="关闭对话"/>
+	    <cmd action="clickButton" groupId="0" buttonId="17"  remark=""/>
+		<cmd action="restoreButton" groupId="0" targetId="17"  remark="关闭按钮"/>
+		
+		<cmd action="enableOperation" remark="容许操作"/>
+	</cmds>
+	
+	<cmds  remark="" > 
+	<cmd action="disableOperation" remark="容许操作"/>
+	  <cmd action="showScriptButton" remark="显示剧本按钮"/>
+	
+	 <cmd action="brightenButton" groupId="0" targetId="24"  remark="高亮按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="17"  remark="下一个按钮是ai托管,你可以在游戏当中的设置把其设置为ai托管后即结束,此按钮也可用于游戏在最后阶段卡主后的强制退出按钮"/>
+	
+	</cmds>
+	
+	<cmds  remark="" > 
+	<cmd action="disableOperation" remark="容许操作"/>
+	<cmd action="restoreButton" groupId="0" targetId="24"  remark="关闭按钮"/>
+	  <cmd action="showScriptButton" remark="显示剧本按钮"/>
+	
+	 <cmd action="brightenButton" groupId="0" targetId="14"  remark="高亮按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="39"  remark="暂停按钮下方的是帮助按钮,在游戏中可以通过帮助按钮,在统帅模式中可以通过帮助按钮来或许一些帮助提示"/>
+	
+	</cmds>
+	
+	<cmds  remark="" > 
+	<cmd action="disableOperation" remark="容许操作"/>
+	<cmd action="restoreButton" groupId="0" targetId="14"  remark="关闭按钮"/>
+	  <cmd action="showScriptButton" remark="显示剧本按钮"/>
+	
+	 <cmd action="brightenButton" groupId="0" targetId="19"  remark="高亮按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="40"  remark="左下角科技按钮上方的是快速选择按钮,在兵种以标记显示时将快速跳转到一个可以行动的无目标单位,在兵模显示时则快速跳转到一个可以行动的单位上"/>
+	
+	</cmds>
+	
+	
+	
+	
+	
+	
+	
+	<cmds  remark="" > 
+	<cmd action="restoreButton" groupId="0" targetId="19"  remark="关闭按钮"/>
+	<cmd action="showScriptButton" remark="显示剧本按钮"/>
+	<cmd action="camMove" hexagon="12746" moveSecond="1" remark=""/>
+	 <cmd action="clickHexagon" hexagon="12746" remark="点击地块"/>
+	
+	  <cmd action="disableOperation"  remark=""/>
+	 <cmd action="hidUI" remark=""/>
+	  <cmd action="brightenButton" groupId="0" targetId="8"  remark="高亮按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="18"  remark="点击一个势力的版图,可以对其进行外交,根据双方的好感度,会出现不同的选项,征服并不是该模式下获胜的唯一选项"/>
+	</cmds>
+	
+	
+	
+	<cmds  remark="" > 
+		<cmd action="hidDialogue" remark="关闭对话"/>
+	    <cmd action="clickButton" groupId="0" buttonId="8"  remark=""/>
+		<cmd action="restoreButton" groupId="0" targetId="8"  remark="关闭按钮"/>
+		<cmd action="enableOperation" remark="容许操作"/>
+		<cmd action="hidScriptButton" remark="隐藏剧本按钮"/>
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+		<cmd action="waitClickPromptsAndDialogues" remark="等待点击对话框,如果无对话框,则直接跳转下一步骤"/>
+	</cmds>
+
+	<cmds  remark="" > 
+			<cmd action="disableOperation" remark="禁止操作"/>
+		<cmd action="showScriptButton" remark="显示剧本按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="19"  remark="将领单位可以在进行外交,外贸,区域建造设施,战术选择时提供额外加成"/>
+		<cmd action="camMove" hexagon="11643" moveSecond="1" remark=""/>
+		 <cmd action="clickHexagon" hexagon="11643" remark="点击地块"/>
+	</cmds>
+	
+	<cmds  remark="" > 
+	<cmd action="clearDialogues" remark="清空对话"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="20"  remark="框选一个未行动的将领单位,在对应区域进行操作,将会消耗该单位的行动次数并根据将领的政治能力提供额外的效果"/>
+	</cmds>
+	 
+	<cmds  remark="" > 
+	     <cmd action="clickButton" groupId="0" buttonId="3"  remark=""/>
+			<cmd action="enableOperation" remark="容许操作"/>
+		<cmd action="hidScriptButton" remark="隐藏剧本按钮"/>
+	<cmd action="hidDialogue" remark="关闭对话"/>
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+		<cmd action="waitClickPromptsAndDialogues" remark="等待点击对话框,如果无对话框,则直接跳转下一步骤"/>
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+	   <cmd action="clearDialogues"  remark="清空对话"/>
+	<cmd action="showScriptButton" remark="显示剧本按钮"/>
+		<cmd action="hidUI" remark="关闭ui"/>
+		<cmd action="disableOperation" remark="禁止操作"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="21"  remark="研究军团科技时,如果我方首都有未行动的将领单位,也将提供额外的效果"/>
+		
+	    <cmd action="addLegionTech" legionIndex="9" techId="3029" remark=""/>
+		
+		  <cmd action="setLegionData" legionIndex="9" round="0"  remark="设置军团数据"/>
+	 
+		  <cmd action="createArmy" hexagon="9061" legionIndex="9" cardId="1202" ifMaxGroup="true" ifGeneral="true" remark="创建单位"/>
+		
+		  
+		  
+		    <cmd action="resetUnityState" hexagon="9061" remark="重置单位状态,血量"/>
+		 <cmd action="clickHexagon" hexagon="9061" remark="点击地块"/>
+	</cmds>
+	
+	
+	
+	
+	
+	<cmds  remark="" > 
+		    <cmd action="clickButton" groupId="0" buttonId="1"  remark=""/>
+			<cmd action="enableOperation" remark="容许操作"/>
+		    <cmd action="hidScriptButton" remark="隐藏剧本按钮"/>
+	       <cmd action="hidDialogue" remark="关闭对话"/>
+	</cmds>
+	
+	
+	
+	
+	<cmds  remark="" > 
+	
+		<cmd action="hidUI" remark="关闭ui"/>
+		<cmd action="disableOperation" remark="容许操作"/>
+		<cmd action="showScriptButton" remark="隐藏剧本按钮"/>
+	
+	<cmd action="camChange" hexagon="10903" moveSecond="2" zoomstate="2" targetZoom="1.6" zoomMin="0.6" zoomMax="1.5" remark="设置位置"/>
+	
+	 <cmd action="setBuildData" regionId="10163"  cityStability="10" />
+	  <cmd action="clickHexagon" hexagon="10903" remark="点击地块"/>
+	  <cmd action="brightenImage" groupId="0" targetId="1001"  remark="高亮按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="22"  remark="在区域的天气栏下方的土色条即该区域的稳定度属性"/>
+		
+		
+	</cmds>
+	<cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="23"  remark="每回合都会根据周边区块连接的文化设施等级来增减一定的区域稳定度,即回合稳定度变量=
+自身文化等级+所有周边我方区块文化等级-所有周边敌方文化等级,如果一个区域的稳定度过低且无兵驻守,则很有几率会叛变到敌对势力那里"/>
+	</cmds>
+	<cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="24"  remark="如德国的城市科隆,要同时受到周边敌对势力和我方势力的区域文化等级影响,其现在的稳定度就处于非常低的情况,如果该处无兵驻守,那下一回合将会有很大几率叛变到周边的敌对势力"/>
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+		<cmd action="restoreImage" groupId="0" targetId="1001"  remark="恢复按钮"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="25"  remark="如果游戏进入到1900年,将进入一战时代,新的科技,单位和机制将会解锁"/>
+	
+	</cmds>
+	
+	
+	
+	<cmds  remark="" > 
+	 <cmd action="clickHexagon" hexagon="12018" remark="点击地块"/>
+	 <cmd action="camMove" hexagon="12018" moveSecond="1" remark=""/>
+	<cmd action="updBuildData" regionId="11649" cityLv="6" energyLv="4"/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="26"  remark="在进入一战的时代后,区域设施的发展就需要考虑能源供给,当能源供应不足时区域就会出现红色闪电标记"/>
+	</cmds>
+	
+	<cmds  remark="" > 
+	    <cmd action="clickButton" groupId="0" buttonId="4"  remark=""/>
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="27"  remark="需要建设相关能源设施来增加能源供给,区域如果获得充足的能源将会提供额外的资源"/>
+		
+	</cmds>
+	
+	<cmds  remark="" > 
+		<cmd action="enableOperation" remark="容许操作"/>
+		<cmd action="hidScriptButton" remark="隐藏剧本按钮"/>
+	    <cmd action="hidDialogue" remark="关闭对话"/>
+	</cmds>
+	
+    <cmds remark=""> 
+	
+		<cmd action="hidUI" remark="关闭ui"/>
+      <cmd action="disableOperation" remark="容许操作"/>  
+      <cmd action="showScriptButton" remark="隐藏剧本按钮"/>  
+      <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="28" remark="秘密武器和空军也将在一战科技中解锁,秘密武器和空军均是独立单位,其都以区域为行动方式"/> --&gt; 
+      <cmd action="camChange" hexagon="10905" moveSecond="2" zoomstate="2" targetZoom="1.2"  zoomMin="0.6" zoomMax="1.5" remark="设置位置"/>  
+     
+      <cmd action="clickHexagon" hexagon="10533" remark="点击地块"/>  
+       <cmd action="removeArmy" hexagon="11646"/>  
+    </cmds>  
+  
+	  		<cmds  remark="" > 
+			 <cmd action="clickHexagon" hexagon="10533" remark="点击地块"/>  
+		<cmd action="switchRightBorderForAir" page="1"  remark=""/>
+			<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="29"  remark="空军单位每回合只能进行一次区域移动,并且区域移动后无法再进行任何操作"/>
+				<cmd action="clickButton" groupId="0" buttonId="2001"  remark=""/>
+	</cmds>
+	
+	<cmds  remark="" > 
+	    <cmd action="clickHexagon" hexagon="11646" remark="点击地块"/>  
+		  <cmd action="clickHexagon" hexagon="11646" remark="点击地块"/>  
+		<cmd action="switchRightBorderForAir" page="1"  remark=""/>
+			<cmd action="clickButton" groupId="0" buttonId="2001"  remark=""/>
+	</cmds>
+	
+
+	<cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="30"  remark="空军单位的其它行动只会消耗物资.当其物资为零时将无法再进行操作"/>
+	 <cmd action="clickHexagon" hexagon="10163" remark="点击地块"/>  
+		<cmd action="switchRightBorderForAir" page="1"  remark=""/>
+	<cmd action="clickButton" groupId="0" buttonId="2001"  remark=""/>
+	</cmds>
+	
+	
+	
+	<cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="31"  remark="秘密武器为一次性单位,既可以直接投掷攻击也可以装载到单位后随单位攻击而引爆"/>
+		  <cmd action="clickHexagon" hexagon="10163" remark="点击地块"/>  
+			
+		<cmd action="switchRightBorderForNul" page="1"  remark=""/>
+		<cmd action="clickButton" groupId="0" buttonId="2001"  remark=""/>
+	</cmds>
+	
+
+
+<cmds  remark="" > 
+	  <cmd action="clickHexagon" hexagon="10163" remark="点击地块"/>  
+	  	<cmd action="switchRightBorderForNul" page="1"  remark=""/>
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+	  <cmd action="updUnitLv" hexagon="10163" lv="30" remark="升级单位"/>
+	   <cmd action="clickHexagon" hexagon="10163" remark="点击地块"/>  
+	   <cmd action="switchRightBorderForAir" page="1"  remark=""/>
+	<cmd action="clickButton" groupId="0" buttonId="2001"  remark=""/>
+	  
+	</cmds>
+	
+	
+	
+	<cmds  remark="给飞机安装炸弹" > 
+	
+	  <cmd action="clickHexagon" hexagon="10163" remark="点击地块"/>  
+	  <cmd action="switchRightBorderForAir" page="1"  remark=""/>
+	<cmd action="clickButton" groupId="0" buttonId="2001"  remark=""/>
+	
+	  <cmd action="clickButton" groupId="0" buttonId="11"  remark=""/>
+	   <cmd action="setSelectedAir" engLv="9" actLv="9"  remark=""/>
+	   <cmd action="brightenButton" groupId="15" targetId="9"  remark="高亮按钮"/>
+		  <cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="38"  remark="点击飞机面板的左下兵种类型栏,进入并配置要携带的炸弹"/>
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+	    <cmd action="hidDialogue" remark="关闭对话"/>
+	  <cmd action="clickButton" groupId="15" buttonId="9"  remark=""/>
+	   <cmd action="restoreButton" groupId="15" targetId="9"  remark="关闭按钮"/>
+	</cmds>
+	
+	
+	<cmds  remark="" > 
+	      <cmd action="clickButton" groupId="1" buttonId="1"  remark=""/>
+		  <cmd action="clickButton" groupId="1" buttonId="0"  remark=""/>
+	<cmd action="clickButton" groupId="0" buttonId="2001"  remark=""/>
+	</cmds>
+	
+	
+	
+	<cmds  remark="" > 
+	   <cmd action="switchRightBorderForAir" page="1"  remark=""/>
+	<cmd action="clickButton" groupId="0" buttonId="2001"  remark=""/>
+	  <cmd action="clickHexagon" hexagon="9420" remark="点击地块"/> 
+	</cmds>
+	  
+
+	
+	
+	<cmds  remark="" > 
+	    <cmd action="updUnitLv" hexagon="9424" lv="30" remark="升级单位"/> 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="32"  remark="在征服模式下,首都是势力的核心,占领首都可以快速的瓦解其势力"/>
+		  <cmd action="clickHexagon" hexagon="9424" remark="点击地块"/>  
+	  <cmd action="clickHexagon" hexagon="10161" remark="点击地块"/>
+	  <cmd action="clickHexagon" hexagon="10530" remark="点击地块"/>  
+	</cmds>
+	
+	
+	
+	<cmds  remark="" > 
+		<cmd action="showDialogue" generalId="0" flagBg="0" dialogueId="33"  remark="指挥官阁下,以上为游戏的进阶操作教程,你也可以通过作者在b站的专栏对游戏有更好的了解,作者b站账号:黑星的鱼"/>
+	</cmds>
+	
+	<cmds remark="">  
+		
+		<cmd action="enableOperation" remark="容许操作"/>
+	  <cmd action="exitGame" remark="退出游戏"/>
+	  	</cmds>
+
+	<!----> 
+	
+	<cmds  remark="测试操作" > 
+		<cmd action="enableOperation" remark="容许操作"/>
+		<cmd action="hidScriptButton" remark="隐藏剧本按钮"/>
+	    <cmd action="hidDialogue" remark="关闭对话"/>
+	</cmds>
+  </script> 
+</scripts>

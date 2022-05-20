@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6edd90e655a401d06c94f67c3c607273:1/1$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="ui_achievement.png" width="1024" height="1024">
+
+<sprite n="medal_Africa_1.png" x="19" y="15" w="158" h="169"  refx="0" refy="0"/>
+<sprite n="medal_Asia_1.png" x="195" y="4" w="148" h="205"  refx="0" refy="0"/>
+<sprite n="medal_SouthAmerica_1.png" x="670" y="8" w="154" h="198"  refx="0" refy="0"/>
+<sprite n="medal_Oceania_1.png" x="379" y="50" w="116" h="155"  refx="0" refy="0"/> 
+<sprite n="medal_Europe_1.png" x="510" y="3" w="147" h="204"  refx="0" refy="0"/>
+<sprite n="medal_NorthAmerica_1.png" x="849" y="6" w="140" h="204"  refx="0" refy="0"/>
+
+<sprite n="medal_Africa_2.png" x="19" y="225" w="158" h="169"  refx="0" refy="0"/>
+<sprite n="medal_Asia_2.png" x="195" y="214" w="148" h="205"  refx="0" refy="0"/>
+<sprite n="medal_SouthAmerica_2.png" x="670" y="218" w="154" h="198"  refx="0" refy="0"/>
+<sprite n="medal_Oceania_2.png" x="379" y="260" w="116" h="155"  refx="0" refy="0"/>
+<sprite n="medal_Europe_2.png" x="510" y="213" w="147" h="204"  refx="0" refy="0"/>
+<sprite n="medal_NorthAmerica_2.png" x="849" y="216" w="140" h="204"  refx="0" refy="0"/>
+
+
+<sprite n="medal_Africa_3.png" x="19" y="435" w="158" h="169"  refx="0" refy="0"/>
+<sprite n="medal_Asia_3.png" x="195" y="424" w="148" h="205"  refx="0" refy="0"/>
+<sprite n="medal_SouthAmerica_3.png" x="670" y="428" w="154" h="198"  refx="0" refy="0"/>
+<sprite n="medal_Oceania_3.png" x="379" y="470" w="116" h="155"  refx="0" refy="0"/>
+<sprite n="medal_Europe_3.png" x="510" y="423" w="147" h="204"  refx="0" refy="0"/>
+<sprite n="medal_NorthAmerica_3.png" x="849" y="426" w="140" h="204"  refx="0" refy="0"/>
+
+
+<sprite n="medal_Africa_0.png" x="19" y="645" w="158" h="169"  refx="0" refy="0"/>
+<sprite n="medal_Asia_0.png" x="195" y="634" w="148" h="205"  refx="0" refy="0"/>
+<sprite n="medal_SouthAmerica_0.png" x="670" y="638" w="154" h="198"  refx="0" refy="0"/>
+<sprite n="medal_Oceania_0.png" x="379" y="680" w="116" h="155"  refx="0" refy="0"/>
+<sprite n="medal_Europe_0.png" x="510" y="633" w="147" h="204"  refx="0" refy="0"/>
+<sprite n="medal_NorthAmerica_0.png" x="849" y="636" w="140" h="204"  refx="0" refy="0"/>
+
+
+
+
+</TextureAtlas>

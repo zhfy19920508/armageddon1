@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mods>
+<!-- filePotion 文件位置 0内部只读interial 1外部读写local(玩家不可操作) 2额外存储external(外交可操作)-->
+	<mod id="0" name="none" supportLanguage="0" filePotion="0" />
+	<mod id="1" name="test1" supportLanguage="0" filePotion="1"/>
+</mods>
+
+

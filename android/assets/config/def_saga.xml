@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"  ?>
+<stages remark="  sagaId=1000*age+sagaId">
+ <age id="0" remark="近代">
+	<saga id="0" name="英国" country="99" general="99"  useLanguage="-1"/>
+	<saga id="1" name="美国" country="57" general="158"  useLanguage="-1"/>
+	<saga id="2" name="大清" country="28" general="18" useLanguage="-1"/>
+	<saga id="3" name="日本" country="73" general="27" useLanguage="-1"/>
+	<saga id="4" name="德奥" country="72" general="141" useLanguage="-1"/>
+	<saga id="5" name="俄罗斯" country="33" general="64" useLanguage="-1"/>
+	<saga id="6" name="土耳其" country="12" general="377"  useLanguage="-1"/>
+	<saga id="7" name="法国" country="35" general="87"  useLanguage="-1"/>
+	<saga id="8" name="意大利" country="97" general="51" useLanguage="-1"/>
+	<saga id="9" name="太平天国" country="81" general="8" useLanguage="-1"/>
+	<saga id="10" name="印度" country="98" general="121" useLanguage="-1"/>
+</age>
+ <age id="1" remark="一战">
+	<saga id="0" name="英法联军" country="99" general="14"  useLanguage="-1"/>
+	<saga id="1" name="美国" country="58" general="5"  useLanguage="-1"/>
+	<saga id="2" name="日本" country="73" general="209" useLanguage="-1"/>
+	<saga id="3" name="德奥" country="30" general="14" useLanguage="-1"/>
+	<saga id="4" name="俄罗斯" country="33" general="13"  useLanguage="-1"/>
+	<saga id="5" name="塞尔维亚" country="77" general="70"  useLanguage="-1"/>
+	<saga id="6" name="土耳其" country="12" general="25" useLanguage="-1"/>
+	<saga id="7" name="苏维埃" country="79" general="157"  useLanguage="-1"/>
+	<saga id="8" name="中华民国" country="103" general="166"  useLanguage="-1"/>
+	<saga id="9" name="中国" country="101" general="161"  useLanguage="-1"/>
+</age>
+</sagas>

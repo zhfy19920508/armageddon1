@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--count 取值为 x>=0&&x<count  -->
+<rgenerals>
+	<rgeneral id="0" name="公共"  count="20"/>
+	<rgeneral id="1" name="德奥"  count="21"/>
+	<rgeneral id="2" name="东南亚"  count="9"/>
+	<rgeneral id="3" name="法国"  count="21"/>
+	<rgeneral id="4" name="非洲"  count="9"/>
+	<rgeneral id="5" name="英国"  count="20"/>
+	<rgeneral id="6" name="日本"  count="12"/>
+	<rgeneral id="7" name="拉美"  count="13"/>
+	<rgeneral id="8" name="美国"  count="20"/>
+	<rgeneral id="9" name="清国"  count="2"/>
+	<rgeneral id="10" name="俄国"  count="22"/>
+	<rgeneral id="11" name="苏联"  count="20"/>
+	<rgeneral id="12" name="太平天国"  count="1"/>
+	<rgeneral id="13" name="中东"  count="20"/>
+	<rgeneral id="14" name="中国军阀"  count="8"/>
+</rgenerals>

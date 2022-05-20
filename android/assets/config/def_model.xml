@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<models>
+	
+	<model id="1101" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="0" defaultImgName="1102_0_1" attackImgName="1102_0_2" remark="通用_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="7" y="60" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_101" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="101" defaultImgName="1102_101_1" attackImgName="1102_101_2" remark="共军_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="5" y="64" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_102" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="102,105" defaultImgName="1102_102_1" attackImgName="1102_102_2" remark="国军_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="9" y="64" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_12" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="2,12,46,83" defaultImgName="1102_12_1" attackImgName="1102_12_2" remark="土耳其_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="7" y="66" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_16" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="16,17,70,71,90,100" defaultImgName="1102_16_1" attackImgName="1102_16_2" remark="巴西_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="8" y="64" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_27" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="1,15,25,27,34,41,42,43,44,62,93,94,108" defaultImgName="1102_27_1" attackImgName="1102_27_2" remark="东南亚_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="4" y="66" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_28" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="28,104" defaultImgName="1102_28_1" attackImgName="1102_28_2" remark="大清_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="12" y="62" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_30" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="72,14,30,31,45" defaultImgName="1102_30_1" attackImgName="1102_30_2" remark="德国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="60" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_33" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="33,89,59,60" defaultImgName="1102_33_1" attackImgName="1102_33_2" remark="俄国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="8" y="64" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_35" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="35" defaultImgName="1102_35_1" attackImgName="1102_35_2" remark="法国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="11" y="63" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_38" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="38,8,11,95" defaultImgName="1102_38_1" attackImgName="1102_38_2" remark="奥匈_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="11" y="60" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_57" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="57,58,67" defaultImgName="1102_57_1" attackImgName="1102_57_2" remark="美国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="62" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_6" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="6,7,36,39,40,52,64,65,80,82" defaultImgName="1102_6_1" attackImgName="1102_6_2" remark="非洲_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="58" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_73" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="73" defaultImgName="1102_73_1" attackImgName="1102_73_2" remark="日本_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="19" y="57" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_79" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="79,32,103" defaultImgName="1102_79_1" attackImgName="1102_79_2" remark="苏俄_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="9" y="62" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_81" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="81" defaultImgName="1102_81_1" attackImgName="1102_81_2" remark="太平_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="7" y="64" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_96" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="3,4,5,22,23,49,86,96" defaultImgName="1102_96_1" attackImgName="1102_96_2" remark="阿拉伯_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="6" y="65" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_97" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110" defaultImgName="1102_97_1" attackImgName="1102_97_2" remark="意大利_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="9" y="61" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_98" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="98,106,107" defaultImgName="1102_98_1" attackImgName="1102_98_2" remark="印度_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="7" y="66" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_99" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="99,109,13,48" defaultImgName="1102_99_1" attackImgName="1102_99_2" remark="英国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="60" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+
+
+	<model id="1101" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="0" defaultImgName="1102_0_3" attackImgName="1102_0_4" remark="通用_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="18" y="74" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_101" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="101" defaultImgName="1102_101_3" attackImgName="1102_101_4" remark="共军_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="23" y="75" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_102" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="102,105" defaultImgName="1102_102_3" attackImgName="1102_102_4" remark="国军_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="21" y="76" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_12" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="2,12,46,83" defaultImgName="1102_12_3" attackImgName="1102_12_4" remark="土耳其_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="18" y="75" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_16" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="16,17,70,71,90,100" defaultImgName="1102_16_3" attackImgName="1102_16_4" remark="巴西_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="22" y="74" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_27" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="1,15,25,27,34,41,42,43,44,62,93,94,108" defaultImgName="1102_27_3" attackImgName="1102_27_4" remark="东南亚_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="17" y="75" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_28" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="28,104" defaultImgName="1102_28_3" attackImgName="1102_28_4" remark="大清_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="20" y="78" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_30" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="72,14,30,31,45" defaultImgName="1102_30_3" attackImgName="1102_30_4" remark="德国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="16" y="75" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_33" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="33,89,59,60" defaultImgName="1102_33_3" attackImgName="1102_33_4" remark="俄国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="22" y="74" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_35" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="35" defaultImgName="1102_35_3" attackImgName="1102_35_4" remark="法国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="27" y="75" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_38" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="38,8,11,95" defaultImgName="1102_38_3" attackImgName="1102_38_4" remark="奥匈_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="16" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_57" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="57,58,67" defaultImgName="1102_57_3" attackImgName="1102_57_4" remark="美国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="24" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_6" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="6,7,36,39,40,52,64,65,80,82" defaultImgName="1102_6_3" attackImgName="1102_6_4" remark="非洲_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="19" y="82" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_73" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="73" defaultImgName="1102_73_3" attackImgName="1102_73_4" remark="日本_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="24" y="79" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_79" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="79,32,103" defaultImgName="1102_79_3" attackImgName="1102_79_4" remark="苏俄_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="26" y="73" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_81" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="81" defaultImgName="1102_81_3" attackImgName="1102_81_4" remark="太平_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="22" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_96" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="3,4,5,22,23,49,86,96" defaultImgName="1102_96_3" attackImgName="1102_96_4" remark="阿拉伯_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="19" y="78" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_97" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110" defaultImgName="1102_97_3" attackImgName="1102_97_4" remark="意大利_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="23" y="75" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_98" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="98,106,107" defaultImgName="1102_98_3" attackImgName="1102_98_4" remark="印度_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="7" y="66" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_99" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1101" country="99,109,13,48" defaultImgName="1102_99_3" attackImgName="1102_99_4" remark="英国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="16" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+
+<model id="1101" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="0" defaultImgName="1102_0_1" attackImgName="1102_0_2" remark="通用_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="7" y="60" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_101" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="101" defaultImgName="1102_101_1" attackImgName="1102_101_2" remark="共军_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="5" y="64" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_102" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="102,105" defaultImgName="1102_102_1" attackImgName="1102_102_2" remark="国军_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="9" y="64" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_12" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="2,12,46,83" defaultImgName="1102_12_1" attackImgName="1102_12_2" remark="土耳其_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="7" y="66" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_16" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="16,17,70,71,90,100" defaultImgName="1102_16_1" attackImgName="1102_16_2" remark="巴西_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="8" y="64" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_27" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="1,15,25,27,34,41,42,43,44,62,93,94,108" defaultImgName="1102_27_1" attackImgName="1102_27_2" remark="东南亚_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="4" y="66" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_28" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="28,104" defaultImgName="1102_28_1" attackImgName="1102_28_2" remark="大清_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="12" y="62" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_30" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="72,14,30,31,45" defaultImgName="1102_30_1" attackImgName="1102_30_2" remark="德国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="60" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_33" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="33,89,59,60" defaultImgName="1102_33_1" attackImgName="1102_33_2" remark="俄国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="8" y="64" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_35" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="35" defaultImgName="1102_35_1" attackImgName="1102_35_2" remark="法国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="11" y="63" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_38" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="38,8,11,95" defaultImgName="1102_38_1" attackImgName="1102_38_2" remark="奥匈_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="11" y="60" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_57" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="57,58,67" defaultImgName="1102_57_1" attackImgName="1102_57_2" remark="美国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="62" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_6" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="6,7,36,39,40,52,64,65,80,82" defaultImgName="1102_6_1" attackImgName="1102_6_2" remark="非洲_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="58" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_73" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="73" defaultImgName="1102_73_1" attackImgName="1102_73_2" remark="日本_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="19" y="57" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_79" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="79,32,103" defaultImgName="1102_79_1" attackImgName="1102_79_2" remark="苏俄_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="9" y="62" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_81" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="81" defaultImgName="1102_81_1" attackImgName="1102_81_2" remark="太平_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="7" y="64" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_96" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="3,4,5,22,23,49,86,96" defaultImgName="1102_96_1" attackImgName="1102_96_2" remark="阿拉伯_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="6" y="65" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_97" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110" defaultImgName="1102_97_1" attackImgName="1102_97_2" remark="意大利_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="9" y="61" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_98" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="98,106,107" defaultImgName="1102_98_1" attackImgName="1102_98_2" remark="印度_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="7" y="66" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1101_99" x="0" y="0" scale="1" age="-1" modelType="2" armyId="1101" country="99,109,13,48" defaultImgName="1102_99_1" attackImgName="1102_99_2" remark="英国_精英步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="60" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+
+
+	<model id="1102" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="0" defaultImgName="1103_0_1" attackImgName="1103_0_2" remark="通用_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="9" y="75" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_101" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="101" defaultImgName="1103_101_1" attackImgName="1103_101_2" remark="共军_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="80" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_102" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="102,105" defaultImgName="1103_102_1" attackImgName="1103_102_2" remark="国军_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="15" y="78" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_12" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="2,12,46,83" defaultImgName="1103_12_1" attackImgName="1103_12_2" remark="土耳其_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="12" y="81" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_16" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="16,17,70,71,90,100" defaultImgName="1103_16_1" attackImgName="1103_26_2" remark="巴西_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="75" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_27" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="1,15,25,27,34,41,42,43,44,62,93,94,108" defaultImgName="1103_27_1" attackImgName="1103_27_2" remark="东南亚_机动步兵">
+	<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="9" y="83" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_28" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="28,104" defaultImgName="1103_28_1" attackImgName="1103_28_2" remark="大清_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="13" y="72" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_30" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="72,14,30,31,45" defaultImgName="1103_30_1" attackImgName="1103_30_2" remark="德国_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="9" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_33" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="33,89,59,60" defaultImgName="1103_33_1" attackImgName="1103_33_2" remark="俄国_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="75" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_35" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="35" defaultImgName="1103_35_1" attackImgName="1103_35_2" remark="法国_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="11" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_38" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="38,8,11,95" defaultImgName="1103_38_1" attackImgName="1103_38_2" remark="奥匈_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="12" y="71" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_57" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="57,58,67" defaultImgName="1103_57_1" attackImgName="1103_57_2" remark="美国_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_6" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="6,7,36,39,40,52,64,65,80,82" defaultImgName="1103_6_1" attackImgName="1103_6_2" remark="非洲_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="11" y="73" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_73" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="73" defaultImgName="1103_73_1" attackImgName="1103_73_2" remark="日本_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="16" y="79" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_79" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="79,32,103" defaultImgName="1103_79_1" attackImgName="1103_79_2" remark="苏俄_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="8" y="75" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_81" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="81" defaultImgName="1103_81_1" attackImgName="1103_81_2" remark="太平_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="76" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_96" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="3,4,5,22,23,49,86,96" defaultImgName="1103_96_1" attackImgName="1103_96_2" remark="阿拉伯_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="10" y="80" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_97" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110" defaultImgName="1103_97_1" attackImgName="1103_97_2" remark="意大利_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="11" y="76" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_98" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="98,106,107" defaultImgName="1103_98_1" attackImgName="1103_98_2" remark="印度_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="12" y="81" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1102_99" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1102" country="99,109,13,48" defaultImgName="1103_99_1" attackImgName="1103_99_2" remark="英国_机动步兵">
+		<attack  strike="generalStrike" sound="rifle" atSoundTimie="0">
+			<fire x="9" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="0" defaultImgName="1104_0_1" remark="通用_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_101" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="101" defaultImgName="1104_101_1" remark="共军_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_102" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="102,105" defaultImgName="1104_102_1" remark="国军_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_12" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="2,12,46,83" defaultImgName="1104_12_1" remark="土耳其_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_16" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="16,17,70,71,90,100" defaultImgName="1104_16_1" remark="巴西_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_27" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="1,15,25,27,34,41,42,43,44,62,93,94,108" defaultImgName="1104_27_1" remark="东南亚_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_28" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="28,104" defaultImgName="1104_28_1" remark="大清_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_30" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="72,14,30,31,45" defaultImgName="1104_30_1" remark="德国_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_33" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="33,89,59,60" defaultImgName="1104_33_1" remark="俄国_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_35" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="35" defaultImgName="1104_35_1" remark="法国_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_38" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="38,8,11,95" defaultImgName="1104_38_1" remark="奥匈_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_57" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="57,58,67" defaultImgName="1104_57_1" remark="美国_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_6" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="6,7,36,39,40,52,64,65,80,82" defaultImgName="1104_6_1" remark="非洲_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_73" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="73" defaultImgName="1104_73_1" remark="日本_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_79" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="79,32,103" defaultImgName="1104_79_1" remark="苏俄_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_81" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="81" defaultImgName="1104_81_1" remark="太平_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_96" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="3,4,5,22,23,49,86,96" defaultImgName="1104_96_1" remark="阿拉伯_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_97" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110" defaultImgName="1104_97_1" remark="意大利_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_98" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="98,106,107" defaultImgName="1104_98_1" remark="印度_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1103_99" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1103" country="99,109,13,48" defaultImgName="1104_99_1" remark="英国_机枪步兵">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="1" y="41" rot="0" name="mgunfire" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="0" defaultImgName="1105_0_1" remark="通用_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_101" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="101" defaultImgName="1105_101_1" remark="共军_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_102" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="102,105" defaultImgName="1105_102_1" remark="国军_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_12" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="2,12,46,83" defaultImgName="1105_12_1" remark="土耳其_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_16" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="16,17,70,71,90,100" defaultImgName="1105_16_1" remark="巴西_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_27" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="1,15,25,27,34,41,42,43,44,62,93,94,108" defaultImgName="1105_27_1" remark="东南亚_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_28" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="28,104" defaultImgName="1105_28_1" remark="大清_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_30" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="72,14,30,31,45" defaultImgName="1105_30_1" remark="德国_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_33" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="33,89,59,60" defaultImgName="1105_33_1" remark="俄国_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_35" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="35" defaultImgName="1105_35_1" remark="法国_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_38" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="38,8,11,95" defaultImgName="1105_38_1" remark="奥匈_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_57" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="57,58,67" defaultImgName="1105_57_1" remark="美国_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_6" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="6,7,36,39,40,52,64,65,80,82" defaultImgName="1105_6_1" remark="非洲_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_73" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="73" defaultImgName="1105_73_1" remark="日本_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_79" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="79,32,103" defaultImgName="1105_79_1" remark="苏俄_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_81" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="81" defaultImgName="1105_81_1" remark="太平_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_96" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="3,4,5,22,23,49,86,96" defaultImgName="1105_96_1" remark="阿拉伯_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_97" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110" defaultImgName="1105_97_1" remark="意大利_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_98" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="98,106,107" defaultImgName="1105_98_1" remark="印度_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1104_99" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1104" country="99,109,13,48" defaultImgName="1105_99_1" remark="英国_掷弹步兵">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="25" y="60" rot="55" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+
+
+<model id="1105" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="0" defaultImgName="1101_0_1" attackImgName="1101_0_2" 
+bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="通用_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="8" y="45" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="33" y="76" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_101" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="101" defaultImgName="1101_101_1" attackImgName="1101_201_2"  
+bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="共军_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="5" y="49" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="27" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_102" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="102,105" defaultImgName="1101_102_1" attackImgName="1101_202_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="国军_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="5" y="49" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="31" y="78" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_12" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="2,12,46,83" defaultImgName="1101_12_1" attackImgName="1101_22_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="土耳其_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="6" y="51" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="23" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_16" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="16,17,70,71,90,100" defaultImgName="1101_16_1" attackImgName="1101_26_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="巴西_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="7" y="50" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="27" y="76" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_27" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="1,15,25,27,34,41,42,43,44,62,93,94,108" defaultImgName="1101_27_1" attackImgName="1101_27_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="东南亚_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="3" y="51" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="22" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_28" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="28,104" defaultImgName="1101_28_1" attackImgName="1101_28_2"  bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="大清_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="12" y="48" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="25" y="79" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_30" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="72,14,30,31,45" defaultImgName="1101_30_1" attackImgName="1101_30_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="德国_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="10" y="46" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="24" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_33" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="33,89,59,60" defaultImgName="1101_33_1" attackImgName="1101_33_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="俄国_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="7" y="49" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="26" y="76" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_35" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="35" defaultImgName="1101_35_1" attackImgName="1101_35_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="法国_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="8" y="48" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="31" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_38" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="38,8,11,95" defaultImgName="1101_38_1" attackImgName="1101_38_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="奥匈_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="9" y="46" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="23" y="78" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_57" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="57,58,67" defaultImgName="1101_57_1" attackImgName="1101_57_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="美国_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="10" y="48" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="27" y="78" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_6" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="6,7,36,39,40,52,64,65,80,82" defaultImgName="1101_6_1" attackImgName="1101_6_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="非洲_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="9" y="45" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="27" y="83" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_73" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="73" defaultImgName="1101_73_1" attackImgName="1101_73_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="日本_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="14" y="44" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="30" y="80" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_79" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="79,32,103" defaultImgName="1101_79_1" attackImgName="1101_79_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="苏俄_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="8" y="48" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="30" y="76" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_81" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="81" defaultImgName="1101_81_1" attackImgName="1101_81_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="太平_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="9" y="47" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="28" y="79" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_96" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="3,4,5,22,23,49,86,96" defaultImgName="1101_96_1" attackImgName="1101_96_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="阿拉伯_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="5" y="51" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="24" y="79" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_97" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110" defaultImgName="1101_97_1" attackImgName="1101_97_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="意大利_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="8" y="47" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="27" y="77" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_98" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="98,106,107" defaultImgName="1101_98_1" attackImgName="1101_98_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="印度_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="6" y="51" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="23" y="76" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1105_99" x="0" y="0" scale="0.95" age="-1" modelType="0" armyId="1105" country="99,109,13,48" defaultImgName="1101_99_1" attackImgName="1101_99_2" bgImgModelType="0" bgX="0" bgY="25" bgScale="1.1" bgImgName="1105_car" remark="英国_轻步兵">
+		<attack  strike="generalStrike" sound="pistol" atSoundTimie="0">
+			<fire x="7" y="45" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+			<fire x="22" y="78" rot="0" name="lightgun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1201_0" x="0" y="0" scale="1" age="0" modelType="0" armyId="1201" country="0" defaultImgName="1201_0_1" remark="通用_近代 火炮">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="2" y="44" rot="0" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1201_1" x="0" y="0" scale="1" age="1" modelType="0" armyId="1201" country="0" defaultImgName="1201_1_1_0" remark="通用_火炮">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="2" y="34" rot="6" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1201_30" x="0" y="0" scale="1" age="1" modelType="0" armyId="1201" country="72,14,30,31,45,16,17,70,71,100,28" defaultImgName="1201_30_1" remark="德国_火炮">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="2" y="31" rot="5" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1201_33" x="0" y="0" scale="1" age="1" modelType="0" armyId="1201" country="33,89,59,60,79,32,103" defaultImgName="1201_33_1" remark="俄国_火炮">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="2" y="23" rot="0" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1201_35" x="0" y="0" scale="1" age="1" modelType="0" armyId="1201" country="35,1,15,25,27,34,41,42,62,90,93,94,108" defaultImgName="1201_35_1" remark="法国_火炮">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="1" y="35" rot="1" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1201_38" x="0" y="0" scale="1" age="1" modelType="0" armyId="1201" country="38,8,11,95,2,12,46,83" defaultImgName="1201_38_1" remark="奥匈_火炮">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="2" y="34" rot="7" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1201_57" x="0" y="0" scale="1" age="1" modelType="0" armyId="1201" country="57,58,67,73" defaultImgName="1201_57_1" remark="美国_火炮">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="1" y="43" rot="15" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1201_97" x="0" y="0" scale="1" age="1" modelType="0" armyId="1201" country="97,9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110" defaultImgName="1201_97_1" remark="意大利_火炮">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="1" y="30" rot="0" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1201_99" x="0" y="0" scale="1" age="1" modelType="0" armyId="1201" country="99,109,13,48,107,3,4,5,22,23,49,86,96" defaultImgName="1201_99_1" remark="英国_火炮">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="2" y="43" rot="16" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1202_0" x="0" y="0" scale="1.1" age="0" modelType="0" armyId="1202" country="0" defaultImgName="1202_0_1_0_0" remark="通用_近代 重火炮">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="3" y="62" rot="27" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1202_1" x="0" y="0" scale="1.1" age="1" modelType="0" armyId="1202" country="0" defaultImgName="1202_0_1_0" remark="通用_重火炮">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="2" y="55" rot="25" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1202_30" x="0" y="0" scale="1.1" age="1" modelType="0" armyId="1202" country="72,14,30,31,45,16,17,70,71,100,28" defaultImgName="1202_30_1" remark="德国_重火炮">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="3" y="37" rot="16" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1202_33" x="0" y="0" scale="1.1" age="1" modelType="0" armyId="1202" country="33,89,59,60,79,32,103" defaultImgName="1202_33_1" remark="俄国_重火炮">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="2" y="46" rot="26" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1202_35" x="0" y="0" scale="1.1" age="1" modelType="0" armyId="1202" country="35,1,15,25,27,34,41,42,62,90,93,94,108" defaultImgName="1202_35_1" remark="法国_重火炮">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="2" y="34" rot="11" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1202_38" x="0" y="0" scale="1.1" age="1" modelType="0" armyId="1202" country="38,8,11,95,2,12,46,83" defaultImgName="1202_38_1" remark="奥匈_重火炮">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="1" y="37" rot="6" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1202_57" x="0" y="0" scale="1.1" age="1" modelType="0" armyId="1202" country="57,58,67,73" defaultImgName="1202_57_1" remark="美国_重火炮">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="2" y="30" rot="4" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1202_97" x="0" y="0" scale="1.1" age="1" modelType="0" armyId="1202" country="97,9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110" defaultImgName="1202_97_1" remark="意大利_重火炮">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="2" y="34" rot="16" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1202_99" x="0" y="0" scale="1.1" age="1" modelType="0" armyId="1202" country="99,109,13,48,107,3,4,5,22,23,49,86,96" defaultImgName="1202_99_1" remark="英国_重火炮">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="2" y="58" rot="20" name="tankmangun" atTime="0" ifFlip="true" />
+		</attack>
+</model>
+	<model id="1301" x="0" y="0" scale="1.1" age="-1" modelType="0" armyId="1301" country="0" defaultImgName="1301_0_1" remark="通用_装甲车">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="39" y="39" rot="0" name="mgunfire" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1301_30" x="0" y="0" scale="1.1" age="-1" modelType="0" armyId="1301" country="72,14,30,31,45,16,17,70,71,100,28" defaultImgName="1301_30_1" remark="德国_装甲车">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="47" y="52" rot="0" name="mgunfire" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1301_33" x="0" y="0" scale="1.1" age="-1" modelType="0" armyId="1301" country="33,89,59,60,79,32,103" defaultImgName="1301_33_1" remark="俄国_装甲车">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="40" y="49" rot="0" name="mgunfire" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1301_35" x="0" y="0" scale="1.1" age="-1" modelType="0" armyId="1301" country="35,1,15,25,27,34,41,42,62,90,93,94,108" defaultImgName="1301_35_1" remark="法国_装甲车">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="31" y="43" rot="0" name="mgunfire" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1301_38" x="0" y="0" scale="1.1" age="-1" modelType="0" armyId="1301" country="38,8,11,95,2,12,46,83" defaultImgName="1301_38_1" remark="奥匈_装甲车">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="53" y="46" rot="0" name="mgunfire" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1301_57" x="0" y="0" scale="1.1" age="-1" modelType="0" armyId="1301" country="57,58,67,73" defaultImgName="1301_57_1" remark="美国_装甲车">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="44" y="47" rot="0" name="mgunfire" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1301_97" x="0" y="0" scale="1.1" age="-1" modelType="0" armyId="1301" country="97" defaultImgName="1301_97_1" remark="意大利_装甲车">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="39" y="49" rot="0" name="mgunfire" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1301_99" x="0" y="0" scale="1.1" age="-1" modelType="0" armyId="1301" country="99,109,13,48,107,3,4,5,22,23,49,86,96" defaultImgName="1301_99_1" remark="英国_装甲车">
+		<attack strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="40" y="42" rot="0" name="mgunfire" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1302" x="0" y="0" scale="1.15" age="-1" modelType="0" armyId="1302" country="0" defaultImgName="1302_0_1" remark="通用_坦克">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="18" y="33" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1302_30" x="0" y="0" scale="1.15" age="-1" modelType="0" armyId="1302" country="72,14,30,31,45,16,17,70,71,100,28" defaultImgName="1302_30_1" remark="德国_坦克">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="54" y="45" rot="1" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1302_33" x="0" y="0" scale="1.15" age="-1" modelType="0" armyId="1302" country="33,89,59,60,79,32,103" defaultImgName="1302_33_1" remark="俄国_坦克">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="1" y="30" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1302_35" x="0" y="0" scale="1.15" age="-1" modelType="0" armyId="1302" country="35,1,15,25,27,34,41,42,62,90,93,94,108" defaultImgName="1302_35_1" remark="法国_坦克">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="26" y="30" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1302_38" x="0" y="0" scale="1.15" age="-1" modelType="0" armyId="1302" country="38,8,11,95,2,12,46,83" defaultImgName="1302_38_1" remark="奥匈_坦克">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="1" y="42" rot="1" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1302_57" x="0" y="0" scale="1.15" age="-1" modelType="0" armyId="1302" country="57,58,67,73" defaultImgName="1302_57_1" remark="美国_坦克">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="17" y="38" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1302_97" x="0" y="0" scale="1.15" age="-1" modelType="0" armyId="1302" country="97" defaultImgName="1302_97_1" remark="意大利_坦克">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="30" y="40" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1302_99" x="0" y="0" scale="1.15" age="-1" modelType="0" armyId="1302" country="99,109,13,48,107,3,4,5,22,23,49,86,96" defaultImgName="1302_99_1" remark="英国_坦克">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="47" y="46" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1303" x="0" y="0" scale="1.2" age="-1" modelType="0" armyId="1303" country="0" defaultImgName="1303_0_1" remark="通用_重坦克">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="20" y="38" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1303_30" x="0" y="0" scale="1.2" age="-1" modelType="0" armyId="1303" country="72,14,30,31,45" defaultImgName="1303_30_1" remark="德国_重坦克">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="25" y="17" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1303_33" x="0" y="0" scale="1.2" age="-1" modelType="0" armyId="1303" country="33,89,59,60,79,32,103" defaultImgName="1303_33_1" remark="俄国_重坦克">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="42" y="48" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1303_35" x="0" y="0" scale="1.2" age="-1" modelType="0" armyId="1303" country="35,1,15,25,27,34,41,42,62,90,93,94,108" defaultImgName="1303_35_1" remark="法国_重坦克">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="4" y="23" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1303_38" x="0" y="0" scale="1.2" age="-1" modelType="0" armyId="1303" country="38,8,11,95,2,12,46,83" defaultImgName="1303_38_1" remark="奥匈_重坦克">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="2" y="30" rot="1" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1303_57" x="0" y="0" scale="1.2" age="-1" modelType="0" armyId="1303" country="57,58,67,73" defaultImgName="1303_57_1" remark="美国_重坦克">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="8" y="34" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1303_97" x="0" y="0" scale="1.2" age="-1" modelType="0" armyId="1303" country="97" defaultImgName="1303_97_1" remark="意大利_重坦克">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="42" y="49" rot="1" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1303_99" x="0" y="0" scale="1.2" age="-1" modelType="0" armyId="1303" country="99,109,13,48,107,3,4,5,22,23,49,86,96" defaultImgName="1303_99_1" remark="英国_重坦克">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="31" y="17" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1400_0" x="0" y="0" scale="0.8" age="0" modelType="0" armyId="1400" country="0" defaultImgName="1400_0_1_0" remark="近代 运输船">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="49" y="30" rot="11" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1400_1" x="0" y="0" scale="0.85" age="1" modelType="0" armyId="1400" country="0" defaultImgName="1400_1_1" remark="一战 运输船">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="9" y="26" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1400_2" x="0" y="0" scale="0.85" age="1" modelType="0" armyId="1400" country="0" defaultImgName="1400_0_1" remark="二战 运输船">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="16" y="33" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1401_0" x="0" y="20" scale="0.85" age="0" modelType="0" armyId="1401" country="0" defaultImgName="1401_0_1_0" remark="近代 护卫舰">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="46" y="30" rot="23" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1401_1" x="0" y="0" scale="0.85" age="1" modelType="0" armyId="1401" country="0" defaultImgName="1401_0_1" remark="一战 护卫舰">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="21" y="19" rot="6" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1401_2" x="0" y="0" scale="0.85" age="1" modelType="0" armyId="1401" country="72,14,30,31,45,79,32,103,9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110,38,8,11,95,91,102,105,6,7,36,39,40,52,64,65,80,82,2,12,46,83" defaultImgName="1401_1_1" remark="一战 护卫舰2">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="40" y="21" rot="6" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1402_0" x="0" y="20" scale="0.9" age="0" modelType="0" armyId="1402" country="0" defaultImgName="1402_0_1_0" remark="近代 驱逐舰">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="46" y="29" rot="20" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1402_1" x="0" y="0" scale="0.9" age="1" modelType="0" armyId="1402" country="0" defaultImgName="1402_0_1" remark="一战 驱逐舰">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="30" y="13" rot="7" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1402_2" x="0" y="0" scale="0.9" age="1" modelType="0" armyId="1402" country="72,14,30,31,45,79,32,103,9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110,38,8,11,95,91,102,105,6,7,36,39,40,52,64,65,80,82,2,12,46,83" defaultImgName="1402_1_1" remark="一战 驱逐舰2">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="46" y="13" rot="7" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1403_0" x="0" y="20" scale="0.95" age="0" modelType="0" armyId="1403" country="0" defaultImgName="1403_0_1_0" remark="近代 巡洋舰">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="63" y="-22" rot="7" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1403_1" x="0" y="0" scale="0.95" age="1" modelType="0" armyId="1403" country="0" defaultImgName="1403_0_1" remark="一战 巡洋舰">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="32" y="21" rot="8" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1403_2" x="0" y="0" scale="0.95" age="1" modelType="0" armyId="1403" country="72,14,30,31,45,79,32,103,9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110,38,8,11,95,91,102,105,6,7,36,39,40,52,64,65,80,82,2,12,46,83" defaultImgName="1403_1_1" remark="一战 巡洋舰2">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="40" y="19" rot="6" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1404_0" x="0" y="0" scale="1" age="0" modelType="0" armyId="1404" country="0" defaultImgName="1404_0_1_0" remark="近代 装甲舰">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="32" y="17" rot="8" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1404_1" x="0" y="0" scale="1" age="1" modelType="0" armyId="1404" country="0" defaultImgName="1404_0_1" remark="一战 战列舰">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="32" y="20" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1404_2" x="0" y="0" scale="1" age="1" modelType="0" armyId="1404" country="72,14,30,31,45,79,32,103,9,10,18,20,24,29,47,50,51,53,54,66,69,70,71,76,84,110,38,8,11,95,91,102,105,6,7,36,39,40,52,64,65,80,82,2,12,46,83" defaultImgName="1404_1_1" remark="一战 战列舰2">
+		<attack strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="32" y="13" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	
+<model id="1601_0" x="0" y="0" scale="0.8" age="0" modelType="0" armyId="1601" country="0" defaultImgName="1601_0_1_0" remark=" 炮台">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="2" y="75" rot="5" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+
+<model id="1602_0" x="0" y="0" scale="0.85" age="0" modelType="0" armyId="1602" country="0" defaultImgName="1602_0_1_0" remark="海岸炮">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="1" y="81" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+
+	<model id="1603_0" x="0" y="0" scale="0.9" age="0" modelType="1" armyId="1603" country="0" defaultImgName="1603_0_1" remark="碉堡">
+		<attackL strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="17" y="64" rot="0" name="mgunfire" atTime="0" ifFlip="false"/>
+		</attackL>
+		<attackR strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="91" y="45" rot="180" name="mgunfire" atTime="0" ifFlip="false"/>
+		</attackR>
+</model>
+
+	<model id="1604_0" x="0" y="0" scale="0.8" age="0" modelType="1" armyId="1604" country="0" defaultImgName="1604_0_1_0" remark="要塞">
+		<attackL strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="48" y="80" rot="0" name="mgunfire" atTime="0" ifFlip="false"/>
+		</attackL>
+		<attackR strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="117" y="80" rot="180" name="mgunfire" atTime="0" ifFlip="false"/>
+		</attackR>
+</model>
+
+<model id="1605_0" x="0" y="0" scale="1.1" age="0" modelType="3" armyId="1605" country="0" defaultImgName="1605_0_1_l" flipImgName="1605_0_1_r"  remark="近代 巨型要塞">
+		<attackL strike="generalStrike" sound="explode" atSoundTimie="0">
+			<fire x="6" y="79" rot="12" name="tankmangun" atTime="0" ifFlip="false"/>
+		</attackL>
+		<attackR strike="generalStrike" sound="explode" atSoundTimie="0" >
+			<fire x="132" y="80" rot="168" name="tankmangun" atTime="0" ifFlip="false"/>
+		</attackR>
+</model>
+
+	<model id="1605_2" x="0" y="0" scale="0.95" age="2" modelType="1" armyId="1605" country="0" defaultImgName="1605_1_1" remark="一战 巨型要塞">
+		<attackL strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="39" y="63" rot="0" name="mgunfire" atTime="0" ifFlip="false"/>
+		</attackL>
+		<attackR strike="generalStrike" sound="machineGun" atSoundTimie="0">
+			<fire x="140" y="48" rot="180" name="mgunfire" atTime="0" ifFlip="false"/>
+		</attackR>
+</model>
+	<model id="1606_2" x="0" y="0" scale="1" age="2" modelType="0" armyId="1606" country="0" defaultImgName="1606_0_1" remark="飞弹">
+		<attack strike="generalStrike" sound="bombard" atSoundTimie="0">
+			<fire x="2" y="99" rot="33" name="tankmangun" atTime="0" ifFlip="true"/>
+			<fire x="15" y="108" rot="33" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1801" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1801" country="0" defaultImgName="1801_0_1" remark="战斗潜艇">
+		<attack strike="waterStrike" sound="bombard" atSoundTimie="0">
+			<fire x="22" y="12" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+	<model id="1802" x="0" y="0" scale="1" age="-1" modelType="0" armyId="1802" country="0" defaultImgName="1802_0_1" remark="超级战斗潜艇">
+		<attack strike="waterStrike" sound="bombard" atSoundTimie="0">
+			<fire x="24" y="11" rot="0" name="tankmangun" atTime="0" ifFlip="true"/>
+		</attack>
+</model>
+</models>

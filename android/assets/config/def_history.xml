@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<historys>
+      <hostory id="1" mapId="1" name="word_his" beginYear="1840" yearNum="82" remark="1840年开始历史" type="0"  roundMax="999" roundForYear="4" />
+	  <hostory id="2" mapId="0" name="" beginYear="0" yearNum="0" remark="默认测试,无意义" type="0"   roundMax="999" roundForYear="4" />
+</historys>

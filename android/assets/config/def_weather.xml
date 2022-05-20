@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<weathers>
+	<weather id="0" name="正常" move="0" view="0" morale="6" armyEfficiency="100" replyRate="100" airEfficiency="100" remark="无" moneyExtraRate="0" industryExtraRate="0" techExtraRate="0" foodExtraRate="0"/>
+	<weather id="1" name="多云" move="0" view="0" morale="10" armyEfficiency="90" replyRate="110" airEfficiency="90" remark="无" moneyExtraRate="5" industryExtraRate="0" techExtraRate="10" foodExtraRate="0"/>
+	<weather id="2" name="雨天" move="-1" view="-1" morale="-6" armyEfficiency="80" replyRate="70" airEfficiency="80" remark="无" moneyExtraRate="-5" industryExtraRate="-5" techExtraRate="5" foodExtraRate="10"/>1
+	<weather id="3" name="雪天" move="-2" view="-2" morale="-10" armyEfficiency="70" replyRate="60" airEfficiency="50" remark="无" moneyExtraRate="-30" industryExtraRate="10" techExtraRate="30" foodExtraRate="-90"/>1
+	<weather id="4" name="雾天" move="0" view="-2" morale="-3" armyEfficiency="80" replyRate="80" airEfficiency="60" remark="无" moneyExtraRate="-10" industryExtraRate="-20" techExtraRate="0" foodExtraRate="-30"/>
+	<weather id="5" name="大风" move="-1" view="-2" morale="-6" armyEfficiency="80" replyRate="70" airEfficiency="60" remark="无" moneyExtraRate="-20" industryExtraRate="-10" techExtraRate="-50" foodExtraRate="-40"/>
+	<weather id="6" name="酷热" move="0" view="0" morale="-8" armyEfficiency="70" replyRate="50" airEfficiency="70" remark="无" moneyExtraRate="-40" industryExtraRate="0" techExtraRate="-30" foodExtraRate="-50"/>
+	<weather id="7" name="永冬" move="-2" view="0" morale="-8" armyEfficiency="60" replyRate="50" airEfficiency="50" remark="无" moneyExtraRate="-40" industryExtraRate="20" techExtraRate="10" foodExtraRate="-80"/>
+</weathers>

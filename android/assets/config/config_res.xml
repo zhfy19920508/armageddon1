@@ -1,0 +1,69 @@
+<resources>
+<res id="-1" name="common_res" bgImg="初始界面素材">
+	<xmlFile name="bg_start" res="pixmap/bg_start.png" type="texture"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="bt_tiles" res="image/bt_tiles.tata" type="textures"  ifUnload="true" remark="装饰" ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="ui_common" res="image/ui_common.tata" type="textures"  ifUnload="true" remark="ui_common" ifOriginal="true" ifOnlyLoadInEffect="false"/>
+</res>
+
+<res id="0" name="common_res" bgImg="公共素材,不清空">
+	
+	
+	<xmlFile name="bt_flags" res="image/bt_flags.tata" type="textures"  ifUnload="true" remark="" ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	
+	<xmlFile name="ui_common" res="image/ui_common.tata" type="textures"  ifUnload="true" remark="ui_common" ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	
+	<xmlFile name="ui_smap1" res="image/ui_smap1.tata" type="textures" remark="ui1"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="ui_smap2" res="image/ui_smap2.tata" type="textures" remark="游戏资源 ui2"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	
+	<xmlFile name="bt_map" res="image/bt_map.tata" type="textures" remark="地图素材"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	
+	<xmlFile name="bt_tiles" res="image/bt_tiles.tata" type="textures"  ifUnload="true" remark="装饰" ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	
+	<!--<xmlFile name="ui_card_0" res="image/ui_card_0.png" type="textures"   ifUnload="true" remark="卡牌"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="ui_card_1" res="image/ui_card_1.png" type="textures"   ifUnload="true" remark="卡牌"  ifOriginal="true" ifOnlyLoadInEffect="false"/>-->
+	<xmlFile name="ui_achievement" res="image/ui_achievement.tata" type="textures" remark="勋章"   ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	
+<xmlFile name="bg_smallgeneral" res="image/bg_smallgeneral.tata" type="textures" remark="将军小头像"   ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+
+<xmlFile name="ui_card" res="image/ui_card.tata" type="textures"   ifUnload="true" remark="卡牌"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+
+
+<xmlFile name="bt_skill" res="image/bt_skill.tata" type="textures" remark="游戏资源 技能"   ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+<xmlFile name="bt_armymode1" res="image/bt_armymode1.tata" type="textures" remark="游戏资源 兵模1"   ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+<xmlFile name="bt_armymode2" res="image/bt_armymode2.tata" type="textures" remark="游戏资源 兵模2"   ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="ui_wonder" res="image/ui_wonder.tata" type="textures"   ifUnload="游戏资源 true" remark="奇观"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	
+
+
+</res>
+<!-- bg_start在开始界面直接应用 -->
+<res id="1" name="generalScreen" remark="主菜单 通用素材">
+	<xmlFile name="bg_main" res="image/bg_main.tata" type="texture"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="bg_modernmap" res="image/bg_modernmap.tata" type="texture"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="saga_map" res="image/saga_map.jpg" type="texture"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="bg_wordmap" res="image/bg_wordmap.jpg" type="texture"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="bg_newspaper" res="image/bg_newspaper.tata" type="texture"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="bg_pic" res="image/bg_pic.tata" type="textures" remark="背景的分栏图片"   ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="ui_screen" res="image/ui_screen.tata" type="textures"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="commander" res="image/commander.tata" type="texture"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="ui_goods" res="image/ui_goods.tata" type="textures" remark="商品图"   ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="fire_1" res="gif/fire_1.gif" type="gif" remark="页面特效"   ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="true"/>
+</res>
+<res id="2" name="mapEdit" bgImg="地图编辑器素材">
+	<xmlFile name="map_pt1" res="pixmap/pts/pt_1.png" type="texture" remark="默认底图"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<!--<xmlFile name="pm_tiles" res="pixmap/tiles" type="atlasT" remark="装饰图集"   ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>-->
+</res>
+
+<res id="3" name="smap" bgImg="游戏资源">
+	
+</res>
+
+<res id="4" name="sagaScreen" remark="saga素材">
+	<xmlFile name="saga_map" res="image/saga_map.jpg" type="texture"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="bg_newspaper" res="image/bg_newspaper.tata" type="texture"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+	<xmlFile name="ui_screen" res="image/ui_screen.tata" type="textures"  ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="false"/>
+		<xmlFile name="fire_1" res="gif/fire_1.gif" type="gif" remark="页面特效"   ifUnload="true"  ifOriginal="true" ifOnlyLoadInEffect="true"/>
+</res>
+
+
+</resources>

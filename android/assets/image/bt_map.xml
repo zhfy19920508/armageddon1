@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TextureAtlas>
+	<sprite n="animation_build.png" x="64" y="733" w="63" h="78"/>
+	<sprite n="direct_arrow_1.png" x="945" y="548" w="74" h="64"/>
+	<sprite n="direct_arrow_2.png" x="945" y="616" w="74" h="64"/>
+	<sprite n="direct_arrow_3.png" x="945" y="686" w="74" h="64"/>
+	<sprite n="direct_arrow_4.png" x="945" y="753" w="74" h="64"/>
+	<sprite n="direct_arrow_5.png" x="945" y="818" w="74" h="64"/>
+	<sprite n="direct_arrow_6.png" x="945" y="888" w="74" h="64"/>
+	
+	
+	
+	
+	<sprite n="animation_build.png" x="64" y="733" w="63" h="78"/>
+	<sprite n="animation_build.png" x="64" y="733" w="63" h="78"/>
+	<sprite n="army_1101.png" x="775" y="954" w="36" h="26" refx="18" refy="13"/>
+	<sprite n="army_1102.png" x="464" y="384" w="30" h="34" refx="15" refy="17"/>
+	<sprite n="army_1103.png" x="980" y="156" w="42" h="22" refx="21" refy="11"/>
+	<sprite n="army_1104.png" x="524" y="687" w="36" h="41" refx="18" refy="20"/>
+	<sprite n="army_1105.png" x="889" y="449" w="37" h="27" refx="18" refy="13"/>
+	<sprite n="army_1201.png" x="882" y="481" w="43" h="28" refx="21" refy="14"/>
+	<sprite n="army_1202.png" x="209" y="476" w="46" h="32" refx="23" refy="16"/>
+	<sprite n="army_1301.png" x="282" y="598" w="38" h="20" refx="19" refy="10"/>
+	<sprite n="army_1302.png" x="209" y="510" w="46" h="27" refx="23" refy="13"/>
+	<sprite n="army_1303.png" x="560" y="993" w="47" h="29" refx="23" refy="14"/>
+	<sprite n="army_1400.png" x="170" y="945" w="36" h="11" refx="18" refy="5"/>
+	<sprite n="army_1401.png" x="466" y="190" w="33" h="9" refx="16" refy="4"/>
+	<sprite n="army_1402.png" x="221" y="160" w="35" h="11" refx="17" refy="5"/>
+	<sprite n="army_1403.png" x="221" y="145" w="35" h="13" refx="17" refy="6"/>
+	<sprite n="army_1404.png" x="560" y="399" w="40" h="13" refx="20" refy="6"/>
+	<sprite n="army_1405.png" x="131" y="549" w="40" h="13" refx="20" refy="6"/>
+	<sprite n="army_1406.png" x="360" y="596" w="36" h="22" refx="18" refy="11"/>
+	<sprite n="army_1407.png" x="360" y="596" w="36" h="22" refx="18" refy="11"/>
+	<sprite n="army_1408.png" x="360" y="596" w="36" h="22" refx="18" refy="11"/>
+	<sprite n="army_1500.png" x="221" y="173" w="34" h="41" refx="17" refy="20"/>
+	<sprite n="army_1501.png" x="869" y="342" w="43" h="37" refx="21" refy="18"/>
+	<sprite n="army_1501_2.png" x="852" y="382" w="45" h="37" refx="22" refy="18"/>
+	<sprite n="army_1502.png" x="801" y="539" w="41" h="35" refx="20" refy="17"/>
+	<sprite n="army_1502_2.png" x="351" y="687" w="36" h="43" refx="18" refy="21"/>
+	<sprite n="army_1503.png" x="980" y="180" w="41" h="35" refx="20" refy="17"/>
+	<sprite n="army_1503_2.png" x="640" y="729" w="29" h="47" refx="14" refy="23"/>
+	<sprite n="army_1504.png" x="768" y="451" w="36" h="45" refx="18" refy="22"/>
+	<sprite n="army_1505.png" x="215" y="265" w="40" h="41" refx="20" refy="20"/>
+	<sprite n="army_1506.png" x="306" y="687" w="43" h="43" refx="21" refy="21"/>
+	<sprite n="army_1506_2.png" x="333" y="483" w="49" h="43" refx="24" refy="21"/>
+	<sprite n="army_1507.png" x="479" y="687" w="43" h="41" refx="21" refy="20"/>
+	<sprite n="army_1601.png" x="731" y="823" w="40" h="32" refx="20" refy="16"/>
+	<sprite n="army_1602.png" x="801" y="576" w="36" h="24" refx="18" refy="12"/>
+	<sprite n="army_1604.png" x="857" y="421" w="40" h="26" refx="20" refy="13"/>
+	<sprite n="army_1603.png" x="464" y="235" w="34" h="20" refx="16" refy="10"/>
+	<sprite n="army_1605.png" x="741" y="657" w="46" h="24" refx="23" refy="12"/>
+	<sprite n="army_1606.png" x="842" y="482" w="38" h="34" refx="19" refy="17"/>
+	<sprite n="army_1701.png" x="760" y="561" w="39" h="40" refx="19" refy="20"/>
+	<sprite n="army_1702.png" x="741" y="615" w="39" h="40" refx="19" refy="20"/>
+	<sprite n="army_1703.png" x="778" y="342" w="39" h="40" refx="19" refy="20"/>
+	<sprite n="army_1704.png" x="769" y="399" w="39" h="40" refx="19" refy="20"/>
+	<sprite n="army_1705.png" x="728" y="684" w="39" h="40" refx="19" refy="20"/>
+	<sprite n="army_1801.png" x="322" y="598" w="36" h="18" refx="18" refy="9"/>
+	<sprite n="army_1802.png" x="322" y="598" w="36" h="18" refx="18" refy="9"/>
+	<sprite n="army_1803.png" x="322" y="598" w="36" h="18" refx="18" refy="9"/>
+	<sprite n="army_1804.png" x="322" y="598" w="36" h="18" refx="18" refy="9"/>
+	<sprite n="army_5001.png" x="2" y="219" w="75" h="65" refx="37" refy="32"/>
+	<sprite n="army_5002.png" x="780" y="498" w="60" h="39" refx="30" refy="19"/>
+	<sprite n="army_5003.png" x="68" y="817" w="50" h="71" refx="25" refy="35"/>
+	<sprite n="army_5004.png" x="261" y="96" w="83" h="40" refx="41" refy="20"/>
+	<sprite n="army_5005.png" x="899" y="410" w="47" h="28" refx="23" refy="14"/>
+	<sprite n="army_5005_2.png" x="511" y="993" w="47" h="29" refx="23" refy="14"/>
+	<sprite n="army_5006.png" x="262" y="43" w="92" h="51" refx="46" refy="25"/>
+	<sprite n="army_5007.png" x="129" y="733" w="47" h="71" refx="23" refy="35"/>
+	<sprite n="army_click.png" x="558" y="862" w="60" h="60"/>
+	<sprite n="army_group1.png" x="876" y="518" w="30" h="30"/>
+	<sprite n="army_group2.png" x="844" y="518" w="30" h="30"/>
+	<sprite n="army_group3.png" x="857" y="449" w="30" h="30"/>
+	<sprite n="army_group4.png" x="102" y="701" w="30" h="30"/>
+	<sprite n="army_hp_b.png" x="681" y="515" w="51" h="51"/>
+	<sprite n="army_hp_dg.png" x="511" y="931" w="60" h="60"/>
+	<sprite n="army_hp_g.png" x="658" y="584" w="51" h="51"/>
+	<sprite n="army_hp_n.png" x="55" y="971" w="51" h="51"/>
+	<sprite n="army_hp_r.png" x="2" y="971" w="51" h="51"/>
+	<sprite n="army_target_g.png" x="716" y="337" w="60" h="60"/>
+	<sprite n="army_target_n.png" x="699" y="399" w="60" h="60"/>
+	<sprite n="army_target_r.png" x="619" y="522" w="60" h="60"/>
+	<sprite n="armyBottom.png" x="575" y="796" w="60" h="60"/>
+	<sprite n="armyBottom2.png" x="115" y="620" w="72" h="72"/>
+	<sprite n="arrow_blue.png" x="2" y="621" w="36" h="110" refx="18" refy="6"/>
+	<sprite n="arrow_red.png" x="986" y="2" w="36" h="110" refx="18" refy="6"/>
+	<sprite n="blurline.png" x="390" y="2" w="112" h="4" refx="12" refy="2"/>
+	<sprite n="bomb1.png" x="577" y="196" w="20" h="20" refx="11" refy="13"/>
+	<sprite n="border_idea.png" x="390" y="8" w="92" h="65" refx="91" refy="4"/>
+	<sprite n="build_city_0.png" x="637" y="783" w="68" h="48" refx="34" refy="24"/>
+	<sprite n="build_city_1.png" x="609" y="975" w="64" h="47" refx="32" refy="24"/>
+	<sprite n="build_city_2.png" x="387" y="478" w="74" h="49" refx="37" refy="25"/>
+	<sprite n="build_city_3.png" x="463" y="478" w="69" h="49" refx="34" refy="25"/>
+	<sprite n="build_city_4.png" x="78" y="564" w="73" h="54" refx="36" refy="27"/>
+	<sprite n="build_city_5.png" x="258" y="138" w="80" h="54" refx="40" refy="27"/>
+	<sprite n="build_city_6.png" x="504" y="2" w="100" h="60" refx="50" refy="30"/>
+	<sprite n="circle.png" x="416" y="867" w="74" h="65" refx="37" refy="32"/>
+	<sprite n="circle2.png" x="369" y="936" w="74" h="65" refx="37" refy="32"/>
+	<sprite n="circle3.png" x="481" y="529" w="74" h="65" refx="37" refy="32"/>
+	<sprite n="city_1.png" x="545" y="399" w="13" h="14"/>
+	<sprite n="city_2.png" x="574" y="280" w="19" h="17"/>
+	<sprite n="city_3.png" x="233" y="124" w="23" h="19"/>
+	<sprite n="city_4.png" x="464" y="323" w="32" h="28"/>
+	<sprite n="city_5.png" x="464" y="353" w="31" h="29"/>
+	<sprite n="city_island.png" x="233" y="66" w="26" h="30"/>
+	<sprite n="city_port.png" x="466" y="156" w="33" h="32"/>
+	<sprite n="cloud.png" x="530" y="596" w="64" h="64" refx="36" refy="29"/>
+	<sprite n="cloud1.png" x="513" y="730" w="64" h="64" refx="37" refy="26"/>
+	<sprite n="cloud2.png" x="509" y="796" w="64" h="64" refx="36" refy="31"/>
+	<sprite n="cloud4.png" x="492" y="865" w="64" h="64" refx="35" refy="31"/>
+	<sprite n="fiery1.png" x="596" y="587" w="60" h="60" refx="29" refy="29"/>
+	<sprite n="firecloud.png" x="654" y="337" w="60" h="60" refx="23" refy="44"/>
+	<sprite n="fragment1.png" x="470" y="596" w="41" h="21" refx="31" refy="20"/>
+	<sprite n="g_0.png" x="675" y="960" w="49" h="49" refx="24" refy="24"/>
+	<sprite n="g_1.png" x="634" y="909" w="49" h="49" refx="24" refy="24"/>
+	<sprite n="g_10.png" x="711" y="568" w="47" h="45" refx="21" refy="24"/>
+	<sprite n="g_11.png" x="346" y="111" w="42" h="55" refx="21" refy="27"/>
+	<sprite n="g_12.png" x="215" y="216" w="40" h="47" refx="20" refy="23"/>
+	<sprite n="g_13.png" x="671" y="858" w="51" h="48" refx="25" refy="24"/>
+	<sprite n="g_14.png" x="78" y="455" w="53" h="54" refx="26" refy="27"/>
+	<sprite n="g_15.png" x="978" y="288" w="44" h="52" refx="22" refy="26"/>
+	<sprite n="g_16.png" x="333" y="279" w="53" h="55" refx="26" refy="27"/>
+	<sprite n="g_17.png" x="108" y="963" w="45" h="54" refx="22" refy="27"/>
+	<sprite n="g_18.png" x="736" y="907" w="47" h="45" refx="21" refy="24"/>
+	<sprite n="g_19.png" x="209" y="379" w="46" h="48" refx="23" refy="24"/>
+	<sprite n="g_2.png" x="620" y="858" w="49" h="49" refx="24" refy="24"/>
+	<sprite n="g_20.png" x="726" y="957" w="47" h="45" refx="21" refy="24"/>
+	<sprite n="g_21.png" x="756" y="776" w="47" h="45" refx="21" refy="24"/>
+	<sprite n="g_22.png" x="724" y="858" w="47" h="47" refx="23" refy="25"/>
+	<sprite n="g_23.png" x="255" y="690" w="49" h="41" refx="23" refy="25"/>
+	<sprite n="g_24.png" x="806" y="441" w="49" h="39" refx="24" refy="21"/>
+	<sprite n="g_25.png" x="734" y="514" w="44" h="45" refx="22" refy="24"/>
+	<sprite n="g_26.png" x="720" y="729" w="47" h="45" refx="23" refy="25"/>
+	<sprite n="g_27.png" x="389" y="687" w="43" h="42" refx="21" refy="21"/>
+	<sprite n="g_28.png" x="707" y="776" w="47" h="45" refx="23" refy="22"/>
+	<sprite n="g_29.png" x="209" y="429" w="46" h="45" refx="23" refy="22"/>
+	<sprite n="g_30.png" x="692" y="637" w="47" h="45" refx="21" refy="24"/>
+	<sprite n="g_31.png" x="333" y="336" w="53" h="51" refx="27" refy="23"/>
+	<sprite n="g_32.png" x="164" y="694" w="47" h="37" refx="24" refy="20"/>
+	<sprite n="g_33.png" x="671" y="729" w="47" h="45" refx="22" refy="25"/>
+	<sprite n="g_34.png" x="80" y="209" w="57" h="45" refx="29" refy="17"/>
+	<sprite n="g_35.png" x="782" y="603" w="65" h="39" refx="33" refy="18"/>
+	<sprite n="g_36.png" x="717" y="461" w="49" h="51" refx="22" refy="32"/>
+	<sprite n="g_37.png" x="434" y="687" w="43" h="41" refx="22" refy="21"/>
+	<sprite n="g_38.png" x="581" y="924" w="51" h="49" refx="24" refy="21"/>
+	<sprite n="g_39.png" x="464" y="420" w="49" h="53" refx="25" refy="24"/>
+	<sprite n="g_40.png" x="333" y="389" w="53" h="39" refx="27" refy="18"/>
+	<sprite n="g_41.png" x="685" y="908" w="49" h="47" refx="23" refy="25"/>
+	<sprite n="g_42.png" x="78" y="511" w="51" h="51" refx="27" refy="26"/>
+	<sprite n="g_43.png" x="79" y="256" w="55" h="55" refx="28" refy="28"/>
+	<sprite n="g_44.png" x="80" y="150" w="57" h="57" refx="28" refy="32"/>
+	<sprite n="g_45.png" x="333" y="430" w="52" h="51" refx="26" refy="25"/>
+	<sprite n="gunflash1.png" x="40" y="701" w="60" h="30" refx="8" refy="15"/>
+	<sprite n="gunflashsmoke1.png" x="637" y="399" w="60" h="60" refx="30" refy="32"/>
+	<sprite n="icon_0.png" x="452" y="596" w="16" h="22"/>
+	<sprite n="icon_1.png" x="434" y="596" w="16" h="22"/>
+	<sprite n="icon_2.png" x="416" y="596" w="16" h="22"/>
+	<sprite n="icon_3.png" x="398" y="596" w="16" h="22"/>
+	<sprite n="icon_4.png" x="134" y="699" w="16" h="22"/>
+	<sprite n="icon_5.png" x="153" y="588" w="16" h="22"/>
+	<sprite n="icon_6.png" x="153" y="564" w="16" h="22"/>
+	<sprite n="icon_7.png" x="574" y="316" w="16" h="22"/>
+	<sprite n="icon_8.png" x="483" y="132" w="16" h="22"/>
+	<sprite n="icon_9.png" x="483" y="108" w="16" h="22"/>
+	<sprite n="icon_max.png" x="578" y="92" w="22" h="21"/>
+	<sprite n="image01.png" x="914" y="337" w="60" h="34" refx="8" refy="13"/>
+	<sprite n="image02.png" x="173" y="549" w="60" h="69" refx="32" refy="44"/>
+	<sprite n="image050.png" x="234" y="620" w="66" h="68" refx="38" refy="39"/>
+	<sprite n="level_1.png" x="209" y="539" w="16" h="8"/>
+	<sprite n="level_2.png" x="527" y="399" w="16" h="15"/>
+	<sprite n="level_3.png" x="483" y="84" w="16" h="22"/>
+	<sprite n="level_4.png" x="496" y="399" w="16" h="18"/>
+	<sprite n="level_5.png" x="484" y="57" w="16" h="25"/>
+	<sprite n="level_6.png" x="484" y="25" w="16" h="30"/>
+	<sprite n="level_7.png" x="484" y="8" w="17" h="15"/>
+	<sprite n="level_ngeneral.png" x="819" y="342" w="48" h="38"/>
+	<sprite n="level_rgeneral.png" x="340" y="168" w="48" h="38"/>
+	<sprite n="map_selected.png" x="2" y="897" w="68" h="72" refx="38" refy="39"/>
+	<sprite n="map_selected2.png" x="2" y="2" w="136" h="146"/>
+	<sprite n="mark_act.png" x="914" y="373" w="50" h="35"/>
+	<sprite n="mark_airborne.png" x="2" y="817" w="64" h="78"/>
+	<sprite n="mark_attackCircle.png" x="178" y="733" w="68" h="68"/>
+	<sprite n="mark_capital.png" x="464" y="291" w="32" h="30"/>
+	<sprite n="mark_formation_1.png" x="454" y="620" w="74" h="65"/>
+	<sprite n="mark_formation_10.png" x="371" y="732" w="74" h="65"/>
+	<sprite n="mark_formation_11.png" x="367" y="800" w="74" h="65"/>
+	<sprite n="mark_formation_12.png" x="340" y="869" w="74" h="65"/>
+	<sprite n="mark_formation_13.png" x="293" y="939" w="74" h="65"/>
+	<sprite n="mark_formation_14.png" x="405" y="529" w="74" h="65"/>
+	<sprite n="mark_formation_15.png" x="378" y="620" w="74" h="65"/>
+	<sprite n="mark_formation_16.png" x="295" y="733" w="74" h="65"/>
+	<sprite n="mark_formation_17.png" x="291" y="802" w="74" h="65"/>
+	<sprite n="mark_formation_18.png" x="264" y="872" w="74" h="65"/>
+	<sprite n="mark_formation_19.png" x="217" y="945" w="74" h="65"/>
+	<sprite n="mark_formation_2.png" x="329" y="529" w="74" h="65"/>
+	<sprite n="mark_formation_20.png" x="302" y="620" w="74" h="65"/>
+	<sprite n="mark_formation_21.png" x="902" y="270" w="74" h="65"/>
+	<sprite n="mark_formation_22.png" x="826" y="270" w="74" h="65"/>
+	<sprite n="mark_formation_23.png" x="750" y="270" w="74" h="65"/>
+	<sprite n="mark_formation_24.png" x="674" y="270" w="74" h="65"/>
+	<sprite n="mark_formation_25.png" x="2" y="554" w="74" h="65"/>
+	<sprite n="mark_formation_26.png" x="133" y="482" w="74" h="65"/>
+	<sprite n="mark_formation_27.png" x="257" y="462" w="74" h="65"/>
+	<sprite n="mark_formation_28.png" x="388" y="411" w="74" h="65"/>
+	<sprite n="mark_formation_29.png" x="498" y="332" w="74" h="65"/>
+	<sprite n="mark_formation_3.png" x="598" y="270" w="74" h="65"/>
+	<sprite n="mark_formation_30.png" x="903" y="203" w="74" h="65"/>
+	<sprite n="mark_formation_31.png" x="827" y="203" w="74" h="65"/>
+	<sprite n="mark_formation_32.png" x="751" y="203" w="74" h="65"/>
+	<sprite n="mark_formation_33.png" x="675" y="203" w="74" h="65"/>
+	<sprite n="mark_formation_34.png" x="257" y="395" w="74" h="65"/>
+	<sprite n="mark_formation_35.png" x="388" y="344" w="74" h="65"/>
+	<sprite n="mark_formation_36.png" x="498" y="265" w="74" h="65"/>
+	<sprite n="mark_formation_37.png" x="599" y="203" w="74" h="65"/>
+	<sprite n="mark_formation_38.png" x="904" y="136" w="74" h="65"/>
+	<sprite n="mark_formation_39.png" x="828" y="136" w="74" h="65"/>
+	<sprite n="mark_formation_4.png" x="752" y="136" w="74" h="65"/>
+	<sprite n="mark_formation_40.png" x="676" y="136" w="74" h="65"/>
+	<sprite n="mark_formation_41.png" x="2" y="487" w="74" h="65"/>
+	<sprite n="mark_formation_42.png" x="133" y="415" w="74" h="65"/>
+	<sprite n="mark_formation_43.png" x="257" y="328" w="74" h="65"/>
+	<sprite n="mark_formation_44.png" x="388" y="277" w="74" h="65"/>
+	<sprite n="mark_formation_45.png" x="388" y="210" w="74" h="65"/>
+	<sprite n="mark_formation_46.png" x="501" y="198" w="74" h="65"/>
+	<sprite n="mark_formation_47.png" x="600" y="136" w="74" h="65"/>
+	<sprite n="mark_formation_48.png" x="906" y="69" w="74" h="65"/>
+	<sprite n="mark_formation_49.png" x="830" y="69" w="74" h="65"/>
+	<sprite n="mark_formation_5.png" x="754" y="69" w="74" h="65"/>
+	<sprite n="mark_formation_50.png" x="678" y="69" w="74" h="65"/>
+	<sprite n="mark_formation_51.png" x="2" y="420" w="74" h="65"/>
+	<sprite n="mark_formation_52.png" x="133" y="348" w="74" h="65"/>
+	<sprite n="mark_formation_53.png" x="2" y="353" w="74" h="65"/>
+	<sprite n="mark_formation_54.png" x="136" y="281" w="74" h="65"/>
+	<sprite n="mark_formation_55.png" x="257" y="261" w="74" h="65"/>
+	<sprite n="mark_formation_56.png" x="257" y="194" w="74" h="65"/>
+	<sprite n="mark_formation_57.png" x="390" y="143" w="74" h="65"/>
+	<sprite n="mark_formation_58.png" x="501" y="131" w="74" h="65"/>
+	<sprite n="mark_formation_59.png" x="602" y="69" w="74" h="65"/>
+	<sprite n="mark_formation_6.png" x="910" y="2" w="74" h="65"/>
+	<sprite n="mark_formation_60.png" x="834" y="2" w="74" h="65"/>
+	<sprite n="mark_formation_61.png" x="758" y="2" w="74" h="65"/>
+	<sprite n="mark_formation_62.png" x="682" y="2" w="74" h="65"/>
+	<sprite n="mark_formation_63.png" x="502" y="64" w="74" h="65"/>
+	<sprite n="mark_formation_7.png" x="606" y="2" w="74" h="65"/>
+	<sprite n="mark_formation_8.png" x="2" y="286" w="74" h="65"/>
+	<sprite n="mark_formation_9.png" x="139" y="214" w="74" h="65"/>
+	<sprite n="mark_hexagon.png" x="2" y="150" w="76" h="67" refx="38" refy="33"/>
+	<sprite n="mark_largeCity.png" x="233" y="98" w="24" h="24"/>
+	<sprite n="mark_mediumCity.png" x="577" y="259" w="19" h="19"/>
+	<sprite n="mark_point_b.png" x="464" y="257" w="32" h="32"/>
+	<sprite n="mark_point_g.png" x="466" y="201" w="32" h="32"/>
+	<sprite n="mark_point_r.png" x="356" y="77" w="32" h="32"/>
+	<sprite n="mark_point_w.png" x="356" y="43" w="32" h="32"/>
+	<sprite n="mark_reload.png" x="169" y="806" w="73" h="68"/>
+	<sprite n="mark_smallCity.png" x="346" y="96" w="8" h="8"/>
+	<sprite n="mark_target.png" x="140" y="66" w="91" h="66"/>
+	<sprite n="mark_target2.png" x="390" y="75" w="91" h="66"/>
+	<sprite n="mark_target3.png" x="140" y="134" w="79" h="78"/>
+	<sprite n="mark_transport.png" x="40" y="621" w="73" h="78"/>
+	<sprite n="mark_updlv.png" x="577" y="235" w="19" h="22"/>
+	<sprite n="mark_wonder.png" x="578" y="64" w="22" h="26"/>
+	<sprite n="markB_air.png" x="574" y="299" w="19" h="15"/>
+	<sprite n="markB_nul.png" x="577" y="218" w="20" h="15"/>
+	<sprite n="markR_energy.png" x="514" y="399" w="11" h="16"/>
+	<sprite n="mgunfire.png" x="624" y="649" w="66" h="36"/>
+	<sprite n="morale_bar.png" x="573" y="924" w="6" h="50"/>
+	<sprite n="morale_bar_b.png" x="761" y="399" w="6" h="50"/>
+	<sprite n="morale_bar_g.png" x="582" y="340" w="6" h="50"/>
+	<sprite n="morale_bar_r.png" x="574" y="340" w="6" h="50"/>
+	<sprite n="Parachute.png" x="2" y="733" w="60" h="82" refx="31" refy="32"/>
+	<sprite n="rank_1.png" x="121" y="886" w="47" h="71"/>
+	<sprite n="rank_10.png" x="189" y="620" w="43" h="69"/>
+	<sprite n="rank_11.png" x="979" y="217" w="43" h="69"/>
+	<sprite n="rank_12.png" x="212" y="308" w="43" h="69"/>
+	<sprite n="rank_13.png" x="78" y="384" w="53" h="69"/>
+	<sprite n="rank_14.png" x="78" y="313" w="53" h="69"/>
+	<sprite n="rank_15.png" x="333" y="208" w="53" h="69"/>
+	<sprite n="rank_2.png" x="120" y="813" w="47" h="71"/>
+	<sprite n="rank_3.png" x="72" y="890" w="47" h="71"/>
+	<sprite n="rank_4.png" x="248" y="733" w="45" h="67"/>
+	<sprite n="rank_5.png" x="244" y="803" w="45" h="67"/>
+	<sprite n="rank_6.png" x="217" y="876" w="45" h="67"/>
+	<sprite n="rank_7.png" x="282" y="529" w="45" h="67"/>
+	<sprite n="rank_8.png" x="170" y="876" w="45" h="67"/>
+	<sprite n="rank_9.png" x="235" y="539" w="45" h="67"/>
+	<sprite n="ray0000.png" x="140" y="26" w="120" h="38" refx="9" refy="18"/>
+	<sprite n="ray0001.png" x="268" y="2" w="120" h="39" refx="15" refy="19"/>
+	<sprite n="ring.png" x="140" y="2" w="126" h="22" refx="63" refy="6"/>
+	<sprite n="rocket.png" x="445" y="934" w="64" h="64" refx="62" refy="29"/>
+	<sprite n="sc_1101.png" x="816" y="719" w="45" h="23"/>
+	<sprite n="sc_1102.png" x="891" y="550" w="45" h="23"/>
+	<sprite n="sc_1102_2.png" x="886" y="575" w="45" h="23"/>
+	<sprite n="sc_1103.png" x="849" y="601" w="45" h="23"/>
+	<sprite n="sc_1203.png" x="836" y="644" w="45" h="23"/>
+	<sprite n="sc_1104.png" x="805" y="758" w="45" h="23"/>
+	
+	
+	<sprite n="sc_1105.png" x="816" y="694" w="45" h="23"/>
+	
+	
+	<sprite n="sc_1201.png" x="816" y="669" w="45" h="23"/>
+	<sprite n="sc_1202.png" x="805" y="783" w="45" h="23"/>
+	<sprite n="sc_1204.png" x="769" y="733" w="45" h="23"/>
+	<sprite n="sc_1205.png" x="769" y="708" w="45" h="23"/>
+	<sprite n="sc_1206.png" x="789" y="644" w="45" h="23"/>
+	<sprite n="sc_1207.png" x="769" y="683" w="45" h="23"/>
+	<sprite n="sc_1301.png" x="822" y="998" w="45" h="23"/>
+	<sprite n="sc_1302.png" x="822" y="973" w="45" h="23"/>
+	<sprite n="sc_1303.png" x="813" y="948" w="45" h="23"/>
+	<sprite n="sc_1304.png" x="785" y="923" w="45" h="23"/>
+	<sprite n="sc_1305.png" x="785" y="898" w="45" h="23"/>
+	<sprite n="sc_1400.png" x="773" y="873" w="45" h="23"/>
+	<sprite n="sc_1401.png" x="773" y="848" w="45" h="23"/>
+	<sprite n="sc_1402.png" x="773" y="823" w="45" h="23"/>
+	<sprite n="sc_1403.png" x="974" y="504" w="45" h="23"/>
+	<sprite n="sc_1404.png" x="927" y="504" w="45" h="23"/>
+	<sprite n="sc_1405.png" x="974" y="479" w="45" h="23"/>
+	<sprite n="sc_1406.png" x="927" y="479" w="45" h="23"/>
+	<sprite n="sc_1407.png" x="975" y="454" w="45" h="23"/>
+	<sprite n="sc_1408.png" x="928" y="454" w="45" h="23"/>
+	<sprite n="sc_1601.png" x="775" y="982" w="45" h="23"/>
+	<sprite n="sc_1602.png" x="948" y="429" w="45" h="23"/>
+	<sprite n="sc_1603.png" x="844" y="550" w="45" h="23"/>
+	<sprite n="sc_1604.png" x="839" y="576" w="45" h="23"/>
+	<sprite n="sc_1605.png" x="976" y="367" w="45" h="23"/>
+	<sprite n="sc_1606.png" x="976" y="342" w="45" h="23"/>
+	<sprite n="sc_1801.png" x="684" y="833" w="45" h="23"/>
+	<sprite n="sc_1802.png" x="637" y="833" w="45" h="23"/>
+	<sprite n="sc_1803.png" x="577" y="662" w="45" h="23"/>
+	<sprite n="sc_1804.png" x="530" y="662" w="45" h="23"/>
+	<sprite n="sc_attributeBorder.png" x="115" y="694" w="47" h="3"/>
+	<sprite n="sc_border.png" x="579" y="729" w="59" h="52" refx="30" refy="26"/>
+	<sprite n="sc_border_black.png" x="656" y="461" w="59" h="52" refx="30" refy="26"/>
+	<sprite n="sc_border_blue.png" x="595" y="468" w="59" h="52" refx="30" refy="26"/>
+	<sprite n="sc_border_cyan.png" x="576" y="414" w="59" h="52" refx="30" refy="26"/>
+	<sprite n="sc_border_green.png" x="534" y="471" w="59" h="52" refx="30" refy="26"/>
+	<sprite n="sc_border_red.png" x="515" y="417" w="59" h="52" refx="30" refy="26"/>
+	<sprite n="sc_border0.png" x="966" y="392" w="49" h="35" refx="30" refy="26"/>
+	<sprite n="sc_general.png" x="64" y="813" w="45" h="2"/>
+	<sprite n="sc_group1.png" x="577" y="187" w="21" h="7"/>
+	<sprite n="sc_group2.png" x="577" y="178" w="21" h="7"/>
+	<sprite n="sc_group3.png" x="577" y="169" w="21" h="7"/>
+	<sprite n="sc_group4.png" x="577" y="160" w="21" h="7"/>
+	<sprite n="sc_group5.png" x="577" y="151" w="21" h="7"/>
+	<sprite n="sc_group6.png" x="577" y="142" w="21" h="7"/>
+	<sprite n="sc_group7.png" x="577" y="133" w="21" h="7"/>
+	<sprite n="sc_group8.png" x="578" y="124" w="21" h="7"/>
+	<sprite n="sc_group9.png" x="578" y="115" w="21" h="7"/>
+	<sprite n="smoke2.png" x="557" y="525" w="60" h="60" refx="30" refy="42"/>
+	<sprite n="spark.png" x="604" y="687" w="40" h="40" refx="21" refy="22"/>
+	<sprite n="star.png" x="447" y="730" w="64" h="64" refx="33" refy="34"/>
+	<sprite n="unit_face0.png" x="562" y="687" w="40" h="40"/>
+	<sprite n="unit_face1.png" x="213" y="691" w="40" h="40"/>
+	<sprite n="unit_face2.png" x="982" y="114" w="40" h="40"/>
+	<sprite n="unit_face3.png" x="810" y="384" w="40" h="39"/>
+	<sprite n="unit_face4.png" x="687" y="687" w="39" h="40"/>
+	<sprite n="unit_face5.png" x="646" y="687" w="39" h="40"/>
+	<sprite n="water001.png" x="443" y="799" w="64" h="64" refx="33" refy="36"/>
+	<sprite n="water02.png" x="592" y="337" w="60" h="60" refx="56" refy="29"/>
+	<sprite n="water03.png" x="155" y="959" w="60" h="60" refx="46" refy="53"/>
+</TextureAtlas>

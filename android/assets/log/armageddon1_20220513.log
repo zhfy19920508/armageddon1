@@ -1,0 +1,21 @@
+
+0.8.0 i
+ResGameConfig java.lang.NullPointerException
+	at com.zhfy.game.config.ResGameConfig.setModPro(ResGameConfig.java:367)
+	at com.zhfy.game.MainGame.create(MainGame.java:179)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.mainLoop(LwjglApplication.java:150)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:127)
+
+0.8.0 i
+ResGameConfig java.lang.NullPointerException
+	at com.zhfy.game.config.ResGameConfig.setModPro(ResGameConfig.java:367)
+	at com.zhfy.game.MainGame.create(MainGame.java:179)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.mainLoop(LwjglApplication.java:150)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:127)
+
+0.8.0 i
+ResGameConfig java.lang.NullPointerException
+	at com.zhfy.game.config.ResGameConfig.setModPro(ResGameConfig.java:367)
+	at com.zhfy.game.MainGame.create(MainGame.java:179)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.mainLoop(LwjglApplication.java:150)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:127)

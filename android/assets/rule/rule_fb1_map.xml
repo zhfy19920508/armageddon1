@@ -1,0 +1,26 @@
+<Files  game="gg1" fileType="bin" ifET="false">
+	<bm0 id="bm0" name="masterData" ifCycle="false" Count="one" remark="主数据 128" >
+		<bm id="bm0_1" size="4" name="mapVersion" remark="版本" type="Short" function="no" defaul="1"/>
+		<bm id="bm0_2" size="8" name="mapWidth" remark="w" type="Integer" function="mapW" defaul="!"/>
+		<bm id="bm0_3" size="8" name="mapHeight" remark="h" type="Integer" function="mapH" defaul="!"/>
+	</bm0>
+	<bm1 id="bm1" name="hexagonData" ifCycle="true" Count="sumGride" remark="地形" >
+		<bm id="bm1_1" size="2" name="blockType" remark="terrainimg的type " type="Byte" function="no" defaul="300"/>
+		<bm id="bm1_2" size="2" name="backTile" remark="底层地形" type="Byte" function="no" defaul="100"/>
+		<bm id="bm1_3" size="2" name="backIdx" remark="图像编号" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_4" size="2" name="backRefX" remark="偏移横" type="Byte" function="no" defaul="1"/>
+		<bm id="bm1_5" size="2" name="backRefY" remark="偏移纵" type="Byte" function="no" defaul="2"/>
+		<bm id="bm1_6" size="2" name="foreTile" remark="面层地形" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_7" size="2" name="foreIdx" remark="图像编号" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_8" size="2" name="foreRefX" remark="底层偏移x" type="Byte" function="no" defaul="1.0"/>
+		<bm id="bm1_9" size="2" name="foreRefY" remark="底层偏移y" type="Byte" function="no" defaul="0.0"/>
+		<bm id="bm1_10" size="2" name="tilePass" remark="水边缘" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_11" size="2" name="zone" remark="陆边缘" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_12" size="8" name="political" remark="核心地块" type="Integer" function="no" defaul="0"/>
+		<bm id="bm1_13" size="2" name="climateId" remark="气候类型" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_14" size="2" name="buildId" remark="建筑类型" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_15" size="2" name="buildLv" remark="建筑等级" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_16" size="2" name="facility" remark="设施" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_17" size="4" name="areaId" remark="区域名称" type="Short" function="no" defaul="0"/>
+	</bm1>
+</Files>

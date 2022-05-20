@@ -1,0 +1,270 @@
+<Files  game="fb1" fileType="btl" ifET="false"><!--此为征服剧本生成的战役文档-->
+	<bm0 id="bm0" name="masterData" ifCycle="false" Count="one" remark="主数据" >
+		<bm id="bm0_1" size="4" name="Version" remark="版本" type="Short" function="no" defaul="1"/>
+		<bm id="bm0_2" name="gameStatu" size="2" remark="游戏状态" defaul="0" type="Byte" function="no"/><!--0开始,2存档,3无存档-->
+		<bm id="bm0_3" name="gameType" size="2" remark="btl类型" defaul="0" type="Byte" function="no"/><!--0征服,2战役,3自走棋-->
+		<bm id="bm0_4" name="mapLandBase" size="2" remark="地图底色" defaul="0" type="Byte" function="no"/><!--0默认-->
+		<bm id="bm0_5" name="mapSeaBase" size="2" remark="海洋底色" defaul="0" type="Byte" function="no"/><!--0默认-->
+		<bm id="bm0_6" name="battleType" size="2" remark="战争类型" defaul="0" type="Byte" function="no"/><!--0全部 1陆地 2海军  -->
+		<bm id="bm0_7" name="ifFog" size="2" remark="是否开启迷雾" defaul="0" type="Byte" function="no"/><!--0关闭1开启-->
+		<bm id="bm0_8" name="mapId" size="4" remark="对应的mapId" defaul="1" type="Short" function="no"/>
+		<bm id="bm0_9" name="startX" size="4" remark="地图X坐标" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_10" name="startY" size="4" remark="地图Y坐标" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_11" name="width" size="4" remark="地图宽" defaul="1" type="Short" function="mapW"/>
+		<bm id="bm0_12" name="height" size="4" remark="地图高" defaul="1" type="Short" function="mapH"/>
+		<bm id="bm0_13" name="playMusicId" size="2" remark="播放音乐序号" defaul="0" type="Byte" function="no"/>
+		<bm id="bm0_14" name="weatherId" size="2" remark="天气id" defaul="0" type="Byte" function="no"/>
+		<bm id="bm0_15" name="randMax" size="2" remark="回合上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm0_16" name="randNow" size="2" remark="当前回合" defaul="0" type="Byte" function="no"/>
+		<bm id="bm0_17" name="gameYear" size="4" remark="游戏年份" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_18" name="gameMouth" size="4" remark="游戏月份" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_19" name="mapBinCount" size="4" remark="地图信息数" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_20" name="legionsCount" size="4" remark="军团总数" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_21" name="buildsCount" size="4" remark="建筑总数" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_22" name="facilitysCount" size="4" remark="设施总数" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_23" name="nuclearsCount" size="4" remark="超武总数" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_24" name="airforcesCount" size="4" remark="空军总数" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_25" name="armysCount" size="4" remark="兵种总数" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_26" name="trapsCount" size="4" remark="陷阱总数" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_27" name="remarkCount2" size="4" remark="备用数据源2" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_28" name="political" size="4" remark="原region" defaul="0" type="Short" function="no"/><!--原region-->
+		<bm id="bm0_29" name="victoryIndex" size="4" remark="游戏胜利点序列" defaul="0" type="Short" function="no"/><!--bm3序列归属-->
+		<bm id="bm0_30" name="gameTask" size="2" remark="游戏任务" defaul="0" type="Byte" function="no"/><!--0攻占据点1保护据点-->
+		<bm id="bm0_31" name="gameEndYear" size="4" remark="游戏保存年份" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_32" name="nextStageId" size="4" remark="游戏保存日期" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_33" name="remakField" size="4" remark="游戏保存时间" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_34" name="playerLegionIndex" size="4" remark="玩家国家" defaul="0" type="Short" function="no"/>
+		<bm id="bm0_35" name="incomeRate" size="2" remark="总收入比" defaul="0" type="Byte" function="no"/>
+		<bm id="bm0_36" name="airAddRange" size="2" remark="飞机范围加成" defaul="0" type="Byte" function="no"/>
+		<bm id="bm0_37" name="unitAddMove" size="2" remark="单位是否增加移动力" defaul="0" type="Byte" function="no"/>
+	</bm0>
+
+	<bm1 id="bm1" name="hexagonData" ifCycle="true" Count="bm0_19" remark="地形" >
+		<bm id="bm1_1" size="2" name="blockType" remark="terrainimg的type " type="Byte" function="no" defaul="0"/><!---->
+		<bm id="bm1_2" size="2" name="backTile" remark="底层地形" type="Byte" function="no" defaul="1"/>
+		<bm id="bm1_3" size="2" name="backIdx" remark="图像编号" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_4" size="2" name="backRefX" remark="偏移横" type="Byte" function="no" defaul="1"/>
+		<bm id="bm1_5" size="2" name="backRefY" remark="偏移纵" type="Byte" function="no" defaul="2"/>
+		<bm id="bm1_6" size="2" name="foreTile" remark="面层地形" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_7" size="2" name="foreIdx" remark="图像编号" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_8" size="2" name="foreRefX" remark="底层偏移x" type="Byte" function="no" defaul="1.0"/>
+		<bm id="bm1_9" size="2" name="foreRefY" remark="底层偏移y" type="Byte" function="no" defaul="0.0"/>
+		<bm id="bm1_10" size="2" name="tilePass" remark="水边缘" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_11" size="2" name="zone" remark="陆边缘" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_12" size="8" name="political" remark="核心地块" type="Integer" function="no" defaul="0"/>
+		<bm id="bm1_13" size="2" name="climateId" remark="气候类型" type="Byte" function="no" defaul="0"/>
+		<bm id="bm1_14" size="4" name="legionId" remark="军团归属" type="Short" function="no" defaul="0"/>
+	</bm1>
+
+	<bm2 id="bm2" name="legionData" ifCycle="true" Count="bm0_20" remark="军团数据" >
+		<bm id="bm2_1" name="buildPolicy" size="4" remark="军团序号" defaul="0" type="Short" function="no"/>
+		<bm id="bm2_2" name="internIndex" size="4" remark="组织id,默认为军团序号,在无战略的情况下即阵营!" defaul="0" type="Short" function="no"/><!--0为中立-->
+		<bm id="bm2_3" name="suzerainLi" size="2" remark="组织贡献度" defaul="0" type="Byte" function="no"/><!--此处为杀敌数-->
+		<bm id="bm2_4" name="countryId" size="4" remark="军团国家" defaul="0" type="Short" function="no"/>
+		<bm id="bm2_5" name="ambition" size="2" remark="野心/ai类型" defaul="0" type="Byte" function="no"/>
+		<!--ai:进攻,防守-->
+		<bm id="bm2_6" name="money" size="4" remark="金钱总数" defaul="0" type="Short" function="no"/>   <!--只用它-->
+		<!--公式:金钱=各个和平的城市的城市等级对应的金钱(+奇迹)相加*税率*贸易总加成之和()*军政配合度%-->
+		<bm id="bm2_7" name="industry" size="4" remark="工业总数" defaul="0" type="Short" function="no"/>
+		<!--公式:工业=各个和平的城市的工业等级对应的消耗原料产生的工业*税率*贸易总加成之和()-->
+		<bm id="bm2_8" name="food" size="4" remark="原料总数" defaul="0" type="Short" function="no"/>
+		<!--公式:原料=各个和平的城市的原料等级对应的原料()相加*税率*贸易总加成之和()-工业消耗的原料-->
+		<bm id="bm2_9" name="tradeCount" size="4" remark="人力总数" defaul="0" type="Short" function="no"/>
+		<!--可以暴兵的能力,公式:人力=各个城市的城市等级对应的人力(+奇迹)相加-->
+		<bm id="bm2_10" name="tech" size="4" remark="科技总数" defaul="0" type="Short" function="no"/>
+		<!--可以暴兵的能力,公式:人力=各个城市的科技等级对应的科技(+奇迹)相加-->
+		<bm id="bm2_11" name="level" size="2" remark="军团控制" defaul="0" type="Byte" function="no"/><!--1控制0默认-->
+		<bm id="bm2_12" name="medal" size="2" remark="失败条件,0全部,1城市" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_13" name="lifeBonus" size="2" remark="兵种血量加成" defaul="0" type="Byte" function="no"/>
+		<!--整型,百分制--><!--公式:数值/200-->
+		<bm id="bm2_14" name="taxBonus" size="2" remark="军团税率加成" defaul="0" type="Byte" function="no"/>
+		<!--可以通过科技提高,百分制--><!--公式:数值/200-->
+		<bm id="bm2_15" name="rGeneralId" size="2" remark="生育意愿" defaul="0" type="Byte" function="no"/>
+		<!--公式:发展越高则人力越低-->
+		<bm id="bm2_16" name="capitalId" size="4" remark="首都" defaul="0" type="Short" function="no"/>
+		<!--首先根据首都地区确定核心区域,如果已经占领核心区域,则进攻其他区域-->
+		<bm id="bm2_17" name="cityLvMax" size="2" remark="城市等级上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_18" name="industLvMax" size="2" remark="工业等级上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_19" name="techLvMax" size="2" remark="研究等级上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_20" name="energyLvMax" size="2" remark="能源等级上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_21" name="transportLvMax" size="2" remark="交通科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_22" name="infantryLvMax" size="2" remark="步兵科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_23" name="cannonLvMax" size="2" remark="火炮科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_24" name="tankLvMax" size="2" remark="坦克科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_25" name="fortLvMax" size="2" remark="要塞科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_26" name="navyLvMax" size="2" remark="海军科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_27" name="airLvMax" size="2" remark="空军科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_28" name="supplyLvMax" size="2" remark="补给科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_29" name="defenceLvMax" size="2" remark="防空科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_30" name="missileLvMax" size="2" remark="导弹科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_31" name="nuclearLvMax" size="2" remark="核弹科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_32" name="generalEnterMax" size="2" remark="军官出战上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_33" name="generalLvMax" size="2" remark="军官等级上限" defaul="0" type="Byte" function="no"/><!--按照占领地块区域计算-->
+		<bm id="bm2_34" name="cultureLvMax" size="2" remark="文化科技上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_35" name="miracleNow" size="2" remark="航天科技" defaul="0" type="Byte" function="no"/><!--对导弹进行加成-->
+		<bm id="bm2_36" name="recruitGeneralLvNow" size="2" remark="文明级别" defaul="0" type="Byte" function="no"/><!--0近代,2一战,2二战,3冷战,4现代,可升级-->
+		<bm id="bm2_37" name="legionRound" size="2" remark="冷却回合" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_38" name="foreignTendency" size="2" remark="是否行动" defaul="0" type="Byte" function="no"/>
+		<bm id="bm2_39" name="starTime" size="4" remark="参战年" defaul="0" type="Short" function="no"/>
+		<bm id="bm2_40" name="endTime" size="4" remark="停战年" defaul="0" type="Short" function="no"/>
+		<bm id="bm2_41" name="legionFeature1" size="4" remark="buff标记1" defaul="0" type="Short" function="no"/>
+		<bm id="bm2_42" name="legionFeature2" size="4" remark="buff标记2" defaul="0" type="Short" function="no"/>
+		<bm id="bm2_43" name="legionFeature3" size="4" remark="buff标记3" defaul="0" type="Short" function="no"/>
+		<bm id="bm2_44" name="commderId" size="4" remark="主要指挥官" defaul="0" type="Short" function="no"/>
+	</bm2>
+
+	<bm3 id="bm3" name="buildData" ifCycle="true" Count="bm0_21" remark="建筑数据" >
+		<bm id="bm3_1" name="buildIndex?" size="4" remark="建筑序列" defaul="0" type="Short" function="no"/><!--没用-->
+		<bm id="bm3_2" name="political?" size="4" remark="区域坐标" defaul="0" type="Short" function="no"/><!--没用-->
+		<bm id="bm3_3" name="idIndex" size="8" remark="建筑坐标" defaul="0" type="Integer" function="no"/><!--只用它-->
+		<bm id="bm3_4" name="buildPolicy?" size="4" remark="军团归属" defaul="0" type="Short" function="no"/><!--没用-->
+		<bm id="bm3_5" name="areaId" size="4" remark="建筑名称" defaul="0" type="Short" function="no"/>
+		<bm id="bm3_6" name="buildType" size="4" remark="建筑类型" defaul="0" type="Short" function="no"/>
+		<bm id="bm3_7" name="captialFacade" size="4" remark="首都外观" defaul="0" type="Short" function="no"/>
+		<bm id="bm3_8" name="cityHpMax" size="4" remark="城市hp" defaul="0" type="Short" function="no"/>
+		<bm id="bm3_9" name="cityHpNow" size="4" remark="当前hp" defaul="0" type="Short" function="no"/><!--公式:城市hp-受到的伤害,受到的伤害=城市有兵则减半,否则为百分比,受部分技能影响-->
+		<bm id="bm3_10" name="eventIndex" size="4" remark="关联对话" defaul="0" type="Short" function="no"/>
+		<bm id="bm3_11" name="developLv" size="2" remark="开发难度" defaul="0" type="Byte" function="no"/><!--越大开发地区的花费越高,%比-->
+		<bm id="bm3_12" name="cityTax" size="2" remark="铁路加成" defaul="0" type="Byte" function="no"/><!--越大开发地区的花费越高,%比-->
+		<bm id="bm3_13" name="cityLvNow" size="2" remark="城市等级" defaul="0" type="Byte" function="no"/><!--自动提高-->
+		<bm id="bm3_14" name="industryLvNow" size="2" remark="工业等级" defaul="0" type="Byte" function="no"/>
+		<bm id="bm3_15" name="foodLvNow" size="2" remark="原料等级" defaul="0" type="Byte" function="no"/>
+		<bm id="bm3_16" name="techLvNow" size="2" remark="研究等级" defaul="0" type="Byte" function="no"/>
+		<bm id="bm3_17" name="energyLvNow" size="2" remark="能源等级" defaul="0" type="Byte" function="no"/>
+		<bm id="bm3_18" name="transportLvNow" size="2" remark="交通等级" defaul="0" type="Byte" function="no"/>
+		<bm id="bm3_19" name="navyLvNow" size="2" remark="海军等级" defaul="0" type="Byte" function="no"/>
+		<bm id="bm3_20" name="airLvNow" size="2" remark="空军等级" defaul="0" type="Byte" function="no"/>
+		<bm id="bm3_21" name="supplyLvNow" size="2" remark="补给等级" defaul="0" type="Byte" function="no"/><!--每回合的回血的数量,需要资源支持,补给等级为临时自动属性-->
+		<bm id="bm3_22" name="antiaircraftLvNow" size="2" remark="防空等级" defaul="0" type="Byte" function="no"/>
+		<bm id="bm3_23" name="missileLvNow" size="2" remark="导弹等级" defaul="0" type="Byte" function="no"/>
+		<bm id="bm3_24" name="nuclearLvNow" size="2" remark="核弹等级" defaul="0" type="Byte" function="no"/>
+		<bm id="bm3_25" name="cultureLvNow" size="2" remark="文化等级" defaul="0" type="Byte" function="no"/><!--一个地区的人心,随时间恢复-->
+		<bm id="bm3_26" name="tradeLvNow" size="2" remark="贸易等级" defaul="0" type="Byte" function="no"/><!--对收入的加成,连接城市越多,连接的城市等级越高,加成越多-->
+		<bm id="bm3_27" name="varEnergyCost" size="2" remark="能源消耗量" defaul="0" type="Byte" function="no"/><!--城市属性,如果为空,则城市产量降低,城市防御失效-->
+		<bm id="bm3_28" name="weatherId" size="4" remark="研发目标" defaul="0" type="Short" function="no"/><!--科技id-->
+		<bm id="bm3_29" name="buildRound" size="2" remark="研发回合" defaul="0" type="Byte" function="no"/>
+		<bm id="bm3_30" name="buildStatus" size="2" remark="是否行动" defaul="0" type="Byte" function="no"/>
+		<bm id="bm3_31" name="buildWonder" size="4" remark="奇观" defaul="0" type="Short" function="no"/>
+		<bm id="bm3_32" name="buildWonderRound" size="4" remark="奇观回合" defaul="0" type="Short" function="no"/>
+		<bm id="bm3_33" name="buildBuff1" size="4" remark="buff标记1" defaul="0" type="Short" function="no"/>
+		<bm id="bm3_34" name="buildBuff2" size="4" remark="buff标记2" defaul="0" type="Short" function="no"/>
+		<bm id="bm3_35" name="buildBuff3" size="4" remark="buff标记3" defaul="0" type="Short" function="no"/>
+		<bm id="bm3_36" name="buildPolicy" size="2" remark="价制度" defaul="0" type="Byte" function="no"/>
+	</bm3>
+	<bm4 id="bm4" name="facilityData" ifCycle="true" Count="bm0_22" remark="设施数据" >
+		<bm id="bm4_1" name="facilityIndex?" size="8" remark="设施序列" defaul="0" type="Integer" function="no"/><!--没用-->
+		<bm id="bm4_2" name="idIndex" size="8" remark="所在位置" defaul="0" type="Integer" function="no"/>
+		<bm id="bm4_3" name="buildIndex?" size="4" remark="所属建筑序列" defaul="0" type="Short" function="no"/><!--没用-->
+		<bm id="bm4_4" name="facilityId" size="2" remark="设施类型" defaul="0" type="Byte" function="no"/>
+		<bm id="bm4_5" name="facilityLv" size="2" remark="设施等级" defaul="0" type="Byte" function="no"/>
+		<bm id="bm4_6" name="facilityTarget" size="4" remark="研发目标" defaul="0" type="Short" function="no"/><!--科技id-->
+		<bm id="bm4_7" name="facilityRound" size="2" remark="研发回合" defaul="0" type="Byte" function="no"/>
+		<bm id="bm4_8" name="facilityStatus" size="2" remark="是否行动" defaul="0" type="Byte" function="no"/>
+		<bm id="bm4_9" name="facilityBuff1" size="4" remark="buff标记1" defaul="0" type="Short" function="no"/>
+		<bm id="bm4_10" name="facilityBuff2" size="4" remark="buff标记2" defaul="0" type="Short" function="no"/>
+		<bm id="bm4_11" name="facilityBuff3" size="4" remark="buff标记3" defaul="0" type="Short" function="no"/>
+		<bm id="bm4_12" name="buildPolicy" size="2" remark="价制度" defaul="0" type="Byte" function="no"/>
+	</bm4>
+	<bm5 id="bm5" name="nulcleData" ifCycle="true" Count="bm0_23" remark="超武数据" >
+		<bm id="bm5_1" name="nucleIndex?" size="8" remark="超武编号" defaul="0" type="Integer" function="no"/>
+		<bm id="bm5_2" name="political" size="4" remark="所属区域" defaul="0" type="Short" function="no"/>
+		<bm id="bm5_3" name="nuclearId" size="2" remark="超武类型" defaul="0" type="Byte" function="no"/><!--毒气弹,裂变弹,聚变弹,脉冲弹-->
+		<bm id="bm5_4" name="nucleRound" size="2" remark="是否行动" defaul="0" type="Byte" function="no"/>
+		<bm id="bm5_5" name="buildPolicy" size="2" remark="价制度" defaul="0" type="Byte" function="no"/>
+	</bm5>
+	<bm6 id="bm6" name="airData" ifCycle="true" Count="bm0_24" remark="空军数据" >
+		<bm id="bm6_1" name="airIndex?" size="8" remark="空军序列" defaul="0" type="Integer" function="no"/>
+		<bm id="bm6_2" name="political" size="4" remark="所属区域" defaul="0" type="Short" function="no"/>
+		<bm id="bm6_3" name="buildIndex?" size="4" remark="所属建筑" defaul="0" type="Short" function="no"/><!--没用-->
+		<bm id="bm6_4" name="buildPolicy?" size="4" remark="所属军团" defaul="0" type="Short" function="no"/><!--没用-->
+		<bm id="bm6_5" name="airId" size="2" remark="空军id" defaul="0" type="Byte" function="no"/>
+		<bm id="bm6_6" name="airType" size="2" remark="空军类型" defaul="0" type="Byte" function="no"/>
+		<bm id="bm6_7" name="airModel" size="2" remark="兵模型号" defaul="0" type="Byte" function="no"/>
+		<bm id="bm6_8" name="airKills" size="4" remark="杀敌数" defaul="0" type="Short" function="no"/>
+		<bm id="bm6_9" name="airHpMax" size="4" remark="hp上限" defaul="0" type="Short" function="no"/>
+		<bm id="bm6_10" name="airHpNow" size="4" remark="当期hp" defaul="0" type="Short" function="no"/>
+		<bm id="bm6_11" name="ackLv" size="2" remark="攻击等级" defaul="0" type="Byte" function="no"/><!--增加一定攻击-->
+		<bm id="bm6_12" name="defLv" size="2" remark="防御等级" defaul="0" type="Byte" function="no"/><!--豁免一定伤害-->
+		<bm id="bm6_13" name="resLv" size="2" remark="后勤等级" defaul="0" type="Byte" function="no"/><!--攻击时增加移动计算-->
+		<bm id="bm6_14" name="supLv" size="2" remark="支援等级" defaul="0" type="Byte" function="no"/><!--增加回血-->
+		<bm id="bm6_15" name="actLv" size="2" remark="行动等级" defaul="0" type="Byte" function="no"/><!--每点增加1移动-->
+		<bm id="bm6_16" name="weaLv" size="2" remark="武器等级" defaul="0" type="Byte" function="no"/><!--公式:武器等级需要手动升级-->
+		<bm id="bm6_17" name="armorId" size="4" remark="装备的铠甲id" defaul="0" type="Short" function="no"/><!--公式:铠甲id-->
+		<bm id="bm6_18" name="engineId" size="4" remark="装备的引擎id" defaul="0" type="Short" function="no"/><!--公式:引擎id-->
+		<bm id="bm6_19" name="supplyId" size="4" remark="装备的补给id" defaul="0" type="Short" function="no"/><!--公式:补给id-->
+		<bm id="bm6_20" name="gemId" size="4" remark="装备的宝物id" defaul="0" type="Short" function="no"/><!--公式:宝物id-->
+		<bm id="bm6_21" name="airStatus" size="2" remark="行动状态" defaul="0" type="Byte" function="no"/>
+		<bm id="bm6_22" name="airRound" size="2" remark="建造时间" defaul="0" type="Byte" function="no"/>
+		<bm id="bm6_23" name="generalImageName" size="4" remark="将军头像" defaul="0" type="Short" function="no"/>
+		<bm id="bm6_24" name="rank" size="2" remark="将军军衔" defaul="0" type="Byte" function="no"/><!--公式:增加20%*n的hp上限-->
+		<bm id="bm6_25" name="airMorale" size="2" remark="兵种士气" defaul="0" type="Byte" function="no"/><!--公式:兵种攻击由士气和气力以及装备决定-->
+		<bm id="bm6_26" name="airLv" size="2" remark="兵种等级" defaul="0" type="Byte" function="no"/><!--兵种的等级,每升一级加一点-->
+		<bm id="bm6_27" name="airforceAi" size="2" remark="任务类型" defaul="0" type="Byte" function="no"/><!--0待命2全力防守2辅助出击3主动袭击-->
+		<bm id="bm6_28" name="targetRegion" size="4" remark="目标区域" defaul="0" type="Short" function="no"/><!--0本区域否则为指定前往的区域,敌人则是进攻区域-->
+		<bm id="bm6_29" name="nucleIndex" size="4" remark="携带的超武编号" defaul="0" type="Short" function="no"/>
+		<bm id="bm6_30" name="goodsMax" size="2" remark="物资上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm6_31" name="goodsNow" size="2" remark="当前物资" defaul="0" type="Byte" function="no"/>
+		<bm id="bm6_32" name="reloadMax" size="2" remark="装弹时间" defaul="0" type="Byte" function="no"/>
+		<bm id="bm6_33" name="reloadNow" size="2" remark="当前装弹剩余" defaul="0" type="Byte" function="no"/><!--为0才能攻击-->
+		<bm id="bm6_34" name="airBuff1" size="4" remark="buff标记1" defaul="0" type="Short" function="no"/>
+		<bm id="bm6_35" name="airBuff2" size="4" remark="buff标记2" defaul="0" type="Short" function="no"/>
+		<bm id="bm6_36" name="airBuff3" size="4" remark="buff标记3" defaul="0" type="Short" function="no"/>
+		<bm id="bm6_37" name="buildPolicy" size="2" remark="价制度" defaul="0" type="Byte" function="no"/>
+	</bm6>
+
+	<bm7 id="bm7" name="armyData" ifCycle="true" Count="bm0_25" remark="兵种数据" >
+		<bm id="bm7_1" name="armyHexagon?" size="8" remark="兵种编号" defaul="0" type="Integer" function="no"/><!--没用-->
+		<bm id="bm7_2" name="idIndex" size="8" remark="兵种坐标" defaul="0" type="Integer" function="no"/>
+		<bm id="bm7_3" name="buildPolicy?" size="4" remark="军团归属" defaul="0" type="Short" function="no"/><!--没用-->
+		<bm id="bm7_4" name="armyId" size="4" remark="兵种代码" defaul="0" type="Short" function="no"/>
+		<bm id="bm7_5" name="armyType" size="2" remark="兵种类型" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_6" name="armyModel" size="2" remark="兵种型号" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_7" name="armyKills" size="4" remark="兵种杀敌数" defaul="0" type="Short" function="no"/><!--每杀死20个敌人,随机获得一点技能点,每个技能最高20级-->
+		<bm id="bm7_8" name="armyLife" size="4" remark="单个兵力上限" defaul="0" type="Short" function="no"/>
+		<bm id="bm7_9" name="armyGroup" size="2" remark="兵种编队" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_10" name="armyHpMax" size="4" remark="兵力上限" defaul="0" type="Short" function="no"/><!--公式:单个兵力上限*星级*军衔-->
+		<bm id="bm7_11" name="armyHpNow" size="4" remark="当期兵力" defaul="0" type="Short" function="no"/>
+		<bm id="bm7_12" name="ackLv" size="2" remark="攻击等级" defaul="0" type="Byte" function="no"/><!--公式:有5%*n的几率攻击力翻倍,最高级5-->
+		<bm id="bm7_13" name="defLv" size="2" remark="防御等级" defaul="0" type="Byte" function="no"/><!--公式:有5%*n的几率豁免受到的伤害减半-->
+		<bm id="bm7_14" name="resLv" size="2" remark="后勤等级" defaul="0" type="Byte" function="no"/><!--公式:有4%*n的几率回血翻倍-->
+		<bm id="bm7_15" name="supLv" size="2" remark="支援等级" defaul="0" type="Byte" function="no"/><!--公式:有5%*n的几率不消耗物资-->
+		<bm id="bm7_16" name="actLv" size="2" remark="行动等级" defaul="0" type="Byte" function="no"/><!--公式:有4%*n的几率再发动一次进攻-->
+		<bm id="bm7_17" name="weaLv" size="2" remark="武器等级" defaul="0" type="Byte" function="no"/><!--公式:武器熟练度等级,满级10级,随手动升级-->
+		<bm id="bm7_18" name="armorId" size="4" remark="装备的铠甲id" defaul="0" type="Short" function="no"/><!--公式:铠甲id-->
+		<bm id="bm7_19" name="engineId" size="4" remark="装备的引擎id" defaul="0" type="Short" function="no"/><!--公式:引擎id-->
+		<bm id="bm7_20" name="supplyId" size="4" remark="装备的补给id" defaul="0" type="Short" function="no"/><!--公式:补给id-->
+		<bm id="bm7_21" name="gemId" size="4" remark="装备的宝物id" defaul="0" type="Short" function="no"/><!--公式:宝物id-->
+		<bm id="bm7_22" name="generalImageName" size="4" remark="将军头像" defaul="0" type="Short" function="no"/>
+		<bm id="bm7_23" name="rank" size="2" remark="将军军衔" defaul="0" type="Byte" function="no"/><!--每杀死20个敌人增加2军衔,公式:增加2%*n的hp上限-->
+		<bm id="bm7_24" name="armyMorale" size="2" remark="兵种士气" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_25" name="armyLv" size="2" remark="兵种等级" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_26" name="target" size="2" remark="红圈" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_27" name="armyDirection" size="2" remark="兵种方向" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_28" name="armyStatus" size="2" remark="兵种状态" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_29" name="armyRound" size="2" remark="冷却回合" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_30" name="eventIndex" size="4" remark="关联对话" defaul="0" type="Short" function="no"/>
+		<bm id="bm7_31" name="transportType" size="2" remark="运输船种类" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_32" name="armyAi" size="2" remark="任务类型" defaul="0" type="Byte" function="no"/><!--0防守待命2配合军团-->
+		<bm id="bm7_33" name="targetid" size="8" remark="目标坐标" defaul="0" type="Integer" function="no"/>
+		<bm id="bm7_34" name="targetRegion" size="4" remark="目标区域" defaul="0" type="Short" function="no"/><!--political-->
+		<bm id="bm7_35" name="targetBuild" size="4" remark="目标建筑" defaul="0" type="Short" function="no"/><!--idIndex-->
+		<bm id="bm7_36" name="standyRound" size="4" remark="目标编号" defaul="0" type="Short" function="no"/><!--armyHexagon-->
+		<bm id="bm7_37" name="goodsMax" size="2" remark="物资上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_38" name="goodsNow" size="2" remark="当前物资" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_39" name="reloadMax" size="2" remark="装弹时间上限" defaul="0" type="Byte" function="no"/>
+		<bm id="bm7_40" name="reloadNow" size="2" remark="当前装弹剩余回合" defaul="0" type="Byte" function="no"/><!--为0才能攻击-->
+		<bm id="bm7_41" name="armyBuff1" size="4" remark="buff标记1" defaul="0" type="Short" function="no"/>
+		<bm id="bm7_42" name="armyBuff2" size="4" remark="buff标记2" defaul="0" type="Short" function="no"/>
+		<bm id="bm7_43" name="armyBuff3" size="4" remark="buff标记3" defaul="0" type="Short" function="no"/>
+		<bm id="bm7_44" name="buildPolicy" size="2" remark="价制度" defaul="0" type="Byte" function="no"/>
+	</bm7>
+
+	<bm8 id="bm8" name="fortData" ifCycle="true" Count="bm0_26" remark="陷阱数据" >
+		<bm id="bm8_1" name="fortLv?" size="8" remark="陷阱序号" defaul="0" type="Integer" function="no"/><!--没用-->
+		<bm id="bm8_2" name="idIndex" size="8" remark="陷阱坐标" defaul="0" type="Integer" function="no"/>
+		<bm id="bm8_3" name="buildPolicy?" size="4" remark="军团归属" defaul="0" type="Short" function="no"/><!--没用-->
+		<bm id="bm8_4" name="fortId" size="4" remark="陷阱id" defaul="0" type="Short" function="no"/>
+		<bm id="bm8_5" name="fortHp" size="4" remark="陷阱hp" defaul="0" type="Short" function="no"/>
+	</bm8>
+
+</Files>

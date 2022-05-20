@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stages>
+
+	
+	<saga id="0" remark="英法">
+		<stage id="30001" sort="0" remark="鸦片战争1-广州" country="99" general="99" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30002" sort="0" remark="鸦片战争1-南京" country="99" general="143" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30003" sort="0" remark="鸦片战争2-大沽口" country="99" general="62" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30004" sort="0" remark="鸦片战争2-北京" country="99" general="387" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30005" sort="0" remark="克里米亚战争" country="99" general="153" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30006" sort="0" remark="中法战争-越南" country="35" general="90" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30007" sort="0" remark="印度起义1" country="99" general="146" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30008" sort="0" remark="印度起义2" country="99" general="163" sideImage="sideframe_0" useLanguage="-1"/>
+	
+		
+	</saga>
+	<saga id="1" remark="美国">
+		<stage id="30101" sort="0" remark="新独立战争" country="57" general="128" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30102" sort="0" remark="邦联的胜利" country="57" general="29" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30103" sort="0" remark="美墨战争" country="57" general="24" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30104" sort="0" remark="南北战争-萨姆特要塞" country="57" general="214" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30105" sort="0" remark="南北战争-华盛顿之战" country="57" general="158" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30106" sort="0" remark="南北战争-反击" country="57" general="4" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30107" sort="0" remark="南北战争-葛底斯堡之役" country="57" general="345" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30108" sort="0" remark="南北战争-向海洋进军" country="57" general="22" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30109" sort="0" remark="南北战争-里士满" country="57" general="343" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30110" sort="0" remark="美西战争-古巴" country="57" general="5" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30111" sort="0" remark="美西战争-菲律宾" country="57" general="10" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30112" sort="0" remark="八国联军战争1" country="57" general="215" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30113" sort="0" remark="八国联军战争2" country="57" general="224" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="2" remark="大清">
+		<stage id="30201" sort="0" remark="鸦片战争1-广州" country="28" general="65" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30202" sort="0" remark="太平天国-阻击北伐" country="28" general="18" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30203" sort="0" remark="太平天国-拦击石达开" country="28" general="18" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30204" sort="0" remark="太平天国-南京" country="28" general="18" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30205" sort="0" remark="鸦片战争2-香港" country="28" general="170" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30206" sort="0" remark="鸦片战争2-大沽口" country="28" general="303" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30207" sort="0" remark="鸦片战争2-北京" country="28" general="28" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30208" sort="0" remark="鸦片战争2-外东北" country="28" general="149" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30209" sort="0" remark="中法战争-越南" country="28" general="104" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30210" sort="0" remark="收复新疆1-击败阿古伯" country="28" general="21" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30211" sort="0" remark="收复新疆2-击败俄国" country="28" general="21" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30212" sort="0" remark="中日战争-汉城" country="28" general="304" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30213" sort="0" remark="中日战争-黄海" country="28" general="42" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30214" sort="0" remark="结束中立" country="28" general="50" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30215" sort="0" remark="八国联军侵华战争1" country="28" general="167" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30216" sort="0" remark="中日战争-西南  " country="28" general="310" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30217" sort="0" remark="中日战争-中部" country="28" general="151" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30218" sort="0" remark="中日战争-东北" country="28" general="313" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30219" sort="0" remark="进军南洋" country="28" general="411" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30220" sort="0" remark="大清西征" country="28" general="173" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30221" sort="0" remark="入侵欧罗巴" country="28" general="299" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="3" remark="日本">
+		<stage id="30301" sort="0" remark="倒幕行动" country="73" general="348" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30302" sort="0" remark="维新的力量" country="73" general="44" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30303" sort="0" remark="中日战争-汉城" country="73" general="39" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30304" sort="0" remark="中日战争-平壤" country="73" general="234" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30305" sort="0" remark="中日战争-旅顺" country="73" general="235" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30306" sort="0" remark="中日战争-黄海" country="73" general="44" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30307" sort="0" remark="中日战争-台湾" country="73" general="349" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30308" sort="0" remark="日俄战争-大连" country="73" general="234" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30309" sort="0" remark="日俄战争-东北" country="73" general="235" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30310" sort="0" remark="日俄战争-对马海战" country="73" general="44" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30311" sort="0" remark="日俄战争-海参崴" country="73" general="40" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30312" sort="0" remark="八国联军侵华战争1" country="73" general="39" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30313" sort="0" remark="八国联军侵华战争2" country="73" general="27" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="4" remark="德奥">
+		<stage id="30401" sort="0" remark="普奥战争" country="72" general="7" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30402" sort="0" remark="普法战争" country="72" general="141" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="5" remark="俄罗斯">
+	<stage id="30501" sort="0" remark="克里米亚战争" country="33" general="357" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30502" sort="0" remark="鸦片战争2-外东北" country="33" general="162" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30503" sort="0" remark="吞并中亚" country="33" general="430" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30504" sort="0" remark="日俄战争-大连" country="33" general="103" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30505" sort="0" remark="日俄战争-东北" country="33" general="130" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30506" sort="0" remark="日俄战争-对马海战" country="33" general="38" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30507" sort="0" remark="黄俄罗斯计划1" country="33" general="120" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30508" sort="0" remark="黄俄罗斯计划2-蒙古" country="33" general="114" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30509" sort="0" remark="黄俄罗斯计划3-满洲" country="33" general="46" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="6" remark="土耳其">
+		<stage id="30601" sort="0" remark="克里米亚战争" country="12" general="377" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="7" remark="法国">
+		<stage id="30701" sort="0" remark="巴黎公社" country="35" general="87" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="8" remark="意大利">
+		<stage id="30801" sort="0" remark="意大利的统一" country="97" general="51" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="9" remark="太平天国">
+		<stage id="30901" sort="0" remark="太平天国-南京" country="81" general="8" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30902" sort="0" remark="太平天国-阻击天津" country="81" general="20" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30903" sort="0" remark="太平天国-北京" country="81" general="19" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="10" remark="印度">
+			<stage id="30951" sort="0" remark="印度起义1" country="98" general="121" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="30952" sort="0" remark="印度起义2" country="98" general="121" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	
+	
+	
+	<saga id="1000" remark="英法联军  sagaId=1000*age+sagaId">
+		<stage id="31001" sort="0" remark="马恩河会战" country="35" general="11" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31002" sort="0" remark="伦敦保卫战" country="99" general="36" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31003" sort="0" remark="凡尔登战役" country="35" general="131" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31004" sort="0" remark="索姆河会战" country="99" general="14" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31005" sort="0" remark="日德兰海战" country="99" general="15" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31006" sort="0" remark="巴雪戴尔战役" country="99" general="49" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31007" sort="0" remark="阿拉伯大起义" country="99" general="81" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31008" sort="0" remark="进攻巴格达" country="99" general="98" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31009" sort="0" remark="入侵土耳其" country="99" general="373" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31010" sort="0" remark="百日攻势" country="35" general="152" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31011" sort="0" remark="协约反攻" country="35" general="9" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31012" sort="0" remark="柏林之战" country="99" general="207" sideImage="sideframe_0" useLanguage="-1"/>
+	
+	</saga>
+	<saga id="1001" remark="美国">
+		<stage id="31101" sort="0" remark="大西洋海战" country="58" general="224" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31102" sort="0" remark="圣米耶尔战役" country="58" general="5" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31103" sort="0" remark="默兹·阿尔贡攻势" country="58" general="194" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31104" sort="0" remark="奥匈攻势" country="58" general="241" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31105" sort="0" remark="扼杀革命-摩尔曼斯克" country="58" general="397" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31106" sort="0" remark="扼杀革命-克里米亚" country="58" general="242" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31107" sort="0" remark="扼杀革命-波兰华沙" country="58" general="246" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31108" sort="0" remark="入侵南美" country="58" general="169" sideImage="sideframe_0" useLanguage="-1"/>
+	
+	</saga>
+	<saga id="1002" remark="日本">
+		<stage id="31201" sort="0" remark="日德战争-青岛" country="73" general="209" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31202" sort="0" remark="日德战争-青岛2" country="73" general="210" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31203" sort="0" remark="干涉革命-南京" country="73" general="211" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31204" sort="0" remark="扼杀革命-符拉迪沃斯托克" country="73" general="354" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31205" sort="0" remark="扼杀革命-西伯利亚" country="73" general="233" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31206" sort="0" remark="扼杀革命-满洲" country="73" general="228" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31207" sort="0" remark="扼杀革命-亚洲" country="73" general="227" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31208" sort="0" remark="突然的东进" country="73" general="351" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="1003" remark="德奥">
+		<stage id="31301" sort="0" remark="日德战争-青岛" country="30" general="330" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31302" sort="0" remark="入侵塞尔维亚" country="38" general="260" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31303" sort="0" remark="入侵比利时" country="30" general="34" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31304" sort="0" remark="坦南堡战役" country="30" general="1" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31305" sort="0" remark="马恩河会战" country="30" general="66" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31306" sort="0" remark="萨勒卡默什战役" country="30" general="71" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31307" sort="0" remark="萨利卡米斯战役" country="38" general="259" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31308" sort="0" remark="加里波利阻击战" country="12" general="25" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31309" sort="0" remark="凡尔登战役" country="30" general="31" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31310" sort="0" remark="索姆河会战" country="30" general="206" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31311" sort="0" remark="阿拉伯大起义" country="12" general="363" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31312" sort="0" remark="日德兰海战" country="30" general="16" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31313" sort="0" remark="布鲁西洛夫攻势" country="30" general="31" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31314" sort="0" remark="春季攻势" country="30" general="12" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31315" sort="0" remark="夺取克里木" country="12" general="429" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31316" sort="0" remark="百日攻势" country="30" general="331" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31317" sort="0" remark="法兰西的末日" country="30" general="386" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31318" sort="0" remark="入侵意大利" country="38" general="261" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31319" sort="0" remark="目标英伦" country="30" general="37" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31320" sort="0" remark="远征美洲1" country="30" general="336" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31321" sort="0" remark="远征美洲2" country="30" general="337" sideImage="sideframe_0" useLanguage="-1"/>
+	
+	</saga>
+	<saga id="1004" remark="俄罗斯">
+		<stage id="31401" sort="0" remark="坦南堡战役" country="33" general="120" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31402" sort="0" remark="布鲁西洛夫攻势" country="33" general="13" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31403" sort="0" remark="布鲁西洛夫攻势2土耳其" country="33" general="13" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31404" sort="0" remark="北亚冲突" country="33" general="134" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31405" sort="0" remark="革命2-东线1" country="33" general="338" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31406" sort="0" remark="革命2-东线2" country="33" general="32" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31407" sort="0" remark="革命2-东线3" country="33" general="391" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31408" sort="0" remark="革命1-叶卡捷琳堡" country="33" general="133" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31409" sort="0" remark="革命1-西线莫斯科" country="33" general="390" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31410" sort="0" remark="革命1-西线克里木" country="33" general="63" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31411" sort="0" remark="革命1-西线圣彼得堡" country="33" general="132" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="1005" remark="塞尔维亚">
+		<stage id="31501" sort="0" remark="巴尔干战争1" country="77" general="70" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31502" sort="0" remark="巴尔干战争2" country="77" general="356" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="1006" remark="土耳其">
+		<stage id="31601" sort="0" remark="土尓其的崛起" country="12" general="25" sideImage="sideframe_0" useLanguage="-1"/>
+	
+	</saga>
+	<saga id="1007" remark="苏俄">
+		<stage id="31701" sort="0" remark="十月革命" country="79" general="157" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31702" sort="0" remark="波罗的海进军" country="79" general="6" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31703" sort="0" remark="布列斯特的代价" country="79" general="69" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31704" sort="0" remark="高尔察克的进攻" country="79" general="157" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31705" sort="0" remark="莫斯科决战" country="79" general="218" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31706" sort="0" remark="顿河战争" country="79" general="249" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31707" sort="0" remark="察里津之战" country="79" general="33" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31708" sort="0" remark="克里米亚之战" country="79" general="69" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31709" sort="0" remark="反击波兰" country="79" general="26" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31710" sort="0" remark="波兰的崩溃" country="79" general="219" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31711" sort="0" remark="目标西伯利亚" country="79" general="6" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31712" sort="0" remark="蒙古战役" country="79" general="217" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31713" sort="0" remark="外东北战役" country="79" general="69" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31714" sort="0" remark="符拉迪沃斯托克之战" country="79" general="217" sideImage="sideframe_0" useLanguage="-1"/>
+	</saga>
+	<saga id="1008" remark="中华民国">
+			<stage id="31801" sort="0" remark="武昌首义" country="102" general="86" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31802" sort="0" remark="青天白日" country="102" general="55" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31803" sort="0" remark="驱逐鞑虏" country="102" general="166" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31804" sort="0" remark="光复中华" country="104" general="411" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31805" sort="0" remark="二次革命" country="103" general="83" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31806" sort="0" remark="护国运动" country="103" general="236" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31807" sort="0" remark="护法运动" country="103" general="83" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31808" sort="0" remark="收复蒙古" country="103" general="176" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31809" sort="0" remark="誓师北伐" country="105" general="166" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31810" sort="0" remark="二次北伐" country="105" general="47" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31811" sort="0" remark="背叛" country="105" general="3" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31812" sort="0" remark="中原大战" country="105" general="135" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31813" sort="0" remark="九一八" country="105" general="92" sideImage="sideframe_0" useLanguage="-1"/>
+	
+	</saga>
+	<saga id="1009" remark="中国">
+		<stage id="31901" sort="0" remark="长征1" country="101" general="150" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31902" sort="0" remark="长征2" country="101" general="168" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31903" sort="0" remark="长征3" country="101" general="161" sideImage="sideframe_0" useLanguage="-1"/>
+	<stage id="31904" sort="0" remark="西安事变" country="101" general="425" sideImage="sideframe_0" useLanguage="-1"/>
+
+	</saga>
+</stages>

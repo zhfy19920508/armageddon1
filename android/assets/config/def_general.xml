@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<generals>
+	<general id="0" name="情报官" rank="6" political="3" country="0" type="0" ability="3" birth="0" service="1800" death="2020" image="Assistant" recruitType="0" useLanguage="-1" remark="永存"/>
+	<general id="1" name="兴登堡" rank="15" political="4" country="30,72" type="1" ability="3" birth="1847" service="1866" death="1934" image="Hindenburg" recruitType="0" useLanguage="-1" remark="一战 东线"/>
+	<general id="2" name="罗伯特·李" rank="15" political="0" country="67" type="1" ability="4" birth="1807" service="1834" death="1870" image="Robert_e_lee" recruitType="2" useLanguage="-1" remark="美墨 南北2"/>
+	<general id="3" name="蒋中正" rank="15" political="1" country="103,105" type="1" ability="3" birth="1887" service="1924" death="1975" image="Chiang Kai-shek" recruitType="2" useLanguage="-1"/>
+	<general id="4" name="托马斯·格兰特" rank="14" political="0" country="57,58" type="3" ability="3" birth="1822" service="1843" death="1885" image="Grant" recruitType="2" useLanguage="-1" remark="南北1"/>
+	<general id="5" name="潘兴" rank="14" political="3" country="57,58" type="3" ability="4" birth="1860" service="1890" death="1948" image="Pershing" recruitType="2" useLanguage="-1" remark="美西,一战"/>
+	<general id="6" name="托洛茨基" rank="14" political="3" country="79" type="2" ability="3" birth="1879" service="1917" death="1940" image="Trotsky" recruitType="2" useLanguage="-1" remark="红军司令 内战"/>
+	<general id="7" name="冯·毛奇" rank="14" political="0" country="30,72" type="2" ability="3" birth="1800" service="1848" death="1891" image="Von_moltke" recruitType="2" useLanguage="-1" remark="普奥,普法"/>
+	<general id="8" name="洪秀全" rank="14" political="0" country="81" type="1" ability="3" birth="1814" service="1851" death="1864" image="Hong_xiuquan" recruitType="1" useLanguage="-1"/>
+	<general id="9" name="福熙" rank="14" political="2" country="35" type="2" ability="4" birth="1851" service="1887" death="1929" image="Foch" recruitType="2" useLanguage="-1" remark="一战马恩河索姆河"/>
+	<general id="10" name="乔治·杜威" rank="14" political="4" country="57,58" type="1" ability="2" birth="1837" service="1864" death="1917" image="Dewey" recruitType="2" useLanguage="-1" remark="美西"/>
+	<general id="11" name="霞飞" rank="13" political="3" country="35" type="2" ability="3" birth="1852" service="1870" death="1931" image="Joffre" recruitType="2" useLanguage="-1" remark="一战凡尔登 索姆河"/>
+	<general id="12" name="鲁登道夫" rank="13" political="2" country="30,72" type="3" ability="4" birth="1865" service="1881" death="1937" image="Randolph" recruitType="2" useLanguage="-1" remark="一战 东线"/>
+	<general id="13" name="布鲁西洛夫" rank="13" political="1" country="33" type="3" ability="3" birth="1853" service="1872" death="1926" image="Brusilov" recruitType="2" useLanguage="-1" remark="一战  苏俄内战"/>
+	<general id="14" name="黑格" rank="13" political="1" country="99" type="3" ability="4" birth="1861" service="1880" death="1928" image="Haig" recruitType="2" useLanguage="-1" remark="镇压马赫迪起义,二次英布战争,一战 西线"/>
+	<general id="15" name="杰利科" rank="13" political="2" country="99" type="4" ability="4" birth="1859" service="1880" death="1935" image="Jericho" recruitType="2" useLanguage="-1" remark="一战日德兰海战"/>
+	<general id="16" name="提尔比茨" rank="13" political="2" country="30,72" type="4" ability="4" birth="1849" service="1881" death="1930" image="Tirpitz" recruitType="2" useLanguage="-1" remark="一战 海军"/>
+	<general id="17" name="毕苏斯基" rank="13" political="3" country="21" type="1" ability="4" birth="1867" service="1908" death="1935" image="Pilsudski" recruitType="2" useLanguage="-1" remark="华沙战役"/>
+	<general id="18" name="曾国藩" rank="13" political="3" country="28" type="2" ability="4" birth="1811" service="1851" death="1872" image="Zeng_guofan" recruitType="2" useLanguage="-1" remark="太平天国 追剿捻军"/>
+	<general id="19" name="杨秀清" rank="13" political="1" country="81" type="4" ability="3" birth="1823" service="1846" death="1856" image="Yang_xiu_qing" recruitType="1" useLanguage="-1" remark="太平天国"/>
+	<general id="20" name="石达开" rank="13" political="2" country="81" type="3" ability="3" birth="1831" service="1847" death="1863" image="Shidakai" recruitType="1" useLanguage="-1" remark="太平天国"/>
+	<general id="21" name="左宗棠" rank="13" political="2" country="28" type="3" ability="4" birth="1812" service="1852" death="1885" image="Zuo_zongtang" recruitType="2" useLanguage="-1" remark="镇压太平天国 平定陕甘 收复新疆"/>
+	<general id="22" name="谢尔曼" rank="13" political="1" country="57,58" type="1" ability="3" birth="1820" service="1840" death="1891" image="Sherman" recruitType="2" useLanguage="-1" remark="南北1"/>
+	<general id="23" name="约翰斯顿" rank="13" political="0" country="57,58" type="1" ability="3" birth="1807" service="1829" death="1891" image="Johnston" recruitType="2" useLanguage="-1" remark="南北2"/>
+	<general id="24" name="司各特" rank="13" political="0" country="57,58" type="2" ability="3" birth="1786" service="1812" death="1866" image="Scott" recruitType="2" useLanguage="-1" remark="美墨 南北1"/>
+	<general id="25" name="凯末尔" rank="13" political="2" country="12" type="3" ability="4" birth="1881" service="1907" death="1938" image="Ataturk" recruitType="2" useLanguage="-1" remark="一战"/>
+	<general id="26" name="图哈切夫斯基" rank="13" political="4" country="79" type="3" ability="4" birth="1893" service="1918" death="1937" image="Tuhachevski" recruitType="2" useLanguage="-1" remark="苏俄内战"/>
+	<general id="27" name="东乡平八郎" rank="13" political="3" country="73" type="4" ability="4" birth="1848" service="1881" death="1934" image="Tougou" recruitType="2" useLanguage="-1" remark="甲午 庚子 日俄"/>
+	<general id="28" name="僧格林沁" rank="12" political="1" country="28" type="3" ability="3" birth="1811" service="1851" death="1865" image="Sengge Rinchen" recruitType="0" useLanguage="-1" remark="太平，2鸦"/>
+	<general id="29" name="扎卡里·泰勒" rank="12" political="2" country="57,58" type="2" ability="3" birth="1784" service="1811" death="1850" image="Taylor" recruitType="0" useLanguage="-1" remark="美墨"/>
+	<general id="30" name="康拉德" rank="12" political="1" country="8,11,38" type="1" ability="3" birth="1851" service="1878" death="1925" image="Conrad" recruitType="0" useLanguage="-1" remark="一战 巴尔干 意大利 东线"/>
+	<general id="31" name="法金汉" rank="12" political="0" country="30,72" type="1" ability="3" birth="1861" service="1896" death="1922" image="Falkenhayn" recruitType="0" useLanguage="-1" remark="庚子 一战 西线"/>
+	<general id="32" name="克伦斯基" rank="12" political="0" country="33" type="2" ability="2" birth="1881" service="1912" death="1970" image="Kerensky" recruitType="0" useLanguage="-1" remark="俄罗斯临时政府总理"/>
+	<general id="33" name="斯大林" rank="12" political="0" country="79" type="2" ability="3" birth="1878" service="1902" death="1953" image="Stalin" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="34" name="马肯森" rank="12" political="0" country="30,72" type="3" ability="4" birth="1849" service="1880" death="1945" image="Mackensen" recruitType="0" useLanguage="-1" remark="普法一战东线巴尔干"/>
+	<general id="35" name="尼维尔" rank="12" political="1" country="35" type="2" ability="3" birth="1878" service="1882" death="1921" image="Neville" recruitType="0" useLanguage="-1" remark="庚子 凡尔登 尼韦勒攻势"/>
+	<general id="36" name="弗伦奇" rank="12" political="0" country="99" type="2" ability="3" birth="1852" service="1866" death="1925" image="French" recruitType="0" useLanguage="-1" remark="英布战争 马恩河"/>
+	<general id="37" name="舍尔" rank="12" political="1" country="30,72" type="4" ability="3" birth="1863" service="1879" death="1928" image="Scheer" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="38" name="马卡洛夫" rank="12" political="0" country="33" type="4" ability="3" birth="1849" service="1876" death="1904" image="Makarov" recruitType="0" useLanguage="-1" remark="日俄战争"/>
+	<general id="39" name="山县有朋" rank="12" political="1" country="73" type="2" ability="3" birth="1838" service="1863" death="1922" image="Yamagata" recruitType="0" useLanguage="-1" remark="甲午 庚子"/>
+	<general id="40" name="大山岩" rank="12" political="1" country="73" type="1" ability="4" birth="1842" service="1877" death="1916" image="Oyama_Iwao" recruitType="0" useLanguage="-1" remark="甲午 庚子 日俄"/>
+	<general id="41" name="杰克逊" rank="12" political="0" country="67" type="3" ability="4" birth="1824" service="1846" death="1863" image="Jackson" recruitType="0" useLanguage="-1" remark="南北2"/>
+	<general id="42" name="丁汝昌" rank="12" political="0" country="28" type="4" ability="3" birth="1836" service="1861" death="1895" image="Ding" recruitType="0" useLanguage="-1" remark="太平 捻军 甲午"/>
+	<general id="43" name="萨镇冰" rank="12" political="2" country="28" type="4" ability="3" birth="1859" service="1884" death="1952" image="Sazhenbing" recruitType="0" useLanguage="-1" remark="甲午"/>
+	<general id="44" name="伊东祐亨" rank="12" political="2" country="73" type="4" ability="3" birth="1843" service="1871" death="1914" image="Yidong Youheng" recruitType="0" useLanguage="-1" remark="甲午 日俄"/>
+	<general id="45" name="瓦德西" rank="12" political="1" country="30,72" type="1" ability="2" birth="1832" service="1888" death="1904" image="Waldersee" recruitType="0" useLanguage="-1" remark="庚子"/>
+	<general id="46" name="尼古拉斯大公" rank="12" political="2" country="33" type="3" ability="3" birth="1856" service="1877" death="1929" image="Nicholas_archduke" recruitType="0" useLanguage="-1" remark="一战 夏季攻势"/>
+	<general id="47" name="李宗仁" rank="12" political="1" country="103,105" type="2" ability="3" birth="1891" service="1913" death="1969" image="Li_tsung_jen" recruitType="0" useLanguage="-1"/>
+	<general id="48" name="叶挺" rank="12" political="0" country="103,105,101" type="1" ability="4" birth="1896" service="1919" death="1946" image="Ye_ting" recruitType="0" useLanguage="-1"/>
+	<general id="49" name="亨利·威尔逊" rank="12" political="3" country="99" type="3" ability="3" birth="1864" service="1885" death="1922" image="Henry_Wilson" recruitType="0" useLanguage="-1" remark="英布 一战 后期 西线"/>
+	<general id="50" name="李鸿章" rank="12" political="2" country="28" type="4" ability="3" birth="1823" service="1859" death="1901" image="Li_hongzhang" recruitType="0" useLanguage="-1"/>
+	<general id="51" name="加里波第" rank="12" political="2" country="97" type="1" ability="3" birth="1807" service="1843" death="1882" image="Garibaldi" recruitType="0" useLanguage="-1" remark="意大利统一"/>
+	<general id="52" name="莫努里" rank="11" political="0" country="35" type="2" ability="2" birth="1847" service="1869" death="1915" image="Maunoury" recruitType="0" useLanguage="-1" remark="普法 一战马恩河"/>
+	<general id="53" name="曼纳海姆" rank="11" political="3" country="33,37" type="3" ability="3" birth="1867" service="1908" death="1951" image="Anaheim" recruitType="0" useLanguage="-1" remark="日俄战争 一战波兰 芬兰白卫军"/>
+	<general id="54" name="柏姆-厄尔默利" rank="11" political="1" country="8,11,38" type="3" ability="3" birth="186" service="1879" death="1941" image="Ermolli" recruitType="0" useLanguage="-1" remark="一战 巴尔干 东线"/>
+	<general id="55" name="蔡锷" rank="11" political="0" country="103,105" type="2" ability="2" birth="1882" service="1900" death="1916" image="CAI" recruitType="0" useLanguage="-1"/>
+	<general id="56" name="毕典菲尔特" rank="11" political="2" country="30,72" type="1" ability="3" birth="1796" service="1827" death="1884" image="Bittenfeld" recruitType="0" useLanguage="-1" remark="普奥,普法"/>
+	<general id="57" name="卡尔" rank="11" political="1" country="30,72" type="3" ability="2" birth="1828" service="1848" death="1885" image="Karl" recruitType="0" useLanguage="-1" remark="普奥,普法"/>
+	<general id="58" name="李秀成" rank="11" political="1" country="81" type="2" ability="2" birth="1823" service="1851" death="1864" image="Li_Xiucheng" recruitType="1" useLanguage="-1" remark="太平"/>
+	<general id="59" name="卡多尔纳" rank="11" political="2" country="97" type="2" ability="2" birth="1850" service="1866" death="1928" image="Cadorna" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="60" name="迪亚兹" rank="11" political="0" country="97" type="1" ability="3" birth="1861" service="1884" death="1928" image="Diaz" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="61" name="布拉沃" rank="11" political="1" country="66" type="1" ability="2" birth="1786" service="1817" death="1854" image="Bravo" recruitType="0" useLanguage="-1" remark="美墨"/>
+	<general id="62" name="西摩尔" rank="11" political="0" country="99" type="4" ability="3" birth="1840" service="1854" death="1929" image="Seymour" recruitType="0" useLanguage="-1" remark="克里米亚 2鸦 庚子"/>
+	<general id="63" name="邓尼金" rank="11" political="1" country="33" type="2" ability="3" birth="1872" service="1900" death="1947" image="Denikin" recruitType="0" useLanguage="-1" remark="白卫军首领 日俄战争 一战"/>
+	<general id="64" name="缅希科夫" rank="11" political="0" country="33" type="4" ability="3" birth="1787" service="1812" death="1869" image="Miansikov" recruitType="0" useLanguage="-1" remark="克里米亚"/>
+	<general id="65" name="林则徐" rank="11" political="3" country="28" type="2" ability="3" birth="1785" service="1809" death="1850" image="Lin_zexu" recruitType="0" useLanguage="-1" remark="1鸦"/>
+	<general id="66" name="小毛奇" rank="11" political="4" country="30,72" type="2" ability="2" birth="1848" service="1880" death="1916" image="Moltke" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="67" name="白崇禧" rank="11" political="1" country="103,105" type="1" ability="3" birth="1893" service="1911" death="1966" image="Bai" recruitType="0" useLanguage="-1"/>
+	<general id="68" name="康斯坦丁·普雷赞" rank="11" political="0" country="55" type="1" ability="2" birth="1816" service="1904" death="1943" image="Prezan" recruitType="0" useLanguage="-1" remark="罗马尼亚"/>
+	<general id="69" name="伏龙芝" rank="11" political="3" country="79" type="2" ability="4" birth="1885" service="1917" death="1925" image="Frunze" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="70" name="普特尼克" rank="11" political="1" country="68,77" type="1" ability="3" birth="1847" service="1866" death="1917" image="Putnik" recruitType="0" useLanguage="-1" remark="塞尔维亚"/>
+	<general id="71" name="塞克特" rank="11" political="3" country="30,72" type="3" ability="2" birth="1866" service="1889" death="1936" image="Sekt" recruitType="0" useLanguage="-1" remark="一战 土耳其"/>
+	<general id="72" name="圣·安纳" rank="11" political="0" country="66" type="2" ability="2" birth="1794" service="1810" death="1876" image="Santa_Anna" recruitType="0" useLanguage="-1" remark="美墨"/>
+	<general id="73" name="德斯佩雷" rank="11" political="2" country="35" type="2" ability="3" birth="1856" service="1876" death="1942" image="Desespere" recruitType="0" useLanguage="-1" remark="庚子 一战马恩河 马其顿"/>
+	<general id="74" name="巴赞" rank="11" political="0" country="35" type="2" ability="2" birth="1811" service="1831" death="1888" image="Buzan" recruitType="0" useLanguage="-1" remark="克里米亚 意大利统一 普法"/>
+	<general id="75" name="斯图亚特" rank="11" political="0" country="67" type="3" ability="3" birth="1833" service="1850" death="1864" image="Stuart" recruitType="0" useLanguage="-1" remark="南北2"/>
+	<general id="76" name="哈莱克" rank="10" political="0" country="57,58" type="3" ability="1" birth="1819" service="1839" death="1879" image="Harlech" recruitType="0" useLanguage="-1" remark="南北1"/>
+	<general id="77" name="克鲁克" rank="10" political="0" country="30,72" type="1" ability="2" birth="1846" service="1866" death="1934" image="Crook" recruitType="0" useLanguage="-1" remark="普奥,普法 一战"/>
+	<general id="78" name="阿尔贝一世" rank="10" political="0" country="19" type="2" ability="2" birth="1875" service="1900" death="1934" image="Albert_I" recruitType="0" useLanguage="-1" remark="比利时"/>
+	<general id="79" name="希佩尔" rank="10" political="2" country="30,72" type="4" ability="4" birth="1863" service="1884" death="1932" image="Hipper" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="80" name="帕帕戈斯" rank="10" political="2" country="91" type="2" ability="2" birth="1901" service="1917" death="1964" image="Galapagos" recruitType="0" useLanguage="-1" remark="希腊"/>
+	<general id="81" name="劳伦斯" rank="10" political="2" country="99" type="3" ability="2" birth="1888" service="1916" death="1935" image="Lawrence" recruitType="0" useLanguage="-1" remark="一战 中东"/>
+	<general id="82" name="尼古拉一世" rank="10" political="1" country="68,77" type="3" ability="2" birth="1841" service="1910" death="1921" image="Nicholas_I" recruitType="0" useLanguage="-1" remark="黑山"/>
+	<general id="83" name="冯国璋" rank="10" political="1" country="103,104" type="2" ability="3" birth="1859" service="1884" death="1919" image="Feng_kuo_chang" recruitType="0" useLanguage="-1" remark="二次革命"/>
+	<general id="84" name="法约尔" rank="10" political="0" country="35" type="2" ability="3" birth="1852" service="1873" death="1928" image="Fayolle" recruitType="0" useLanguage="-1" remark="一战 索姆河"/>
+	<general id="85" name="埃米利奥·德·博诺" rank="10" political="0" country="97" type="4" ability="2" birth="1866" service="1884" death="1944" image="Bono" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="86" name="黄兴" rank="10" political="3" country="103,105" type="1" ability="3" birth="1874" service="1903" death="1916" image="Huang_Qing" recruitType="0" useLanguage="-1"/>
+	<general id="87" name="瓦尔兰" rank="10" political="0" country="35" type="2" ability="2" birth="1839" service="1871" death="1871" image="Varlin" recruitType="0" useLanguage="-1" remark="巴黎公社革命者"/>
+	<general id="88" name="詹姆斯·波尔克" rank="10" political="3" country="57,58" type="2" ability="3" birth="1795" service="1823" death="1849" image="James_polk" recruitType="0" useLanguage="-1" remark="美墨"/>
+	<general id="89" name="米哈伊尔·戈尔恰科夫" rank="10" political="0" country="33" type="1" ability="2" birth="1793" service="1810" death="1861" image="Gorchakov" recruitType="0" useLanguage="-1" remark="克里米亚"/>
+	<general id="90" name="孤拔" rank="10" political="1" country="35" type="4" ability="3" birth="1827" service="1849" death="1885" image="Courbet" recruitType="0" useLanguage="-1" remark="中法"/>
+	<general id="91" name="刘铭传" rank="10" political="2" country="28" type="2" ability="3" birth="1836" service="1864" death="1896" image="Liu_mingchuan" recruitType="0" useLanguage="-1" remark="太平，中法台湾"/>
+	<general id="92" name="何应钦" rank="10" political="2" country="103,105" type="3" ability="3" birth="1890" service="1924" death="1987" image="Ho_ying_chin" recruitType="0" useLanguage="-1"/>
+	<general id="93" name="麦克马洪" rank="10" political="0" country="35" type="3" ability="2" birth="1808" service="1827" death="1893" image="Mike_mahon" recruitType="0" useLanguage="-1" remark="克里米亚 普法 巴黎公社战争"/>
+	<general id="94" name="陈玉成" rank="10" political="0" country="81" type="1" ability="3" birth="1837" service="1851" death="1862" image="Chenyu_cheng" recruitType="1" useLanguage="-1"/>
+	<general id="95" name="朱塞佩·马志尼" rank="10" political="0" country="97" type="1" ability="2" birth="1805" service="1830" death="1872" image="Giuseppe_mazzini" recruitType="0" useLanguage="-1" remark="意大利统一"/>
+	<general id="96" name="沃尔贝克" rank="10" political="4" country="30,72" type="1" ability="4" birth="1870" service="1900" death="1964" image="Walbeck" recruitType="0" useLanguage="-1" remark="一战非洲"/>
+	<general id="97" name="邓世昌" rank="10" political="1" country="28" type="4" ability="3" birth="1849" service="1867" death="1894" image="Dang_saicheung" recruitType="0" useLanguage="-1"/>
+	<general id="98" name="汉密尔顿" rank="10" political="0" country="99" type="1" ability="3" birth="1853" service="1872" death="1947" image="Hamilton" recruitType="0" useLanguage="-1" remark="一战 加利波利"/>
+	<general id="99" name="额尔金" rank="10" political="0" country="99" type="1" ability="2" birth="1811" service="1842" death="1863" image="Elgin" recruitType="0" useLanguage="-1" remark="鸦片战争"/>
+	<general id="100" name="费尔南多二世" rank="9" political="0" country="71" type="1" ability="2" birth="1816" service="1853" death="1885" image="Fernando_ii" recruitType="0" useLanguage="-1" remark="葡萄牙 近代"/>
+	<general id="101" name="李世贤" rank="9" political="1" country="81" type="3" ability="2" birth="1834" service="1851" death="1865" image="Launched" recruitType="1" useLanguage="-1"/>
+	<general id="102" name="阿古柏" rank="9" political="0" country="12" type="3" ability="2" birth="1820" service="1860" death="1877" image="Yakoob" recruitType="0" useLanguage="-1" remark="近代"/>
+	<general id="103" name="库罗帕特金" rank="9" political="0" country="33" type="1" ability="2" birth="1848" service="1874" death="1925" image="Kuropatkin" recruitType="0" useLanguage="-1" remark="日俄"/>
+	<general id="104" name="冯子材" rank="9" political="2" country="28" type="2" ability="3" birth="1818" service="1851" death="1903" image="Feng_Zicai" recruitType="0" useLanguage="-1" remark="中法"/>
+	<general id="105" name="张国梁" rank="9" political="0" country="28" type="3" ability="2" birth="1831" service="1851" death="1860" image="Eunuch_hong" recruitType="0" useLanguage="-1" remark="太平叛将"/>
+	<general id="106" name="马里亚诺·帕雷德斯" rank="9" political="0" country="66" type="3" ability="1" birth="1797" service="1812" death="1846" image="Paredes" recruitType="0" useLanguage="-1" remark="美墨"/>
+	<general id="107" name="弗兰茨·约瑟夫" rank="9" political="0" country="8,11,38" type="1" ability="2" birth="1830" service="1848" death="1916" image="FranzJoseph" recruitType="0" useLanguage="-1" remark="一战 皇帝"/>
+	<general id="108" name="林泰曾" rank="9" political="0" country="28" type="4" ability="2" birth="1851" service="1871" death="1894" image="Lin_Taiceng" recruitType="0" useLanguage="-1" remark="黄海海战"/>
+	<general id="109" name="赵尔丰" rank="9" political="1" country="28" type="1" ability="2" birth="1845" service="1884" death="1911" image="Chao_erh_feng" recruitType="0" useLanguage="-1" remark="西藏，武昌起义"/>
+	<general id="110" name="张之洞" rank="9" political="2" country="28" type="2" ability="2" birth="1837" service="1863" death="1909" image="Zhang_zhidong" recruitType="0" useLanguage="-1"/>
+	<general id="111" name="欧仁·鲍狄埃" rank="9" political="0" country="35" type="1" ability="3" birth="1816" service="1840" death="1887" image="Edine Pottier" recruitType="0" useLanguage="-1" remark="巴黎公社革命者"/>
+	<general id="112" name="梯也尔" rank="9" political="0" country="35" type="3" ability="1" birth="1797" service="1821" death="1877" image="Thiers" recruitType="0" useLanguage="-1" remark="巴黎公社战争"/>
+	<general id="113" name="帕斯夸尔·塞韦拉" rank="9" political="0" country="90" type="4" ability="2" birth="1839" service="1873" death="1909" image="Pascual_vera" recruitType="0" useLanguage="-1" remark="西班牙 美西战争 近代"/>
+	<general id="114" name="阿列克谢耶夫" rank="9" political="0" country="33" type="4" ability="2" birth="1857" service="1877" death="1918" image="Alexeyev" recruitType="0" useLanguage="-1" remark="白军领导人 一战"/>
+	<general id="115" name="聂士成" rank="9" political="0" country="28" type="2" ability="2" birth="1836" service="1862" death="1900" image="Nieh Shih-ch'eng" recruitType="0" useLanguage="-1" remark="中法，甲午，庚子"/>
+	<general id="116" name="董福祥" rank="9" political="0" country="28" type="1" ability="2" birth="1840" service="1864" death="1908" image="Tung_fu_hsiang" recruitType="0" useLanguage="-1" remark="新疆，庚子"/>
+	<general id="117" name="张德成" rank="9" political="0" country="28" type="1" ability="2" birth="1864" service="1898" death="1900" image="Mr_Tsang_tak_sing" recruitType="1" useLanguage="-1" remark="庚子首领"/>
+	<general id="118" name="汤玉麟" rank="9" political="0" country="28" type="2" ability="2" birth="1871" service="1894" death="1949" image="Shang_Yulin" recruitType="0" useLanguage="-1" remark="直奉战争"/>
+	<general id="119" name="克韦什哈佐" rank="9" political="0" country="8,11,38" type="2" ability="2" birth="1854" service="1874" death="1924" image="Kweshhazo" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="120" name="萨姆索诺夫" rank="9" political="0" country="33" type="2" ability="2" birth="1859" service="1877" death="1914" image="Samsonov" recruitType="0" useLanguage="-1" remark="庚子 日俄 坦能堡"/>
+	<general id="121" name="章西女王" rank="9" political="0" country="98" type="1" ability="3" birth="1835" service="1853" death="1858" image="Lakshmi Bai" recruitType="0" useLanguage="-1" remark="印度起义"/>
+	<general id="122" name="罗萨斯" rank="9" political="0" country="1" type="2" ability="2" birth="1793" service="1827" death="1877" image="Rosas" recruitType="0" useLanguage="-1" remark="阿根廷 近代1"/>
+	<general id="123" name="乌尔基萨" rank="9" political="0" country="1" type="1" ability="2" birth="1801" service="1837" death="1870" image="Urquiza" recruitType="0" useLanguage="-1" remark="阿根廷  近代2"/>
+	<general id="124" name="斐迪南·马克西米利安·卡尔·利奥波德·玛丽亚" rank="9" political="0" country="18" type="2" ability="1" birth="1861" service="1887" death="1948" image="Ferdinand_I" recruitType="0" useLanguage="-1" remark="保加利亚"/>
+	<general id="125" name="马赫迪" rank="9" political="0" country="56" type="2" ability="2" birth="1848" service="1881" death="1885" image="Mahdi" recruitType="0" useLanguage="-1" remark="苏丹 马赫迪起义"/>
+	<general id="126" name="刘永福" rank="9" political="0" country="28" type="2" ability="2" birth="1837" service="1857" death="1917" image="Liu_yung_fu" recruitType="0" useLanguage="-1" remark="中法，抗日"/>
+	<general id="127" name="德川庆喜" rank="9" political="0" country="73" type="4" ability="1" birth="1837" service="1860" death="1913" image="Tokugawa" recruitType="0" useLanguage="-1" remark="维新"/>
+	<general id="128" name="佩里" rank="9" political="0" country="57,58" type="4" ability="2" birth="1794" service="1809" death="1858" image="Perry" recruitType="0" useLanguage="-1" remark="美日"/>
+	<general id="129" name="李熙" rank="9" political="0" country="26" type="4" ability="1" birth="1852" service="1864" death="1919" image="Li_Xi" recruitType="0" useLanguage="-1" remark="朝鲜 近代"/>
+	<general id="130" name="罗日杰斯特温斯基" rank="9" political="0" country="33" type="4" ability="2" birth="1848" service="1868" death="1908" image="Schawinski" recruitType="0" useLanguage="-1" remark="日俄"/>
+	<general id="131" name="贝当" rank="12" political="0" country="35" type="2" ability="3" birth="1856" service="1888" death="1951" image="Petain" recruitType="0" useLanguage="-1" remark="一战凡尔登"/>
+	<general id="132" name="高尔察克" rank="12" political="2" country="33" type="4" ability="4" birth="1874" service="1894" death="1920" image="Kolchak" recruitType="0" useLanguage="-1" remark="一战 苏俄内战"/>
+	<general id="133" name="克拉斯诺夫" rank="11" political="0" country="33" type="3" ability="2" birth="1869" service="1917" death="1946" image="Krasnov" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="134" name="弗兰格尔" rank="10" political="0" country="33" type="1" ability="2" birth="1878" service="1902" death="1928" image="Vrangel" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="135" name="程潜" rank="10" political="0" country="103,105" type="3" ability="1" birth="1882" service="1908" death="1968" image="Cheng_qian" recruitType="0" useLanguage="-1"/>
+	<general id="136" name="洛佩斯" rank="10" political="0" country="15" type="2" ability="2" birth="1826" service="1862" death="1870" image="Lopez" recruitType="0" useLanguage="-1" remark="巴拉圭战争"/>
+	<general id="137" name="佩德罗二世" rank="9" political="0" country="15" type="3" ability="2" birth="1825" service="1840" death="1891" image="Pedro_ii" recruitType="0" useLanguage="-1" remark="巴拉圭战争"/>
+	<general id="138" name="巴托洛梅·米特雷" rank="9" political="0" country="1" type="4" ability="1" birth="1821" service="1851" death="1906" image="Mitre" recruitType="0" useLanguage="-1" remark="阿根廷  近代3 巴拉圭战争"/>
+	<general id="139" name="亚历山大一世" rank="10" political="0" country="91" type="1" ability="1" birth="1893" service="1917" death="1920" image="Alexander_ii" recruitType="0" useLanguage="-1" remark="希腊"/>
+	<general id="140" name="艾马布勒" rank="13" political="0" country="35" type="4" ability="3" birth="1794" service="1815" death="1864" image="Shelooked" recruitType="2" useLanguage="-1" remark="克里米亚"/>
+	<general id="141" name="俾斯麦" rank="15" political="4" country="30,72" type="1" ability="3" birth="1815" service="1847" death="1898" image="bismarck" recruitType="2" useLanguage="-1" remark="普奥,普法"/>
+	<general id="142" name="蔡元培" rank="9" political="3" country="103,105" type="1" ability="2" birth="1868" service="1892" death="1940" image="CAIyuanpei" recruitType="0" useLanguage="-1"/>
+	<general id="143" name="查理·埃利奥特" rank="11" political="0" country="99" type="4" ability="2" birth="1879" service="1899" death="1942" image="Charlieelliott" recruitType="0" useLanguage="-1" remark="1鸦"/>
+	<general id="144" name="陈独秀" rank="9" political="2" country="101" type="2" ability="2" birth="1879" service="1919" death="1942" image="Chenduxiu" recruitType="0" useLanguage="-1"/>
+	<general id="145" name="慈禧" rank="15" political="1" country="28" type="3" ability="1" birth="1835" service="1852" death="1909" image="cixi" recruitType="1" useLanguage="-1"/>
+	<general id="146" name="弗雷德里克·罗伯茨" rank="12" political="2" country="99" type="4" ability="3" birth="1832" service="1856" death="1914" image="FrederickRoberts" recruitType="0" useLanguage="-1" remark="印度起义"/>
+	<general id="147" name="葛罗" rank="11" political="0" country="35" type="3" ability="2" birth="1793" service="1838" death="1870" image="MrLuo" recruitType="0" useLanguage="-1" remark="2鸦"/>
+	<general id="148" name="关天培" rank="11" political="0" country="28" type="4" ability="2" birth="1781" service="1803" death="1841" image="Kuantien-pei" recruitType="0" useLanguage="-1" remark="中英"/>
+	<general id="149" name="郭布罗·长顺" rank="13" political="0" country="28" type="2" ability="3" birth="1839" service="1861" death="1904" image="Kuolongshun" recruitType="2" useLanguage="-1" remark="新疆，东北"/>
+	<general id="150" name="贺龙" rank="13" political="2" country="101" type="3" ability="4" birth="1896" service="1914" death="1969" image="Helong" recruitType="2" useLanguage="-1"/>
+	<general id="151" name="康有为" rank="9" political="1" country="28" type="1" ability="1" birth="1858" service="1898" death="1927" image="Kangyouwei" recruitType="0" useLanguage="-1"/>
+	<general id="152" name="克列孟梭" rank="14" political="2" country="35" type="3" ability="3" birth="1841" service="1870" death="1929" image="Ofthewayclemenceau" recruitType="2" useLanguage="-1" remark="一战总理"/>
+	<general id="153" name="拉格伦" rank="13" political="0" country="99" type="4" ability="3" birth="1788" service="1804" death="1855" image="raglan" recruitType="2" useLanguage="-1" remark="克里米亚"/>
+	<general id="154" name="李大钊" rank="9" political="2" country="101" type="4" ability="2" birth="1887" service="1916" death="1927" image="Lidazhao" recruitType="0" useLanguage="-1"/>
+	<general id="155" name="李立三" rank="9" political="2" country="101" type="2" ability="3" birth="1899" service="1921" death="1967" image="Lilisansadventurism" recruitType="0" useLanguage="-1"/>
+	<general id="156" name="梁启超" rank="9" political="1" country="28" type="3" ability="1" birth="1873" service="1895" death="1929" image="Liangqichao" recruitType="0" useLanguage="-1"/>
+	<general id="157" name="列宁" rank="15" political="4" country="79" type="3" ability="4" birth="1870" service="1895" death="1924" image="Lenin" recruitType="2" useLanguage="-1" remark="苏俄内战"/>
+	<general id="158" name="林肯" rank="15" political="4" country="57,58" type="1" ability="4" birth="1809" service="1834" death="1865" image="Lincoln" recruitType="2" useLanguage="-1" remark="南北1"/>
+	<general id="159" name="刘少奇" rank="14" political="0" country="101" type="1" ability="3" birth="1898" service="1921" death="1969" image="Liushaoqi" recruitType="2" useLanguage="-1"/>
+	<general id="160" name="鲁迅" rank="9" political="3" country="103,105" type="2" ability="3" birth="1881" service="1907" death="1936" image="Luxun" recruitType="-1" useLanguage="-1"/>
+	<general id="161" name="毛泽东" rank="15" political="2" country="101" type="3" ability="4" birth="1893" service="1923" death="1976" image="MAOzedong" recruitType="2" useLanguage="-1"/>
+	<general id="162" name="穆拉维约夫" rank="12" political="0" country="33" type="2" ability="3" birth="1809" service="1827" death="1881" image="Joseraviabouthusband" recruitType="0" useLanguage="-1" remark="东北"/>
+	<general id="163" name="帕默斯顿" rank="13" political="2" country="99,107" type="4" ability="2" birth="1784" service="1807" death="1865" image="palmerston" recruitType="2" useLanguage="-1" remark="克里米亚 鸦片 印度"/>
+	<general id="164" name="彭玉麟" rank="11" political="0" country="28" type="3" ability="3" birth="1816" service="1853" death="1890" image="PengYulin" recruitType="0" useLanguage="-1" remark="太平，中法、"/>
+	<general id="165" name="瞿秋白" rank="12" political="2" country="101" type="2" ability="2" birth="1899" service="1922" death="1935" image="Quqiubai" recruitType="0" useLanguage="-1"/>
+	<general id="166" name="孙中山" rank="15" political="4" country="103,105" type="3" ability="2" birth="1866" service="1905" death="1925" image="Sunyat-sen" recruitType="2" useLanguage="-1"/>
+	<general id="167" name="谭嗣同" rank="9" political="1" country="28" type="2" ability="1" birth="1865" service="1895" death="1898" image="Tansitong" recruitType="0" useLanguage="-1"/>
+	<general id="168" name="王稼祥" rank="9" political="2" country="101" type="1" ability="2" birth="1906" service="1925" death="1974" image="WangJiaxiang" recruitType="0" useLanguage="-1"/>
+	<general id="169" name="威尔逊" rank="14" political="2" country="57,58" type="4" ability="2" birth="1856" service="1909" death="1924" image="Wilson" recruitType="2" useLanguage="-1" remark="一战"/>
+	<general id="170" name="叶名琛" rank="9" political="0" country="28" type="1" ability="2" birth="1807" service="1845" death="1859" image="Leavesoftheprocessing" recruitType="0" useLanguage="-1" remark="2鸦"/>
+	<general id="171" name="叶志超" rank="10" political="0" country="28" type="2" ability="2" birth="1838" service="1862" death="1901" image="YeZhichao" recruitType="0" useLanguage="-1" remark="太平，甲午"/>
+	<general id="172" name="奕訢" rank="12" political="3" country="28" type="3" ability="2" birth="1833" service="1851" death="1898" image="Yixin" recruitType="0" useLanguage="-1"/>
+	<general id="173" name="袁寿山" rank="13" political="0" country="28" type="1" ability="3" birth="1860" service="1885" death="1900" image="YuanShoushan" recruitType="2" useLanguage="-1" remark="甲午，东北"/>
+	<general id="174" name="增祺" rank="11" political="0" country="28" type="4" ability="2" birth="1851" service="1897" death="1919" image="Addkei" recruitType="0" useLanguage="-1" remark="东北"/>
+	<general id="175" name="张闻天" rank="11" political="2" country="101" type="1" ability="2" birth="1900" service="1925" death="1976" image="Zhangwentian" recruitType="0" useLanguage="-1"/>
+	<general id="176" name="徐树铮" rank="12" political="2" country="103" type="4" ability="3" birth="1880" service="1901" death="1925" image="Carol" recruitType="0" useLanguage="-1" remark="扼杀革命"/>
+	<general id="177" name="弗兰克·卢克" rank="11" political="0" country="57,58" type="5" ability="2" birth="1897" service="1910" death="1918" image="fulanke" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="178" name="埃里希.莱因哈特" rank="10" political="0" country="30,72" type="5" ability="1" birth="1878" service="1900" death="1920" image="ailix" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="179" name="波尔克" rank="11" political="0" country="30,72" type="5" ability="2" birth="1891" service="1915" death="1916" image="bodon" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="180" name="恩斯特.乌德特" rank="11" political="0" country="30,72" type="5" ability="2" birth="1896" service="1915" death="1941" image="dongs" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="181" name="里希特霍芬" rank="10" political="0" country="30,72" type="5" ability="1" birth="1892" service="1911" death="1918" image="lixit" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="182" name="马克斯·殷麦曼" rank="12" political="0" country="30,72" type="5" ability="3" birth="1890" service="1914" death="1916" image="makes" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="183" name="维尔纳·福斯" rank="11" political="0" country="30,72" type="5" ability="2" birth="1873" service="1900" death="1917" image="weido" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="184" name="勒内.芬克" rank="10" political="0" country="35" type="5" ability="1" birth="1882" service="1900" death="1915" image="lenei" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="185" name="罗兰·加洛斯" rank="11" political="0" country="35" type="5" ability="2" birth="1888" service="1913" death="1918" image="luola" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="186" name="乔治·居内梅" rank="12" political="0" country="35" type="5" ability="3" birth="1894" service="1915" death="1917" image="juneimei" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="187" name="查尔斯·南杰赛" rank="11" political="0" country="35" type="5" ability="2" birth="1885" service="1900" death="1926" image="chado" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="188" name="让·博约" rank="10" political="0" country="35" type="5" ability="1" birth="1887" service="1900" death="1911" image="rang" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="189" name="尼古拉耶维奇·涅斯捷罗夫" rank="11" political="0" country="33" type="5" ability="2" birth="1884" service="1900" death="1914" image="nigul" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="190" name="亚历山大·卡萨科夫" rank="10" political="0" country="33" type="5" ability="1" birth="1913" service="1939" death="1985" image="yalis" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="191" name="弗朗切斯科·巴拉卡" rank="11" political="0" country="97" type="5" ability="2" birth="1888" service="1914" death="1948" image="Baracca" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="192" name="西尔维奥·斯卡罗尼" rank="10" political="0" country="97" type="5" ability="1" birth="1890" service="1915" death="1950" image="xidon" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="193" name="艾迪·里肯巴克" rank="11" political="0" country="57,58" type="5" ability="2" birth="1890" service="1917" death="1973" image="aidi" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="194" name="劳尔·卢弗贝瑞" rank="12" political="0" country="57,58" type="5" ability="3" birth="1890" service="1900" death="1921" image="laodo" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="195" name="尤利乌斯·阿里格" rank="11" political="0" country="8,11,38" type="5" ability="2" birth="1876" service="1900" death="1916" image="youli" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="196" name="阿伯特·鲍尔" rank="10" political="0" country="99" type="5" ability="1" birth="1887" service="1905" death="1917" image="abote" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="197" name="安德鲁.普罗克特" rank="11" political="0" country="99" type="5" ability="2" birth="1870" service="1900" death="1924" image="andel" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="198" name="詹姆斯.麦克库登" rank="11" political="0" country="99" type="5" ability="2" birth="1887" service="1900" death="1930" image="zhanm" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="199" name="爱德华.曼诺克" rank="10" political="0" country="99" type="5" ability="1" birth="1880" service="1900" death="1910" image="aideh" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="200" name="威廉·比绍普" rank="11" political="0" country="48" type="5" ability="2" birth="1870" service="1900" death="1925" image="weili" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="201" name="雷蒙德.克里绍" rank="10" political="0" country="48" type="5" ability="1" birth="1877" service="1900" death="1913" image="leime" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="202" name="唐纳德.麦克拉仑" rank="11" political="0" country="48" type="5" ability="2" birth="1879" service="1900" death="1922" image="tangn" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="203" name="徐绍桢" rank="11" political="0" country="103,105" type="4" ability="2" birth="1861" service="1880" death="1936" image="xusha" recruitType="0" useLanguage="-1"/>
+	<general id="204" name="卡尔一世" rank="11" political="0" country="8,11,38" type="4" ability="2" birth="1887" service="1916" death="1922" image="Carl" recruitType="0" useLanguage="-1"/>
+	<general id="205" name="恩维尔·帕夏" rank="11" political="0" country="12" type="4" ability="2" birth="1881" service="1913" death="1922" image="dongw" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="206" name="卡尔·冯·比洛" rank="10" political="0" country="30,72" type="4" ability="1" birth="1846" service="1877" death="1921" image="Bulow" recruitType="0" useLanguage="-1" remark="普法,马恩河"/>
+	<general id="207" name="温斯顿·丘吉尔" rank="11" political="0" country="99" type="4" ability="2" birth="1874" service="1900" death="1965" image="wensi" recruitType="0" useLanguage="-1"/>
+	<general id="208" name="冯·桑德斯" rank="11" political="0" country="30,72" type="4" ability="2" birth="1873" service="1900" death="1921" image="feng" recruitType="0" useLanguage="-1" remark="第二次巴尔干战争,奥斯曼司令"/>
+	<general id="209" name="加藤定吉" rank="11" political="0" country="73" type="4" ability="2" birth="1870" service="1900" death="1927" image="jiate" recruitType="0" useLanguage="-1" remark="日德战争"/>
+	<general id="210" name="神尾光臣" rank="12" political="0" country="73" type="4" ability="3" birth="1855" service="1874" death="1927" image="shenw" recruitType="0" useLanguage="-1" remark="日德战争，甲午"/>
+	<general id="211" name="由比光卫" rank="11" political="0" country="73" type="4" ability="2" birth="1860" service="1880" death="1925" image="youbi" recruitType="0" useLanguage="-1" remark="扼杀革命"/>
+	<general id="212" name="戴维·贝蒂" rank="12" political="0" country="99" type="4" ability="3" birth="1871" service="1884" death="1936" image="daiwe" recruitType="0" useLanguage="-1" remark="日德兰海战"/>
+	<general id="213" name="冯·胡蒂尔" rank="11" political="0" country="30,72" type="4" ability="2" birth="1857" service="1915" death="1934" image="hudier" recruitType="0" useLanguage="-1" remark="索姆河"/>
+	<general id="214" name="詹姆斯·朗斯特里特" rank="10" political="0" country="57,58" type="4" ability="1" birth="1821" service="1847" death="1904" image="zhanmusi" recruitType="0" useLanguage="-1" remark="南北"/>
+	<general id="215" name="约书亚·劳伦斯·张伯伦" rank="11" political="0" country="57,58" type="4" ability="2" birth="1828" service="1861" death="1914" image="yuesh" recruitType="0" useLanguage="-1" remark="南北"/>
+	<general id="216" name="威廉·冯·特格特霍夫" rank="12" political="0" country="8,11,38" type="4" ability="3" birth="1827" service="1854" death="1871" image="tegetehuofu" recruitType="0" useLanguage="-1" remark="意大利统一"/>
+	<general id="217" name="瓦西里·康斯坦丁诺维奇·布柳赫尔" rank="12" political="0" country="79" type="4" ability="3" birth="1890" service="1916" death="1938" image="Blyukher" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="218" name="亚历山大·伊里奇·叶戈罗夫" rank="12" political="0" country="79" type="4" ability="3" birth="1883" service="1901" death="1939" image="yegeluofu" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="219" name="克利缅特·叶夫列莫维奇·伏罗希洛夫" rank="11" political="0" country="79" type="4" ability="2" birth="1881" service="1918" death="1969" image="kelim" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="220" name="格里戈里·米哈伊洛维奇·谢苗诺夫" rank="12" political="0" country="79" type="4" ability="3" birth="1890" service="1911" death="1946" image="xiemi" recruitType="0" useLanguage="-1" remark="苏俄内战 贝加尔湖地区白俄领袖"/>
+	<general id="221" name="莫里斯·居斯塔夫·甘末林" rank="12" political="0" country="35" type="4" ability="3" birth="1872" service="1899" death="1958" image="molis" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="222" name="霍尔蒂·米克洛什" rank="11" political="0" country="8,11,38" type="4" ability="2" birth="1868" service="1888" death="1957" image="Horthy" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="223" name="韦尼泽洛斯" rank="10" political="0" country="91" type="4" ability="1" birth="1864" service="1910" death="1936" image="weini" recruitType="0" useLanguage="-1" remark="希土战争"/>
+	<general id="224" name="威廉·米切尔" rank="11" political="0" country="57,58" type="4" ability="2" birth="1879" service="1898" death="1936" image="weilimi" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="225" name="霍普纳" rank="11" political="0" country="30,72" type="4" ability="2" birth="1886" service="1905" death="1944" image="huopu" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="226" name="马克西米利安·冯·施佩" rank="10" political="0" country="30,72" type="4" ability="1" birth="1861" service="1878" death="1914" image="makex" recruitType="0" useLanguage="-1" remark="一战 智利之战（1914）；福克兰之战（1914）"/>
+	<general id="227" name="本庄繁" rank="11" political="0" country="73" type="4" ability="2" birth="1876" service="1906" death="1945" image="benzh" recruitType="0" useLanguage="-1" remark="918"/>
+	<general id="228" name="南次郎" rank="10" political="0" country="73" type="4" ability="1" birth="1874" service="1903" death="1955" image="nanci" recruitType="0" useLanguage="-1" remark="918"/>
+	<general id="229" name="赛维凯特·帕夏" rank="11" political="0" country="12" type="4" ability="2" birth="1879" service="1900" death="1922" image="saiwe" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="230" name="伊维·帕夏" rank="10" political="0" country="12" type="4" ability="1" birth="1879" service="1900" death="1916" image="yiwei" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="231" name="阿多拉赫·帕夏" rank="11" political="0" country="12" type="4" ability="2" birth="1877" service="1900" death="1924" image="adong" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="232" name="穆罕默德·伊思巴克特" rank="10" political="0" country="12" type="4" ability="1" birth="1881" service="1900" death="1928" image="muhan" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="233" name="奥保巩" rank="12" political="0" country="73" type="4" ability="3" birth="1847" service="1894" death="1930" image="aobao" recruitType="0" useLanguage="-1" remark="俄日 甲午"/>
+	<general id="234" name="黑木为桢" rank="12" political="0" country="73" type="4" ability="3" birth="1844" service="1871" death="1923" image="Halleck" recruitType="0" useLanguage="-1" remark="俄日 甲午"/>
+	<general id="235" name="乃木希典" rank="12" political="0" country="73" type="4" ability="3" birth="1849" service="1871" death="1912" image="naimu" recruitType="0" useLanguage="-1" remark="俄日 甲午"/>
+	<general id="236" name="张敬尧" rank="11" political="2" country="103,104" type="4" ability="2" birth="1881" service="1896" death="1933" image="zhang" recruitType="0" useLanguage="-1" remark="皖系"/>
+	<general id="237" name="赫尔曼·戈林" rank="11" political="0" country="30,72" type="5" ability="2" birth="1893" service="1909" death="1946" image="hedon" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="238" name="格奥尔吉·朱可夫" rank="11" political="0" country="33" type="4" ability="2" birth="1896" service="1915" death="1974" image="Zhukov" recruitType="0" useLanguage="-1"/>
+	<general id="239" name="埃德温·隆美尔" rank="11" political="0" country="30,72" type="4" ability="2" birth="1891" service="1910" death="1944" image="Rommel" recruitType="0" useLanguage="-1"/>
+	<general id="240" name="夏尔·戴高乐" rank="11" political="0" country="35" type="4" ability="2" birth="1890" service="1912" death="1970" image="DeGaulle" recruitType="0" useLanguage="-1"/>
+	<general id="241" name="富兰克林·罗斯福" rank="11" political="0" country="57,58" type="4" ability="2" birth="1882" service="1910" death="1945" image="fulankelin" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="242" name="乔治·马歇尔" rank="12" political="0" country="57,58" type="4" ability="3" birth="1880" service="1901" death="1959" image="qiaozhi" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="243" name="伯纳德·蒙哥马利" rank="10" political="0" country="99" type="4" ability="1" birth="1887" service="1908" death="1976" image="Montgomery" recruitType="0" useLanguage="-1" remark="蒙哥马利"/>
+	<general id="244" name="本尼托·墨索里尼" rank="10" political="0" country="97" type="4" ability="1" birth="1883" service="1900" death="1945" image="Mussolini" recruitType="0" useLanguage="-1"/>
+	<general id="245" name="阿道夫·希特勒" rank="10" political="0" country="30,72" type="4" ability="1" birth="1889" service="1914" death="1945" image="Schicklgruber" recruitType="0" useLanguage="-1"/>
+	<general id="246" name="道格拉斯·麦克阿瑟" rank="12" political="0" country="57,58" type="4" ability="3" birth="1880" service="1904" death="1964" image="daoge" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="247" name="公式乔治·巴顿" rank="11" political="0" country="57,58" type="4" ability="2" birth="1885" service="1905" death="1945" image="gongs" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="248" name="奇卡洛夫" rank="11" political="0" country="79" type="5" ability="2" birth="1904" service="1924" death="1938" image="qikal" recruitType="0" useLanguage="-1" remark="王牌空军 苏联内战"/>
+	<general id="249" name="加米涅夫" rank="10" political="3" country="79" type="4" ability="1" birth="1883" service="1901" death="1936" image="jiami" recruitType="0" useLanguage="-1" remark="苏联政治家"/>
+	<general id="250" name="诺尔曼·普林斯" rank="11" political="0" country="57,58" type="5" ability="2" birth="1880" service="1905" death="1916" image="nuodo" recruitType="0" useLanguage="-1" remark="王牌空军"/>
+	<general id="251" name="博罗埃维奇" rank="12" political="0" country="8,11,38" type="4" ability="3" birth="1856" service="1876" death="1920" image="boluo" recruitType="0" useLanguage="-1" remark="主持意大利战线"/>
+	<general id="252" name="施特劳森堡" rank="11" political="1" country="8,11,38" type="4" ability="2" birth="1879" service="1900" death="1922" image="shite" recruitType="0" useLanguage="-1" remark="参谋总长 意大利战线"/>
+	<general id="253" name="尤格拉夫·冯·凯斯内科" rank="11" political="0" country="8,11,38" type="4" ability="2" birth="1883" service="1900" death="1918" image="youge" recruitType="0" useLanguage="-1" remark="一战,初期俄国,意大利"/>
+	<general id="254" name="安东·豪斯" rank="12" political="2" country="8,11,38" type="4" ability="3" birth="1851" service="1912" death="1917" image="andon" recruitType="0" useLanguage="-1" remark="奥匈帝国海军大臣"/>
+	<general id="255" name="马克西米连·涅格凡" rank="11" political="1" country="8,11,38" type="4" ability="2" birth="1889" service="1900" death="1918" image="makeximi" recruitType="0" useLanguage="-1" remark="奥匈帝国海军参谋长"/>
+	<general id="256" name="戈特弗里德" rank="11" political="0" country="8,11,38" type="4" ability="2" birth="1888" service="1900" death="1926" image="getef" recruitType="0" useLanguage="-1" remark="Kornel Oszlányi少将 王牌飞行员"/>
+	<general id="257" name="格奥尔格·冯·特拉普" rank="11" political="1" country="8,11,38" type="4" ability="2" birth="1880" service="1902" death="1947" image="geaodg" recruitType="0" useLanguage="-1" remark="奥匈潜艇部队"/>
+	<general id="258" name="亚历山大·冯·巴赫" rank="10" political="2" country="8,11,38" type="4" ability="1" birth="1813" service="1848" death="1893" image="yalisbahe" recruitType="0" useLanguage="-1" remark="意大利独立战争"/>
+	<general id="259" name="赫尔曼·科维斯·冯·科维斯哈扎" rank="11" political="3" country="8,11,38" type="4" ability="2" birth="1872" service="1900" death="1926" image="Kovess" recruitType="0" useLanguage="-1" remark="奥匈陆军末任总司令"/>
+	<general id="260" name="欧根大公" rank="12" political="2" country="8,11,38" type="4" ability="3" birth="1863" service="1894" death="1954" image="Archduke.E" recruitType="0" useLanguage="-1" remark="意大利战线"/>
+	<general id="261" name="弗里德里希大公" rank="11" political="3" country="8,11,38" type="4" ability="2" birth="1856" service="1914" death="1936" image="fulid" recruitType="0" useLanguage="-1" remark="一战时期奥匈帝国陆军最高指挥官"/>
+	<general id="262" name="段芝贵" rank="11" political="0" country="103,104" type="4" ability="2" birth="1869" service="1895" death="1925" image="dongz" recruitType="0" useLanguage="-1" remark="皖系"/>
+	<general id="263" name="曹锟" rank="10" political="0" country="103,104" type="4" ability="1" birth="1862" service="1882" death="1938" image="Sopinsky" recruitType="0" useLanguage="-1" remark="直系"/>
+	<general id="264" name="陈炯明" rank="11" political="0" country="103,105" type="4" ability="2" birth="1878" service="1910" death="1933" image="chenjiongm" recruitType="0" useLanguage="-1" remark="粤系"/>
+	<general id="265" name="陈济棠" rank="11" political="0" country="103,101" type="4" ability="2" birth="1890" service="1907" death="1954" image="chenjishang" recruitType="0" useLanguage="-1" remark="新粤系"/>
+	<general id="266" name="唐继尧" rank="11" political="0" country="103" type="4" ability="2" birth="1883" service="1909" death="1927" image="tangj" recruitType="0" useLanguage="-1" remark="滇系"/>
+	<general id="267" name="龙云" rank="10" political="0" country="103,105,101" type="4" ability="1" birth="1884" service="1914" death="1962" image="longy" recruitType="0" useLanguage="-1" remark="滇系"/>
+	<general id="268" name="傅作义" rank="11" political="0" country="103,105" type="4" ability="2" birth="1895" service="1911" death="1974" image="fuzuoyi" recruitType="0" useLanguage="-1" remark="晋系"/>
+	<general id="269" name="韩复榘" rank="10" political="0" country="103,105" type="4" ability="1" birth="1891" service="1910" death="1938" image="hanfu" recruitType="0" useLanguage="-1" remark="鲁系（脱离于冯系西北军）"/>
+	<general id="270" name="赵倜" rank="11" political="0" country="103" type="4" ability="2" birth="1871" service="1913" death="1933" image="zhaochou" recruitType="0" useLanguage="-1" remark="豫系,直系"/>
+	<general id="271" name="刘显世" rank="12" political="0" country="103,104" type="4" ability="3" birth="1870" service="1905" death="1927" image="liuxiansh" recruitType="0" useLanguage="-1" remark="黔系"/>
+	<general id="272" name="袁祖铭" rank="11" political="0" country="103" type="4" ability="2" birth="1889" service="1909" death="1927" image="yuanz" recruitType="0" useLanguage="-1" remark="黔系"/>
+	<general id="273" name="周西成" rank="11" political="0" country="103" type="4" ability="2" birth="1893" service="1914" death="1929" image="zhoux" recruitType="0" useLanguage="-1" remark="黔系"/>
+	<general id="274" name="王家烈" rank="10" political="0" country="103" type="4" ability="1" birth="1893" service="1914" death="1966" image="wangj" recruitType="0" useLanguage="-1" remark="黔系"/>
+	<general id="275" name="汤芗铭" rank="11" political="0" country="103,104" type="4" ability="2" birth="1883" service="1911" death="1975" image="tangxiang" recruitType="0" useLanguage="-1" remark="湘系"/>
+	<general id="276" name="唐生智" rank="11" political="0" country="103,105" type="4" ability="2" birth="1890" service="1911" death="1970" image="tangs" recruitType="0" useLanguage="-1" remark="湘系"/>
+	<general id="277" name="谭延闿" rank="11" political="0" country="103,105" type="4" ability="2" birth="1880" service="1911" death="1930" image="tanya" recruitType="0" useLanguage="-1" remark="湘系"/>
+	<general id="278" name="何键" rank="10" political="0" country="103,105" type="4" ability="1" birth="1887" service="1916" death="1956" image="hejia" recruitType="0" useLanguage="-1" remark="湘系"/>
+	<general id="279" name="刘湘" rank="11" political="0" country="103,105" type="4" ability="2" birth="1890" service="1909" death="1938" image="liuxiang" recruitType="0" useLanguage="-1" remark="川军"/>
+	<general id="280" name="邓锡侯" rank="10" political="0" country="103,105" type="4" ability="1" birth="1889" service="1909" death="1964" image="dengx" recruitType="0" useLanguage="-1" remark="川军"/>
+	<general id="281" name="杨森" rank="11" political="0" country="103,105" type="4" ability="2" birth="1884" service="1908" death="1977" image="yangs" recruitType="0" useLanguage="-1" remark="川军"/>
+	<general id="282" name="刘文辉" rank="11" political="0" country="103,105,101" type="4" ability="2" birth="1895" service="1910" death="1976" image="liuwe" recruitType="0" useLanguage="-1" remark="川军"/>
+	<general id="283" name="刘镇华" rank="10" political="0" country="103" type="4" ability="1" birth="1883" service="1908" death="1956" image="liuzh" recruitType="0" useLanguage="-1" remark="陕西 墙头草"/>
+	<general id="284" name="杨虎城" rank="12" political="0" country="103,101" type="4" ability="3" birth="1893" service="1924" death="1949" image="yangh" recruitType="0" useLanguage="-1" remark="陕西"/>
+	<general id="285" name="郭坚" rank="11" political="0" country="103,105" type="4" ability="2" birth="1887" service="1915" death="1921" image="guoji" recruitType="0" useLanguage="-1" remark="陕西"/>
+	<general id="286" name="党玉琨" rank="10" political="0" country="103" type="4" ability="1" birth="1887" service="1925" death="1928" image="dangy" recruitType="0" useLanguage="-1" remark="陕西"/>
+	<general id="287" name="马鸿宾" rank="11" political="0" country="103" type="4" ability="2" birth="1884" service="1904" death="1960" image="mahongbin" recruitType="0" useLanguage="-1" remark="宁夏"/>
+	<general id="288" name="马鸿逵" rank="11" political="0" country="103" type="4" ability="2" birth="1892" service="1912" death="1970" image="mahongkui" recruitType="0" useLanguage="-1" remark="宁夏"/>
+	<general id="289" name="马麒" rank="10" political="0" country="103" type="4" ability="1" birth="1869" service="1895" death="1931" image="Qi" recruitType="0" useLanguage="-1" remark="青海"/>
+	<general id="290" name="马安良" rank="11" political="0" country="103" type="4" ability="2" birth="1855" service="1886" death="1920" image="maanl" recruitType="0" useLanguage="-1" remark="青海"/>
+	<general id="291" name="马步芳" rank="12" political="0" country="103" type="4" ability="3" birth="1903" service="1917" death="1975" image="Bufang" recruitType="0" useLanguage="-1" remark="青海"/>
+	<general id="292" name="马步青" rank="12" political="0" country="103" type="4" ability="3" birth="1898" service="1915" death="1977" image="mabuq" recruitType="0" useLanguage="-1" remark="青海"/>
+	<general id="293" name="马仲英" rank="11" political="0" country="103" type="4" ability="2" birth="1908" service="1928" death="1937" image="mazho" recruitType="0" useLanguage="-1" remark="甘肃"/>
+	<general id="294" name="杨增新" rank="10" political="0" country="103" type="4" ability="1" birth="1864" service="1889" death="1928" image="yangz" recruitType="0" useLanguage="-1" remark="新疆"/>
+	<general id="295" name="金树仁" rank="11" political="0" country="103" type="4" ability="2" birth="1879" service="1915" death="1941" image="jinsh" recruitType="0" useLanguage="-1" remark="新疆"/>
+	<general id="296" name="盛世才" rank="12" political="0" country="103" type="4" ability="3" birth="1892" service="1927" death="1970" image="sheng" recruitType="0" useLanguage="-1" remark="新疆"/>
+	<general id="297" name="丁日昌" rank="13" political="2" country="28" type="4" ability="4" birth="1823" service="1860" death="1882" image="dingr" recruitType="2" useLanguage="-1" remark="太平天国,甲午"/>
+	<general id="298" name="载涛" rank="11" political="0" country="28" type="4" ability="2" birth="1887" service="1908" death="1970" image="zaita" recruitType="0" useLanguage="-1" remark="清末"/>
+	<general id="299" name="溥仪" rank="10" political="1" country="28" type="4" ability="1" birth="1906" service="1909" death="1967" image="puyi" recruitType="0" useLanguage="-1" remark="清末"/>
+	<general id="300" name="张朝发" rank="11" political="0" country="28" type="4" ability="2" birth="1815" service="1838" death="1840" image="zhangchaofa" recruitType="0" useLanguage="-1" remark="鸦片战争"/>
+	<general id="301" name="姚怀祥" rank="10" political="0" country="28" type="4" ability="1" birth="1783" service="1818" death="1840" image="yaohu" recruitType="0" useLanguage="-1" remark="鸦片战争"/>
+	<general id="302" name="陈连升" rank="11" political="0" country="28" type="4" ability="2" birth="1775" service="1838" death="1841" image="chenl" recruitType="0" useLanguage="-1" remark="鸦片战争"/>
+	<general id="303" name="史荣椿" rank="12" political="0" country="28" type="4" ability="3" birth="1832" service="1851" death="1859" image="shiro" recruitType="0" useLanguage="-1" remark="鸦片战争2"/>
+	<general id="304" name="左宝贵" rank="11" political="0" country="28" type="4" ability="2" birth="1837" service="1856" death="1894" image="zuobaog" recruitType="0" useLanguage="-1" remark="甲午战争"/>
+	<general id="305" name="杨玉科" rank="12" political="0" country="28" type="4" ability="3" birth="1838" service="1864" death="1885" image="yangy" recruitType="0" useLanguage="-1" remark="中法战争"/>
+	<general id="306" name="苏元春" rank="11" political="0" country="28" type="4" ability="2" birth="1844" service="1863" death="1908" image="suyuanchun" recruitType="0" useLanguage="-1" remark="太平天国 中法战争"/>
+	<general id="307" name="黄建勋" rank="10" political="0" country="28" type="4" ability="1" birth="1852" service="1874" death="1894" image="huang" recruitType="0" useLanguage="-1" remark="甲午海战 海军"/>
+	<general id="308" name="林永升" rank="11" political="0" country="28" type="4" ability="2" birth="1853" service="1871" death="1894" image="linyo" recruitType="0" useLanguage="-1" remark="甲午海战 海军"/>
+	<general id="309" name="林履中" rank="11" political="0" country="28" type="4" ability="2" birth="1852" service="1876" death="1894" image="linlv" recruitType="0" useLanguage="-1" remark="甲午海战 海军"/>
+	<general id="310" name="刘步蟾" rank="12" political="0" country="28" type="4" ability="3" birth="1852" service="1875" death="1895" image="liubu" recruitType="0" useLanguage="-1" remark="甲午海战 海军"/>
+	<general id="311" name="杨用霖" rank="10" political="0" country="28" type="4" ability="1" birth="1854" service="1871" death="1895" image="yangyl" recruitType="0" useLanguage="-1" remark="甲午海战 海军"/>
+	<general id="312" name="戴宗骞" rank="11" political="2" country="28" type="4" ability="2" birth="1842" service="1861" death="1895" image="daizo" recruitType="0" useLanguage="-1" remark="甲午海战 守护威海卫"/>
+	<general id="313" name="罗荣光" rank="11" political="0" country="28" type="4" ability="2" birth="1833" service="1867" death="1900" image="luoro" recruitType="0" useLanguage="-1" remark="八国联军 天津"/>
+	<general id="314" name="李秉衡" rank="10" political="1" country="28" type="4" ability="1" birth="1830" service="1879" death="1900" image="libin" recruitType="0" useLanguage="-1" remark="甲午 山东巡抚"/>
+	<general id="315" name="裕禄" rank="11" political="0" country="28" type="4" ability="2" birth="1844" service="1874" death="1900" image="yulu" recruitType="0" useLanguage="-1" remark="八国联军"/>
+	<general id="316" name="陈毅" rank="12" political="0" country="101" type="4" ability="3" birth="1901" service="1923" death="1972" image="cheny" recruitType="0" useLanguage="-1"/>
+	<general id="317" name="朱德" rank="13" political="2" country="101" type="4" ability="4" birth="1886" service="1911" death="1976" image="zhude" recruitType="2" useLanguage="-1"/>
+	<general id="318" name="刘伯承" rank="12" political="0" country="101" type="4" ability="3" birth="1892" service="1926" death="1986" image="liubo" recruitType="0" useLanguage="-1"/>
+	<general id="319" name="徐世昌" rank="11" political="3" country="103,104" type="4" ability="2" birth="1855" service="1889" death="1936" image="xushi" recruitType="0" useLanguage="-1" remark="中华民国大总统"/>
+	<general id="320" name="里布瑞忒冯佛克" rank="10" political="0" country="8,11,38" type="4" ability="1" birth="1872" service="1900" death="1910" image="Liborius" recruitType="0" useLanguage="-1"/>
+	<general id="321" name="弗里德里希冯哥及" rank="11" political="0" country="8,11,38" type="2" ability="2" birth="1878" service="1900" death="1911" image="Georgi" recruitType="0" useLanguage="-1"/>
+	<general id="322" name="斯特拉森堡" rank="10" political="0" country="8,11,38" type="2" ability="1" birth="1876" service="1900" death="1925" image="Straussenburg" recruitType="0" useLanguage="-1"/>
+	<general id="323" name="张勋" rank="11" political="1" country="103" type="4" ability="2" birth="1854" service="1884" death="1923" image="Zhang xun" recruitType="0" useLanguage="-1"/>
+	<general id="324" name="廕昌" rank="11" political="0" country="103" type="4" ability="2" birth="1859" service="1877" death="1928" image="The shadow of chang" recruitType="0" useLanguage="-1"/>
+	<general id="325" name="王占元" rank="10" political="0" country="103" type="4" ability="1" birth="1861" service="1895" death="1934" image="Wang Zhanyuan" recruitType="0" useLanguage="-1"/>
+	<general id="326" name="王士珍" rank="11" political="0" country="103" type="4" ability="2" birth="1861" service="1876" death="1930" image="Wang Shizhen" recruitType="0" useLanguage="-1"/>
+	<general id="327" name="噶瑞德里蒙" rank="11" political="0" country="19" type="1" ability="2" birth="1875" service="1900" death="1918" image="Leman" recruitType="0" useLanguage="-1"/>
+	<general id="328" name="马玉昆" rank="11" political="0" country="28" type="4" ability="2" birth="1838" service="1867" death="1908" image="Ma Yukun" recruitType="0" useLanguage="-1"/>
+	<general id="329" name="岑春煊" rank="10" political="0" country="28" type="4" ability="1" birth="1861" service="1888" death="1933" image="CenChunXuan" recruitType="0" useLanguage="-1"/>
+	<general id="330" name="梅尔·华德克" rank="11" political="0" country="30,72" type="1" ability="2" birth="1882" service="1900" death="1917" image="MEL Waldek" recruitType="0" useLanguage="-1" remark="日德战争"/>
+	<general id="331" name="马克斯·霍夫曼" rank="11" political="0" country="30,72" type="4" ability="2" birth="1869" service="1904" death="1927" image="Max Hoffman" recruitType="0" useLanguage="-1"/>
+	<general id="332" name="鲁普雷希特·玛利亚·柳特波德·斐迪南" rank="11" political="0" country="30,72" type="4" ability="2" birth="1869" service="1900" death="1955" image="Ruprecht" recruitType="0" useLanguage="-1"/>
+	<general id="333" name="利奥波德·马克西米利安·约瑟夫·玛利亚·阿努尔夫" rank="10" political="2" country="30,72" type="4" ability="1" birth="1846" service="1861" death="1930" image="Leopold" recruitType="0" useLanguage="-1" remark="巴伐利亚亲王"/>
+	<general id="334" name="理查德·鲁奥夫" rank="11" political="0" country="30,72" type="4" ability="2" birth="1883" service="1913" death="1967" image="Richard" recruitType="0" useLanguage="-1"/>
+	<general id="335" name="尼古拉二世" rank="11" political="2" country="33" type="4" ability="2" birth="1868" service="1894" death="1918" image="NikolayII" recruitType="0" useLanguage="-1" remark="俄国皇帝"/>
+	<general id="336" name="威廉二世" rank="11" political="0" country="30,72" type="4" ability="2" birth="1859" service="1877" death="1941" image="Wilhelm ii" recruitType="0" useLanguage="-1"/>
+	<general id="337" name="奥托·冯·毕洛" rank="13" political="0" country="30,72" type="3" ability="4" birth="1857" service="1909" death="1944" image="Otto von Below" recruitType="2" useLanguage="-1" remark="一战"/>
+	<general id="338" name="拉夫尔·格奥尔吉耶维奇·科尔尼洛夫" rank="11" political="2" country="33" type="4" ability="2" birth="1870" service="1892" death="1918" image="Kornilov" recruitType="0" useLanguage="-1" remark="一战 苏俄内战临时政府时期的最高统帅"/>
+	<general id="339" name="约瑟夫·加利埃尼" rank="10" political="0" country="35" type="4" ability="1" birth="1849" service="1870" death="1916" image="Joseph Galliani" recruitType="0" useLanguage="-1"/>
+	<general id="340" name="马克西姆·魏刚" rank="11" political="0" country="35" type="4" ability="2" birth="1867" service="1887" death="1965" image="Maxim Weigang" recruitType="0" useLanguage="-1"/>
+	<general id="341" name="朱利安·赫德沃思·宾" rank="11" political="0" country="48" type="2" ability="2" birth="1881" service="1900" death="1921" image="Investigate the Bernie" recruitType="0" useLanguage="-1"/>
+	<general id="342" name="斐迪南一世" rank="9" political="1" country="55" type="4" ability="1" birth="1865" service="1914" death="1927" image="FerdinandI" recruitType="0" useLanguage="-1" remark="罗马尼亚国王"/>
+	<general id="343" name="麦克莱伦" rank="11" political="0" country="57,58" type="4" ability="2" birth="1826" service="1847" death="1885" image="McClellan" recruitType="0" useLanguage="-1" remark="南北"/>
+	<general id="344" name="戴维·格拉斯哥·法拉格特" rank="12" political="0" country="57,58" type="4" ability="3" birth="1801" service="1812" death="1870" image="David Glasgow Farragut" recruitType="0" useLanguage="-1" remark="南北"/>
+	<general id="345" name="珀利普舍瑞德" rank="11" political="0" country="57,58" type="3" ability="2" birth="1832" service="1850" death="1863" image="Beauregard" recruitType="0" useLanguage="-1" remark="南北"/>
+	<general id="346" name="朱巴尔·安德森·厄尔利" rank="10" political="0" country="67" type="3" ability="1" birth="1882" service="1900" death="1923" image="Jubal Anderson Early" recruitType="0" useLanguage="-1"/>
+	<general id="347" name="皮埃尔·博雷加德" rank="11" political="0" country="67" type="4" ability="2" birth="1818" service="1838" death="1893" image="Pierre Beauregarde" recruitType="0" useLanguage="-1"/>
+	<general id="348" name="西乡隆盛" rank="12" political="0" country="73" type="4" ability="3" birth="1828" service="1844" death="1877" image="Saigo takamori" recruitType="0" useLanguage="-1"/>
+	<general id="349" name="上村彦之丞" rank="11" political="0" country="73" type="4" ability="2" birth="1849" service="1879" death="1916" image="Yoshinori Uchimura" recruitType="0" useLanguage="-1"/>
+	<general id="350" name="山本权兵卫" rank="10" political="0" country="73" type="4" ability="1" birth="1852" service="1868" death="1933" image="Yamamoto Koji" recruitType="0" useLanguage="-1"/>
+	<general id="351" name="秋山好古" rank="11" political="0" country="73" type="4" ability="2" birth="1859" service="1879" death="1930" image="Akiyama so old" recruitType="0" useLanguage="-1"/>
+	<general id="352" name="坪井航三" rank="10" political="0" country="73" type="4" ability="1" birth="1843" service="1865" death="1898" image="Ping three air well" recruitType="0" useLanguage="-1"/>
+	<general id="353" name="铃木贯太郎" rank="11" political="0" country="73" type="4" ability="2" birth="1868" service="1887" death="1948" image="Kotaro Suzuki" recruitType="0" useLanguage="-1"/>
+	<general id="354" name="加藤友三郎" rank="11" political="0" country="73" type="4" ability="2" birth="1861" service="1890" death="1923" image="Yoshiro Kato" recruitType="0" useLanguage="-1"/>
+	<general id="355" name="儿玉源太郎" rank="10" political="0" country="73" type="4" ability="1" birth="1852" service="1871" death="1906" image="Kodama Yuyuan Taro" recruitType="0" useLanguage="-1"/>
+	<general id="356" name="亚历山大一世·卡拉格奥尔基耶维奇" rank="11" political="0" country="68,77" type="4" ability="2" birth="1888" service="1909" death="1934" image="Alexander I Karageorgievich" recruitType="0" useLanguage="-1"/>
+	<general id="357" name="尼古拉一世·巴甫洛维奇" rank="11" political="1" country="33" type="4" ability="2" birth="1796" service="1814" death="1855" image="Nikolai Pavlovich I" recruitType="0" useLanguage="-1" remark="克里米亚战争"/>
+	<general id="358" name="萧朝贵" rank="10" political="0" country="81" type="4" ability="1" birth="1820" service="1846" death="1852" image="Xiao Chaogui" recruitType="1" useLanguage="-1"/>
+	<general id="359" name="韦昌辉" rank="11" political="0" country="81" type="4" ability="2" birth="1823" service="1848" death="1856" image="WeiChangHui" recruitType="1" useLanguage="-1"/>
+	<general id="360" name="林凤祥" rank="10" political="0" country="81" type="4" ability="1" birth="1825" service="1851" death="1855" image="Lin Fengxiang" recruitType="1" useLanguage="-1"/>
+	<general id="361" name="李开芳" rank="11" political="0" country="81" type="4" ability="2" birth="1811" service="1851" death="1855" image="Li Kaifang" recruitType="1" useLanguage="-1"/>
+	<general id="362" name="冯云山" rank="10" political="0" country="81" type="4" ability="1" birth="1815" service="1844" death="1852" image="Feng yun-shan" recruitType="1" useLanguage="-1"/>
+	<general id="363" name="穆罕默德五世" rank="10" political="2" country="12" type="4" ability="1" birth="1844" service="1909" death="1918" image="MehmetV" recruitType="0" useLanguage="-1" remark="一战 土耳其苏丹"/>
+	<general id="364" name="阿方索十三世" rank="11" political="0" country="90" type="4" ability="2" birth="1886" service="1902" death="1941" image="AlfonsoXIII" recruitType="0" useLanguage="-1"/>
+	<general id="365" name="兆斯卢兹德根" rank="10" political="0" country="90" type="4" ability="1" birth="1880" service="1900" death="1919" image="Dominguez" recruitType="0" useLanguage="-1"/>
+	<general id="366" name="喆奎朱伍勒瑟勒" rank="11" political="0" country="90" type="4" ability="2" birth="1870" service="1900" death="1912" image="Jovellar" recruitType="0" useLanguage="-1"/>
+	<general id="367" name="帕伍考恩涅斯" rank="10" political="0" country="91" type="4" ability="1" birth="1871" service="1900" death="1923" image="Kountouriotis" recruitType="0" useLanguage="-1"/>
+	<general id="368" name="帕讷哥特党丽斯" rank="11" political="0" country="91" type="4" ability="2" birth="1890" service="1900" death="1920" image="Danglis" recruitType="0" useLanguage="-1"/>
+	<general id="369" name="康斯坦丁二世" rank="10" political="0" country="91" type="4" ability="1" birth="1885" service="1900" death="1921" image="Constantine II" recruitType="0" useLanguage="-1"/>
+	<general id="370" name="乌戈·卡瓦莱罗" rank="11" political="0" country="97" type="4" ability="2" birth="1880" service="1902" death="1943" image="Hugo Caballero" recruitType="0" useLanguage="-1"/>
+	<general id="371" name="杜黑" rank="10" political="0" country="97" type="4" ability="1" birth="1869" service="1888" death="1930" image="douhet" recruitType="0" useLanguage="-1"/>
+	<general id="372" name="约翰·阿巴斯诺特·费舍尔" rank="11" political="0" country="99" type="4" ability="2" birth="1841" service="1854" death="1920" image="John Abbasnot Fischer" recruitType="0" useLanguage="-1"/>
+	<general id="373" name="休·特伦查德" rank="11" political="0" country="99" type="4" ability="2" birth="1873" service="1893" death="1956" image="Hugh Trenchard" recruitType="0" useLanguage="-1"/>
+	<general id="374" name="亨利·罗林森" rank="11" political="0" country="99,107" type="4" ability="2" birth="1873" service="1900" death="1926" image="Henry Rawlinson" recruitType="0" useLanguage="-1"/>
+	<general id="375" name="利奥波德二世" rank="10" political="0" country="19" type="4" ability="1" birth="1835" service="1865" death="1909" image="Leopold II" recruitType="0" useLanguage="-1"/>
+	<general id="376" name="纳希莫夫" rank="11" political="2" country="33" type="4" ability="2" birth="1802" service="1818" death="1855" image="Naxi merv" recruitType="0" useLanguage="-1" remark="克里米亚 俄罗斯海军上将"/>
+	<general id="377" name="奥斯曼·努里帕夏" rank="10" political="0" country="12" type="4" ability="1" birth="1832" service="1853" death="1900" image="Osman Nuripasha" recruitType="0" useLanguage="-1" remark="克里米亚"/>
+	<general id="378" name="阿卜杜勒·克里姆·纳迪尔巴夏" rank="10" political="0" country="12" type="4" ability="1" birth="1807" service="1828" death="1885" image="Abdul Krim Nadir Basha" recruitType="0" useLanguage="-1" remark="克里米亚"/>
+	<general id="379" name="霍巴特帕夏" rank="10" political="0" country="12" type="4" ability="1" birth="1822" service="1863" death="1886" image="Hobart Pasha" recruitType="0" useLanguage="-1" remark="克里米亚 海军"/>
+	<general id="380" name="阿尔芒·雅克·勒鲁瓦·德·圣阿尔诺" rank="11" political="3" country="35" type="4" ability="2" birth="1798" service="1837" death="1854" image="Arnaud" recruitType="0" useLanguage="-1" remark="克里米亚 法国远征军司令"/>
+	<general id="381" name="皮埃尔·约瑟夫·弗朗索瓦·博斯凯" rank="11" political="0" country="35" type="4" ability="2" birth="1810" service="1834" death="1861" image="Pierre Joseph Francois Bosquet" recruitType="0" useLanguage="-1" remark="克里米亚 炮兵"/>
+	<general id="382" name="费迪南德·阿尔方斯·哈梅林" rank="11" political="0" country="35" type="4" ability="2" birth="1822" service="1840" death="1855" image="Ferdinand Alphonse Hamelin" recruitType="0" useLanguage="-1" remark="克里米亚 海军"/>
+	<general id="383" name="弗拉基米尔·阿列克谢耶维奇·科尔尼洛夫" rank="10" political="0" country="33" type="4" ability="1" birth="1806" service="1823" death="1854" image="Vladimir Alexyevich Kornilov" recruitType="0" useLanguage="-1" remark="克里米亚 海军"/>
+	<general id="384" name="亚历山德鲁·约安·库扎" rank="11" political="0" country="55" type="4" ability="2" birth="1820" service="1857" death="1873" image="Alexandra Joanne Kuza" recruitType="0" useLanguage="-1" remark="近代罗马尼亚"/>
+	<general id="385" name="费利克斯·尤苏波夫" rank="10" political="1" country="33" type="4" ability="1" birth="1887" service="1914" death="1967" image="Felix Yusupov" recruitType="0" useLanguage="-1" remark="一战贵族"/>
+	<general id="386" name="马克斯·冯·巴登" rank="11" political="0" country="30,72" type="4" ability="2" birth="1867" service="1907" death="1929" image="Baden" recruitType="0" useLanguage="-1" remark="一战"/>
+	<general id="387" name="科林·坎贝尔" rank="11" political="0" country="99,107" type="4" ability="2" birth="1792" service="1808" death="1863" image="Colin Campbell" recruitType="0" useLanguage="-1" remark="美英战争 鸦片战争1 克里米亚 镇压印度"/>
+	<general id="388" name="安东尼·福克" rank="10" political="1" country="47" type="4" ability="1" birth="1890" service="1912" death="1939" image="Anthony Foker" recruitType="0" useLanguage="-1" remark="飞机设计师"/>
+	<general id="389" name="罗曼·冯·恩琴" rank="10" political="0" country="33" type="4" ability="1" birth="1886" service="1905" death="1921" image="Romain von Enchin" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="390" name="卡普佩尔" rank="11" political="0" country="33" type="4" ability="2" birth="1883" service="1918" death="1920" image="Card PuPeiEr" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="391" name="霍尔瓦特" rank="10" political="0" country="33" type="4" ability="1" birth="1883" service="1900" death="1920" image="horvat" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="392" name="斯坦尼斯拉夫·切切克" rank="11" political="0" country="24" type="2" ability="2" birth="1878" service="1900" death="1911" image="Stanislav Cecek" recruitType="0" useLanguage="-1" remark="苏俄内战 捷克军团"/>
+	<general id="393" name="扬·西罗维" rank="10" political="0" country="24" type="4" ability="1" birth="1886" service="1900" death="1917" image="Jan Silove" recruitType="0" useLanguage="-1" remark="苏俄内战 捷克军团"/>
+	<general id="394" name="拉多拉·盖达" rank="11" political="0" country="24" type="1" ability="2" birth="1870" service="1900" death="1917" image="Radora Al Qaeda" recruitType="0" useLanguage="-1" remark="苏俄内战 捷克军团"/>
+	<general id="395" name="莫里斯·雅南" rank="10" political="0" country="24,35" type="4" ability="1" birth="1885" service="1900" death="1928" image="Maurice Janan" recruitType="0" useLanguage="-1" remark="苏俄内战 捷克军团"/>
+	<general id="396" name="叶若夫" rank="11" political="0" country="79" type="4" ability="2" birth="1895" service="1915" death="1940" image="Leaf ReFu" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="397" name="威廉·格里夫斯" rank="11" political="0" country="57,58" type="4" ability="2" birth="1870" service="1900" death="1912" image="Greg William" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="398" name="布琼尼" rank="11" political="1" country="79" type="4" ability="2" birth="1883" service="1903" death="1973" image="Budyony" recruitType="0" useLanguage="-1" remark="苏俄内战"/>
+	<general id="399" name="张作霖" rank="13" political="0" country="103" type="1" ability="3" birth="1875" service="1900" death="1928" image="InPeiping" recruitType="2" useLanguage="-1"/>
+	<general id="400" name="吴佩孚" rank="13" political="0" country="103" type="2" ability="2" birth="1874" service="1901" death="1939" image="Wup'ei_fu" recruitType="2" useLanguage="-1"/>
+	<general id="401" name="孙传芳" rank="12" political="0" country="103" type="2" ability="2" birth="1885" service="1909" death="1935" image="Sun" recruitType="0" useLanguage="-1"/>
+	<general id="402" name="阎锡山" rank="12" political="0" country="103" type="1" ability="3" birth="1883" service="1905" death="1960" image="Yenhsi_shan" recruitType="0" useLanguage="-1"/>
+	<general id="403" name="冯玉祥" rank="11" political="1" country="103,105" type="1" ability="3" birth="1882" service="1910" death="1948" image="Fengyuxiang" recruitType="0" useLanguage="-1"/>
+	<general id="404" name="张学良" rank="11" political="1" country="103,105" type="3" ability="2" birth="1901" service="1920" death="2001" image="Zhangxueliang" recruitType="0" useLanguage="-1"/>
+	<general id="405" name="张宗昌" rank="10" political="0" country="103" type="1" ability="2" birth="1881" service="1912" death="1932" image="Shandongclique" recruitType="0" useLanguage="-1"/>
+	<general id="406" name="张作相" rank="10" political="1" country="103" type="3" ability="2" birth="1881" service="1903" death="1949" image="ZhangZuoxiang" recruitType="0" useLanguage="-1"/>
+	<general id="407" name="黎元洪" rank="9" political="0" country="103" type="4" ability="1" birth="1864" service="1896" death="1928" image="Li" recruitType="0" useLanguage="-1"/>
+	<general id="408" name="段祺瑞" rank="9" political="0" country="103" type="2" ability="2" birth="1865" service="1895" death="1936" image="Tuanchi_jui" recruitType="0" useLanguage="-1"/>
+	<general id="409" name="陆荣廷" rank="9" political="0" country="103" type="3" ability="1" birth="1859" service="1894" death="1928" image="LuRongting" recruitType="0" useLanguage="-1"/>
+	<general id="410" name="靳云鹗" rank="9" political="0" country="103" type="3" ability="2" birth="1881" service="1898" death="1935" image="JinYunE" recruitType="0" useLanguage="-1"/>
+	<general id="411" name="袁世凯" rank="14" political="1" country="28,103" type="2" ability="3" birth="1859" service="1882" death="1916" image="Yuan_shikai" recruitType="2" useLanguage="-1"/>
+	<general id="412" name="龙觐光" rank="7" country="104" type="4" ability="2" birth="1863" service="1882" death="1917" image="Dragon Jin light" recruitType="0" useLanguage="-1"/>
+	<general id="413" name="龙济光" rank="6" country="104" type="4" ability="1" birth="1868" service="1903" death="1925" image="Long Jiguang" recruitType="0" useLanguage="-1"/>
+	<general id="414" name="张锡銮" rank="7" country="104" type="4" ability="2" birth="1843" service="1875" death="1922" image="Zhang Xiluan" recruitType="0" useLanguage="-1"/>
+	<general id="415" name="刘冠雄" rank="6" country="104" type="4" ability="1" birth="1861" service="1888" death="1927" image="Guanxiong liu" recruitType="0" useLanguage="-1"/>
+	<general id="416" name="杜锡珪" rank="7" country="103,104" type="4" ability="2" birth="1874" service="1902" death="1933" image="DuXiGui" recruitType="0" useLanguage="-1"/>
+	<general id="417" name="李纯" rank="6" country="104" type="4" ability="1" birth="1873" service="1900" death="1919" image="Mr. Li" recruitType="0" useLanguage="-1"/>
+	<general id="418" name="田中玉" rank="7" country="104" type="4" ability="2" birth="1869" service="1907" death="1935" image="Tian Zhongyu" recruitType="0" useLanguage="-1"/>
+	<general id="419" name="王怀庆" rank="6" country="104" type="4" ability="1" birth="1875" service="1891" death="1953" image="Wang Huaiqing" recruitType="0" useLanguage="-1"/>
+	<general id="420" name="王承斌" rank="8" country="104" type="4" ability="2" birth="1874" service="1909" death="1936" image="Cheng-bin wang" recruitType="0" useLanguage="-1"/>
+	<general id="421" name="齐燮元" rank="7" country="103" type="4" ability="1" birth="1879" service="1914" death="1946" image="JiXie yuan" recruitType="0" useLanguage="-1" remark="直系"/>
+	<general id="422" name="萧耀南" rank="6" country="104" type="4" ability="2" birth="1875" service="1909" death="1926" image="Yao-nan xiao" recruitType="0" useLanguage="-1"/>
+	<general id="423" name="李鼎新" rank="7" country="104" type="4" ability="1" birth="1862" service="1880" death="1930" image="Lee innovate" recruitType="0" useLanguage="-1" remark="海军"/>
+	<general id="424" name="汪精卫" rank="9" country="103,105" type="4" ability="3" birth="1883" service="1905" death="1944" image="Wang ching-wei" recruitType="0" useLanguage="-1"/>
+	<general id="425" name="周恩来" rank="12" political="4" country="101" type="4" ability="4" birth="1896" service="1921" death="1976" image="Zhou Enlai" recruitType="0" useLanguage="-1"/>
+	<general id="426" name="亚历山大·冯·克卢克" rank="6" country="8,11,38" type="4" ability="3" birth="1849" service="1869" death="1933" image="Krobatin" recruitType="0" useLanguage="-1"/>
+	<general id="427" name="伊尔·库廷切夫" rank="4" country="18" type="4" ability="2" birth="1879" service="1900" death="1912" image="Kutinchev" recruitType="0" useLanguage="-1" remark="巴尔干战争"/>
+	<general id="428" name="利奥泰" rank="7" country="35" type="4" ability="2" birth="1854" service="1877" death="1934" image="Lyatey" recruitType="0" useLanguage="-1" remark="马达加斯加 阿尔及利亚"/>
+	<general id="429" name="穆罕默德六世" rank="9" country="12" type="4" ability="2" birth="1861" service="1918" death="1926" image="MehmetVI" recruitType="0" useLanguage="-1" remark="一战 土耳其苏丹"/>
+	<general id="430" name="亚历山大二世·尼古拉耶维奇" rank="9" country="33" type="4" ability="1" birth="1818" service="1855" death="1881" image="Alexander II" recruitType="0" useLanguage="-1"/>
+	<general id="431" name="阿纳斯塔西奥斯·帕坡拉斯" rank="7" country="91" type="4" ability="2" birth="1857" service="1878" death="1935" image="Papoulas" recruitType="0" useLanguage="-1" remark="希土战争"/>
+	<general id="432" name="彼得留拉" rank="7" country="89" type="4" ability="2" birth="1879" service="1917" death="1926" image="Petlura" recruitType="0" useLanguage="-1" remark="乌克兰"/>
+</generals>

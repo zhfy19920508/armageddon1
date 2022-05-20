@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wonders>
+	<wonder id="1" name="区域中心" function="4" effect="7" value="2" state="0" age="0" country="-1" remark="增加卡牌的升级上限:2007城市:2" star="2"/>
+	<wonder id="2" name="原料中心" function="4" effect="5" value="2" state="0" age="0" country="-1" remark="增加卡牌的升级上限:2005原料:2" star="2"/>
+	<wonder id="3" name="贸易中心" function="4" effect="1" value="2" state="0" age="0" country="-1" remark="增加卡牌的升级上限:2001贸易:2" star="2"/>
+	<wonder id="4" name="工业中心" function="4" effect="8" value="2" state="0" age="0" country="-1" remark="增加卡牌的升级上限:2008工业:2" star="2"/>
+	<wonder id="5" name="研究中心" function="4" effect="4" value="2" state="0" age="0" country="-1" remark="增加卡牌的升级上限:2004研究:2" star="2"/>
+	<wonder id="6" name="医疗中心" function="4" effect="9" value="2" state="0" age="0" country="-1" remark="增加卡牌的升级上限:2009医院:2" star="2"/>
+	<wonder id="7" name="文化中心" function="4" effect="2" value="2" state="0" age="0" country="-1" remark="增加卡牌的升级上限:2002文化:2" star="2"/>
+	<wonder id="8" name="军事学院" function="4" effect="14" value="2" state="0" age="0" country="-1" remark="增加卡牌的升级上限:2014军营:2" star="2"/>
+	<wonder id="9" name="交通局" function="4" effect="3" value="2" state="0" age="1" country="-1" remark="增加卡牌的升级上限:2003交通:2" star="2"/>
+	<wonder id="10" name="防空洞" function="9" effect="5" value="30" state="0" age="1" country="-1" remark="增加某种类型单位的暴击率:飞机:30" star="4"/>
+	<wonder id="11" name="后勤中心" function="6" effect="24" value="0" state="0" age="1" country="-1" remark="此区域xx部队视为拥有特性xx:重整:0" star="5"/>
+	<wonder id="12" name="广播塔" function="6" effect="27" value="0" state="0" age="1" country="-1" remark="此区域xx部队视为拥有特性xx:识途:0" star="5"/>
+	<wonder id="13" name="指挥中心" function="6" effect="15" value="0" state="0" age="1" country="-1" remark="此区域xx部队视为拥有特性xx:游击:0" star="5"/>
+	<wonder id="14" name="气象局" function="6" effect="26" value="0" state="0" age="1" country="-1" remark="此区域xx部队视为拥有特性xx:防患:0" star="5"/>
+	<wonder id="15" name="空研所" function="6" effect="19" value="0" state="0" age="2" country="-1" remark="此区域xx部队视为拥有特性xx:防空:0" star="5"/>
+	<wonder id="16" name="油田" function="1" effect="6" value="20" state="0" age="1" country="-1" remark="增加资源产出:石油:20" star="3"/>
+	<wonder id="17" name="大油田" function="1" effect="6" value="40" state="0" age="1" country="-1" remark="增加资源产出:石油:40" star="4"/>
+	<wonder id="18" name="特大油田" function="1" effect="6" value="80" state="3" age="1" country="-1" remark="增加资源产出:石油:80" star="5"/>
+	<wonder id="19" name="发电站" function="1" effect="7" value="10" state="0" age="1" country="-1" remark="增加资源产出:电力:10" star="3"/>
+	<wonder id="20" name="电力中心" function="1" effect="7" value="20" state="0" age="2" country="-1" remark="增加资源产出:电力:20" star="4"/>
+	<wonder id="21" name="核电站" function="1" effect="7" value="50" state="0" age="3" country="-1" remark="增加资源产出:电力:50" star="5"/>
+	<wonder id="22" name="采矿厂" function="1" effect="5" value="10" state="0" age="0" country="-1" remark="增加资源产出:矿产:10" star="3"/>
+	<wonder id="23" name="大采矿厂" function="1" effect="5" value="20" state="0" age="1" country="-1" remark="增加资源产出:矿产:20" star="4"/>
+	<wonder id="24" name="特大采矿厂" function="1" effect="5" value="40" state="4" age="1" country="-1" remark="增加资源产出:矿产:40" star="5"/>
+	<wonder id="25" name="炮兵工厂" function="3" effect="2" value="50" state="0" age="1" country="-1" remark="减少某种卡牌使用费用:炮兵:50" star="5"/>
+	<wonder id="26" name="坦克工厂" function="3" effect="3" value="50" state="0" age="1" country="-1" remark="减少某种卡牌使用费用:坦克:50" star="5"/>
+	<wonder id="27" name="飞机工厂" function="3" effect="5" value="50" state="0" age="1" country="-1" remark="减少某种卡牌使用费用:飞机:50" star="5"/>
+	<wonder id="28" name="要塞" function="2" effect="1" value="30" state="0" age="0" country="-1" remark="当区域驻兵时,使城市的[XX]不低于xx :生命:30,税率最高70" star="3"/>
+	<wonder id="29" name="大型要塞" function="2" effect="1" value="50" state="0" age="1" country="-1" remark="当区域驻兵时,使城市的[XX]不低于xx :生命:50,税率最高50" star="4"/>
+	<wonder id="30" name="巨型要塞" function="2" effect="1" value="80" state="0" age="1" country="-1" remark="当区域驻兵时,使城市的[XX]不低于xx :生命:80,税率最高20" star="5"/>
+	<wonder id="31" name="海底城市" function="10" effect="1" value="0" state="0" age="3" country="-1" remark="海洋城市可以提供资源" star="5"/>
+	<wonder id="32" name="离子研究中心" function="8" effect="7" value="3" state="0" age="3" country="-1" remark="研究某类卡牌时准备回合减少:超武:3" star="2"/>
+	<wonder id="33" name="食物工厂" function="1" effect="4" value="50" state="0" age="1" country="-1" remark="增加资源产出:食物:50" star="3"/>
+	<wonder id="100" name="大本钟" function="2" effect="2" value="100" state="1" age="0" country="-1" remark="当区域驻兵时,使城市的[XX]不低于xx :税率:100 英国_伦敦" star="5"/>
+	<wonder id="101" name="格兰达洛" function="11" effect="73" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:平原战 爱尔兰_威克洛" star="4"/>
+	<wonder id="102" name="埃菲尔铁塔" function="6" effect="22" value="0" state="1" age="0" country="-1" remark="此区域xx部队视为拥有特性xx:弹道:0 法国_巴黎" star="5"/>
+	<wonder id="103" name="罗马斗兽场" function="6" effect="8" value="0" state="1" age="0" country="-1" remark="此区域xx部队视为拥有特性xx:火力:0 意大利_罗马" star="5"/>
+	<wonder id="104" name="阿尔汉布拉宫" function="7" effect="1" value="10" state="1" age="0" country="-1" remark="招募时增加额外的属性  :初始士气:10 西班牙_格拉纳达" star="3"/>
+	<wonder id="105" name="勃兰登堡门" function="8" effect="2" value="3" state="1" age="0" country="-1" remark="研究某类卡牌时准备回合减少:炮兵:3 德国_柏林" star="2"/>
+	<wonder id="106" name="美泉宫" function="9" effect="1" value="30" state="1" age="0" country="-1" remark="增加某种类型单位的暴击率:步兵:30 奥地利_维也纳" star="4"/>
+	<wonder id="107" name="冬宫" function="2" effect="3" value="60" state="1" age="0" country="-1" remark="当区域驻兵时,使城市的[XX]不低于xx :稳定度:60 俄罗斯_圣彼得堡" star="3"/>
+	<wonder id="108" name="佩乔尔斯克修道院" function="11" effect="72" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:炮击 乌克兰_基辅" star="4"/>
+	<wonder id="109" name="圣索菲亚" function="5" effect="2" value="10" state="1" age="0" country="-1" remark="增加区域内xx兵种的:生命恢复:10 土耳其_君士坦丁堡" star="3"/>
+	<wonder id="110" name="空中花园" function="11" effect="41" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:号召 伊拉克_巴比伦" star="3"/>
+	<wonder id="111" name="泰恩教堂" function="7" effect="2" value="30" state="1" age="0" country="-1" remark="招募时增加额外的属性  :初始生命:30 捷克_布拉格" star="5"/>
+	<wonder id="112" name="先知寺" function="8" effect="3" value="3" state="1" age="0" country="-1" remark="研究某类卡牌时准备回合减少:坦克:3 沙特_麦地那" star="2"/>
+	<wonder id="113" name="大金字塔" function="9" effect="2" value="30" state="1" age="0" country="-1" remark="增加某种类型单位的暴击率:炮兵:30 埃及_开罗" star="4"/>
+	<wonder id="114" name="杰内古城" function="11" effect="58" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:谨慎 马里_莫普提" star="3"/>
+	<wonder id="115" name="万里长城" function="11" effect="86" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:守备 中国_秦皇岛,榆林,嘉裕,承德,北京,延庆,天津,蓟州,张家口,辽宁,丹东,绥中,大同,忻州,代县" star="3"/>
+	<wonder id="116" name="兵马俑" function="6" effect="14" value="0" state="1" age="0" country="-1" remark="此区域xx部队视为拥有特性xx:机动:0 中国_西安,临潼" star="5"/>
+	<wonder id="117" name="布达拉宫" function="11" effect="63" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:恐吓 中国_拉萨" star="4"/>
+	<wonder id="118" name="姬路城" function="7" effect="3" value="1" state="1" age="0" country="-1" remark="招募时增加额外的属性  :初始编队:1 日本_姬路" star="5"/>
+	<wonder id="119" name="德里红堡" function="11" effect="92" value="1" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:随势 印度_新德里" star="3"/>
+	<wonder id="120" name="吴哥窟" function="9" effect="3" value="30" state="1" age="0" country="-1" remark="增加某种类型单位的暴击率:坦克:30 柬埔寨_吴哥" star="4"/>
+	<wonder id="121" name="婆罗浮屠" function="5" effect="3" value="3" state="1" age="0" country="-1" remark="增加区域内xx兵种的:攻击:3 印度尼西亚_爪哇" star="4"/>
+	<wonder id="122" name="悉尼歌剧院" function="11" effect="22" value="4" state="1" age="3" country="-1" remark="此区域部队视为拥有技能:海岸炮 澳大利亚_悉尼" star="4"/>
+	<wonder id="123" name="加拿大广场" function="5" effect="4" value="3" state="1" age="3" country="-1" remark="增加区域内xx兵种的:防御:3 加拿大_温哥华" star="4"/>
+	<wonder id="124" name="自由女神像" function="6" effect="14" value="20" state="1" age="0" country="-1" remark="此区域xx部队视为拥有特性xx:机动:20 美国_纽约" star="5"/>
+	<wonder id="125" name="阿尔卡拉门" function="7" effect="4" value="3" state="1" age="0" country="-1" remark="招募时增加额外的属性  :初始军衔:3 西班牙_马德里" star="5"/>
+	<wonder id="126" name="奇琴伊察" function="5" effect="1" value="10" state="1" age="0" country="-1" remark="增加区域内xx兵种的:士气恢复:10 墨西哥_尤卡坦" star="2"/>
+	<wonder id="127" name="马丘比丘" function="9" effect="7" value="50" state="1" age="0" country="-1" remark="增加某种类型单位的暴击率:超武:50 秘鲁_马丘比丘" star="4"/>
+	<wonder id="128" name="救世基督像" function="8" effect="5" value="3" state="1" age="0" country="-1" remark="研究某类卡牌时准备回合减少:飞机:3 巴西_里约热内卢" star="2"/>
+	<wonder id="129" name="华盛顿纪念碑" function="11" effect="91" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:死战 美国_华盛顿" star="3"/>
+	<wonder id="130" name="米尔城堡群" function="5" effect="5" value="1" state="1" age="0" country="-1" remark="增加区域内xx兵种的:攻击范围:1 俄罗斯_明斯克" star="5"/>
+	<wonder id="131" name="大清真寺" function="6" effect="13" value="0" state="1" age="0" country="-1" remark="此区域xx部队视为拥有特性xx:连击:0 沙特_麦加" star="5"/>
+	<wonder id="132" name="魁北克古城" function="5" effect="1" value="10" state="1" age="0" country="-1" remark="增加区域内xx兵种的:士气恢复:10 加拿大_魁北克" star="2"/>
+	<wonder id="133" name="柏拉仁诺教堂" function="8" effect="1" value="3" state="1" age="0" country="-1" remark="研究某类卡牌时准备回合减少:步兵:3 俄罗斯_莫斯科" star="2"/>
+	<wonder id="134" name="佩特拉古城" function="9" effect="6" value="30" state="1" age="0" country="-1" remark="增加某种类型单位的暴击率:要塞:30 约旦_安曼" star="4"/>
+	<wonder id="135" name="泰姬陵" function="11" effect="8" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:步兵回避 印度_阿格拉" star="3"/>
+	<wonder id="136" name="大灯塔" function="11" effect="4" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:爆发 埃及_亚历山大" star="4"/>
+	<wonder id="137" name="圣以撒大教堂" function="11" effect="39" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:贵族 俄罗斯_圣彼得堡" star="3"/>
+	<wonder id="138" name="库斯科古城" function="11" effect="115" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:憎恨 秘鲁_库斯科" star="3"/>
+	<wonder id="139" name="紫禁城" function="6" effect="21" value="0" state="1" age="0" country="-1" remark="此区域xx部队视为拥有特性xx:蓄力:0 中国_北京" star="5"/>
+	<wonder id="140" name="腓特列教堂" function="5" effect="1" value="10" state="1" age="0" country="-1" remark="增加区域内xx兵种的:士气恢复:10 丹麦_哥本哈根" star="2"/>
+	<wonder id="141" name="摩艾石像" function="9" effect="4" value="30" state="2" age="0" country="-1" remark="增加某种类型单位的暴击率:船只:30 智利_复活节岛" star="4"/>
+	<wonder id="142" name="新天鹅堡" function="11" effect="119" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:整顿 德国_慕尼黑" star="3"/>
+	<wonder id="143" name="赫尔辛基大教堂" function="11" effect="102" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:雪地战 芬兰_赫尔辛基" star="3"/>
+	<wonder id="144" name="帕特农神庙" function="11" effect="64" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:狂热 希腊_雅典" star="3"/>
+	<wonder id="145" name="阿尔忒弥斯神庙" function="6" effect="12" value="30" state="1" age="0" country="-1" remark="此区域xx部队视为拥有特性xx:扫雷:30 土耳其_塞尔丘克" star="5"/>
+	<wonder id="146" name="阿帕达纳宫" function="11" effect="54" value="1" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:激励 伊朗_设拉子" star="3"/>
+	<wonder id="147" name="日本皇居外苑" function="5" effect="1" value="10" state="1" age="0" country="-1" remark="增加区域内xx兵种的:士气恢复:10 土耳其_哈利卡纳素斯" star="2"/>
+	<wonder id="148" name="帝国大厦" function="6" effect="11" value="0" state="1" age="2" country="-1" remark="此区域xx部队视为拥有特性xx:驻体:0 美国_纽约" star="5"/>
+	<wonder id="149" name="白宫" function="11" effect="61" value="1" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:军纪 美国_华盛顿" star="4"/>
+	<wonder id="150" name="清水寺舞台" function="5" effect="2" value="20" state="1" age="0" country="-1" remark="增加区域内xx兵种的:生命恢复:20 日本_京都" star="4"/>
+	<wonder id="151" name="崇礼门" function="11" effect="88" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:守卫 韩国_汉城,首尔" star="3"/>
+	<wonder id="152" name="玉佛寺" function="11" effect="84" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:山地战 老挝_万象" star="3"/>
+	<wonder id="153" name="爱因斯坦实验室" function="11" effect="79" value="1" state="1" age="2" country="-1" remark="此区域部队视为拥有技能:潜力 1" star="5"/>
+	<wonder id="154" name="阿拉莫要塞" function="5" effect="3" value="5" state="1" age="0" country="-1" remark="增加区域内xx兵种的:攻击:5 美国_圣安东尼奥" star="4"/>
+	<wonder id="155" name="圣路易市拱门" function="5" effect="1" value="20" state="1" age="3" country="-1" remark="增加区域内xx兵种的:士气恢复:20 美国_圣路易市" star="3"/>
+	<wonder id="156" name="好莱坞剧场" function="2" effect="3" value="30" state="1" age="2" country="-1" remark="当区域驻兵时,使城市的[XX]不低于xx :稳定度:30 美国_好莱坞" star="3"/>
+	<wonder id="157" name="红场" function="11" effect="60" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:决死 俄罗斯_莫斯科" star="4"/>
+	<wonder id="158" name="金门大桥" function="11" effect="98" value="4" state="1" age="2" country="-1" remark="此区域部队视为拥有技能:维护 美国_旧金山" star="4"/>
+	<wonder id="159" name="一战胜利纪念碑" function="7" effect="3" value="1" state="1" age="2" country="-1" remark="招募时增加额外的属性  :初始编队:1 美国_堪萨斯" star="5"/>
+	<wonder id="160" name="狮身人面像" function="11" effect="83" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:沙漠战 美国_吉萨" star="3"/>
+	<wonder id="161" name="南京总统府" function="11" effect="108" value="4" state="1" age="1" country="-1" remark="此区域部队视为拥有技能:勇气 中国_南京" star="4"/>
+	<wonder id="162" name="凯旋门" function="6" effect="7" value="0" state="1" age="0" country="-1" remark="此区域xx部队视为拥有特性xx:冲击:0 法国_巴黎" star="5"/>
+	<wonder id="163" name="巴黎圣母院" function="11" effect="100" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:修整 法国_巴黎" star="4"/>
+	<wonder id="164" name="伦敦塔" function="11" effect="59" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:警戒 英国_伦敦" star="4"/>
+	<wonder id="165" name="王宫广场" function="9" effect="2" value="30" state="1" age="0" country="-1" remark="增加某种类型单位的暴击率:炮兵:30 波兰_华沙" star="4"/>
+	<wonder id="166" name="格里菲斯天文台" function="8" effect="6" value="3" state="1" age="2" country="-1" remark="研究某类卡牌时准备回合减少:要塞:3 美国_洛杉矶" star="2"/>
+	<wonder id="167" name="五角大楼" function="6" effect="25" value="0" state="1" age="2" country="-1" remark="此区域xx部队视为拥有特性xx:反击:0 美国_华盛顿" star="5"/>
+	<wonder id="168" name="亚利桑那纪念馆" function="6" effect="17" value="0" state="1" age="3" country="-1" remark="此区域xx部队视为拥有特性xx:下潜:0 美国_夏威夷,珍珠港" star="5"/>
+	<wonder id="169" name="西雅图太空针尖塔" function="6" effect="20" value="0" state="1" age="3" country="-1" remark="此区域xx部队视为拥有特性xx:警戒:0 美国_西雅图" star="5"/>
+	<wonder id="170" name="布莱顿行宫" function="11" effect="32" value="1" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:改良 英国_布莱顿" star="4"/>
+	<wonder id="171" name="海德堡城堡" function="6" effect="16" value="0" state="1" age="0" country="-1" remark="此区域xx部队视为拥有特性xx:碾压:0 德国_海德堡" star="5"/>
+	<wonder id="172" name="圣灵大教堂" function="11" effect="47" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:回避 意大利_佛罗伦萨" star="4"/>
+	<wonder id="173" name="欧罗巴角灯塔" function="11" effect="56" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:舰炮回避 英国_直布罗陀" star="3"/>
+	<wonder id="174" name="摩尔人城堡" function="11" effect="57" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:戒备 葡萄牙_辛特拉" star="3"/>
+	<wonder id="175" name="总统山" function="6" effect="9" value="0" state="1" age="1" country="-1" remark="此区域xx部队视为拥有特性xx:威慑:0 美国_拉什莫尔山" star="5"/>
+	<wonder id="176" name="东京塔" function="6" effect="18" value="0" state="1" age="2" country="-1" remark="此区域xx部队视为拥有特性xx:声呐:0 日本_东京" star="5"/>
+	<wonder id="177" name="金角湾大桥" function="11" effect="46" value="4" state="1" age="3" country="-1" remark="此区域部队视为拥有技能:后勤 俄罗斯_海参崴" star="4"/>
+	<wonder id="178" name="石庸城堡" function="11" effect="88" value="4" state="1" age="0" country="-1" remark="此区域部队视为拥有技能:守护 瑞士_日内瓦" star="3"/>
+	<wonder id="179" name="万国宫" function="11" effect="85" value="1" state="1" age="2" country="-1" remark="此区域部队视为拥有技能:声势 瑞士_日内瓦" star="3"/>
+	<wonder id="180" name="母亲雕像" function="5" effect="2" value="30" state="1" age="3" country="-1" remark="增加区域内xx兵种的:生命恢复:30 俄罗斯_伏尔加格勒" star="5"/>
+	<wonder id="181" name="敖德萨歌剧场" function="5" effect="1" value="30" state="1" age="0" country="-1" remark="增加区域内xx兵种的:士气恢复:30 乌克兰_敖德萨" star="4"/>
+	<wonder id="182" name="燕子堡" function="6" effect="10" value="0" state="1" age="0" country="-1" remark="此区域xx部队视为拥有特性xx:布雷:0 乌克兰_塞瓦斯托波尔,克里木" star="4"/>
+	<wonder id="183" name="苏维埃宫殿" function="2" effect="3" value="60" state="1" age="2" country="-1" remark="当区域驻兵时,使城市的[XX]不低于xx :稳定度:60 俄罗斯_莫斯科" star="3"/>
+	<wonder id="184" name="木登城堡" function="5" effect="4" value="5" state="1" age="0" country="-1" remark="增加区域内xx兵种的:防御:5 荷兰_阿姆斯特丹" star="4"/>
+	<wonder id="185" name="三峡大坝" function="1" effect="7" value="60" state="1" age="3" country="-1" remark="增加资源产出:电力:60 中国_宜昌" star="5"/>
+	<wonder id="186" name="都江堰" function="2" effect="2" value="80" state="1" age="0" country="-1" remark="当区域驻兵时,使城市的[XX]不低于xx :税率:80 中国_成都市,都江堰" star="3"/>
+	<wonder id="187" name="苏伊士运河" function="8" effect="4" value="3" state="1" age="0" country="-1" remark="研究某类卡牌时准备回合减少:船只:3 埃及_苏伊士" star="2"/>
+	<wonder id="188" name="巴拿马运河" function="8" effect="8" value="3" state="1" age="0" country="-1" remark="研究某类卡牌时准备回合减少:潜艇:3 巴拿马_巴拿马" star="2"/>
+	<wonder id="189" name="威尼斯水城" function="6" effect="23" value="0" state="1" age="0" country="-1" remark="此区域xx部队视为拥有特性xx:舰炮:0 意大利_威尼斯" star="5"/>
+</wonders>

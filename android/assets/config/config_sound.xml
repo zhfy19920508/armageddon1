@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sounds>
+	<sound id="click" file="audio/click.mp3" remark="单击"/>
+	<sound id="close" file="audio/close.mp3" remark="关闭"/>
+	<sound id="switch" file="audio/switch.mp3" remark="切换"/>
+	
+	
+	
+	<sound id="error" file="audio/error.mp3" remark="报错"/>
+	<sound id="suc" file="audio/suc.mp3" remark="成功"/>
+	<sound id="occupy" file="audio/occupy.mp3" remark="占领"/>
+	
+	<sound id="airMove" file="audio/airMove.mp3" remark="飞机移动"/> 
+	<sound id="defenseAir" file="audio/defenseAir.mp3" remark="防空"/>
+	<sound id="armorMove" file="audio/armorMove.mp3" remark="装甲移动"/>  1
+	<sound id="armyMove" file="audio/armyMove.mp3" remark="步兵移动"/> 1
+	<sound id="navyMove" file="audio/navyMove.mp3" remark="海军移动"/> 1
+	
+	<sound id="bombard" file="audio/bombard.mp3" remark="轻炮"/>
+	<sound id="explode" file="audio/explode.mp3" remark="重炮"/>
+	<sound id="gas" file="audio/gas.mp3" remark="毒气"/>
+	<sound id="machineGun" file="audio/machineGun.mp3" remark="机枪"/>
+	<sound id="rifle" file="audio/rifle.mp3" remark="步枪"/>
+	<sound id="pistol" file="audio/pistol.mp3" remark="手枪"/>
+	
+	
+	
+	
+	
+</sounds>
+
+

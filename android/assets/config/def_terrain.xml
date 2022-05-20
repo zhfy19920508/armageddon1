@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<terraintypes>
+	<terraintype id="0" name="平地" movementCost="2" defInf="100" defArt="110" defArm="120" defAir="100" defShip="100" exrLos="-1"/>
+	<terraintype id="1" name="海洋" movementCost="2" defInf="100" defArt="100" defArm="100" defAir="100" defShip="100" exrLos="-2"/>
+	<terraintype id="2" name="海岸" movementCost="3" defInf="100" defArt="110" defArm="100" defAir="100" defShip="110" exrLos="-2"/>
+	<terraintype id="3" name="桥梁" movementCost="3" defInf="110" defArt="80" defArm="70" defAir="100" defShip="100" exrLos="-3"/>
+	<terraintype id="4" name="丘陵" movementCost="4" defInf="80" defArt="90" defArm="90" defAir="95" defShip="100" exrLos="-2"/>
+	<terraintype id="5" name="山地" movementCost="6" defInf="80" defArt="110" defArm="70" defAir="90" defShip="100" exrLos="-4"/>
+	<terraintype id="6" name="森林" movementCost="5" defInf="90" defArt="120" defArm="100" defAir="90" defShip="100" exrLos="-4"/>
+	<terraintype id="7" name="人为装饰" movementCost="3" defInf="110" defArt="90" defArm="90" defAir="80" defShip="90" exrLos="-2"/>
+	<terraintype id="8" name="自然装饰" movementCost="3" defInf="110" defArt="90" defArm="90" defAir="85" defShip="100" exrLos="-3"/>
+	<terraintype id="9" name="海洋装饰" movementCost="4" defInf="100" defArt="100" defArm="100" defAir="100" defShip="80" exrLos="-4"/>
+	<terraintype id="10" name="铁路" movementCost="1" defInf="80" defArt="80" defArm="80" defAir="80" defShip="80" exrLos="-2"/>
+	<terraintype id="11" name="河流" movementCost="3" defInf="100" defArt="80" defArm="70" defAir="100" defShip="100" exrLos="-4"/>
+	<terraintype id="12" name="阻碍物" movementCost="6" defInf="100" defArt="100" defArm="100" defAir="100" defShip="100" exrLos="-2"/>
+</terraintypes>

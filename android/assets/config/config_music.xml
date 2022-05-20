@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<musics>
+	<music id="0" name="default" type="0" file="audio/jokull.mp3" play="loop"/>
+	<music id="1" name="battle1" type="1" file="audio/black knight.mp3" play="random"/>
+	<music id="2" name="battle2" type="1" file="audio/evil incoming.mp3" play="random"/>
+	<music id="3" name="battle3" type="1" file="audio/night attack.mp3" play="random"/>
+	<music id="4" name="battle4" type="1" file="audio/the enemy.mp3" play="random"/>
+</musics>
+
+

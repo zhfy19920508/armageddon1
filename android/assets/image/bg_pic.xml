@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:d67dc73c91e83bf3235d94e537734fbf$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="bg_pic.png" width="1024" height="1024">
+    <sprite n="mainconquest_0.png" x="718" y="718" w="177" h="177"/>
+    <sprite n="mainconquest_1.png" x="718" y="539" w="177" h="177"/>
+    <sprite n="mainconquest_2.png" x="539" y="718" w="177" h="177"/>
+    <sprite n="mainconquest_3.png" x="539" y="539" w="177" h="177"/>
+    <sprite n="mainconquest_4.png" x="718" y="360" w="177" h="177"/>
+    <sprite n="mainconquest_5.png" x="539" y="360" w="177" h="177"/>
+    <sprite n="mainconquest_6.png" x="360" y="718" w="177" h="177"/>
+    <sprite n="mainempire_0.png" x="360" y="539" w="177" h="177"/>
+    <sprite n="mainempire_1.png" x="360" y="360" w="177" h="177"/>
+    <sprite n="mainempire_2.png" x="718" y="181" w="177" h="177"/>
+    <sprite n="mainempire_3.png" x="539" y="181" w="177" h="177"/>
+    <sprite n="mainempire_4.png" x="360" y="181" w="177" h="177"/>
+    <sprite n="mainempire_5.png" x="181" y="718" w="177" h="177"/>
+    <sprite n="mainempire_6.png" x="181" y="539" w="177" h="177"/>
+    <sprite n="mainempire_7.png" x="181" y="360" w="177" h="177"/>
+    <sprite n="mainoption_0.png" x="181" y="181" w="177" h="177"/>
+    <sprite n="mainoption_1.png" x="718" y="2" w="177" h="177"/>
+    <sprite n="mainoption_2.png" x="539" y="2" w="177" h="177"/>
+    <sprite n="mainoption_3.png" x="360" y="2" w="177" h="177"/>
+    <sprite n="mainoption_4.png" x="181" y="2" w="177" h="177"/>
+    <sprite n="mainoption_5.png" x="2" y="718" w="177" h="177"/>
+    <sprite n="mainoption_6.png" x="2" y="539" w="177" h="177"/>
+    <sprite n="mainoption_7.png" x="2" y="360" w="177" h="177"/>
+    <sprite n="mainoption_8.png" x="2" y="181" w="177" h="177"/>
+    <sprite n="mainoption_9.png" x="2" y="2" w="177" h="177"/>
+</TextureAtlas>

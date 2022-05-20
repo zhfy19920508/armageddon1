@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CZones>
+	<CZone id="0" name="Marine climate" remark="海洋气候" season1="0,1,2,4,0" season2="0,2,1,0,0" season3="0,4,5,0,0" season4="0,3,1,0,0"/>
+	<CZone id="1" name="Tropical rainforest climate" remark="热带雨林气候" season1="0,2,2,6,4" season2="0,2,2,6,0" season3="0,2,2,6,0" season4="0,2,2,6,1"/>
+	<CZone id="2" name="Tropical monsson climate" remark="热带季风气候" season1="1,6,5,0,0" season2="0,2,5,6,6" season3="0,2,5,6,0" season4="0,2,5,6,0"/>
+	<CZone id="3" name="Subtropical monsoon climate" remark="亚热带季风气候" season1="0,1,2,0,0" season2="0,2,5,6,6" season3="0,2,5,6,0" season4="0,3,4,0,0"/>
+	<CZone id="4" name="Temperate marine climate" remark="温带海洋性气候" season1="1,2,0,0,0" season2="4,2,0,0,0" season3="5,2,0,0,0" season4="3,2,4,0,0"/>
+	<CZone id="5" name="Humid temperate continental climate" remark="温带大陆性气候" season1="0,2,4,0,0" season2="1,2,0,0,0" season3="2,4,5,0,0" season4="0,3,7,7,0"/>
+	<CZone id="6" name="Mountain climate" remark="高山气候" season1="4,7,3,7,0" season2="1,7,3,7,0" season3="5,7,3,7,0" season4="3,7,7,3,0"/>
+	<CZone id="7" name="Savannah climate" remark="热带草原气候" season1="1,6,5,0,0" season2="4,2,6,6,0" season3="5,2,6,0,0" season4="1,6,4,5,0"/>
+	<CZone id="8" name="Tropical climate desertification" remark="热带沙漠气候" season1="0,6,6,5,0" season2="0,6,6,6,6" season3="0,6,6,5,0" season4="0,6,1,5,0"/>
+	<CZone id="9" name="Mediterranean climate" remark="地中海气候" season1="1,2,4,0,0" season2="0,6,6,5,0" season3="0,0,2,4,1" season4="4,2,2,0,0"/>
+	<CZone id="10" name="Temperate monsoon climate" remark="温带季风气候" season1="4,1,2,0,0" season2="0,2,6,2,6" season3="0,0,5,1,4" season4="0,3,7,7,5"/>
+	<CZone id="11" name="Polar climate" remark="极地气候" season1="0,7,7,3,3" season2="0,7,7,7,3" season3="0,7,7,3,3" season4="0,7,7,3,3"/>
+</CZones>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<scripts> 
+公用线
+
+
+
+
+<!--
+ai事件:
+
+1895甲午战争,日本获得台湾等地区
+1898美西战争,1899结束,美国获得古巴,菲律宾
+1899布尔战争
+1900大清宣战各国
+1902英日结盟,对抗俄国
+1904日俄战争,英法结盟
+1907英俄结盟
+1911中国革命军
+1912巴尔干冲突
+-->
+
+   <script id="0" trigger="default" triggerValue="-1" triggerYear="-1" triggerCountry="-1" playerTriggerType="-1" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="初始" > 
+   <cmds  remark="" > 
+   <cmd action="countryDeclareWar" sourceCountry="73" targetCountry="28" ifRelevancy="true"/>
+	</cmds>
+  </script> 
+   <script id="1" trigger="countrysIsAi" triggerValue="-1" triggerYear="1895" triggerCountry="28,73,33" playerTriggerType="-1" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="甲午战争结果" > 
+   <cmds  remark="" > 
+   	<cmd action="counrysPeace" countrys="28,73,33" masterCountry="73" round="20" ifChangeArea="false" eventId="405" chance="100" remark="设置三国和平"/> 1
+	
+	<cmd action="setRegionAllLegionIndex" checkCountrys="28,73" region="16587" country="33" mustHaveRegion="true" ifChangeAll="true" remark="俄国获得大连"/> 1
+	<cmd action="setCountrySuzerain" checkCountrys="28,26" country="26" suzerainCountry="73" remark="朝鲜成为日本附属国"/> 1
+	<cmd action="setRegionAllLegionIndex" checkCountrys="0" region="17701" country="26" mustHaveRegion="true" ifChangeAll="true" remark="朝鲜恢复汉城"/>
+	<cmd action="setRegionAllLegionIndex" checkCountrys="28" region="23247" country="73" mustHaveRegion="true" ifChangeAll="true" remark="日本获得台湾"/> 1
+	<cmd action="setRegionAllLegionIndex" checkCountrys="28" region="24355" country="73" mustHaveRegion="true" ifChangeAll="true" remark="日本获得台湾"/> 1
+	
+	</cmds>
+  </script> 
+   <script id="2" trigger="default" triggerValue="-1" triggerYear="1898" triggerCountry="-1" playerTriggerType="-1" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="美西战争" > 
+   <cmds  remark="" > 
+   	<cmd action="countryDeclareWar" sourceCountry="57" targetCountry="90" ifRelevancy="true"/> 1
+	<cmd action="triggerEventForCountry"  countrys="90,57,43,44" eventId="189" chance="100"/>
+	</cmds>
+  </script> 
+   <script id="3" trigger="countrysIsAi" triggerValue="-1" triggerYear="1899" triggerCountry="90,57" playerTriggerType="-1" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="美西战争结果" > 
+   <cmds  remark="" > 
+	<cmd action="setRegionAllLegionIndex" checkCountrys="90" region="27316" country="57" mustHaveRegion="true" ifChangeAll="true" remark="美国获得菲律宾"/> 1
+	<cmd action="setRegionAllLegionIndex" checkCountrys="90" region="28797" country="57" mustHaveRegion="true" ifChangeAll="true" remark="美国获得菲律宾"/> 1
+	<cmd action="setRegionAllLegionIndex" checkCountrys="90" region="30651" country="57" mustHaveRegion="true" ifChangeAll="true" remark="美国获得菲律宾"/> 1
+	<cmd action="setCountrySuzerain" checkCountrys="90,43" country="43" suzerainCountry="57" remark="古巴成为美国附属国"/> 1
+	<cmd action="setCountrySuzerain" checkCountrys="90,44" country="44" suzerainCountry="57" remark="古巴成为美国附属国"/> 1
+	</cmds>
+  </script> 
+   <script id="4" trigger="default" triggerValue="-1" triggerYear="1899" triggerCountry="-1" playerTriggerType="-1" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="布尔战争" > 
+   <cmds  remark="" > 
+    	<cmd action="countryDeclareWar" sourceCountry="99" targetCountry="110" ifRelevancy="true"/> 1
+		<cmd action="triggerEventForCountry"  countrys="99,110" eventId="443" chance="100"/>
+	</cmds>
+  </script> 
+   <script id="5" trigger="default" triggerValue="-1" triggerYear="1900" triggerCountry="-1" playerTriggerType="-1" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="大清宣战各国" > 
+   <cmds  remark="" > 
+    	<cmd action="countryDeclareWar" sourceCountry="28" targetCountry="99" ifRelevancy="true"/> 1
+    	<cmd action="countryDeclareWar" sourceCountry="28" targetCountry="57" ifRelevancy="true"/> 1
+    	<cmd action="countryDeclareWar" sourceCountry="28" targetCountry="35" ifRelevancy="true"/> 1
+    	<cmd action="countryDeclareWar" sourceCountry="28" targetCountry="30" ifRelevancy="true"/> 1
+    	<cmd action="countryDeclareWar" sourceCountry="28" targetCountry="33" ifRelevancy="true"/> 1
+    	<cmd action="countryDeclareWar" sourceCountry="28" targetCountry="73" ifRelevancy="true"/> 1
+    	<cmd action="countryDeclareWar" sourceCountry="28" targetCountry="38" ifRelevancy="true"/> 1
+    	<cmd action="countryDeclareWar" sourceCountry="28" targetCountry="97" ifRelevancy="true"/> 1
+		<cmd action="triggerEventForCountry"  countrys="99,110" eventId="470" chance="100"/>
+	</cmds>
+  </script> 
+   <script id="6" trigger="countrysIsAi" triggerValue="-1" triggerYear="1902" triggerCountry="99,73" playerTriggerType="-1" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="英日结盟" > 
+   <cmds  remark="" > 
+   	<cmd action="counrysPeace" countrys="99,73" masterCountry="99" enemyCountry="33" round="20" ifChangeArea="false" eventId="483" chance="100"/>
+	</cmds>
+  </script> 
+   <script id="7" trigger="countrysIsAi" triggerValue="-1" triggerYear="1904" triggerCountry="73,33" playerTriggerType="-1" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="日俄战争" > 
+   <cmds  remark="" > 
+    	<cmd action="countryDeclareWar" sourceCountry="73" targetCountry="33" ifRelevancy="true"/> 
+		<cmd action="triggerEventForCountry"  countrys="99,110" eventId="498" chance="100"/>
+	</cmds>
+  </script> 
+   <script id="8" trigger="countrysIsAi" triggerValue="-1" triggerYear="1904" triggerCountry="99,35" playerTriggerType="-1" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="英法结盟" > 
+   <cmds  remark="" > 
+   	<cmd action="counrysPeace" countrys="99,35" masterCountry="99" enemyCountry="30" round="20" ifChangeArea="false" eventId="-1"/>
+	</cmds>
+  </script> 
+   <script id="9" trigger="countrysIsAi" triggerValue="-1" triggerYear="1907" triggerCountry="99,33" playerTriggerType="-1" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="英俄结盟" > 
+   <cmds  remark="" > 
+   	<cmd action="counrysPeace" countrys="99,33" masterCountry="99" enemyCountry="38"  round="20" ifChangeArea="false" eventId="538" chance="100"/>
+	</cmds>
+  </script> 
+   <script id="10" trigger="countrysIsAi" triggerValue="-1" triggerYear="1912" triggerCountry="12,91,77,68,18,55" playerTriggerType="-1" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="巴尔干冲突" > 
+   <cmds  remark="" > 
+    	<cmd action="countryDeclareWar" sourceCountry="91" targetCountry="12" ifRelevancy="true"/> 
+    	<cmd action="countryDeclareWar" sourceCountry="77" targetCountry="12" ifRelevancy="true"/> 
+    	<cmd action="countryDeclareWar" sourceCountry="68" targetCountry="12" ifRelevancy="true"/> 
+    	<cmd action="countryDeclareWar" sourceCountry="18" targetCountry="12" ifRelevancy="true"/> 
+    	<cmd action="countryDeclareWar" sourceCountry="55" targetCountry="12" ifRelevancy="true"/> 
+	</cmds>
+  </script> 
+  
+  
+<!--
+清:28
+1895 马关条约:是否与日本和解 8 条件:失去核心区域,且核心区域为日本占领
+1900 庚子事变 9 条件:稳定度>50且无革命军
+1900 清俄冲突 10 条件:东北区域有地区被俄国占领
+1902 日俄战争是否保持中立 11 条件:
+特殊 稳定度过低爆革命军 12 条件:玩家是大清,且稳定度低于50
+1911 革命军邀请 12 条件:
+-->
+
+
+
+<!--
+日:73
+1895 马关条约:  条件:
+是否与清国调解 13 条件:
+是否对俄国妥协 14 条件:
+1902 
+是否对俄国妥协 15 条件:
+是否与英国合作对抗俄国 16 条件:
+
+1905
+与俄国和解 17 条件:
+-->
+<!--
+俄:30
+1895:俄国要求大连 18 条件:
+是否调解清日战争 19 条件:
+1902
+威胁日本 20 条件:
+1905:与日本和解 21 条件:
+1907:是否与英国签订同盟 22 条件:
+
+-->
+<!--
+英国:99
+1902 与日本结盟对抗俄国 23 条件:
+1904:是否与法国签订同盟 24 条件:
+1907:是否与俄国签订同盟 25 条件:
+-->
+<!--
+法国:35
+1904:是否与英国签订同盟 22 条件:
+-->
+<!--
+美国:57
+1898:美西战争 26 条件:
+-->
+<!--
+西班牙:90 
+1898:美西战争 27 条件:
+-->
+<!--
+巴尔干各国:1912 反抗土耳其 28 条件:
+土耳其:12 条件:
+1912:镇压巴尔干 29 条件:
+稳定度过低:阿拉伯革命 30 条件:
+-->
+
+美国线
+
+
+  
+  
+
+<script id="5700" trigger="default" triggerValue="-1" triggerYear="1,1912" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="美国 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+	<cmd action="replaceFlagAndColor" sourceCountry="57" targetCountry="58"  r="180" g="254" b="220" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+  
+  
+  起义军
+<script id="10200" trigger="legionStatility" triggerValue="0,70" triggerYear="1,1911" triggerCountry="28"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="辛亥革命 领土变更" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="createCountry" country="102" internIndex="0" capitalId="0" tax="300" res="8000" generalNum="7"   eventId="590" updRegionStr="19912,20275,20649,20652,21025,21385,21391,21757,22500,22866,22504,23242" remark="创建国家"/>
+	</cmds>
+  </script> 
+<script id="10201" trigger="default" triggerValue="-1" triggerYear="1,1912" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="中国起义军 国旗变更" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+	<cmd action="replaceFlagAndColor" sourceCountry="102" targetCountry="103"  r="128" g="180" b="200" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+
+  蒙古:
+<script id="5900" trigger="legionStatility" triggerValue="0,70" triggerYear="1,1911" triggerCountry="28"  modeType="0" ifRepeat="false" triggerRound="-1" preEvent="10200" remark="蒙古独立 领土变更" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="createCountry" country="60" internIndex="0" capitalId="0" tax="200" res="2000" generalNum="3" updRegionStr="10273,11006,11391,11373,11748,11399,11765,11755,12854,12512,13228,12863,12878,13236,12869,13244,14340,14347,13983,14714,14720" remark="创建国家"/>
+
+	<cmd action="triggerEvent" eventId="579" chance="100"/>
+	</cmds>
+  </script> 
+  
+  
+
+  
+
+  
+  
+  
+
+<script id="600" trigger="default" triggerValue="-1" triggerYear="1,1914" triggerLegionIndex="-1"  modeType="0" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="埃塞俄比亚 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+	
+	<cmd action="replaceFlagAndColor" sourceCountry="6" targetCountry="7"  r="180" g="254" b="220" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+
+</scripts>

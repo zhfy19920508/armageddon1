@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stages>
+<!--btlType: 0征服 1帝国 2历史  -->
+<!--mode:初始化玩法 0征服玩法 1军团玩法   -->
+	<stage id="0" name="conquest0" remark="自定义征服1840-1920" btlType="0" gameMode="2,1" historyId="1" musicId="-1"/>
+	<stage id="1" name="conquest1" remark="1857征服" btlType="0" gameMode="2,1,0" historyId="1" musicId="-1" />
+	<stage id="2" name="conquest2" remark="1894征服" btlType="0" gameMode="2,1,0" historyId="1" musicId="-1" />
+	<stage id="3" name="conquest3" remark="1914征服" btlType="0" gameMode="2,1,0" historyId="1" musicId="-1"/>
+	<stage id="4" name="conquest4" remark="1918征服" btlType="0" gameMode="2,1,0" historyId="1" musicId="-1" />
+	<stage id="101" name="empire1" remark="英国" btlType="1" gameMode="1" historyId="1" musicId="-1" />
+	<stage id="102" name="empire2" remark="法国" btlType="1" gameMode="1" historyId="1" musicId="-1" />
+	<stage id="103" name="empire3" remark="德国" btlType="1" gameMode="1" historyId="1" musicId="-1" />
+	<stage id="104" name="empire4" remark="俄国" btlType="1" gameMode="1" historyId="1" musicId="-1" />
+	<stage id="105" name="empire5" remark="美国" btlType="1" gameMode="1" historyId="1" musicId="-1" />
+	<stage id="106" name="empire6" remark="西班牙" btlType="1" gameMode="1" historyId="1" musicId="-1" />
+	<stage id="107" name="empire7" remark="日本" btlType="1" gameMode="1" historyId="1" musicId="-1" />
+	<stage id="108" name="empire8" remark="清国" btlType="1" gameMode="1" historyId="1" musicId="-1" />
+	<stage id="20001" name="tutorial0" remark="教程1" gameMode="0" btlType="2" historyId="1" musicId="-1" />
+	<stage id="20002" name="tutorial1" remark="教程2" gameMode="0" btlType="2" historyId="1" musicId="-1" />
+	<stage id="20003" name="tutorial2" remark="教程3" gameMode="1" btlType="2" historyId="1" musicId="-1" />
+</stages>

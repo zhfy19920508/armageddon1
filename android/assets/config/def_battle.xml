@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<battles>
+
+
+    <battle id="1840" remark="教学" >
+		<stage  id="20001" name="教学1" x="79" y="63" eventbg="-1" type="0" useLanguage="-1"/>
+		<stage  id="20002" name="教学2" x="50" y="73" eventbg="-1" type="0" useLanguage="-1"/>
+		<stage  id="20003" name="教学3" x="23" y="66" eventbg="-1" type="0" useLanguage="-1"/>
+	</battle>
+
+	<!--
+	<battle id="1853" remark="克里木战争" >
+		<stage  id="2001" name="克里木战争" x="22" y="33" eventbg="0" type="0" />
+		<stage  id="2002" name="太平天国战争" x="42" y="33" eventbg="1" type="1" />
+	</battle>
+	<battle id="1856" remark="第二次鸦片战争" > 
+	    <stage  id="2001" name="第二次鸦片战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1864" remark="巴拉圭战争" > 
+	    <stage  id="2001" name="巴拉圭战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	
+	<battle id="1866" remark="普奥战争" > 
+	    <stage  id="2001" name="普奥战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1870" remark="普法战争" >
+	    <stage  id="2001" name="普法战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1875" remark="埃及－埃塞俄比亚战争" > 
+	    <stage  id="2001" name="埃及－埃塞俄比亚战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1876" remark="收复新疆" > 
+	    <stage  id="2001" name="收复新疆" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1879" remark="南美太平洋战争" >
+	    <stage  id="2001" name="南美太平洋战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1883" remark="中法战争" > 
+	    <stage  id="2001" name="中法战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1894" remark="中日战争" >
+	    <stage  id="2001" name="中日战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1898" remark="美西战争" >
+	    <stage  id="2001" name="美西战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1899" remark="英布战争" >
+	    <stage  id="2001" name="英布战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1900" remark="八国联军侵华战争" > 
+	    <stage  id="2001" name="八国联军侵华战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1901" remark="清俄战争" > 
+	    <stage  id="2001" name="清俄战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1904" remark="日俄战争" > 
+	    <stage  id="2001" name="日俄战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1911" remark="武昌起义" >
+	    <stage  id="2001" name="武昌起义" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	
+	
+	<battle id="1912" remark="第一次巴尔干战争" > 
+	    <stage  id="2001" name="第一次巴尔干战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1913" remark="第二次巴尔干战争" >
+	    <stage  id="2001" name="第二次巴尔干战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1914" remark="一战" >
+		<stage  id="2001" name="一战" x="22" y="33" eventbg="0" type="0" />
+		<stage  id="2002" name="德日战争" x="55" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1915" remark="护国运动" > 
+	    <stage  id="2001" name="护国运动" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1916" remark="英土战争" > 
+	    <stage  id="2001" name="英土战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1918" remark="苏俄内战" > 
+	    <stage  id="2001" name="苏俄内战" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1919" remark="苏波战争" > 
+	    <stage  id="2001" name="苏波战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	<battle id="1922" remark="苏日战争" > 
+	    <stage  id="2001" name="苏日战争" x="22" y="33" eventbg="0" type="0" />
+	</battle>
+	-->
+</battles>

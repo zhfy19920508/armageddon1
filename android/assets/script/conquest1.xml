@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<scripts> 
+   
+   
+  <script id="3501" trigger="regionIfNotContral" triggerValue="29520" triggerYear="1861" triggerCountry="35"  ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="法国获得西贡" > 
+	<cmds  remark="" > 
+		<cmd action="setRegionAllLegionIndex" region="29520" country="35" mustHaveRegion="true" ifChangeAll="true" remark="法国获得西贡"/>
+		<cmd action="triggerEventForCountry"  countrys="35,27,28,93" eventId="136" chance="100"/>
+	</cmds>
+  
+  </script>
+  
+   <script id="5700" trigger="default" triggerValue="-1" triggerYear="1861" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="美国内战" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="createCountry"  country="67" internIndex="99" capitalId="0" tax="300" res="8000" generalNum="7" eventId="138" updRegionStr="16727,17100,17476,17461,18573,18583,18946,18209,18565,19300,19310,20044,19683,19688,20048,20062,21173" remark="创建国家 南联邦"/>
+		<cmd action="triggerEventForCountry"  countrys="57,99" eventId="0" chance="100"/>
+	</cmds>
+  </script>
+  
+  
+
+  <script id="5701" trigger="default" triggerValue="-1" triggerYear="1862" playerTriggerType="-1" triggerLegionIndex="15" ifRepeat="false" triggerRound="-1" preEvent="5700" remark="美国内战选择变更" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="addSelectPromptData" title="1" content="1" scriptId1="5702" scriptId2="-1" remark="选择1触发阵营变更"/>
+		<cmd action="openPromptGroup" title="1" content="1" scriptId1="5702" scriptId2="-1" remark="显示弹框"/>
+	</cmds>
+  </script> 
+  
+   <script id="5702" trigger="eventSelected" triggerValue="-1" remark="选择触发"  ifRepeat="false" triggerRound="-1" preEvent="5701" > 
+	<cmds  remark="变更玩家" > 
+		<cmd action="changePlayerCountry" countryId="67" remark="变更为美国邦联"/>
+	</cmds>
+  
+  </script>
+  
+    <script id="3300" trigger="countrysIsAi" triggerValue="-1" triggerYear="1864" triggerCountry="33,28" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="默认触发 俄国吞并外东北" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="legionExChangeAreaForCountry" sourceCountry="28" targetCountry="33"  srRegion="148"    remark="俄国吞并外东北"/>
+		<cmd action="legionExChangeAreaForCountry" sourceCountry="28" targetCountry="33"  srRegion="136"    remark="俄国吞并外西北"/>
+		<cmd action="signContractByCountry" country1="33" country2="28" round="60" />
+	</cmds>
+  </script> 
+    <script id="3301" trigger="srRegionIfHaveCountry" triggerValue="148,28" triggerYear="1864" triggerCountry="33" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" mutualEvent="3300" remark="俄 俄国吞并外东北 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="addSelectPromptData" title="2" content="2" scriptId1="3302" scriptId2="-1" remark="选择触发"/>
+		<cmd action="openPromptGroup" title="2" content="2" scriptId1="3302" scriptId2="-1" remark="显示弹框"/>
+	</cmds>
+  </script> 
+    <script id="3301" trigger="default" triggerValue="-1" triggerYear="1864" triggerCountry="28" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1"  mutualEvent="3300" remark="清 俄国吞并外东北" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="addSelectPromptData" title="3" content="3" scriptId1="3302" scriptId2="3303" remark="选择触发"/>
+		<cmd action="openPromptGroup" title="3" content="3" scriptId1="3302" scriptId2="3303" remark="显示弹框"/>
+	</cmds>
+  </script> 
+  
+   <script id="3302" trigger="eventSelected" triggerValue="-1" remark="选择触发"  ifRepeat="false" triggerRound="-1" preEvent="3301" > 
+	<cmds  remark="变更玩家" > 
+		<cmd action="signContractByCountry" country1="33" country2="28" round="60" />
+			<cmd action="legionExChangeAreaForCountry" sourceCountry="28" targetCountry="33"  srRegion="148"    remark="俄国吞并外东北"/>
+		<cmd action="legionExChangeAreaForCountry" sourceCountry="28" targetCountry="33"  srRegion="136"    remark="俄国吞并外西北"/>
+		<cmd action="triggerEventForCountry"  countrys="33,28" eventId="170" chance="100"/>
+		<cmd action="triggerEventForCountry"  countrys="33,28" eventId="129" chance="100"/>
+	</cmds>
+  </script>
+   <script id="3303" trigger="eventSelected" triggerValue="-1" remark="选择触发"  ifRepeat="false" triggerRound="-1" preEvent="3301" > 
+	<cmds  remark="变更玩家" > 
+		<cmd action="setFavor" legionIndex1="7" legionIndex2="1" favor="20" remark="设置好感度"/>
+	</cmds>
+  </script>
+  
+    <script id="3304" trigger="countrysIsAi" triggerValue="0" triggerYear="1867" triggerCountry="33,57" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="通用 俄国出售阿拉斯加" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="signContractByCountry" country1="33" country2="57" round="60" />
+		<cmd action="legionExChangeAreaForCountry" sourceCountry="33" targetCountry="57"  srRegion="33"    remark="1867 俄国出售阿拉斯加"/>
+	</cmds>
+  </script> 
+  
+  
+   <script id="3305" trigger="srRegionIfHaveCountry" triggerValue="33,33" triggerYear="1867" triggerCountry="33" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" mutualEvent="3304" remark="俄 俄国出售阿拉斯加" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="addSelectPromptData" title="6" content="6" scriptId1="3306" scriptId2="-1" remark="选择触发"/>
+		<cmd action="openPromptGroup" title="6" content="6" scriptId1="3306" scriptId2="-1" remark="显示弹框"/>
+	</cmds>
+  </script> 
+    <script id="3305" trigger="default" triggerValue="-1" triggerYear="1867" triggerCountry="57" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1"  mutualEvent="3304" remark="美 美国购买阿拉斯加" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="addSelectPromptData" title="7" content="7" scriptId1="3306" scriptId2="3307" remark="选择触发"/>
+		<cmd action="openPromptGroup" title="7" content="7" scriptId1="3306" scriptId2="3307" remark="显示弹框"/>
+	</cmds>
+  </script> 
+   <script id="3306" trigger="eventSelected" triggerValue="-1" remark="选择触发 购买阿拉斯加"  ifRepeat="false" triggerRound="-1" preEvent="3305" > 
+	<cmds  remark="变更玩家" > 
+		<cmd action="signContractByCountry" country1="33" country2="57" round="60" />
+		<cmd action="legionExChangeAreaForCountry" sourceCountry="33" targetCountry="57"  srRegion="33"    remark="俄国出售阿拉斯加"/>
+		<cmd action="triggerEventForCountry"  countrys="33,57" eventId="185" chance="100"/>
+	</cmds>
+  </script>
+   <script id="3307" trigger="eventSelected" triggerValue="-1" remark="选择触发 拒绝购买阿拉斯加"  ifRepeat="false" triggerRound="-1" preEvent="3305" > 
+	<cmds  remark="变更玩家" > 
+		<cmd action="setFavor" legionIndex1="1" legionIndex2="15" favor="0" remark="设置好感度"/>
+		<cmd action="setFavor" legionIndex1="1" legionIndex2="2" favor="0" remark="设置好感度"/>
+		<cmd action="setFavor" legionIndex1="1" legionIndex2="5" favor="0" remark="设置好感度"/>
+	</cmds>
+  </script>
+  <script id="3308" trigger="default" triggerValue="-1" triggerYear="1861" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="俄国1861年农奴制改革 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="executeHBuff"  country="33"  remark="随机提高工业等级1" ifPlayer="false" ifExecute="true" value="2001,2002,2003,2004,2005,2006,2007" eventId="146" function="1001" count="1" chance="100"/>
+	</cmds>
+  </script> 
+  
+  
+   <script id="7200" trigger="countrysIsAi" triggerValue="-1" triggerYear="1867" triggerCountry="72,32,31,14" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="默认触发 德国初步统一 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+			<cmd action="legionSurrender" sourceLegions="9,10,17" targetLegion="6" remark="设置归属"/>
+			<cmd action="legionGetSRRegion" legionIndex="6" ifCoreSRRegion="true" ifMajorSRRegion="true" ifChangeAll="false" />
+			<cmd action="signContractByCountry" country1="11" country2="72" round="120" />
+			
+			<cmd action="triggerEventForCountry"  countrys="72,32,31,14" eventId="189" chance="100"/>
+	</cmds>
+  </script> 
+   <script id="7201" trigger="default" triggerValue="-1" triggerYear="1867" triggerCountry="72,32,31,14" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1"  mutualEvent="7200" remark="事件 德国初步统一 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="addSelectPromptData" title="4" content="4" scriptId1="7202" scriptId2="-1" remark="选择触发"/>
+		<cmd action="openPromptGroup" title="4" content="4" scriptId1="7202" scriptId2="-1" remark="显示弹框"/>
+	</cmds>
+  </script> 
+  <script id="7202" trigger="eventSelected" triggerValue="-1" remark="选择触发"  ifRepeat="false" triggerRound="-1" preEvent="7201" > 
+	<cmds  remark="变更玩家" > 
+		<cmd action="legionSurrender" sourceLegions="9,10,17" targetLegion="6" remark="设置归属"/>
+			<cmd action="legionGetSRRegion" legionIndex="6" ifCoreSRRegion="true" ifMajorSRRegion="true" ifChangeAll="false" />
+			<cmd action="signContractByCountry" country1="11" country2="72" round="120" />
+			<cmd action="changePlayerLegion" legionIndex="6" remark="变更控制权"/>
+			
+			<cmd action="triggerEventForCountry"  countrys="72,32,31,14" eventId="189" chance="100"/>
+	</cmds>
+  </script>
+  
+  <script id="7203" trigger="default" triggerValue="-1" triggerYear="1871" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="普鲁士 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+	
+	<cmd action="triggerEvent" eventId="212" chance="100"/>
+	<cmd action="replaceFlagAndColor" sourceCountry="72" targetCountry="30"  r="112" g="128" b="144" a="120"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+  
+  
+   <script id="7600" trigger="countrysIsAi" triggerValue="-1" triggerYear="1870" triggerCountry="76,84,53" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="默认触发 意大利统一 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+			<cmd action="legionSurrender" sourceLegions="26,29" targetLegion="23" remark="设置归属"/>
+			<cmd action="signContractByCountry" country1="11" country2="76" round="40" />
+			<cmd action="signContractByCountry" country1="35" country2="76" round="40" />
+			<cmd action="signContractByCountry" country1="72" country2="76" round="40" />
+			<cmd action="triggerEventForCountry"  countrys="76,84,53,11,35,72" eventId="206" chance="100"/>
+			<cmd action="replaceFlagAndColor" sourceCountry="76" targetCountry="97"  r="220" g="190" b="230" a="100"      remark="国旗更换"/>
+	
+	</cmds>
+  </script> 
+   <script id="7601" trigger="default" triggerValue="-1" triggerYear="1870" triggerCountry="76,84,53" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1"  mutualEvent="7600" remark="事件 意大利统一 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="addSelectPromptData" title="5" content="5" scriptId1="7602" scriptId2="-1" remark="选择触发"/>
+		<cmd action="openPromptGroup" title="5" content="5" scriptId1="7602" scriptId2="-1" remark="显示弹框"/>
+	</cmds>
+  </script> 
+  <script id="7602" trigger="eventSelected" triggerValue="-1" remark="选择触发"  ifRepeat="false" triggerRound="-1" preEvent="7601" > 
+	<cmds  remark="变更玩家" > 
+			<cmd action="legionSurrender" sourceLegions="26,29" targetLegion="23" remark="设置归属"/>
+			<cmd action="signContractByCountry" country1="11" country2="76" round="40" />
+			<cmd action="signContractByCountry" country1="35" country2="76" round="40" />
+			<cmd action="signContractByCountry" country1="72" country2="76" round="40" />
+			<cmd action="triggerEventForCountry"  countrys="76,84,53,11,35,72" eventId="206" chance="100"/>
+			<cmd action="replaceFlagAndColor" sourceCountry="76" targetCountry="97"  r="220" g="190" b="230" a="100"      remark="国旗更换"/>
+			<cmd action="changePlayerLegion" legionIndex="23" remark="变更控制权"/>
+	</cmds>
+  </script>
+  
+  
+  
+  阿古伯
+  
+<script id="4600" trigger="default" triggerValue="-1" triggerYear="1860" triggerCountry="28" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="阿古柏崛起 领土变更" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="createCountry" country="46" internIndex="33" capitalId="0" tax="300" res="8000" generalNum="7"   eventId="176"  updRegionStr="11739,13214,12849,13567,14310,13572,14324,14335,14329,15412,15418,15422,15425,15806,16171,16153,16552,17277,17658,18022,17661" ifChangeAll="true" remark="创建国家"/>
+	</cmds>
+  </script> 
+
+  
+    大清
+
+<script id="2800" trigger="default" triggerValue="-1" triggerYear="1864" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="洋务运动 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="executeHBuff" country="28,46,62"  remark="随机提高工业等级1" ifPlayer="false" ifExecute="true" value="2001,2002,2003,2004,2005,2006,2007" eventId="168" function="1001" count="1" chance="100"/>
+		
+	</cmds>
+  </script> 
+
+
+
+<script id="2801" trigger="default" triggerValue="-1" triggerYear="1870" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="洋务运动2 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="executeHBuff" country="28,46,62"  remark="随机提高军事等级1" ifPlayer="false" ifExecute="true" value="2008,2009,2010,2011,2012,2013,2014" eventId="168" function="1001" count="1" chance="20"/>
+	</cmds>
+  </script> 
+  
+<script id="2802" trigger="default" triggerValue="-1" triggerYear="1861" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="大清联合英法对付天国 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="executeHBuff" country="81"  remark="提高收入" ifPlayer="false" ifExecute="true" value="3" eventId="143" function="2002" count="1" chance="100"/>
+		<cmd action="setFavor" legionIndex1="7" legionIndex2="5" favor="80" foreignType="1" foreignValue="20" remark="设置好感度 清 英"/>
+		<cmd action="setFavor" legionIndex1="7" legionIndex2="13" favor="80" foreignType="1" foreignValue="20"  remark="设置好感度 清 法" />
+		<cmd action="setFavor" legionIndex1="37" legionIndex2="5" favor="0" foreignType="-1" foreignValue="0"  remark="设置好感度 太平天国 英"/>
+		<cmd action="setFavor" legionIndex1="37" legionIndex2="13" favor="0" foreignType="-1" foreignValue="0"  remark="设置好感度 太平天国 法"/>
+		<cmd action="signContractByCountry" country1="28" country2="99" round="15" />
+		<cmd action="signContractByCountry" country1="28" country2="35" round="15" />
+	</cmds>
+  </script>
+  
+  
+  <script id="7300" trigger="default" triggerValue="-1" triggerYear="1867" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="日本明治维新 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="executeHBuff"  country="73"  remark="随机提高工业等级2" ifPlayer="false" ifExecute="true" value="2001,2002,2003,2004,2005,2006,2007" eventId="193" function="1001" count="2" chance="100"/>
+	</cmds>
+  </script> 
+  
+  
+<script id="7301" trigger="default" triggerValue="-1" triggerYear="1889" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="日本崛起 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		<cmd action="executeHBuff" country="73"  remark="提高收入" ifPlayer="false" ifExecute="true" value="5" eventId="351" function="2002" count="1" chance="100"/>
+	</cmds>
+  </script> 
+  
+  
+    <script id="9800" trigger="default" triggerValue="-1" triggerYear="1876" triggerCountry="99" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="成立英属印度" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" >
+			<cmd action="createCountry" updRegionType="1" country="107" internIndex="99" suzerainCountry="99" capitalId="0" tax="150" res="500" generalNum="3" updRegionStr="18009,18374,18754,19862,19480,19485,19488,20237,20964,20590,20603,21345,21331,21706,21341,21349,22087,22812,22480,22823,23196,22831,23586,23555,23574,23582,23219,23938,23578,23932,25046,24682,24689,24323,24329,24672,24679,25426,25071,25410,25793,25805,25808,25790,26526,26893,27288,27270,28006,28379,29116,30228,26183,26926,28404,29142,30993,17985,17623,17981,18361,18727,18736,19094,19832,19473,20207,19840,20216,20574,20581,21694,21688,22068,22429,22804,23178,11365,12102,13190,13210,13550,13563,13567,14310,13572,13205,14664,14288,15038,14687,15412,15418,15422,15425,15400,15776,16510,16518,16153,16898,17256,17630,17272"  ifChangeAll="false" remark="创建国家"/>
+			<cmd action="triggerEvent" eventId="319" chance="100" remark="成立英属印度"/>
+	</cmds>
+  </script> 
+
+  
+<script id="400" trigger="default" triggerValue="-1" triggerYear="1882" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="埃及 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+
+	<cmd action="replaceFlagAndColor" sourceCountry="4" targetCountry="5"  r="210" g="180" b="120" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+
+  
+  
+  
+
+<script id="1600" trigger="default" triggerValue="-1" triggerYear="1889" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="巴西 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+	
+	<cmd action="replaceFlagAndColor" sourceCountry="16" targetCountry="17"  r="160" g="200" b="150" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+
+
+<script id="2200" trigger="default" triggerValue="-1" triggerYear="1889" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="波斯 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		
+	<cmd action="replaceFlagAndColor" sourceCountry="22" targetCountry="23"  r="120" g="180" b="200" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+
+
+<script id="1100" trigger="default" triggerValue="-1" triggerYear="1867" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="奥地利 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		
+	<cmd action="triggerEvent" eventId="191" chance="100"/>
+	<cmd action="replaceFlagAndColor" sourceCountry="11" targetCountry="38"  r="120" g="150" b="165" a="130"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+
+<script id="3900" trigger="default" triggerValue="-1" triggerYear="1885" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="刚果 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+		
+		
+	<cmd action="replaceFlagAndColor" sourceCountry="39" targetCountry="40"  r="151" g="230" b="254" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+
+<script id="4200" trigger="default" triggerValue="-1" triggerYear="1861" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="格拉纳达 国旗更换" > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+	
+	<cmd action="replaceFlagAndColor" sourceCountry="42" targetCountry="41"  r="200" g="170" b="140" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+
+  
+  
+  
+   <script id="8501" trigger="default" triggerValue="-1" triggerYear="1859" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="默认触发 罗马尼亚成立 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" > 
+			<cmd action="countrySurrender" sourceCountrys="63" targetCountry="85" resetPlayer="true" remark="设置归属"/>
+				<cmd action="replaceFlagAndColor" sourceCountry="85" targetCountry="55"  r="200" g="162" b="250" a="100"      remark="国旗更换"/>
+	</cmds>
+  </script> 
+  
+  
+  
+  
+  
+  其他领土变更类:
+  
+  
+
+<script id="5600" trigger="default" triggerValue="-1" triggerYear="1880" triggerCountry="99" ifRepeat="false" triggerRound="-1" modeType="0" preTriggerType="0" preEvent="-1" remark="马赫迪苏丹起义 " > 
+   <cmds  remark="通过点击下一步按钮,来切换id" >
+			<cmd action="createCountry" country="56" internIndex="0" capitalId="0" tax="300" res="5000" generalNum="4" updRegionStr="26476,26850,27580,27954,29061,29436"  ifChangeAll="true" remark="创建国家"/>
+
+	<cmd action="triggerEvent" eventId="282" chance="100"/>
+
+			</cmds>
+  </script> 
+  
+  
+  <!--
+1874 三皇同盟互保 27回合 持续到1887
+1879 德奥同盟 
+1882 德、奥、意 互保 
+1887 德俄再保险条约 12回合 到1890
+1892 俄法同盟
+  -->
+  
+   <script id="1" trigger="countrysIsAi" triggerValue="-1" triggerYear="1874" triggerCountry="30,38,33" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="1874 三皇同盟互保 27回合 持续到1887" > 
+   <cmds  remark="" > 
+		<cmd action="counrysPeace" countrys="30,38,33" round="27" ifChangeArea="false" eventId="219"/>
+	</cmds>
+  </script> 
+   <script id="2" trigger="countrysIsAi" triggerValue="-1" triggerYear="1879" triggerCountry="30,38" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="1879 德奥同盟 " > 
+   <cmds  remark="" > 
+   	<cmd action="counrysPeace" countrys="30,38" round="20" ifChangeArea="false" eventId="270"/>
+	</cmds>
+  </script> 
+   <script id="3" trigger="countrysIsAi" triggerValue="-1" triggerYear="1882" triggerCountry="30,38,97" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="1882 德、奥、意 互保 " > 
+   <cmds  remark="" > 
+   	<cmd action="counrysPeace" countrys="30,38,97" round="20" ifChangeArea="false" eventId="300"/>
+	</cmds>
+  </script> 
+   <script id="4" trigger="countrysIsAi" triggerValue="-1" triggerYear="1887" triggerCountry="33,30" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="1887 德俄再保险条约 12回合 到1890" > 
+   <cmds  remark="" > 
+   	<cmd action="counrysPeace" countrys="33,30" round="12" ifChangeArea="false" eventId="333"/>
+	</cmds>
+  </script> 
+   <script id="5" trigger="countrysIsAi" triggerValue="-1" triggerYear="1892" triggerCountry="33,35" playerTriggerType="-1" triggerLegionIndex="-1" ifRepeat="false" triggerRound="-1" preTriggerType="0" preEvent="-1" remark="1892 俄法同盟" > 
+   <cmds  remark="" > 
+   	<cmd action="counrysPeace" countrys="33,35" round="20" ifChangeArea="false" eventId="380"/>
+	</cmds>
+  </script> 
+  
+  
+  
+</scripts>

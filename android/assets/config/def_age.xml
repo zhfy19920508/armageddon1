@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<ages>
+    <age id="0" name="近代" beginYear="1800"  reqSumTechLv="0"  reqMaxTechLv="0" reqTechLv="0" />
+	<age id="1" name="一战" beginYear="1900"  reqSumTechLv="50"  reqMaxTechLv="5" reqTechLv="5" />
+	<!--<age id="2" name="二战" beginYear="1930"  reqSumTechLv="300"  reqMaxTechLv="30" reqTechLv="30" />-->
+</ages>

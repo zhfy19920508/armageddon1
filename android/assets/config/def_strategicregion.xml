@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strategicRegions>
+	<strategicRegion id="1" name="Southern England" zone="24" remark="南英格兰"/>
+	<strategicRegion id="2" name="Northern England" zone="24" remark="北英格兰"/>
+	<strategicRegion id="3" name="Scotland" zone="24" remark="苏格兰"/>
+	<strategicRegion id="4" name="Ireland" zone="24" remark="爱尔兰"/>
+	<strategicRegion id="5" name="Benelux Region" zone="24" remark="比荷卢低地"/>
+	<strategicRegion id="6" name="North-West Germany" zone="23" remark="西北德意志"/>
+	<strategicRegion id="7" name="Western Germany" zone="23" remark="西德意志"/>
+	<strategicRegion id="8" name="Eastern Germany" zone="23" remark="东德意志"/>
+	<strategicRegion id="9" name="Upper Baltic Sea" zone="8" remark="上波罗的海"/>
+	<strategicRegion id="10" name="Southern Sweden" zone="21" remark="南瑞典"/>
+	<strategicRegion id="11" name="Southern Norway" zone="21" remark="南挪威"/>
+	<strategicRegion id="12" name="Northern Scandinavia" zone="21" remark="北斯堪的纳维亚"/>
+	<strategicRegion id="13" name="Finland" zone="21" remark="芬兰"/>
+	<strategicRegion id="14" name="Trans-Urals" zone="16" remark="外乌拉尔"/>
+	<strategicRegion id="15" name="Huguang" zone="11" remark="湖广"/>
+	<strategicRegion id="16" name="North Sea" zone="8" remark="北海"/>
+	<strategicRegion id="17" name="East Africa" zone="52" remark="东非洲"/>
+	<strategicRegion id="18" name="English Channel" zone="8" remark="英吉利海峡"/>
+	<strategicRegion id="19" name="Northern France" zone="24" remark="北法兰西"/>
+	<strategicRegion id="20" name="Southern France" zone="24" remark="南法兰西"/>
+	<strategicRegion id="21" name="Alpine Region" zone="25" remark="阿尔卑斯山区"/>
+	<strategicRegion id="22" name="Czechoslovakia" zone="23" remark="捷克斯洛伐克"/>
+	<strategicRegion id="23" name="Italy" zone="25" remark="意大利"/>
+	<strategicRegion id="24" name="Serbia" zone="26" remark="塞尔维亚"/>
+	<strategicRegion id="25" name="Greece" zone="26" remark="希腊"/>
+	<strategicRegion id="26" name="Wallachia" zone="26" remark="瓦拉几亚"/>
+	<strategicRegion id="27" name="Hungary" zone="26" remark="匈牙利"/>
+	<strategicRegion id="28" name="Iraq" zone="15" remark="伊拉克"/>
+	<strategicRegion id="29" name="Central Mediterranean Sea" zone="8" remark="中地中海"/>
+	<strategicRegion id="30" name="Black Sea" zone="8" remark="黑海"/>
+	<strategicRegion id="31" name="Southern India" zone="12" remark="南印度"/>
+	<strategicRegion id="32" name="South-Eastern Pacific" zone="8" remark="东南太平洋"/>
+	<strategicRegion id="33" name="Alaska" zone="31" remark="阿拉斯加"/>
+	<strategicRegion id="34" name="Central America" zone="32" remark="中美洲"/>
+	<strategicRegion id="35" name="South America" zone="44" remark="南美洲"/>
+	<strategicRegion id="36" name="Greenland" zone="31" remark="格陵兰"/>
+	<strategicRegion id="37" name="Baltic States" zone="22" remark="波罗的海沿岸"/>
+	<strategicRegion id="38" name="Western Poland" zone="23" remark="西波兰"/>
+	<strategicRegion id="39" name="Eastern Poland" zone="23" remark="东波兰"/>
+	<strategicRegion id="40" name="Transvolga" zone="22" remark="外伏尔加"/>
+	<strategicRegion id="41" name="Catalonia" zone="25" remark="加泰罗尼亚"/>
+	<strategicRegion id="42" name="Bay of Biscay" zone="8" remark="比斯开湾"/>
+	<strategicRegion id="43" name="Western Approaches" zone="8" remark="西进口航道"/>
+	<strategicRegion id="44" name="Denmark Strait" zone="8" remark="丹麦海峡"/>
+	<strategicRegion id="45" name="Norwegian Sea" zone="8" remark="挪威海"/>
+	<strategicRegion id="46" name="Barents Sea" zone="8" remark="巴伦支海"/>
+	<strategicRegion id="47" name="Iberian Coast" zone="8" remark="伊比利亚海岸"/>
+	<strategicRegion id="48" name="African Coast" zone="8" remark="非洲海岸"/>
+	<strategicRegion id="49" name="North Atlantic Ridge" zone="8" remark="北大西洋海脊"/>
+	<strategicRegion id="50" name="Labrador Sea" zone="8" remark="拉布拉多海"/>
+	<strategicRegion id="51" name="Mid Atlantic gap" zone="8" remark="中大西洋裂谷"/>
+	<strategicRegion id="52" name="Gulf of Mexico" zone="8" remark="墨西哥湾"/>
+	<strategicRegion id="53" name="Caribbean Sea" zone="33" remark="加勒比海"/>
+	<strategicRegion id="54" name="Eastern Seaboard" zone="8" remark="东美利坚沿海"/>
+	<strategicRegion id="55" name="Newfoundland Sea" zone="8" remark="纽芬兰海"/>
+	<strategicRegion id="56" name="Mid Atlantic" zone="8" remark="中大西洋"/>
+	<strategicRegion id="57" name="Sargasso Sea" zone="8" remark="马尾藻海"/>
+	<strategicRegion id="58" name="Central Atlantic Gap" zone="8" remark="中大西洋裂谷"/>
+	<strategicRegion id="59" name="Demerara Plain" zone="8" remark="德默拉拉深海平原"/>
+	<strategicRegion id="60" name="West Indian Ocean" zone="8" remark="西印度洋"/>
+	<strategicRegion id="61" name="Cap Verde Plain" zone="8" remark="佛得角深海平原"/>
+	<strategicRegion id="62" name="Gulf Of Guinea" zone="8" remark="几内亚湾"/>
+	<strategicRegion id="63" name="Argentine Coast" zone="8" remark="阿根廷海岸"/>
+	<strategicRegion id="64" name="South Georgia Sea" zone="8" remark="南乔治亚海"/>
+	<strategicRegion id="65" name="Cape of Africa" zone="8" remark="非洲海角"/>
+	<strategicRegion id="66" name="South Central Atlantic" zone="8" remark="中南大西洋"/>
+	<strategicRegion id="67" name="Atlantic-Indian Ridge" zone="8" remark="大西洋-印度洋海脊"/>
+	<strategicRegion id="68" name="Western Mediterranean Sea" zone="8" remark="西地中海"/>
+	<strategicRegion id="69" name="Eastern Mediterranean Sea" zone="8" remark="东地中海"/>
+	<strategicRegion id="70" name="Caspian Sea" zone="8" remark="里海"/>
+	<strategicRegion id="71" name="East Indian Ocean" zone="8" remark="东印度洋"/>
+	<strategicRegion id="72" name="Straits of Malacca" zone="8" remark="马六甲海峡"/>
+	<strategicRegion id="73" name="Gulf of Thailand" zone="8" remark="暹罗湾"/>
+	<strategicRegion id="74" name="South East Indian Ocean" zone="8" remark="东南印度洋"/>
+	<strategicRegion id="75" name="South China Sea" zone="8" remark="南中国海"/>
+	<strategicRegion id="76" name="East China Sea" zone="11" remark="东中国海"/>
+	<strategicRegion id="77" name="Yellow Sea" zone="8" remark="黄海"/>
+	<strategicRegion id="78" name="Philippine Sea" zone="8" remark="菲律宾海"/>
+	<strategicRegion id="79" name="Sea of Japan" zone="8" remark="日本海"/>
+	<strategicRegion id="80" name="Celebes Sea" zone="8" remark="苏拉威西海"/>
+	<strategicRegion id="81" name="Coral Sea" zone="8" remark="珊瑚海"/>
+	<strategicRegion id="82" name="Gulf of Carpentaria" zone="8" remark="卡奔塔利亚湾"/>
+	<strategicRegion id="83" name="Solomon Sea" zone="8" remark="所罗门海"/>
+	<strategicRegion id="84" name="Bismarck Sea" zone="8" remark="俾斯麦海"/>
+	<strategicRegion id="85" name="South West Indian Ocean" zone="8" remark="西南印度洋"/>
+	<strategicRegion id="86" name="Tasman Sea" zone="8" remark="塔斯曼海"/>
+	<strategicRegion id="87" name="Sea of Okhotsk" zone="8" remark="鄂霍茨克海"/>
+	<strategicRegion id="88" name="Bering Sea" zone="8" remark="白令海"/>
+	<strategicRegion id="89" name="Western Seaboard" zone="8" remark="西美利坚沿海"/>
+	<strategicRegion id="90" name="Coast of Japan" zone="8" remark="日本海岸"/>
+	<strategicRegion id="91" name="Arafura Sea" zone="8" remark="阿拉弗拉海"/>
+	<strategicRegion id="92" name="Timor Sea" zone="8" remark="帝汶海"/>
+	<strategicRegion id="93" name="Java Sea" zone="8" remark="爪哇海"/>
+	<strategicRegion id="94" name="Mariana Region" zone="8" remark="马里亚纳海沟"/>
+	<strategicRegion id="95" name="West Emperor Chain" zone="8" remark="西天皇海山链"/>
+	<strategicRegion id="96" name="North Emperor Chain" zone="8" remark="北天皇海山链"/>
+	<strategicRegion id="97" name="Eastern Micronesia" zone="8" remark="东密克罗尼西亚"/>
+	<strategicRegion id="98" name="Great Australian Bight" zone="8" remark="大澳大利亚湾"/>
+	<strategicRegion id="99" name="Far Eastern Indian Ocean" zone="8" remark="极东印度洋"/>
+	<strategicRegion id="100" name="Red Sea" zone="8" remark="红海"/>
+	<strategicRegion id="101" name="Bay of Bengal" zone="8" remark="孟加拉湾"/>
+	<strategicRegion id="102" name="East African Coast" zone="8" remark="非洲东海岸"/>
+	<strategicRegion id="103" name="Mozambique Channel" zone="8" remark="莫桑比克海峡"/>
+	<strategicRegion id="104" name="Arabian Sea" zone="8" remark="阿拉伯海"/>
+	<strategicRegion id="105" name="Hawaii Ridge" zone="8" remark="夏威夷海脊"/>
+	<strategicRegion id="106" name="Mexican Coast" zone="8" remark="墨西哥海岸"/>
+	<strategicRegion id="107" name="Western Canal zone" zone="8" remark="西运河区"/>
+	<strategicRegion id="108" name="South American coast" zone="8" remark="南美洲海岸"/>
+	<strategicRegion id="109" name="Peruvian Coast" zone="8" remark="秘鲁海岸"/>
+	<strategicRegion id="110" name="East Pacific Rise" zone="8" remark="东太平洋海隆"/>
+	<strategicRegion id="111" name="North Central Pacific" zone="8" remark="中北太平洋"/>
+	<strategicRegion id="112" name="Far South Pacific" zone="8" remark="极南太平洋"/>
+	<strategicRegion id="113" name="South Central Pacific" zone="8" remark="中南太平洋"/>
+	<strategicRegion id="114" name="North Pacific" zone="8" remark="北太平洋"/>
+	<strategicRegion id="115" name="North East Pacific" zone="8" remark="东北太平洋"/>
+	<strategicRegion id="116" name="Iran" zone="15" remark="伊朗"/>
+	<strategicRegion id="117" name="East Coast" zone="31" remark="美利坚东海岸"/>
+	<strategicRegion id="118" name="West Coast" zone="31" remark="美利坚西海岸"/>
+	<strategicRegion id="119" name="Texas" zone="31" remark="德克萨斯"/>
+	<strategicRegion id="120" name="Central USA" zone="31" remark="中美利坚"/>
+	<strategicRegion id="121" name="Eastern Canada" zone="31" remark="东加拿大"/>
+	<strategicRegion id="122" name="Western Canada" zone="31" remark="西加拿大"/>
+	<strategicRegion id="123" name="Transvolcanic Belt" zone="31" remark="跨墨西哥火山带"/>
+	<strategicRegion id="124" name="Northern South America" zone="41" remark="北南美洲"/>
+	<strategicRegion id="125" name="Northern Brazil" zone="43" remark="巴西北部"/>
+	<strategicRegion id="126" name="North Africa" zone="51" remark="北非洲"/>
+	<strategicRegion id="127" name="Sahara Desert" zone="51" remark="撒哈拉沙漠"/>
+	<strategicRegion id="128" name="Egypt" zone="51" remark="埃及"/>
+	<strategicRegion id="129" name="Asia minor" zone="15" remark="小亚细亚"/>
+	<strategicRegion id="130" name="Ukraine" zone="22" remark="乌克兰"/>
+	<strategicRegion id="131" name="Belarus" zone="22" remark="白俄罗斯"/>
+	<strategicRegion id="132" name="Northern Front" zone="22" remark="北境线"/>
+	<strategicRegion id="133" name="Central Russia" zone="22" remark="中俄罗斯"/>
+	<strategicRegion id="134" name="Caucasus Region" zone="15" remark="高加索"/>
+	<strategicRegion id="135" name="Kuban Region" zone="22" remark="库班"/>
+	<strategicRegion id="136" name="Central Asia" zone="14" remark="中亚细亚"/>
+	<strategicRegion id="137" name="Western Steppe" zone="22" remark="西部草原"/>
+	<strategicRegion id="138" name="Ural Region" zone="16" remark="乌拉尔山区"/>
+	<strategicRegion id="139" name="South Africa" zone="55" remark="南非洲"/>
+	<strategicRegion id="140" name="Sub-Saharan Africa" zone="54" remark="黑非洲"/>
+	<strategicRegion id="141" name="Eastern India" zone="12" remark="东印度"/>
+	<strategicRegion id="142" name="Thailand" zone="13" remark="东南亚"/>
+	<strategicRegion id="143" name="Northern China" zone="11" remark="华北"/>
+	<strategicRegion id="144" name="Shaangan" zone="11" remark="陕甘"/>
+	<strategicRegion id="145" name="Xin Jiang" zone="11" remark="中亚"/>
+	<strategicRegion id="146" name="Tibet" zone="11" remark="藏区"/>
+	<strategicRegion id="147" name="Northern Siberia" zone="16" remark="北西伯利亚"/>
+	<strategicRegion id="148" name="Russian Far East" zone="16" remark="俄属远东"/>
+	<strategicRegion id="149" name="Eastern Siberia" zone="16" remark="东西伯利亚"/>
+	<strategicRegion id="150" name="Arctic Russia" zone="22" remark="极地俄罗斯"/>
+	<strategicRegion id="151" name="Western Siberia" zone="16" remark="西西伯利亚"/>
+	<strategicRegion id="152" name="Central Steppe" zone="11" remark="中部草原"/>
+	<strategicRegion id="153" name="Northern India" zone="12" remark="北印度"/>
+	<strategicRegion id="154" name="East Japan" zone="11" remark="日本东部"/>
+	<strategicRegion id="155" name="Northern Manchuria" zone="11" remark="满洲北部"/>
+	<strategicRegion id="156" name="Southern Australia" zone="60" remark="南澳大利亚"/>
+	<strategicRegion id="157" name="New Zealand" zone="60" remark="新西兰"/>
+	<strategicRegion id="158" name="Sunda Islands" zone="13" remark="巽他群岛"/>
+	<strategicRegion id="159" name="Borneo" zone="13" remark="婆罗洲"/>
+	<strategicRegion id="160" name="Philippines" zone="13" remark="菲律宾"/>
+	<strategicRegion id="161" name="Iceland" zone="21" remark="冰岛"/>
+	<strategicRegion id="162" name="Afghanistan" zone="15" remark="阿富汗"/>
+	<strategicRegion id="163" name="Amazonas" zone="43" remark="亚马逊"/>
+	<strategicRegion id="164" name="Suwan" zone="11" remark="苏皖"/>
+	<strategicRegion id="165" name="Liangguang" zone="11" remark="两广"/>
+	<strategicRegion id="166" name="Hudson Bay" zone="8" remark="哈得逊湾"/>
+	<strategicRegion id="167" name="New Guinea" zone="8" remark="新几内亚"/>
+	<strategicRegion id="168" name="Adriatic Sea" zone="8" remark="亚得里亚海"/>
+	<strategicRegion id="169" name="Tyrrhenian Sea" zone="8" remark="第勒尼安海"/>
+	<strategicRegion id="170" name="Florida Coast" zone="8" remark="佛罗里达海岸"/>
+	<strategicRegion id="171" name="Northwest Coast" zone="8" remark="西北海岸"/>
+	<strategicRegion id="172" name="Pacific Line Ridge" zone="8" remark="太平洋海脊"/>
+	<strategicRegion id="173" name="Eastern North Sea" zone="8" remark="东北海"/>
+	<strategicRegion id="174" name="Norwegian Coast" zone="8" remark="挪威海岸"/>
+	<strategicRegion id="175" name="Central Pacific" zone="8" remark="中太平洋"/>
+	<strategicRegion id="176" name="Central North Pacific" zone="8" remark="中北太平洋"/>
+	<strategicRegion id="177" name="Western North Pacific" zone="8" remark="西北太平洋"/>
+	<strategicRegion id="178" name="West Polynesia" zone="8" remark="西波利尼西亚"/>
+	<strategicRegion id="179" name="French Polynesia" zone="8" remark="法属波利尼西亚"/>
+	<strategicRegion id="180" name="Micronesian Gap" zone="8" remark="密克罗尼西亚裂谷"/>
+	<strategicRegion id="181" name="Madagascar" zone="52" remark="马达加斯加"/>
+	<strategicRegion id="182" name="West Africa" zone="51" remark="非洲西部"/>
+	<strategicRegion id="183" name="Central Africa" zone="53" remark="中非洲"/>
+	<strategicRegion id="184" name="South West Africa" zone="53" remark="西南非洲"/>
+	<strategicRegion id="185" name="South East Africa" zone="52" remark="东南非洲"/>
+	<strategicRegion id="186" name="Korea" zone="11" remark="朝鲜"/>
+	<strategicRegion id="187" name="Sumatra" zone="13" remark="苏门答腊"/>
+	<strategicRegion id="188" name="Malaya" zone="13" remark="马来亚"/>
+	<strategicRegion id="189" name="Burma" zone="13" remark="缅甸"/>
+	<strategicRegion id="190" name="Pakistan" zone="12" remark="巴基斯坦"/>
+	<strategicRegion id="191" name="Northern Norway" zone="21" remark="北挪威"/>
+	<strategicRegion id="192" name="Northern Sweden" zone="21" remark="北瑞典"/>
+	<strategicRegion id="193" name="Northern Australia" zone="60" remark="北澳大利亚"/>
+	<strategicRegion id="194" name="Eastern Australia" zone="60" remark="东澳大利亚"/>
+	<strategicRegion id="195" name="Weast Australia" zone="60" remark="西澳大利亚"/>
+	<strategicRegion id="196" name="Arabia" zone="15" remark="阿拉伯"/>
+	<strategicRegion id="197" name="Lower Canada" zone="31" remark="下加拿大"/>
+	<strategicRegion id="198" name="Midwest" zone="31" remark="中西美利坚"/>
+	<strategicRegion id="199" name="New Mexico" zone="31" remark="新墨西哥州"/>
+	<strategicRegion id="200" name="Qinghai" zone="11" remark="青海"/>
+	<strategicRegion id="201" name="Northern Andes" zone="42" remark="北安第斯"/>
+	<strategicRegion id="202" name="Aegean Sea" zone="8" remark="爱琴海"/>
+	<strategicRegion id="203" name="Persian Gulf" zone="8" remark="波斯湾"/>
+	<strategicRegion id="204" name="Sierra Madre" zone="31" remark="马德雷山脉"/>
+	<strategicRegion id="205" name="Yucatan Peninsula" zone="31" remark="尤卡坦半岛"/>
+	<strategicRegion id="206" name="Lower Baltic Sea" zone="8" remark="下波罗的海"/>
+	<strategicRegion id="207" name="Danish Belts" zone="8" remark="丹属贝尔特海峡"/>
+	<strategicRegion id="208" name="Western France" zone="24" remark="西法兰西"/>
+	<strategicRegion id="209" name="Leon" zone="25" remark="莱昂"/>
+	<strategicRegion id="210" name="Andalusia" zone="25" remark="安达卢西亚"/>
+	<strategicRegion id="211" name="Yungui" zone="11" remark="云贵"/>
+	<strategicRegion id="212" name="Central Siberia" zone="16" remark="中西伯利亚"/>
+	<strategicRegion id="213" name="Danish" zone="21" remark="丹麦"/>
+	<strategicRegion id="214" name="Kamchatka" zone="16" remark="堪察加"/>
+	<strategicRegion id="215" name="Austria" zone="23" remark="奥地利"/>
+	<strategicRegion id="216" name="East Prussia" zone="23" remark="东普鲁士"/>
+	<strategicRegion id="217" name="French India" zone="13" remark="法属印度支那"/>
+	<strategicRegion id="218" name="Southeast Coast" zone="31" remark="美利坚东南海岸"/>
+	<strategicRegion id="219" name="Lower Egypt" zone="51" remark="下埃及"/>
+	<strategicRegion id="220" name="Warsaw" zone="22" remark="华沙"/>
+	<strategicRegion id="221" name="Galicia" zone="23" remark="加里西亚"/>
+	<strategicRegion id="222" name="Centralsouth America" zone="44" remark="南美洲"/>
+	<strategicRegion id="223" name="Borneo" zone="13" remark="西里伯斯岛"/>
+	<strategicRegion id="224" name="Chukchi" zone="16" remark="楚科奇"/>
+	<strategicRegion id="225" name="Magadan" zone="16" remark="马加丹"/>
+	<strategicRegion id="226" name="Central Canada" zone="31" remark="中加拿大"/>
+	<strategicRegion id="227" name="Southern Brazil" zone="43" remark="巴西南部"/>
+	<strategicRegion id="228" name="Madagascar" zone="51" remark="摩洛哥"/>
+	<strategicRegion id="229" name="Portugal" zone="25" remark="葡萄牙"/>
+	<strategicRegion id="230" name="Castilla" zone="25" remark="卡斯蒂利亚"/>
+	<strategicRegion id="231" name="South Italy" zone="25" remark="意大利南部"/>
+	<strategicRegion id="232" name="Erzurum" zone="15" remark="埃尔祖鲁姆"/>
+	<strategicRegion id="233" name="Arabian Coast" zone="15" remark="阿拉伯海岸"/>
+	<strategicRegion id="234" name="Southern Manchuria" zone="11" remark="满洲南部"/>
+	<strategicRegion id="235" name="Inner Mongolia" zone="11" remark="内蒙古"/>
+	<strategicRegion id="236" name="Sichuan" zone="11" remark="四川"/>
+	<strategicRegion id="237" name="MinZhe" zone="11" remark="闽浙"/>
+	<strategicRegion id="238" name="Central China" zone="11" remark="华中"/>
+	<strategicRegion id="239" name="West Japan" zone="11" remark="日本西部"/>
+	<strategicRegion id="240" name="Croatia" zone="26" remark="克罗地亚"/>
+	<strategicRegion id="241" name="Bulgaria" zone="26" remark="保加利亚"/>
+	<strategicRegion id="242" name="Moldova" zone="26" remark="摩尔多瓦"/>
+	<strategicRegion id="243" name="Transylvania" zone="26" remark="特兰西瓦尼亚"/>
+	<strategicRegion id="244" name="Southeastern France" zone="24" remark="法国东部"/>
+	<strategicRegion id="245" name="Balearic Sea" zone="8" remark="巴利阿里海"/>
+	<strategicRegion id="246" name="Northern Levant" zone="15" remark="黎凡特北部"/>
+	<strategicRegion id="247" name="Southern Levant" zone="15" remark="黎凡特南部"/>
+	<strategicRegion id="248" name="Libya" zone="51" remark="利比亚"/>
+	<strategicRegion id="249" name="Western Desert" zone="51" remark="西部沙漠"/>
+	<strategicRegion id="250" name="Tunisia" zone="51" remark="突尼斯"/>
+	<strategicRegion id="251" name="South Egypt" zone="52" remark="埃及南部"/>
+</strategicRegions>

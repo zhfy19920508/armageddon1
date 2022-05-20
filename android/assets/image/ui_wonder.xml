@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:02eb7046355697c1928432b91e85cb61$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="ui_wonder.png" width="1024" height="1024">
+    <sprite n="wonder_1.png" x="772" y="866" w="108" h="70"/>
+    <sprite n="wonder_10.png" x="882" y="794" w="108" h="70"/>
+    <sprite n="wonder_100.png" x="772" y="794" w="108" h="70"/>
+    <sprite n="wonder_101.png" x="662" y="938" w="108" h="70"/>
+    <sprite n="wonder_102.png" x="662" y="866" w="108" h="70"/>
+    <sprite n="wonder_103.png" x="662" y="794" w="108" h="70"/>
+    <sprite n="wonder_104.png" x="882" y="722" w="108" h="70"/>
+    <sprite n="wonder_105.png" x="772" y="722" w="108" h="70"/>
+    <sprite n="wonder_106.png" x="662" y="722" w="108" h="70"/>
+    <sprite n="wonder_107.png" x="882" y="650" w="108" h="70"/>
+    <sprite n="wonder_108.png" x="772" y="650" w="108" h="70"/>
+    <sprite n="wonder_109.png" x="662" y="650" w="108" h="70"/>
+    <sprite n="wonder_11.png" x="552" y="938" w="108" h="70"/>
+    <sprite n="wonder_110.png" x="552" y="866" w="108" h="70"/>
+    <sprite n="wonder_111.png" x="552" y="794" w="108" h="70"/>
+    <sprite n="wonder_112.png" x="552" y="722" w="108" h="70"/>
+    <sprite n="wonder_113.png" x="552" y="650" w="108" h="70"/>
+    <sprite n="wonder_114.png" x="882" y="578" w="108" h="70"/>
+    <sprite n="wonder_115.png" x="772" y="578" w="108" h="70"/>
+    <sprite n="wonder_116.png" x="662" y="578" w="108" h="70"/>
+    <sprite n="wonder_117.png" x="552" y="578" w="108" h="70"/>
+    <sprite n="wonder_118.png" x="442" y="938" w="108" h="70"/>
+    <sprite n="wonder_119.png" x="442" y="866" w="108" h="70"/>
+    <sprite n="wonder_12.png" x="442" y="794" w="108" h="70"/>
+    <sprite n="wonder_120.png" x="442" y="722" w="108" h="70"/>
+    <sprite n="wonder_121.png" x="442" y="650" w="108" h="70"/>
+    <sprite n="wonder_122.png" x="442" y="578" w="108" h="70"/>
+    <sprite n="wonder_123.png" x="882" y="506" w="108" h="70"/>
+    <sprite n="wonder_124.png" x="772" y="506" w="108" h="70"/>
+    <sprite n="wonder_125.png" x="662" y="506" w="108" h="70"/>
+    <sprite n="wonder_126.png" x="552" y="506" w="108" h="70"/>
+    <sprite n="wonder_127.png" x="442" y="506" w="108" h="70"/>
+    <sprite n="wonder_128.png" x="882" y="434" w="108" h="70"/>
+    <sprite n="wonder_129.png" x="772" y="434" w="108" h="70"/>
+    <sprite n="wonder_13.png" x="662" y="434" w="108" h="70"/>
+    <sprite n="wonder_130.png" x="552" y="434" w="108" h="70"/>
+    <sprite n="wonder_131.png" x="442" y="434" w="108" h="70"/>
+    <sprite n="wonder_132.png" x="332" y="938" w="108" h="70"/>
+    <sprite n="wonder_133.png" x="332" y="866" w="108" h="70"/>
+    <sprite n="wonder_134.png" x="332" y="794" w="108" h="70"/>
+    <sprite n="wonder_135.png" x="332" y="722" w="108" h="70"/>
+    <sprite n="wonder_136.png" x="332" y="650" w="108" h="70"/>
+    <sprite n="wonder_137.png" x="332" y="578" w="108" h="70"/>
+    <sprite n="wonder_138.png" x="332" y="506" w="108" h="70"/>
+    <sprite n="wonder_139.png" x="332" y="434" w="108" h="70"/>
+    <sprite n="wonder_14.png" x="882" y="362" w="108" h="70"/>
+    <sprite n="wonder_140.png" x="772" y="362" w="108" h="70"/>
+    <sprite n="wonder_141.png" x="662" y="362" w="108" h="70"/>
+    <sprite n="wonder_142.png" x="552" y="362" w="108" h="70"/>
+    <sprite n="wonder_143.png" x="442" y="362" w="108" h="70"/>
+    <sprite n="wonder_144.png" x="332" y="362" w="108" h="70"/>
+    <sprite n="wonder_145.png" x="222" y="938" w="108" h="70"/>
+    <sprite n="wonder_146.png" x="222" y="866" w="108" h="70"/>
+    <sprite n="wonder_147.png" x="222" y="794" w="108" h="70"/>
+    <sprite n="wonder_148.png" x="222" y="722" w="108" h="70"/>
+    <sprite n="wonder_149.png" x="222" y="650" w="108" h="70"/>
+    <sprite n="wonder_15.png" x="222" y="578" w="108" h="70"/>
+    <sprite n="wonder_150.png" x="222" y="506" w="108" h="70"/>
+    <sprite n="wonder_151.png" x="222" y="434" w="108" h="70"/>
+    <sprite n="wonder_152.png" x="222" y="362" w="108" h="70"/>
+    <sprite n="wonder_153.png" x="882" y="290" w="108" h="70"/>
+    <sprite n="wonder_154.png" x="772" y="290" w="108" h="70"/>
+    <sprite n="wonder_155.png" x="662" y="290" w="108" h="70"/>
+    <sprite n="wonder_156.png" x="552" y="290" w="108" h="70"/>
+    <sprite n="wonder_157.png" x="442" y="290" w="108" h="70"/>
+    <sprite n="wonder_158.png" x="332" y="290" w="108" h="70"/>
+    <sprite n="wonder_159.png" x="222" y="290" w="108" h="70"/>
+    <sprite n="wonder_16.png" x="882" y="218" w="108" h="70"/>
+    <sprite n="wonder_160.png" x="772" y="218" w="108" h="70"/>
+    <sprite n="wonder_161.png" x="662" y="218" w="108" h="70"/>
+    <sprite n="wonder_162.png" x="552" y="218" w="108" h="70"/>
+    <sprite n="wonder_163.png" x="442" y="218" w="108" h="70"/>
+    <sprite n="wonder_164.png" x="332" y="218" w="108" h="70"/>
+    <sprite n="wonder_165.png" x="222" y="218" w="108" h="70"/>
+    <sprite n="wonder_166.png" x="112" y="938" w="108" h="70"/>
+    <sprite n="wonder_167.png" x="112" y="866" w="108" h="70"/>
+    <sprite n="wonder_168.png" x="112" y="794" w="108" h="70"/>
+    <sprite n="wonder_169.png" x="112" y="722" w="108" h="70"/>
+    <sprite n="wonder_17.png" x="112" y="650" w="108" h="70"/>
+    <sprite n="wonder_170.png" x="112" y="578" w="108" h="70"/>
+    <sprite n="wonder_171.png" x="112" y="506" w="108" h="70"/>
+    <sprite n="wonder_172.png" x="112" y="434" w="108" h="70"/>
+    <sprite n="wonder_173.png" x="112" y="362" w="108" h="70"/>
+    <sprite n="wonder_174.png" x="112" y="290" w="108" h="70"/>
+    <sprite n="wonder_175.png" x="112" y="218" w="108" h="70"/>
+    <sprite n="wonder_176.png" x="882" y="146" w="108" h="70"/>
+    <sprite n="wonder_177.png" x="772" y="146" w="108" h="70"/>
+    <sprite n="wonder_178.png" x="662" y="146" w="108" h="70"/>
+    <sprite n="wonder_179.png" x="552" y="146" w="108" h="70"/>
+    <sprite n="wonder_18.png" x="442" y="146" w="108" h="70"/>
+    <sprite n="wonder_180.png" x="332" y="146" w="108" h="70"/>
+    <sprite n="wonder_181.png" x="222" y="146" w="108" h="70"/>
+    <sprite n="wonder_182.png" x="112" y="146" w="108" h="70"/>
+    <sprite n="wonder_183.png" x="2" y="938" w="108" h="70"/>
+    <sprite n="wonder_184.png" x="2" y="866" w="108" h="70"/>
+    <sprite n="wonder_185.png" x="2" y="794" w="108" h="70"/>
+    <sprite n="wonder_186.png" x="2" y="722" w="108" h="70"/>
+    <sprite n="wonder_187.png" x="2" y="650" w="108" h="70"/>
+    <sprite n="wonder_188.png" x="2" y="578" w="108" h="70"/>
+    <sprite n="wonder_189.png" x="2" y="506" w="108" h="70"/>
+    <sprite n="wonder_19.png" x="2" y="434" w="108" h="70"/>
+    <sprite n="wonder_2.png" x="2" y="362" w="108" h="70"/>
+    <sprite n="wonder_20.png" x="2" y="290" w="108" h="70"/>
+    <sprite n="wonder_21.png" x="2" y="218" w="108" h="70"/>
+    <sprite n="wonder_22.png" x="2" y="146" w="108" h="70"/>
+    <sprite n="wonder_23.png" x="882" y="74" w="108" h="70"/>
+    <sprite n="wonder_24.png" x="772" y="74" w="108" h="70"/>
+    <sprite n="wonder_25.png" x="662" y="74" w="108" h="70"/>
+    <sprite n="wonder_26.png" x="552" y="74" w="108" h="70"/>
+    <sprite n="wonder_27.png" x="442" y="74" w="108" h="70"/>
+    <sprite n="wonder_28.png" x="332" y="74" w="108" h="70"/>
+    <sprite n="wonder_29.png" x="222" y="74" w="108" h="70"/>
+    <sprite n="wonder_3.png" x="112" y="74" w="108" h="70"/>
+    <sprite n="wonder_30.png" x="2" y="74" w="108" h="70"/>
+    <sprite n="wonder_31.png" x="882" y="2" w="108" h="70"/>
+    <sprite n="wonder_32.png" x="772" y="2" w="108" h="70"/>
+    <sprite n="wonder_33.png" x="662" y="2" w="108" h="70"/>
+    <sprite n="wonder_4.png" x="552" y="2" w="108" h="70"/>
+    <sprite n="wonder_5.png" x="442" y="2" w="108" h="70"/>
+    <sprite n="wonder_6.png" x="332" y="2" w="108" h="70"/>
+    <sprite n="wonder_7.png" x="222" y="2" w="108" h="70"/>
+    <sprite n="wonder_8.png" x="112" y="2" w="108" h="70"/>
+    <sprite n="wonder_9.png" x="2" y="2" w="108" h="70"/>
+</TextureAtlas>

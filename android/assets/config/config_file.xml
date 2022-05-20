@@ -1,0 +1,53 @@
+<files>  
+	<file id="0" name="CONFIG_RES" path="config/config_res.xml" canMod="false"/>
+	<file id="1" name="CONFIG_LAYOUT" path="config/config_layout.xml" canMod="true"/>
+	<file id="2" name="DEF_AGE" path="config/def_age.xml" canMod="true"/>
+	<file id="3" name="DEF_AREA" path="config/def_area.xml" canMod="true"/>
+	<file id="4" name="DEF_ARMY" path="config/def_army.xml" canMod="true"/>
+	<file id="5" name="DEF_ARRAY" path="config/def_array.xml" canMod="true"/>
+	<file id="6" name="DEF_BATTLE" path="config/def_battle.xml" canMod="true"/>
+	<file id="7" name="DEF_SPIRIT" path="config/def_spirit.xml" canMod="false"/>
+	<file id="8" name="DEF_CARD" path="config/def_card.xml" canMod="true"/>
+	<file id="9" name="DEF_COUNTRY" path="config/def_country.xml" canMod="true"/>
+	<file id="10" name="DEF_HEVENT" path="config/def_hevent.xml" canMod="true"/>
+	<file id="11" name="DEF_FACILITY" path="config/def_facility.xml" canMod="true"/>
+	<file id="12" name="DEF_GENERAL" path="config/def_general.xml" canMod="false"/>
+	<file id="13" name="DEF_RGENERAL" path="config/def_rgeneral.xml" canMod="false"/>
+	<file id="14" name="DEF_HISTORY" path="config/def_history.xml" canMod="true"/>
+	<file id="15" name="DEF_MAP" path="config/def_map.xml" canMod="true"/>
+	<file id="16" name="DEF_SMALLMAP" path="config/def_smallmap.xml" canMod="true"/>
+	<file id="17" name="DEF_STAGE" path="config/def_stage.xml" canMod="true"/>
+	<file id="18" name="DEF_TERRAIN" path="config/def_terrain.xml" canMod="true"/>
+	<file id="19" name="DEF_TERRAINIMG" path="config/def_terrainimg.xml" canMod="true"/>
+	<file id="20" name="DEF_WEAPON" path="config/def_weapon.xml" canMod="true"/>
+	<file id="21" name="DEF_WEATHER" path="config/def_weather.xml" canMod="true"/>
+	<file id="22" name="DEF_RDIALOGUE" path="config/def_rdialogue.xml" canMod="true"/>
+	<file id="23" name="DEF_MODEL" path="config/def_model.xml" canMod="true"/>
+	<file id="24" name="DEF_REVENT" path="config/def_revent.xml" canMod="true"/>
+	<file id="25" name="DEF_LEGIONFEATURE" path="config/def_legionfeature.xml" canMod="true"/>
+	<file id="26" name="DEF_CZONE" path="config/def_czone.xml" canMod="true"/>
+	<file id="27" name="DEF_SKILL" path="config/def_skill.xml" canMod="true"/>
+	<file id="28" name="DEF_ANIMATION" path="config/def_animation.xml" canMod="true"/>
+	<file id="29" name="DEF_RTASK" path="config/def_rtask.xml" canMod="true"/>
+	<file id="30" name="DEF_EMPIRE" path="config/def_empire.xml" canMod="true"/>
+	<file id="31" name="CONFIG_LANGUAGE" path="config/config_language.xml" canMod="true"/>
+	<file id="32" name="DEF_SAGA" path="config/def_saga.xml" canMod="true"/>
+	<file id="33" name="DEF_SAGASTAGE" path="config/def_sagastage.xml" canMod="true"/>
+	<file id="34" name="DEF_VIEW" path="config/def_view.xml" canMod="true"/>
+	<file id="35" name="DEF_UNITFEATURE" path="config/def_unitfeature.xml" canMod="true"/>
+	<file id="36" name="DEF_LEGIONPOLICY" path="config/def_legionpolicy.xml" canMod="true"/>
+	<file id="37" name="DEF_DIPLOMATICATTITUDE" path="config/def_diplomaticattitude.xml" canMod="true"/>
+	<file id="38" name="DEF_WONDER" path="config/def_wonder.xml" canMod="true"/>
+	<file id="39" name="DEF_STRATEGICREGION" path="config/def_strategicregion.xml" canMod="true"/>
+	<file id="40" name="DEF_SHIELDIMAGE" path="config/def_shieldimage.xml" canMod="false"/>
+	<file id="41" name="DEF_SHIELDSTR" path="config/def_shieldstr.xml" canMod="false"/>
+	<file id="42" name="CONFIG_MUSIC" path="config/config_music.xml" canMod="true"/>
+	<file id="43" name="CONFIG_RULE" path="config/config_rule.xml" canMod="true"/>
+	<file id="44" name="CONFIG_CHIEFBUFF" path="config/def_chiefbuff.xml" canMod="true"/>
+	<file id="45" name="CONFIG_CHIEFCONFIG" path="config/def_chiefconfig.xml" canMod="true"/>
+	<file id="46" name="CONFIG_SOUND" path="config/config_sound.xml" canMod="true"/>
+	<file id="47" name="DEF_EFFECT" path="config/def_effect.xml" canMod="true"/>
+	<file id="48" name="DEF_REPORT" path="config/def_report.xml" canMod="true"/>
+</files>
+	
+	

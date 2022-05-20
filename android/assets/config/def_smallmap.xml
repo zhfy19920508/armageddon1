@@ -1,0 +1,13 @@
+<SmallMaps><!--存放位置为img下的name文件夹,id与mapId一一对应-->
+    <Maps id="1" name="world" width="3308" height="1536" >
+    <map n="1.png" x="0" y="0"/>
+    <map n="2.png" x="1000" y="0"/>
+    <map n="3.png" x="2000" y="0"/>
+    <map n="4.png" x="3000" y="0"/>
+    <map n="5.png" x="0" y="1000"/>
+    <map n="6.png" x="1000" y="1000"/>
+    <map n="7.png" x="2000" y="1000"/>
+    <map n="8.png" x="3000" y="1000"/>
+    </Maps>
+</SmallMaps>
+

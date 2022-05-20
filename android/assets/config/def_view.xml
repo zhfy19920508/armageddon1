@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<views>
+
+	
+<view id="30001" x="-7960" y="-2253" scale="2.5" remark="鸦片战争1-广州" >
+	<mark id="100" type="label" name="GUANG ZHOU" scale="1.0" rotation="0.0" x="403" y="479"  />
+<mark id="102" type="image" name="mapmark_arrow_red_2" scale="1.5" rotation="122.0" x="507" y="362" flipX="false" flipY="false"/>
+<mark id="101" type="image" name="flag_99" scale="1.5" rotation="0.0" x="467" y="273" flipX="false" flipY="false"/>
+<mark id="103" type="image" name="mapmark_city_3" scale="1.5" rotation="0.0" x="381" y="489" flipX="false" flipY="false"/>
+<mark id="100" type="image" name="flag_28" scale="1.5" rotation="0.0" x="341" y="503" flipX="false" flipY="false"/>
+</view>
+
+	<view id="30002" x="-8103" y="-3486" scale="2.5f" remark="鸦片战争1-南京">
+
+ </view>
+	<view id="30003" x="75" y="520" scale="2.5f" remark="鸦片战争2-大沽口">
+
+ </view>
+	<view id="30004" x="75" y="520" scale="2.5f" remark="鸦片战争2-北京">
+
+ </view>
+	<view id="30005" x="75" y="520" scale="2.5f" remark="克里米亚战争">
+
+ </view>
+	<view id="30006" x="75" y="520" scale="2.5f" remark="中法战争-越南">
+
+ </view>
+	<view id="30007" x="75" y="520" scale="2.5f" remark="印度起义1">
+
+ </view>
+	<view id="30008" x="75" y="520" scale="2.5f" remark="印度起义2">
+
+ </view>
+	<view id="30101" x="75" y="520" scale="2.5f" remark="新独立战争">
+
+ </view>
+	<view id="30102" x="75" y="520" scale="2.5f" remark="邦联的胜利">
+
+ </view>
+	<view id="30103" x="75" y="520" scale="2.5f" remark="美墨战争">
+
+ </view>
+	<view id="30104" x="75" y="520" scale="2.5f" remark="南北战争-萨姆特要塞">
+
+ </view>
+	<view id="30105" x="75" y="520" scale="2.5f" remark="南北战争-华盛顿之战">
+
+ </view>
+	<view id="30106" x="75" y="520" scale="2.5f" remark="南北战争-反击">
+
+ </view>
+	<view id="30107" x="75" y="520" scale="2.5f" remark="南北战争-葛底斯堡之役">
+
+ </view>
+	<view id="30108" x="75" y="520" scale="2.5f" remark="南北战争-向海洋进军">
+
+ </view>
+	<view id="30109" x="75" y="520" scale="2.5f" remark="南北战争-里士满">
+
+ </view>
+	<view id="30110" x="75" y="520" scale="2.5f" remark="美西战争-古巴">
+
+ </view>
+	<view id="30111" x="75" y="520" scale="2.5f" remark="美西战争-菲律宾">
+
+ </view>
+	<view id="30112" x="75" y="520" scale="2.5f" remark="八国联军战争1">
+
+ </view>
+	<view id="30113" x="75" y="520" scale="2.5f" remark="八国联军战争2">
+
+ </view>
+	<view id="30201" x="75" y="520" scale="2.5f" remark="鸦片战争1-广州">
+
+ </view>
+	<view id="30202" x="75" y="520" scale="2.5f" remark="太平天国-阻击北伐">
+
+ </view>
+	<view id="30203" x="75" y="520" scale="2.5f" remark="太平天国-拦击石达开">
+
+ </view>
+	<view id="30204" x="75" y="520" scale="2.5f" remark="太平天国-南京">
+
+ </view>
+	<view id="30205" x="75" y="520" scale="2.5f" remark="鸦片战争2-香港">
+
+ </view>
+	<view id="30206" x="75" y="520" scale="2.5f" remark="鸦片战争2-大沽口">
+
+ </view>
+	<view id="30207" x="75" y="520" scale="2.5f" remark="鸦片战争2-北京">
+
+ </view>
+	<view id="30208" x="75" y="520" scale="2.5f" remark="鸦片战争2-外东北">
+
+ </view>
+	<view id="30209" x="75" y="520" scale="2.5f" remark="中法战争-越南">
+
+ </view>
+	<view id="30210" x="75" y="520" scale="2.5f" remark="收复新疆1-击败阿古伯">
+
+ </view>
+	<view id="30211" x="75" y="520" scale="2.5f" remark="收复新疆2-击败俄国">
+
+ </view>
+	<view id="30212" x="75" y="520" scale="2.5f" remark="中日战争-汉城">
+
+ </view>
+	<view id="30213" x="75" y="520" scale="2.5f" remark="中日战争-黄海">
+
+ </view>
+	<view id="30214" x="75" y="520" scale="2.5f" remark="结束中立">
+
+ </view>
+	<view id="30215" x="75" y="520" scale="2.5f" remark="八国联军侵华战争1">
+
+ </view>
+	<view id="30216" x="75" y="520" scale="2.5f" remark="中日战争-西南">
+
+ </view>
+	<view id="30217" x="75" y="520" scale="2.5f" remark="中日战争-中部">
+
+ </view>
+	<view id="30218" x="75" y="520" scale="2.5f" remark="中日战争-东北">
+
+ </view>
+	<view id="30219" x="75" y="520" scale="2.5f" remark="进军南洋">
+
+ </view>
+	<view id="30220" x="75" y="520" scale="2.5f" remark="大清西征">
+
+ </view>
+	<view id="30221" x="75" y="520" scale="2.5f" remark="入侵欧罗巴">
+
+ </view>
+	<view id="30301" x="75" y="520" scale="2.5f" remark="倒幕行动">
+
+ </view>
+	<view id="30302" x="75" y="520" scale="2.5f" remark="维新的力量">
+
+ </view>
+	<view id="30303" x="75" y="520" scale="2.5f" remark="中日战争-汉城">
+
+ </view>
+	<view id="30304" x="75" y="520" scale="2.5f" remark="中日战争-平壤">
+
+ </view>
+	<view id="30305" x="75" y="520" scale="2.5f" remark="中日战争-旅顺">
+
+ </view>
+	<view id="30306" x="75" y="520" scale="2.5f" remark="中日战争-黄海">
+
+ </view>
+	<view id="30307" x="75" y="520" scale="2.5f" remark="中日战争-台湾">
+
+ </view>
+	<view id="30308" x="75" y="520" scale="2.5f" remark="日俄战争-大连">
+
+ </view>
+	<view id="30309" x="75" y="520" scale="2.5f" remark="日俄战争-东北">
+
+ </view>
+	<view id="30310" x="75" y="520" scale="2.5f" remark="日俄战争-对马海战">
+
+ </view>
+	<view id="30311" x="75" y="520" scale="2.5f" remark="日俄战争-海参崴">
+
+ </view>
+	<view id="30312" x="75" y="520" scale="2.5f" remark="八国联军侵华战争1">
+
+ </view>
+	<view id="30313" x="75" y="520" scale="2.5f" remark="八国联军侵华战争2">
+
+ </view>
+	<view id="30401" x="75" y="520" scale="2.5f" remark="普奥战争">
+
+ </view>
+	<view id="30402" x="75" y="520" scale="2.5f" remark="普法战争">
+
+ </view>
+	<view id="30501" x="75" y="520" scale="2.5f" remark="克里米亚战争">
+
+ </view>
+	<view id="30502" x="75" y="520" scale="2.5f" remark="鸦片战争2-外东北">
+
+ </view>
+	<view id="30503" x="75" y="520" scale="2.5f" remark="吞并中亚">
+
+ </view>
+	<view id="30504" x="75" y="520" scale="2.5f" remark="日俄战争-大连">
+
+ </view>
+	<view id="30505" x="75" y="520" scale="2.5f" remark="日俄战争-东北">
+
+ </view>
+	<view id="30506" x="75" y="520" scale="2.5f" remark="日俄战争-对马海战">
+
+ </view>
+	<view id="30507" x="75" y="520" scale="2.5f" remark="黄俄罗斯计划1">
+
+ </view>
+	<view id="30508" x="75" y="520" scale="2.5f" remark="黄俄罗斯计划2-蒙古">
+
+ </view>
+	<view id="30509" x="75" y="520" scale="2.5f" remark="黄俄罗斯计划3-满洲">
+
+ </view>
+	<view id="30601" x="75" y="520" scale="2.5f" remark="克里米亚战争">
+
+ </view>
+	<view id="30701" x="75" y="520" scale="2.5f" remark="巴黎公社">
+
+ </view>
+	<view id="30801" x="75" y="520" scale="2.5f" remark="意大利的统一">
+
+ </view>
+	<view id="30901" x="75" y="520" scale="2.5f" remark="太平天国-南京">
+
+ </view>
+	<view id="30902" x="75" y="520" scale="2.5f" remark="太平天国-阻击天津">
+
+ </view>
+	<view id="30903" x="75" y="520" scale="2.5f" remark="太平天国-北京">
+
+ </view>
+	<view id="30951" x="75" y="520" scale="2.5f" remark="印度起义1">
+
+ </view>
+	<view id="30952" x="75" y="520" scale="2.5f" remark="印度起义2">
+
+ </view>
+	<view id="31001" x="75" y="520" scale="2.5f" remark="马恩河会战">
+
+ </view>
+	<view id="31002" x="75" y="520" scale="2.5f" remark="伦敦保卫战">
+
+ </view>
+	<view id="31003" x="75" y="520" scale="2.5f" remark="凡尔登战役">
+
+ </view>
+	<view id="31004" x="75" y="520" scale="2.5f" remark="索姆河会战">
+
+ </view>
+	<view id="31005" x="75" y="520" scale="2.5f" remark="日德兰海战">
+
+ </view>
+	<view id="31006" x="75" y="520" scale="2.5f" remark="巴雪戴尔战役">
+
+ </view>
+	<view id="31007" x="75" y="520" scale="2.5f" remark="阿拉伯大起义">
+
+ </view>
+	<view id="31008" x="75" y="520" scale="2.5f" remark="进攻巴格达">
+
+ </view>
+	<view id="31009" x="75" y="520" scale="2.5f" remark="入侵土耳其">
+
+ </view>
+	<view id="31010" x="75" y="520" scale="2.5f" remark="百日攻势">
+
+ </view>
+	<view id="31011" x="75" y="520" scale="2.5f" remark="协约反攻">
+
+ </view>
+	<view id="31012" x="75" y="520" scale="2.5f" remark="柏林之战">
+
+ </view>
+	<view id="31101" x="75" y="520" scale="2.5f" remark="大西洋海战">
+
+ </view>
+	<view id="31102" x="75" y="520" scale="2.5f" remark="圣米耶尔战役">
+
+ </view>
+	<view id="31103" x="75" y="520" scale="2.5f" remark="默兹·阿尔贡攻势">
+
+ </view>
+	<view id="31104" x="75" y="520" scale="2.5f" remark="奥匈攻势">
+
+ </view>
+	<view id="31105" x="75" y="520" scale="2.5f" remark="扼杀革命-摩尔曼斯克">
+
+ </view>
+	<view id="31106" x="75" y="520" scale="2.5f" remark="扼杀革命-克里米亚">
+
+ </view>
+	<view id="31107" x="75" y="520" scale="2.5f" remark="扼杀革命-波兰华沙">
+
+ </view>
+	<view id="31108" x="75" y="520" scale="2.5f" remark="入侵南美">
+
+ </view>
+	<view id="31201" x="75" y="520" scale="2.5f" remark="日德战争-青岛">
+
+ </view>
+	<view id="31202" x="75" y="520" scale="2.5f" remark="日德战争-青岛2">
+
+ </view>
+	<view id="31203" x="75" y="520" scale="2.5f" remark="干涉革命-南京">
+
+ </view>
+	<view id="31204" x="75" y="520" scale="2.5f" remark="扼杀革命-符拉迪沃斯托克">
+
+ </view>
+	<view id="31205" x="75" y="520" scale="2.5f" remark="扼杀革命-西伯利亚">
+
+ </view>
+	<view id="31206" x="75" y="520" scale="2.5f" remark="扼杀革命-满洲">
+
+ </view>
+	<view id="31207" x="75" y="520" scale="2.5f" remark="扼杀革命-亚洲">
+
+ </view>
+	<view id="31208" x="75" y="520" scale="2.5f" remark="突然的东进">
+
+ </view>
+	<view id="31301" x="75" y="520" scale="2.5f" remark="日德战争-青岛">
+
+ </view>
+	<view id="31302" x="75" y="520" scale="2.5f" remark="入侵塞尔维亚">
+
+ </view>
+	<view id="31303" x="75" y="520" scale="2.5f" remark="入侵比利时">
+
+ </view>
+	<view id="31304" x="75" y="520" scale="2.5f" remark="坦南堡战役">
+
+ </view>
+	<view id="31305" x="75" y="520" scale="2.5f" remark="马恩河会战">
+
+ </view>
+	<view id="31306" x="75" y="520" scale="2.5f" remark="萨勒卡默什战役">
+
+ </view>
+	<view id="31307" x="75" y="520" scale="2.5f" remark="萨利卡米斯战役">
+
+ </view>
+	<view id="31308" x="75" y="520" scale="2.5f" remark="加里波利阻击战">
+
+ </view>
+	<view id="31309" x="75" y="520" scale="2.5f" remark="凡尔登战役">
+
+ </view>
+	<view id="31310" x="75" y="520" scale="2.5f" remark="索姆河会战">
+
+ </view>
+	<view id="31311" x="75" y="520" scale="2.5f" remark="阿拉伯大起义">
+
+ </view>
+	<view id="31312" x="75" y="520" scale="2.5f" remark="日德兰海战">
+
+ </view>
+	<view id="31313" x="75" y="520" scale="2.5f" remark="布鲁西洛夫攻势">
+
+ </view>
+	<view id="31314" x="75" y="520" scale="2.5f" remark="春季攻势">
+
+ </view>
+	<view id="31315" x="75" y="520" scale="2.5f" remark="夺取克里木">
+
+ </view>
+	<view id="31316" x="75" y="520" scale="2.5f" remark="百日攻势">
+
+ </view>
+	<view id="31317" x="75" y="520" scale="2.5f" remark="法兰西的末日">
+
+ </view>
+	<view id="31318" x="75" y="520" scale="2.5f" remark="入侵意大利">
+
+ </view>
+	<view id="31319" x="75" y="520" scale="2.5f" remark="目标英伦">
+
+ </view>
+	<view id="31320" x="75" y="520" scale="2.5f" remark="远征美洲1">
+
+ </view>
+	<view id="31321" x="75" y="520" scale="2.5f" remark="远征美洲2">
+
+ </view>
+	<view id="31401" x="75" y="520" scale="2.5f" remark="坦南堡战役">
+
+ </view>
+	<view id="31402" x="75" y="520" scale="2.5f" remark="布鲁西洛夫攻势">
+
+ </view>
+	<view id="31403" x="75" y="520" scale="2.5f" remark="布鲁西洛夫攻势2土耳其">
+
+ </view>
+	<view id="31404" x="75" y="520" scale="2.5f" remark="北亚冲突">
+
+ </view>
+	<view id="31405" x="75" y="520" scale="2.5f" remark="革命2-东线1">
+
+ </view>
+	<view id="31406" x="75" y="520" scale="2.5f" remark="革命2-东线2">
+
+ </view>
+	<view id="31407" x="75" y="520" scale="2.5f" remark="革命2-东线3">
+
+ </view>
+	<view id="31408" x="75" y="520" scale="2.5f" remark="革命1-叶卡捷琳堡">
+
+ </view>
+	<view id="31409" x="75" y="520" scale="2.5f" remark="革命1-西线莫斯科">
+
+ </view>
+	<view id="31410" x="75" y="520" scale="2.5f" remark="革命1-西线克里木">
+
+ </view>
+	<view id="31411" x="75" y="520" scale="2.5f" remark="革命1-西线圣彼得堡">
+
+ </view>
+	<view id="31501" x="75" y="520" scale="2.5f" remark="巴尔干战争1">
+
+ </view>
+	<view id="31502" x="75" y="520" scale="2.5f" remark="巴尔干战争2">
+
+ </view>
+	<view id="31601" x="75" y="520" scale="2.5f" remark="土尓其的崛起">
+
+ </view>
+	<view id="31701" x="75" y="520" scale="2.5f" remark="十月革命">
+
+ </view>
+	<view id="31702" x="75" y="520" scale="2.5f" remark="波罗的海进军">
+
+ </view>
+	<view id="31703" x="75" y="520" scale="2.5f" remark="布列斯特的代价">
+
+ </view>
+	<view id="31704" x="75" y="520" scale="2.5f" remark="高尔察克的进攻">
+
+ </view>
+	<view id="31705" x="75" y="520" scale="2.5f" remark="莫斯科决战">
+
+ </view>
+	<view id="31706" x="75" y="520" scale="2.5f" remark="顿河战争">
+
+ </view>
+	<view id="31707" x="75" y="520" scale="2.5f" remark="察里津之战">
+
+ </view>
+	<view id="31708" x="75" y="520" scale="2.5f" remark="克里米亚之战">
+
+ </view>
+	<view id="31709" x="75" y="520" scale="2.5f" remark="反击波兰">
+
+ </view>
+	<view id="31710" x="75" y="520" scale="2.5f" remark="波兰的崩溃">
+
+ </view>
+	<view id="31711" x="75" y="520" scale="2.5f" remark="目标西伯利亚">
+
+ </view>
+	<view id="31712" x="75" y="520" scale="2.5f" remark="蒙古战役">
+
+ </view>
+	<view id="31713" x="75" y="520" scale="2.5f" remark="外东北战役">
+
+ </view>
+	<view id="31714" x="75" y="520" scale="2.5f" remark="符拉迪沃斯托克之战">
+
+ </view>
+	<view id="31801" x="75" y="520" scale="2.5f" remark="武昌首义">
+
+ </view>
+	<view id="31802" x="75" y="520" scale="2.5f" remark="青天白日">
+
+ </view>
+	<view id="31803" x="75" y="520" scale="2.5f" remark="驱逐鞑虏">
+
+ </view>
+	<view id="31804" x="75" y="520" scale="2.5f" remark="光复中华">
+
+ </view>
+	<view id="31805" x="75" y="520" scale="2.5f" remark="二次革命">
+
+ </view>
+	<view id="31806" x="75" y="520" scale="2.5f" remark="护国运动">
+
+ </view>
+	<view id="31807" x="75" y="520" scale="2.5f" remark="护法运动">
+
+ </view>
+	<view id="31808" x="75" y="520" scale="2.5f" remark="收复蒙古">
+
+ </view>
+	<view id="31809" x="75" y="520" scale="2.5f" remark="誓师北伐">
+
+ </view>
+	<view id="31810" x="75" y="520" scale="2.5f" remark="二次北伐">
+
+ </view>
+	<view id="31811" x="75" y="520" scale="2.5f" remark="背叛">
+
+ </view>
+	<view id="31812" x="75" y="520" scale="2.5f" remark="中原大战">
+
+ </view>
+	<view id="31813" x="75" y="520" scale="2.5f" remark="九一八">
+
+ </view>
+	<view id="31901" x="75" y="520" scale="2.5f" remark="长征1">
+
+ </view>
+	<view id="31902" x="75" y="520" scale="2.5f" remark="长征2">
+
+ </view>
+	<view id="31903" x="75" y="520" scale="2.5f" remark="长征3">
+
+ </view>
+	<view id="31904" x="75" y="520" scale="2.5f" remark="西安事变">
+
+ </view>
+	
+</views>

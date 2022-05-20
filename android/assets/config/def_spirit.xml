@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spirits> <!--type -1 不可用  0通用 1秩序 2强权 3 可购买可重叠 4 可购买不可重叠 5仅赠送可重叠 6仅赠送不可重叠-->
+	<spirit id="0" name="黑鱼" type="5" effect="0" rule="0" min="0" max="100" getCountrys="-1" remark="不会再削弱友军" />
+	<spirit id="1" name="美国" type="1" effect="1" rule="{0}/5" min="0" max="100" getCountrys="-1" remark="美国:研究军团科技时有{0}%几率使研究回合减半"/>
+	<spirit id="2" name="英国" type="2" effect="2" rule="{0}/10" min="0" max="100" getCountrys="-1" remark="英国:占领任意非敌对国领土将提升所有盟国{0}关系度并降低所有非盟国{0}关系度"/>
+	<spirit id="3" name="刚果" type="2" effect="3" rule="0" min="0" max="100" getCountrys="-1" remark="刚果:提高区域稳定度对收入增减的变化增幅"/>
+	<spirit id="4" name="法国" type="1" effect="4" rule="70" min="0" max="100" getCountrys="-1" remark="法国:可以指挥关系度不小于{0}且历史关系不为世仇的友方部队"/>
+	<spirit id="5" name="奥匈" type="2" effect="5" rule="{0}/10" min="0" max="10" getCountrys="-1" remark="奥匈:对盟友的外交成功率提高{0}%,对敌军的外交成功率降低{0}%"/>
+	<spirit id="6" name="荷兰" type="1" effect="6" rule="0" min="0" max="100" getCountrys="-1" remark="荷兰:可以在盟国的区域上为其援建民用设施"/>
+	<spirit id="7" name="美国邦联" type="1" effect="7" rule="{0}" min="0" max="100" getCountrys="-1" remark="美国邦联:征服敌对国首都时将会有额外的{0}%几率将其转变为附属势力"/>
+	<spirit id="8" name="普鲁士" type="2" effect="8" rule="{0}" min="0" max="100" getCountrys="-1" remark="普鲁士:招募陆军部队时,有{0}%几率将其编队提高1级"/>
+	<spirit id="9" name="日本" type="1" effect="9" rule="{0}/10" min="1" max="10" getCountrys="-1" remark="日本:占领一片领土立即获得{0}%的可提供资源并随机降低该区域{0}次的设施等级"/>
+	<spirit id="10" name="埃及" type="2" effect="10" rule="0" min="0" max="100" getCountrys="-1" remark="埃及:可以指挥实力小于我方且外交态度不为敌对的友方部队"/>
+	<spirit id="11" name="太平天国" type="1" effect="11" rule="30+{1}/4" min="0" max="100" getCountrys="-1" remark="太平天国:每回合开始根据稳定度进行一次判断,成功则金钱翻倍,失败则金钱减半"/>
+	<spirit id="12" name="德兰士瓦共和国" type="0" effect="12" rule="{0}/5" min="0" max="100" getCountrys="-1" remark="德兰士瓦共和国:当有区域被敌国占领时,将会获得额外的资源援助"/>
+	<spirit id="13" name="澳大利亚" type="0" effect="13" rule="{0}/5" min="0" max="100" getCountrys="-1" remark="澳大利亚:每增加一个盟国或附属国将会获得额外的{0}税率和军团稳定度"/>
+	<spirit id="14" name="巴西" type="1" effect="14" rule="0" min="0" max="100" getCountrys="-1" remark="巴西:可以在盟国的首都区域为其招募部队"/>
+	<spirit id="15" name="波兰" type="0" effect="15" rule="0" min="0" max="100" getCountrys="-1" remark="波兰:对附属或宗主关系的国家进行合并操作时必然成功"/>
+	<spirit id="16" name="大清" type="0" effect="16" rule="((({0}/10)+1)*(({0}/10)+1)*10+10)" min="10" max="999" getCountrys="-1" remark="大清:在核心区域卡牌花费为50%,非核心区域卡牌花费为{0}%"/>
+	<spirit id="17" name="俄国" type="1" effect="17" rule="0" min="0" max="100" getCountrys="-1" remark="俄国:国家稳定度视为当前拥有的陆军数"/>
+	<spirit id="18" name="加拿大" type="0" effect="18" rule="{0}/5" min="0" max="100" getCountrys="-1" remark="加拿大:研究军团科技增加额外的军团稳定度{0}"/>
+	<spirit id="19" name="墨西哥" type="0" effect="19" rule="50+{0}/2" min="0" max="100" getCountrys="-1" remark="墨西哥:当丢失一片领土时,该区域上所有己方单位士气重置为{0}"/>
+	<spirit id="20" name="泰国" type="0" effect="20" rule="{0}/2" min="0" max="100" getCountrys="-1" remark="泰国:每年度对盟友的外交波动为负时,将会有{0}%几率不下降"/>
+	<spirit id="21" name="西班牙" type="2" effect="21" rule="{0}/3" min="0" max="100" getCountrys="-1" remark="西班牙:对盟国贸易时增加额外的{0}%成功率"/>
+	<spirit id="22" name="意大利" type="2" effect="22" rule="{0}/2" min="0" max="100" getCountrys="-1" remark="意大利:贸易如果失败则有额外的{0}%机率获得物资而不是损失物资"/>
+	<spirit id="23" name="印度" type="0" effect="23" rule="{0}/5" min="0" max="100" getCountrys="-1" remark="印度:增加部队{0}%的休整效率"/>
+	<spirit id="24" name="中共" type="0" effect="24" rule="{0}/5" min="0" max="100" getCountrys="-1" remark="中共:占领一片领土立刻恢复这片区域上所有己方单位的{0}%生命值和{0}士气"/>
+	<spirit id="25" name="中国起义军" type="0" effect="25" rule="{0}/10" min="0" max="100" getCountrys="-1" remark="中国起义军:占领一片本土区域时,有{0}%几率使该区域的部分敌军投降"/>
+	<spirit id="26" name="苏俄" type="2" effect="26" rule="0" min="0" max="100" getCountrys="-1" remark="苏俄:在占领本土时,所有部队重置状态"/>
+	<spirit id="27" name="中华帝国" type="0" effect="27" rule="{0}/2" min="0" max="100" getCountrys="-1" remark="中华帝国:占领敌对国首都,有{0}%机率让己方比对方低的军团科技升1级"/>
+	<spirit id="28" name="中华民国 青天白日旗" type="0" effect="28" rule="0" min="0" max="100" getCountrys="-1" remark="中华民国 青天白日旗:如果不与任何国家处于敌对状态,则金钱翻倍,否则科技减半"/>
+	<spirit id="29" name="德国" type="2" effect="29" rule="0" min="0" max="100" getCountrys="-1" remark="德国:将军的数量上限提高一倍"/>
+	<spirit id="30" name="巴拉圭" type="2" effect="30" rule="{0}/2" min="0" max="100" getCountrys="-1" remark="使用区域战术后,有{0}%几率不增加冷却回合"/>
+	<spirit id="31" name="塞尔维亚" type="0" effect="31" rule="{0}/2" min="0" max="100" getCountrys="-1" remark="招募兵种后有{0}%几率不增加冷却回合"/>
+	<spirit id="32" name="奥斯曼" type="1" effect="32" rule="{0}/3" min="0" max="100" getCountrys="-1" remark="每回合获得外贸次数有{0}%几率加倍"/>
+	<spirit id="33" name="阿富汗" type="1" effect="33" rule="{0}/2" min="0" max="100" getCountrys="-1" remark="使用决议消耗的威望和增加的冷却回合有{0}%几率减半"/>
+	<spirit id="34" name="额外资源" type="-1" effect="34" rule="0" min="0" max="100" getCountrys="-1" remark="提供额外的金钱资源:{0}"/>
+	<spirit id="35" name="额外资源" type="-1" effect="35" rule="0" min="0" max="100" getCountrys="-1" remark="提供额外的工业资源:{0}"/>
+	<spirit id="36" name="额外资源" type="-1" effect="36" rule="0" min="0" max="100" getCountrys="-1" remark="提供额外的科技资源:{0}"/>
+	<spirit id="37" name="额外资源" type="-1" effect="37" rule="0" min="0" max="100" getCountrys="-1" remark="提供额外的食物资源:{0}"/>
+	<spirit id="38" name="额外资源" type="-1" effect="38" rule="0" min="0" max="100" getCountrys="-1" remark="提供额外的矿石资源:{0}"/>
+	<spirit id="39" name="额外资源" type="-1" effect="39" rule="0" min="0" max="100" getCountrys="-1" remark="提供额外的石油资源:{0}"/>
+	<spirit id="40" name="额外资源" type="-1" effect="40" rule="0" min="0" max="100" getCountrys="-1" remark="提供额外的人口上限:{0}"/>
+	<spirit id="41" name="快速游戏" type="4" effect="41" rule="20" min="0" max="999" getCountrys="-1" ifCheat="true" remark="所有势力的收入,攻击力,防御力,移动力的效果*2;冷却回合减半;如果区域内没有兵,则直接占领;回合计算缩减为一半;回合上限减少一半"/>
+	<spirit id="42" name="一骑当千" type="4" effect="42" rule="50" min="0" max="999" getCountrys="-1" ifCheat="true" remark="所有将领单位造成的攻击力和移动力的效果*2"/>
+	<spirit id="43" name="天外残骸" type="4" effect="43" rule="100" min="0" max="999" getCountrys="-1" ifCheat="true" remark="玩家的科技研发回合降低一半,所有资源产出增加一倍,与所有国家关系每回合下降10"/>
+	<spirit id="44" name="时光错乱" type="4" effect="44" rule="100" min="0" max="999" getCountrys="-1" ifCheat="true" remark="所有部队每回合随机技能变化"/>
+	<spirit id="45" name="黑暗森林" type="4" effect="45" rule="100" min="0" max="999" getCountrys="-1" ifCheat="true" remark="所有国家的好感度无法提高,且每回合降低5点"/>
+	<spirit id="46" name="奇点" type="4" effect="46" rule="50" min="0" max="999" getCountrys="-1" ifCheat="true" remark="所有国家回合收入*10"/>
+	<spirit id="47" name="湮灭 不想做了" type="-1" effect="47" rule="50" min="0" max="999" getCountrys="-1" ifCheat="true" remark="每个被新占领的城市将永久性的失去其功能,无法建造招募,升级,提供资源"/>
+	<spirit id="48" name="黑洞 不想做了" type="-1" effect="48" rule="50" min="0" max="999" getCountrys="-1" ifCheat="true" remark="无法再招募部队和合并单位,一个单位消灭另一个单位后,可以获得其生命上限"/>
+	<spirit id="49" name="审判日 不想做了" type="-1" effect="49" rule="300" min="0" max="999" getCountrys="-1" ifCheat="true" remark="所有非中立国家视为结盟状态,原中立视为共用敌人,每回合随机城市变为中立阵营,并自动产生部队向所属国家发动进攻"/>
+	<spirit id="50" name="时间机器 不想做了" type="-1" effect="50" rule="500" min="0" max="999" getCountrys="-1" ifCheat="true" remark="穿越到随机年代,仅保留自己核心领土上的部队"/>
+	<spirit id="51" name="时间警察" type="-1" effect="51" rule="0" min="0" max="0" getCountrys="-1"  remark="你作弊了!所有国家终与你敌对,且其实力逐渐根据你的实力来不断增加."/>
+	
+	
+	
+	<spirit id="100" name="演示技能" type="-1" effect="100" rule="0" min="1" max="100" getCountrys="-1" remark="所有单位初始获得技能:[{0}]"/>
+	<spirit id="101" name="演示技能" type="-1" effect="101" rule="0" min="1" max="100" getCountrys="-1" remark="所有陆军单位初始获得技能:[{0}]"/>
+	<spirit id="102" name="演示技能" type="-1" effect="102" rule="0" min="1" max="100" getCountrys="-1" remark="所有海军单位初始获得技能:[{0}]"/>
+	<spirit id="103" name="演示技能" type="-1" effect="103" rule="0" min="1" max="100" getCountrys="-1" remark="所有地面单位初始获得技能:[{0}]"/>
+	<spirit id="104" name="演示技能" type="-1" effect="104" rule="0" min="1" max="100" getCountrys="-1" remark="步兵单位初始获得技能:[{0}]"/>
+	<spirit id="105" name="演示技能" type="-1" effect="105" rule="0" min="1" max="100" getCountrys="-1" remark="炮兵单位初始获得技能:[{0}]"/>
+	<spirit id="106" name="演示技能" type="-1" effect="106" rule="0" min="1" max="100" getCountrys="-1" remark="装甲单位初始获得技能:[{0}]"/>
+	<spirit id="107" name="演示技能" type="-1" effect="107" rule="0" min="1" max="100" getCountrys="-1" remark="海军单位初始获得技能:[{0}]"/>
+	<spirit id="108" name="演示技能" type="-1" effect="108" rule="0" min="1" max="100" getCountrys="-1" remark="潜艇单位初始获得技能:[{0}]"/>
+	<spirit id="109" name="演示技能" type="-1" effect="109" rule="0" min="1" max="100" getCountrys="-1" remark="飞机单位初始获得技能:[{0}]"/>
+	<spirit id="110" name="演示技能" type="-1" effect="110" rule="0" min="1" max="100" getCountrys="-1" remark="要塞单位初始获得技能:[{0}]"/>
+</spirits>

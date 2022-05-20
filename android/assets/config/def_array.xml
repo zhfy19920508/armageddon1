@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Arrays>
+<Array id="0" name="cardArray" remark="卡牌存放样式,0-8">
+	<style id="0" name="" remark="数量0格的卡牌样式">
+			<buttons>
+			</buttons>
+			<labels>
+			</labels>
+		</style>
+	<style id="1" name="" remark="数量1格的卡牌样式">
+			<buttons>
+				<button  id="0" x="50" y="58" ></button>
+			</buttons>
+			<labels>
+				<label  id="0" x="43" y="69" ></label>
+			</labels>
+		</style>
+		<style id="2" name="" remark="数量2格的卡牌样式">
+			<buttons>
+				<button  id="0" x="35" y="58" ></button>
+				<button  id="1" x="65" y="58" ></button>
+			</buttons>
+			<labels>
+			
+				<label  id="0" x="28" y="69" ></label>
+				<label  id="1" x="58" y="69" ></label>
+			</labels>
+		</style>
+		<style id="3" name="" remark="数量3格的卡牌样式">
+			<buttons>
+				<button  id="0" x="25" y="58" ></button>
+				<button  id="1" x="50" y="58" ></button>
+				<button  id="2" x="75" y="58" ></button>
+			</buttons>
+			<labels>
+				<label  id="0" x="18" y="69" ></label>
+				<label  id="1" x="43" y="69" ></label>
+				<label  id="2" x="68" y="69" ></label>
+			</labels>
+		</style>
+		<style id="4" name="" remark="数量4格的卡牌样式">
+			<buttons>
+				<button  id="0" x="20" y="58" ></button>
+				<button  id="1" x="40" y="58" ></button>
+				<button  id="2" x="60" y="58" ></button>
+				<button  id="3" x="80" y="58" ></button>
+			</buttons>
+			<labels>
+				<label  id="0" x="13" y="69" ></label>
+				<label  id="1" x="33" y="69" ></label>
+				<label  id="2" x="53" y="69" ></label>
+				<label  id="3" x="73" y="69" ></label>
+			</labels>
+		</style>
+		<style id="5" name="" remark="数量5格的卡牌样式">
+			<buttons>
+				<button  id="0" x="25" y="73" ></button>
+				<button  id="1" x="50" y="73" ></button>
+				<button  id="2" x="75" y="73" ></button>
+				<button  id="3" x="37.5" y="33" ></button>
+				<button  id="4" x="62.5" y="33" ></button>
+			</buttons>
+			<labels>
+				<label  id="0" x="18" y="84" ></label>
+				<label  id="1" x="43" y="84" ></label>
+				<label  id="2" x="68" y="84" ></label>
+				<label  id="3" x="30.5" y="44" ></label>
+				<label  id="4" x="55.5" y="44" ></label>
+			</labels>
+		</style>
+		<style id="6" name="" remark="数量6格的卡牌样式">
+			<buttons>
+				<button  id="0" x="25" y="73" ></button>
+				<button  id="1" x="50" y="73" ></button>
+				<button  id="2" x="75" y="73" ></button>
+				<button  id="3" x="25" y="33" ></button>
+				<button  id="4" x="50" y="33" ></button>
+				<button  id="5" x="75" y="33" ></button>
+			</buttons>
+			<labels>
+				<label  id="0" x="18" y="84" ></label>
+				<label  id="1" x="43" y="84" ></label>
+				<label  id="2" x="68" y="84" ></label>
+				<label  id="3" x="18" y="84" ></label>
+				<label  id="4" x="43" y="44" ></label>
+				<label  id="5" x="68" y="44" ></label>
+			</labels>
+		</style>
+		<style id="7" name="" remark="数量7格的卡牌样式">
+			<buttons>
+				<button  id="0" x="20" y="73" ></button>
+				<button  id="1" x="40" y="73" ></button>
+				<button  id="2" x="60" y="73" ></button>
+				<button  id="3" x="80" y="73" ></button>
+				<button  id="4" x="30" y="33" ></button>
+				<button  id="5" x="50" y="33" ></button>
+				<button  id="6" x="70" y="33" ></button>
+			</buttons>
+			<labels>
+				<label  id="0" x="13" y="84" ></label>
+				<label  id="1" x="33" y="84" ></label>
+				<label  id="2" x="53" y="84" ></label>
+				<label  id="3" x="73" y="84" ></label>
+				<label  id="4" x="23" y="44" ></label>
+				<label  id="5" x="43" y="44" ></label>
+				<label  id="6" x="63" y="44" ></label>
+			</labels>
+		</style>
+		
+		<style id="8" name="" remark="数量8格的卡牌样式">
+			<buttons>
+				<button  id="0" x="20" y="73" ></button>
+				<button  id="1" x="40" y="73" ></button>
+				<button  id="2" x="60" y="73" ></button>
+				<button  id="3" x="80" y="73" ></button>
+				
+				<button  id="4" x="20" y="33" ></button>
+				<button  id="5" x="40" y="33" ></button>
+				<button  id="6" x="60" y="33" ></button>
+				<button  id="7" x="80" y="33" ></button>
+			</buttons>
+			<labels>
+				<label  id="0" x="13" y="84" ></label>
+				<label  id="1" x="33" y="84" ></label>
+				<label  id="2" x="53" y="84" ></label>
+				<label  id="3" x="73" y="84" ></label>
+				<label  id="4" x="13" y="44" ></label>
+				<label  id="5" x="33" y="44" ></label>
+				<label  id="6" x="53" y="44" ></label>
+				<label  id="7" x="73" y="44" ></label>
+			</labels>
+		</style>
+		
+	</Array>
+	
+	
+	<Array id="1" name="combatCountryLeftArray" remark="战斗结果的左边国家存放样式,0-5">
+	<style id="0" name="" remark="数量0格的卡牌样式">
+			<images>
+			</images>
+		</style>
+	<style id="1" name="" remark="数量1格的卡牌样式">
+				<images>
+				<image  id="1" x="30" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+			</images>
+		</style>
+		
+	<style id="2" name="" remark="数量2格的卡牌样式">
+				<images>
+				<image  id="1" x="27.5" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="2" x="32.5" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+			</images>
+		</style>
+	<style id="3" name="" remark="数量3格的卡牌样式">
+				<images>
+				<image  id="1" x="25" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="2" x="30" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="3" x="35" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+			</images>
+		</style>
+	<style id="4" name="" remark="数量4格的卡牌样式">
+				<images>
+				<image  id="1" x="22.5" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="2" x="27.5" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="3" x="32.5" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="4" x="37.5" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+			</images>
+		</style>
+	<style id="5" name="" remark="数量5格的卡牌样式">
+				<images>
+				<image  id="1" x="20" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="2" x="25" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="3" x="30" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="4" x="35" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="5" x="40" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+			</images>
+		</style>
+		
+	</Array>
+	
+	<Array id="2" name="combatCountryRightArray" remark="战斗结果的右边国家存放样式,0-5">
+	<style id="0" name="" remark="数量0格的卡牌样式">
+			<images>
+			</images>
+		</style>
+	<style id="1" name="" remark="数量1格的卡牌样式">
+				<images>
+				<image  id="6" x="70" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+			</images>
+		</style>
+		
+	<style id="2" name="" remark="数量2格的卡牌样式">
+				<images>
+				<image  id="6" x="67.5" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="7" x="72.5" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+			</images>
+		</style>
+	<style id="3" name="" remark="数量3格的卡牌样式">
+				<images>
+				<image  id="6" x="65" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="7" x="70" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="8" x="75" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+			</images>
+		</style>
+	<style id="4" name="" remark="数量4格的卡牌样式">
+				<images>
+				<image  id="6" x="62.5" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="7" x="67.5" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="8" x="72.5" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="9" x="77.5" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+			</images>
+		</style>
+	<style id="5" name="" remark="数量5格的卡牌样式">
+				<images>
+				<image  id="6" x="60" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="7" x="65" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="8" x="70" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="9" x="75" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+				<image  id="10" x="80" y="90" w="0" h="0"   imgName="flag_0"     ifVisible="true" remark="兵种标志2_国家"></image>
+			</images>
+		</style>
+		
+	</Array>
+	
+</Arrays>

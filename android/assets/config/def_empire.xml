@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empires>masterData 0 iRWinner 0
+    <empire id="101" country="99"  remark="英国" useLanguage="-1">
+        <stage id="0" year="1857"  generalId="387" enemyCountry="98" freeCountry="0" allyCountry="0" dependency="0" resetCountry="0" playerCountry="99" victoryType="3" victoryTarget="98" difficulty="2" round="45" tax="10"/>
+        <stage id="1" year="1863"  generalId="372" enemyCountry="57,33" freeCountry="0" allyCountry="67" dependency="48" resetCountry="57" playerCountry="99" victoryType="3" victoryTarget="57" difficulty="4" round="55"/>
+        <stage id="2" year="1914"  generalId="36" enemyCountry="30,38" freeCountry="0" allyCountry="19,35" dependency="0" resetCountry="30" playerCountry="99" victoryType="5" victoryTarget="100,137" difficulty="4" round="20"/>
+        <stage id="3" year="1916"  generalId="98" enemyCountry="30,38,12,18" freeCountry="0" allyCountry="55,35,33,77,97,91,86" dependency="5" resetCountry="30,38,12,18" playerCountry="99" victoryType="3" victoryTarget="12" difficulty="4" round="35"/>
+        <stage id="4" year="1917"  generalId="49" enemyCountry="30,38,79,18,24,89" freeCountry="0" allyCountry="55,35,33,77,19,97,21,91" dependency="5" resetCountry="30,38,12,79,18,24,97" playerCountry="99" victoryType="2" victoryTarget="20" difficulty="5" round="90"/>
+    </empire>
+    <empire id="102" country="35"  remark="法国" useLanguage="-1">
+        <stage id="0" year="1840"  generalId="112" enemyCountry="99" freeCountry="0" allyCountry="0" dependency="0" resetCountry="0" playerCountry="35" victoryType="1" victoryTarget="100,322,142,94,98" difficulty="2" round="30"/>
+        <stage id="1" year="1870"  generalId="93" enemyCountry="72,31,14" freeCountry="0" allyCountry="0" dependency="0" resetCountry="72,99,31,14" playerCountry="35" victoryType="3" victoryTarget="72" difficulty="3" round="40"/>
+        <stage id="2" year="1883"  generalId="90" enemyCountry="27,28,93" freeCountry="0" allyCountry="0" dependency="0" resetCountry="35,30,27,28,93" playerCountry="35" victoryType="4" victoryTarget="217" difficulty="4" round="40"/>
+        <stage id="3" year="1914"  generalId="11" enemyCountry="30,38" freeCountry="0" allyCountry="99" dependency="19,54" resetCountry="30,38" playerCountry="35" victoryType="2" victoryTarget="23" difficulty="4" round="40"/>
+        <stage id="4" year="1918"  generalId="152" enemyCountry="38,79,89" freeCountry="0" allyCountry="35,33,77,51,50,10,37,8,24" dependency="21,55" resetCountry="30,38,12,79,21,55,8,24,68,89" playerCountry="35" victoryType="3" victoryTarget="79" difficulty="5" round="55"/>
+    </empire>
+    <empire id="103" country="72"  remark="德国" useLanguage="-1">
+        <stage id="0" year="1866"  generalId="141" enemyCountry="11" freeCountry="0" allyCountry="0" dependency="0" resetCountry="0" playerCountry="72" victoryType="3" victoryTarget="11" difficulty="2" round="30"/>
+        <stage id="1" year="1870"  generalId="7" enemyCountry="35" freeCountry="0" allyCountry="0" dependency="0" resetCountry="38,72" playerCountry="72" victoryType="4" victoryTarget="19" difficulty="3" round="30"/>
+        <stage id="2" year="1914"  generalId="66" enemyCountry="33,99,35,77" freeCountry="0" allyCountry="38" dependency="0" resetCountry="33,99,35,77" playerCountry="30" victoryType="2" victoryTarget="24" difficulty="4" round="50"/>
+        <stage id="3" year="1917"  generalId="12" enemyCountry="33,99,35,77,58,97,55,68,91,89,48,5,86" freeCountry="0" allyCountry="18,38,12,79" dependency="0" resetCountry="33,99,35,77,58" playerCountry="30" victoryType="5" victoryTarget="20" difficulty="4" round="120"/>
+        <stage id="4" year="1920"  generalId="16" enemyCountry="58,48,99" freeCountry="0" allyCountry="0" dependency="66" resetCountry="58" playerCountry="30" victoryType="2" victoryTarget="31" difficulty="5" round="200"/>
+    </empire>
+    <empire id="104" country="33"  remark="俄国" useLanguage="-1">
+        <stage id="0" year="1853"  generalId="357" enemyCountry="12,35,99" freeCountry="0" allyCountry="0" dependency="0" resetCountry="0" playerCountry="33" victoryType="4" victoryTarget="129" difficulty="2" round="40" tax="10"/>
+        <stage id="1" year="1875"  generalId="430" enemyCountry="46" freeCountry="28" allyCountry="0" dependency="0" resetCountry="35,99,46" playerCountry="83" victoryType="2" victoryTarget="14" difficulty="3" round="40"/>
+        <stage id="2" year="1904"  generalId="38" enemyCountry="73,28,26" freeCountry="0" allyCountry="0" dependency="0" resetCountry="73" playerCountry="33" victoryType="4" victoryTarget="154" difficulty="3" round="70"/>
+        <stage id="3" year="1914"  generalId="13" enemyCountry="30,38,12,18" freeCountry="0" allyCountry="55,35,99,77" dependency="30,38,12,18" resetCountry="0" playerCountry="33" victoryType="2" victoryTarget="23" difficulty="4" round="50"/>
+        <stage id="4" year="1918"  generalId="132" enemyCountry="79,89" freeCountry="10,37,50,51,21" allyCountry="0" dependency="2" resetCountry="30,38,12,79,21,55,8,24,68,89,37,50,51,89,2,10" playerCountry="33" victoryType="2" victoryTarget="22" difficulty="5" round="70"/>
+    </empire>
+    <empire id="105" country="57"  remark="美国" useLanguage="-1">
+        <stage id="0" year="1846"  generalId="24" enemyCountry="66" freeCountry="0" allyCountry="0" dependency="0" resetCountry="66" playerCountry="57" victoryType="3" victoryTarget="66" difficulty="1" round="40"/>
+        <stage id="1" year="1861"  generalId="158" enemyCountry="67,99" freeCountry="0" allyCountry="0" dependency="0" resetCountry="67,66" playerCountry="57" victoryType="3" victoryTarget="67" difficulty="2" round="40"/>
+        <stage id="2" year="1875"  generalId="10" enemyCountry="48,99" freeCountry="0" allyCountry="0" dependency="0" resetCountry="57,48,99" playerCountry="57" victoryType="2" victoryTarget="31" difficulty="3" round="100" />
+        <stage id="3" year="1916"  generalId="5" enemyCountry="12,38,30,18" freeCountry="40,83,48,13,5" allyCountry="99,35,97,33,55,91,86" dependency="0" resetCountry="58,12,38" playerCountry="58" victoryType="2" victoryTarget="23" difficulty="4" round="130"/>
+        <stage id="4" year="1918"  generalId="397" enemyCountry="87,41,34,17,61,25,100,1,15,44,99,47,35" freeCountry="0" allyCountry="0" dependency="66" resetCountry="8,24,91,68,97,30,21,87,41,34,17,61,25,100,1,15,44,66,89" playerCountry="58" victoryType="2" victoryTarget="40" difficulty="5" round="250"/>
+    </empire>
+    <empire id="106" country="90"  remark="西班牙" useLanguage="-1">
+        <stage id="0" year="1868"  generalId="113" enemyCountry="70" freeCountry="0" allyCountry="0" dependency="0" resetCountry="0" playerCountry="90" victoryType="2" victoryTarget="25" difficulty="3" round="20"/>
+        <stage id="1" year="1874"  generalId="113" enemyCountry="87,41,34,16,61,25,100,15,44,66" freeCountry="0" allyCountry="0" dependency="0" resetCountry="0" playerCountry="90" victoryType="2" victoryTarget="40" difficulty="2" round="200"/>
+        <stage id="2" year="1898"  generalId="365" enemyCountry="57,99,48" freeCountry="0" allyCountry="0" dependency="0" resetCountry="0" playerCountry="90" victoryType="2" victoryTarget="31" difficulty="3" round="200"/>
+        <stage id="3" year="1914"  generalId="366" enemyCountry="40,83,33,48,13,5,35,99,97,77,91,55" freeCountry="0" allyCountry="99,35,97,30,38,12,79,18" dependency="0" resetCountry="0" playerCountry="90" victoryType="2" victoryTarget="24" difficulty="4" round="60"/>
+        <stage id="4" year="1916"  generalId="364" enemyCountry="12,38,40,83,33,48,13,5,35,30,97,55,18,91,29,69,74" freeCountry="0" allyCountry="0" dependency="0" resetCountry="0" playerCountry="90" victoryType="2" victoryTarget="20" difficulty="5" round="130"/>
+    </empire>
+    <empire id="107" country="73"  remark="日本" useLanguage="-1">
+        <stage id="0" year="1893"  generalId="39" enemyCountry="26,28" freeCountry="0" allyCountry="0" dependency="0" resetCountry="0" playerCountry="73" victoryType="4" victoryTarget="186" difficulty="1" round="30" createArmyCount="3"  createGeneralCount="1" />
+        <stage id="1" year="1894"  generalId="44" enemyCountry="28" freeCountry="0" allyCountry="0" dependency="0" resetCountry="28,33" playerCountry="73" victoryType="1" victoryTarget="234,387,169,868,885" difficulty="2" round="40" resetCountryUnityPotion="73"/>
+        <stage id="2" year="1904"  generalId="234" enemyCountry="33" freeCountry="28" allyCountry="0" dependency="0" resetCountry="28,33" playerCountry="73" victoryType="4" victoryTarget="155" difficulty="3" round="30" resetCountryUnityPotion="73"/>
+        <stage id="3" year="1913"  generalId="210" enemyCountry="30,103" freeCountry="0" allyCountry="0" dependency="0" resetCountry="103,30" playerCountry="73" victoryType="1" victoryTarget="227,228" difficulty="4" round="30"  resetCountryUnityPotion="73"/>
+        <stage id="4" year="1919"  generalId="211" enemyCountry="33" freeCountry="79" allyCountry="0" dependency="0" resetCountry="79,103" playerCountry="73" victoryType="2" victoryTarget="16" difficulty="5" round="160" />
+    </empire>
+    <empire id="108" country="28" remark="清国" useLanguage="-1">
+        <stage id="0" year="1856"  generalId="18" enemyCountry="81" freeCountry="0" allyCountry="0" dependency="0" resetCountry="0" playerCountry="28" victoryType="3" victoryTarget="81" difficulty="3" round="40"/>
+        <stage id="1" year="1875"  generalId="21" enemyCountry="46,33" freeCountry="0" allyCountry="0" dependency="0" resetCountry="46,33,83,73" playerCountry="28" victoryType="4" victoryTarget="145" difficulty="3" round="45"/>
+        <stage id="2" year="1894"  generalId="50" enemyCountry="73" freeCountry="0" allyCountry="0" dependency="0" resetCountry="73" playerCountry="28" victoryType="3" victoryTarget="73" difficulty="4" round="50"/>
+        <stage id="3" year="1910"  generalId="174" enemyCountry="33,83" freeCountry="0" allyCountry="0" dependency="0" resetCountry="33,83" playerCountry="28" victoryType="2" victoryTarget="16" difficulty="4" round="160"/>
+     <!--  <stage id="4" year="1916"  generalId="411" enemyCountry="40,33,48,13,5,35,58,83,99,55,18,97,90,71,29,74,69,86" freeCountry="30,38,12,79" allyCountry="0" dependency="0" resetCountry="40,48,13,5,35,58" playerCountry="28" victoryType="2" victoryTarget="20" difficulty="5" round="300"/>
+         -->
+	 
+	 
+		
+		<stage id="4" year="1912"  generalId="411" enemyCountry="103" freeCountry="0" allyCountry="0" dependency="0" resetCountry="103" playerCountry="28" victoryType="3" victoryTarget="103" difficulty="5" round="160"/>
+		
+	 
+    </empire>
+</empires>

@@ -1,0 +1,10 @@
+<languages>
+<!--localMark1,localMark2 决定local类的组成,其决定str的后缀 str文件的组成为stringtable_{localMark1}_{localMark2}.properties-->
+     <language id="1" name="yb" ifConquestReport="false" shieldAreaName="false" fontSize="34" fontScale="1" fontLineRate="0.72" localMark1="en" localMark2="GB" legionNameScale="0.7f" fontPaht="font/text_eh_gb.ttf" ifFontChangeInOther="false" remark="英文 https://github.com/rsms/inter"/>  
+     <language id="2" name="yb" ifConquestReport="true" shieldAreaName="true" fontSize="34" fontScale="1" fontLineRate="0.72" localMark1="zh" localMark2="CN" legionNameScale="0.7f" fontPaht="font/text_zh_cn.ttf" ifFontChangeInOther="true" shieldCountrys="28,59,60,73,81" invincibleCountrys="101,102,103,104,105" remark="简体中文"/>  
+     <language id="3" name="ft" ifConquestReport="true" shieldAreaName="false" fontSize="34" fontScale="1" fontLineRate="0.72" localMark1="zh" localMark2="TW" legionNameScale="0.7f" fontPaht="font/text_zh_tw.ttf" ifFontChangeInOther="true"  remark="繁体中文"/>  
+   <!--  <language id="4" name="yb" fontSize="20" fontScale="1.7" fontLineRate="0.72" localMark="ja" fontPaht="text_zh_cn.ttf"  remark="日文"/>  
+     <language id="5" name="yb" fontSize="20" fontScale="1.7" fontLineRate="0.72" localMark="ko" fontPaht="text_zh_cn.ttf"  remark="韩文"/>  -->
+</languages>
+
+

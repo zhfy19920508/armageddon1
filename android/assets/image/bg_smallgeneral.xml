@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0eb2d5ba28e569d43c4593848810d2ed$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="bg_smallgeneral.png" width="1024" height="1024">
+    <sprite n="sg_Abdul Krim Nadir Basha.png" x="618" y="838" w="42" h="42"/>
+    <sprite n="sg_Addkei.png" x="618" y="794" w="42" h="42"/>
+    <sprite n="sg_Akiyama so old.png" x="618" y="750" w="42" h="42"/>
+    <sprite n="sg_Albert_I.png" x="618" y="706" w="42" h="42"/>
+    <sprite n="sg_Alexander I Karageorgievich.png" x="618" y="662" w="42" h="42"/>
+    <sprite n="sg_Alexander II.png" x="618" y="618" w="42" h="42"/>
+    <sprite n="sg_Alexander_ii.png" x="970" y="574" w="42" h="42"/>
+    <sprite n="sg_Alexandra Joanne Kuza.png" x="926" y="574" w="42" h="42"/>
+    <sprite n="sg_Alexeyev.png" x="882" y="574" w="42" h="42"/>
+    <sprite n="sg_AlfonsoXIII.png" x="838" y="574" w="42" h="42"/>
+    <sprite n="sg_Anaheim.png" x="794" y="574" w="42" h="42"/>
+    <sprite n="sg_Anthony Foker.png" x="750" y="574" w="42" h="42"/>
+    <sprite n="sg_Archduke.E.png" x="706" y="574" w="42" h="42"/>
+    <sprite n="sg_Arnaud.png" x="662" y="574" w="42" h="42"/>
+    <sprite n="sg_Assistant.png" x="618" y="574" w="42" h="42"/>
+    <sprite n="sg_Ataturk.png" x="574" y="970" w="42" h="42"/>
+    <sprite n="sg_Baden.png" x="574" y="926" w="42" h="42"/>
+    <sprite n="sg_Bai.png" x="574" y="882" w="42" h="42"/>
+    <sprite n="sg_Baracca.png" x="574" y="838" w="42" h="42"/>
+    <sprite n="sg_Beauregard.png" x="574" y="794" w="42" h="42"/>
+    <sprite n="sg_Bittenfeld.png" x="574" y="750" w="42" h="42"/>
+    <sprite n="sg_Blyukher.png" x="574" y="706" w="42" h="42"/>
+    <sprite n="sg_Bono.png" x="574" y="662" w="42" h="42"/>
+    <sprite n="sg_Bravo.png" x="574" y="618" w="42" h="42"/>
+    <sprite n="sg_Brusilov.png" x="574" y="574" w="42" h="42"/>
+    <sprite n="sg_Budyony.png" x="979" y="530" w="42" h="42"/>
+    <sprite n="sg_Bufang.png" x="935" y="530" w="42" h="42"/>
+    <sprite n="sg_Bulow.png" x="891" y="530" w="42" h="42"/>
+    <sprite n="sg_Buzan.png" x="847" y="530" w="42" h="42"/>
+    <sprite n="sg_CAI.png" x="803" y="530" w="42" h="42"/>
+    <sprite n="sg_CAIyuanpei.png" x="759" y="530" w="42" h="42"/>
+    <sprite n="sg_Cadorna.png" x="715" y="530" w="42" h="42"/>
+    <sprite n="sg_Card PuPeiEr.png" x="671" y="530" w="42" h="42"/>
+    <sprite n="sg_Carl.png" x="627" y="530" w="42" h="42"/>
+    <sprite n="sg_Carol.png" x="583" y="530" w="42" h="42"/>
+    <sprite n="sg_CenChunXuan.png" x="979" y="486" w="42" h="42"/>
+    <sprite n="sg_Chao_erh_feng.png" x="935" y="486" w="42" h="42"/>
+    <sprite n="sg_Charlieelliott.png" x="891" y="486" w="42" h="42"/>
+    <sprite n="sg_Chenduxiu.png" x="847" y="486" w="42" h="42"/>
+    <sprite n="sg_Cheng-bin wang.png" x="803" y="486" w="42" h="42"/>
+    <sprite n="sg_Cheng_qian.png" x="759" y="486" w="42" h="42"/>
+    <sprite n="sg_Chenyu_cheng.png" x="715" y="486" w="42" h="42"/>
+    <sprite n="sg_Chiang Kai-shek.png" x="671" y="486" w="42" h="42"/>
+    <sprite n="sg_Colin Campbell.png" x="627" y="486" w="42" h="42"/>
+    <sprite n="sg_Conrad.png" x="583" y="486" w="42" h="42"/>
+    <sprite n="sg_Constantine II.png" x="979" y="442" w="42" h="42"/>
+    <sprite n="sg_Courbet.png" x="935" y="442" w="42" h="42"/>
+    <sprite n="sg_Crook.png" x="891" y="442" w="42" h="42"/>
+    <sprite n="sg_Dang_saicheung.png" x="847" y="442" w="42" h="42"/>
+    <sprite n="sg_Danglis.png" x="803" y="442" w="42" h="42"/>
+    <sprite n="sg_David Glasgow Farragut.png" x="759" y="442" w="42" h="42"/>
+    <sprite n="sg_DeGaulle.png" x="715" y="442" w="42" h="42"/>
+    <sprite n="sg_Denikin.png" x="671" y="442" w="42" h="42"/>
+    <sprite n="sg_Desespere.png" x="627" y="442" w="42" h="42"/>
+    <sprite n="sg_Dewey.png" x="583" y="442" w="42" h="42"/>
+    <sprite n="sg_Diaz.png" x="979" y="398" w="42" h="42"/>
+    <sprite n="sg_Ding.png" x="935" y="398" w="42" h="42"/>
+    <sprite n="sg_Dominguez.png" x="891" y="398" w="42" h="42"/>
+    <sprite n="sg_Dragon Jin light.png" x="847" y="398" w="42" h="42"/>
+    <sprite n="sg_DuXiGui.png" x="803" y="398" w="42" h="42"/>
+    <sprite n="sg_Edine Pottier.png" x="759" y="398" w="42" h="42"/>
+    <sprite n="sg_Elgin.png" x="715" y="398" w="42" h="42"/>
+    <sprite n="sg_Ermolli.png" x="671" y="398" w="42" h="42"/>
+    <sprite n="sg_Eunuch_hong.png" x="627" y="398" w="42" h="42"/>
+    <sprite n="sg_Falkenhayn.png" x="583" y="398" w="42" h="42"/>
+    <sprite n="sg_Fayolle.png" x="979" y="354" w="42" h="42"/>
+    <sprite n="sg_Felix Yusupov.png" x="935" y="354" w="42" h="42"/>
+    <sprite n="sg_Feng yun-shan.png" x="891" y="354" w="42" h="42"/>
+    <sprite n="sg_Feng_Zicai.png" x="847" y="354" w="42" h="42"/>
+    <sprite n="sg_Feng_kuo_chang.png" x="803" y="354" w="42" h="42"/>
+    <sprite n="sg_Fengyuxiang.png" x="759" y="354" w="42" h="42"/>
+    <sprite n="sg_Ferdinand Alphonse Hamelin.png" x="715" y="354" w="42" h="42"/>
+    <sprite n="sg_FerdinandI.png" x="671" y="354" w="42" h="42"/>
+    <sprite n="sg_Ferdinand_I.png" x="627" y="354" w="42" h="42"/>
+    <sprite n="sg_Fernando_ii.png" x="583" y="354" w="42" h="42"/>
+    <sprite n="sg_Foch.png" x="979" y="310" w="42" h="42"/>
+    <sprite n="sg_FranzJoseph.png" x="935" y="310" w="42" h="42"/>
+    <sprite n="sg_FrederickRoberts.png" x="891" y="310" w="42" h="42"/>
+    <sprite n="sg_French.png" x="847" y="310" w="42" h="42"/>
+    <sprite n="sg_Frunze.png" x="803" y="310" w="42" h="42"/>
+    <sprite n="sg_Galapagos.png" x="759" y="310" w="42" h="42"/>
+    <sprite n="sg_Garibaldi.png" x="715" y="310" w="42" h="42"/>
+    <sprite n="sg_Georgi.png" x="671" y="310" w="42" h="42"/>
+    <sprite n="sg_Giuseppe_mazzini.png" x="627" y="310" w="42" h="42"/>
+    <sprite n="sg_Gorchakov.png" x="583" y="310" w="42" h="42"/>
+    <sprite n="sg_Grant.png" x="979" y="266" w="42" h="42"/>
+    <sprite n="sg_Greg William.png" x="935" y="266" w="42" h="42"/>
+    <sprite n="sg_Guanxiong liu.png" x="891" y="266" w="42" h="42"/>
+    <sprite n="sg_Haig.png" x="847" y="266" w="42" h="42"/>
+    <sprite n="sg_Halleck.png" x="803" y="266" w="42" h="42"/>
+    <sprite n="sg_Hamilton.png" x="759" y="266" w="42" h="42"/>
+    <sprite n="sg_Harlech.png" x="715" y="266" w="42" h="42"/>
+    <sprite n="sg_Helong.png" x="671" y="266" w="42" h="42"/>
+    <sprite n="sg_Henry Rawlinson.png" x="627" y="266" w="42" h="42"/>
+    <sprite n="sg_Henry_Wilson.png" x="583" y="266" w="42" h="42"/>
+    <sprite n="sg_Hindenburg.png" x="979" y="222" w="42" h="42"/>
+    <sprite n="sg_Hipper.png" x="935" y="222" w="42" h="42"/>
+    <sprite n="sg_Ho_ying_chin.png" x="891" y="222" w="42" h="42"/>
+    <sprite n="sg_Hobart Pasha.png" x="847" y="222" w="42" h="42"/>
+    <sprite n="sg_Hong_xiuquan.png" x="803" y="222" w="42" h="42"/>
+    <sprite n="sg_Horthy.png" x="759" y="222" w="42" h="42"/>
+    <sprite n="sg_Huang_Qing.png" x="715" y="222" w="42" h="42"/>
+    <sprite n="sg_Hugh Trenchard.png" x="671" y="222" w="42" h="42"/>
+    <sprite n="sg_Hugo Caballero.png" x="627" y="222" w="42" h="42"/>
+    <sprite n="sg_InPeiping.png" x="583" y="222" w="42" h="42"/>
+    <sprite n="sg_Investigate the Bernie.png" x="979" y="178" w="42" h="42"/>
+    <sprite n="sg_Jackson.png" x="935" y="178" w="42" h="42"/>
+    <sprite n="sg_James_polk.png" x="891" y="178" w="42" h="42"/>
+    <sprite n="sg_Jan Silove.png" x="847" y="178" w="42" h="42"/>
+    <sprite n="sg_Jericho.png" x="803" y="178" w="42" h="42"/>
+    <sprite n="sg_JiXie yuan.png" x="759" y="178" w="42" h="42"/>
+    <sprite n="sg_JinYunE.png" x="715" y="178" w="42" h="42"/>
+    <sprite n="sg_Joffre.png" x="671" y="178" w="42" h="42"/>
+    <sprite n="sg_John Abbasnot Fischer.png" x="627" y="178" w="42" h="42"/>
+    <sprite n="sg_Johnston.png" x="583" y="178" w="42" h="42"/>
+    <sprite n="sg_Joseph Galliani.png" x="979" y="134" w="42" h="42"/>
+    <sprite n="sg_Joseraviabouthusband.png" x="935" y="134" w="42" h="42"/>
+    <sprite n="sg_Jovellar.png" x="891" y="134" w="42" h="42"/>
+    <sprite n="sg_Jubal Anderson Early.png" x="847" y="134" w="42" h="42"/>
+    <sprite n="sg_Kangyouwei.png" x="803" y="134" w="42" h="42"/>
+    <sprite n="sg_Karl.png" x="759" y="134" w="42" h="42"/>
+    <sprite n="sg_Kerensky.png" x="715" y="134" w="42" h="42"/>
+    <sprite n="sg_Kodama Yuyuan Taro.png" x="671" y="134" w="42" h="42"/>
+    <sprite n="sg_Kolchak.png" x="627" y="134" w="42" h="42"/>
+    <sprite n="sg_Kornilov.png" x="583" y="134" w="42" h="42"/>
+    <sprite n="sg_Kotaro Suzuki.png" x="539" y="530" w="42" h="42"/>
+    <sprite n="sg_Kountouriotis.png" x="539" y="486" w="42" h="42"/>
+    <sprite n="sg_Kovess.png" x="539" y="442" w="42" h="42"/>
+    <sprite n="sg_Krasnov.png" x="539" y="398" w="42" h="42"/>
+    <sprite n="sg_Krobatin.png" x="539" y="354" w="42" h="42"/>
+    <sprite n="sg_Kuantien-pei.png" x="539" y="310" w="42" h="42"/>
+    <sprite n="sg_Kuolongshun.png" x="539" y="266" w="42" h="42"/>
+    <sprite n="sg_Kuropatkin.png" x="539" y="222" w="42" h="42"/>
+    <sprite n="sg_Kutinchev.png" x="539" y="178" w="42" h="42"/>
+    <sprite n="sg_Kweshhazo.png" x="539" y="134" w="42" h="42"/>
+    <sprite n="sg_Lakshmi Bai.png" x="970" y="90" w="42" h="42"/>
+    <sprite n="sg_Launched.png" x="926" y="90" w="42" h="42"/>
+    <sprite n="sg_Lawrence.png" x="882" y="90" w="42" h="42"/>
+    <sprite n="sg_Leaf ReFu.png" x="838" y="90" w="42" h="42"/>
+    <sprite n="sg_Leavesoftheprocessing.png" x="794" y="90" w="42" h="42"/>
+    <sprite n="sg_Lee innovate.png" x="750" y="90" w="42" h="42"/>
+    <sprite n="sg_Leman.png" x="706" y="90" w="42" h="42"/>
+    <sprite n="sg_Lenin.png" x="662" y="90" w="42" h="42"/>
+    <sprite n="sg_Leopold II.png" x="618" y="90" w="42" h="42"/>
+    <sprite n="sg_Leopold.png" x="574" y="90" w="42" h="42"/>
+    <sprite n="sg_Li Kaifang.png" x="530" y="970" w="42" h="42"/>
+    <sprite n="sg_Li.png" x="530" y="926" w="42" h="42"/>
+    <sprite n="sg_Li_Xi.png" x="530" y="882" w="42" h="42"/>
+    <sprite n="sg_Li_Xiucheng.png" x="530" y="838" w="42" h="42"/>
+    <sprite n="sg_Li_hongzhang.png" x="530" y="794" w="42" h="42"/>
+    <sprite n="sg_Li_tsung_jen.png" x="530" y="750" w="42" h="42"/>
+    <sprite n="sg_Liangqichao.png" x="530" y="706" w="42" h="42"/>
+    <sprite n="sg_Liborius.png" x="530" y="662" w="42" h="42"/>
+    <sprite n="sg_Lidazhao.png" x="530" y="618" w="42" h="42"/>
+    <sprite n="sg_Lilisansadventurism.png" x="530" y="574" w="42" h="42"/>
+    <sprite n="sg_Lin Fengxiang.png" x="495" y="530" w="42" h="42"/>
+    <sprite n="sg_Lin_Taiceng.png" x="495" y="486" w="42" h="42"/>
+    <sprite n="sg_Lin_zexu.png" x="495" y="442" w="42" h="42"/>
+    <sprite n="sg_Lincoln.png" x="495" y="398" w="42" h="42"/>
+    <sprite n="sg_Liu_mingchuan.png" x="495" y="354" w="42" h="42"/>
+    <sprite n="sg_Liu_yung_fu.png" x="495" y="310" w="42" h="42"/>
+    <sprite n="sg_Liushaoqi.png" x="495" y="266" w="42" h="42"/>
+    <sprite n="sg_Long Jiguang.png" x="495" y="222" w="42" h="42"/>
+    <sprite n="sg_Lopez.png" x="495" y="178" w="42" h="42"/>
+    <sprite n="sg_LuRongting.png" x="495" y="134" w="42" h="42"/>
+    <sprite n="sg_Luxun.png" x="495" y="90" w="42" h="42"/>
+    <sprite n="sg_Lyatey.png" x="970" y="46" w="42" h="42"/>
+    <sprite n="sg_MAOzedong.png" x="926" y="46" w="42" h="42"/>
+    <sprite n="sg_MEL Waldek.png" x="882" y="46" w="42" h="42"/>
+    <sprite n="sg_Ma Yukun.png" x="838" y="46" w="42" h="42"/>
+    <sprite n="sg_Mackensen.png" x="794" y="46" w="42" h="42"/>
+    <sprite n="sg_Mahdi.png" x="750" y="46" w="42" h="42"/>
+    <sprite n="sg_Makarov.png" x="706" y="46" w="42" h="42"/>
+    <sprite n="sg_Maunoury.png" x="662" y="46" w="42" h="42"/>
+    <sprite n="sg_Maurice Janan.png" x="618" y="46" w="42" h="42"/>
+    <sprite n="sg_Max Hoffman.png" x="574" y="46" w="42" h="42"/>
+    <sprite n="sg_Maxim Weigang.png" x="530" y="46" w="42" h="42"/>
+    <sprite n="sg_McClellan.png" x="486" y="970" w="42" h="42"/>
+    <sprite n="sg_MehmetV.png" x="486" y="926" w="42" h="42"/>
+    <sprite n="sg_MehmetVI.png" x="486" y="882" w="42" h="42"/>
+    <sprite n="sg_Miansikov.png" x="486" y="838" w="42" h="42"/>
+    <sprite n="sg_Mike_mahon.png" x="486" y="794" w="42" h="42"/>
+    <sprite n="sg_Mitre.png" x="486" y="750" w="42" h="42"/>
+    <sprite n="sg_Moltke.png" x="486" y="706" w="42" h="42"/>
+    <sprite n="sg_Montgomery.png" x="486" y="662" w="42" h="42"/>
+    <sprite n="sg_Mr. Li.png" x="486" y="618" w="42" h="42"/>
+    <sprite n="sg_MrLuo.png" x="486" y="574" w="42" h="42"/>
+    <sprite n="sg_Mr_Tsang_tak_sing.png" x="451" y="530" w="42" h="42"/>
+    <sprite n="sg_Mussolini.png" x="451" y="486" w="42" h="42"/>
+    <sprite n="sg_Naxi merv.png" x="451" y="442" w="42" h="42"/>
+    <sprite n="sg_Neville.png" x="451" y="398" w="42" h="42"/>
+    <sprite n="sg_Nicholas_I.png" x="451" y="354" w="42" h="42"/>
+    <sprite n="sg_Nicholas_archduke.png" x="451" y="310" w="42" h="42"/>
+    <sprite n="sg_Nieh Shih-ch'eng.png" x="451" y="266" w="42" h="42"/>
+    <sprite n="sg_Nikolai Pavlovich I.png" x="451" y="222" w="42" h="42"/>
+    <sprite n="sg_NikolayII.png" x="451" y="178" w="42" h="42"/>
+    <sprite n="sg_Ofthewayclemenceau.png" x="451" y="134" w="42" h="42"/>
+    <sprite n="sg_Osman Nuripasha.png" x="451" y="90" w="42" h="42"/>
+    <sprite n="sg_Otto von Below.png" x="451" y="46" w="42" h="42"/>
+    <sprite n="sg_Oyama_Iwao.png" x="970" y="2" w="42" h="42"/>
+    <sprite n="sg_Papoulas.png" x="926" y="2" w="42" h="42"/>
+    <sprite n="sg_Paredes.png" x="882" y="2" w="42" h="42"/>
+    <sprite n="sg_Pascual_vera.png" x="838" y="2" w="42" h="42"/>
+    <sprite n="sg_Pedro_ii.png" x="794" y="2" w="42" h="42"/>
+    <sprite n="sg_PengYulin.png" x="750" y="2" w="42" h="42"/>
+    <sprite n="sg_Perry.png" x="706" y="2" w="42" h="42"/>
+    <sprite n="sg_Pershing.png" x="662" y="2" w="42" h="42"/>
+    <sprite n="sg_Petain.png" x="618" y="2" w="42" h="42"/>
+    <sprite n="sg_Petlura.png" x="574" y="2" w="42" h="42"/>
+    <sprite n="sg_Pierre Beauregarde.png" x="530" y="2" w="42" h="42"/>
+    <sprite n="sg_Pierre Joseph Francois Bosquet.png" x="486" y="2" w="42" h="42"/>
+    <sprite n="sg_Pilsudski.png" x="442" y="970" w="42" h="42"/>
+    <sprite n="sg_Ping three air well.png" x="442" y="926" w="42" h="42"/>
+    <sprite n="sg_Prezan.png" x="442" y="882" w="42" h="42"/>
+    <sprite n="sg_Putnik.png" x="442" y="838" w="42" h="42"/>
+    <sprite n="sg_Qi.png" x="442" y="794" w="42" h="42"/>
+    <sprite n="sg_Quqiubai.png" x="442" y="750" w="42" h="42"/>
+    <sprite n="sg_Radora Al Qaeda.png" x="442" y="706" w="42" h="42"/>
+    <sprite n="sg_Randolph.png" x="442" y="662" w="42" h="42"/>
+    <sprite n="sg_Richard.png" x="442" y="618" w="42" h="42"/>
+    <sprite n="sg_Robert_e_lee.png" x="442" y="574" w="42" h="42"/>
+    <sprite n="sg_Romain von Enchin.png" x="407" y="530" w="42" h="42"/>
+    <sprite n="sg_Rommel.png" x="407" y="486" w="42" h="42"/>
+    <sprite n="sg_Rosas.png" x="407" y="442" w="42" h="42"/>
+    <sprite n="sg_Ruprecht.png" x="407" y="398" w="42" h="42"/>
+    <sprite n="sg_Saigo takamori.png" x="407" y="354" w="42" h="42"/>
+    <sprite n="sg_Samsonov.png" x="407" y="310" w="42" h="42"/>
+    <sprite n="sg_Santa_Anna.png" x="407" y="266" w="42" h="42"/>
+    <sprite n="sg_Sazhenbing.png" x="407" y="222" w="42" h="42"/>
+    <sprite n="sg_Schawinski.png" x="407" y="178" w="42" h="42"/>
+    <sprite n="sg_Scheer.png" x="407" y="134" w="42" h="42"/>
+    <sprite n="sg_Schicklgruber.png" x="407" y="90" w="42" h="42"/>
+    <sprite n="sg_Scott.png" x="407" y="46" w="42" h="42"/>
+    <sprite n="sg_Sekt.png" x="407" y="2" w="42" h="42"/>
+    <sprite n="sg_Sengge Rinchen.png" x="398" y="970" w="42" h="42"/>
+    <sprite n="sg_Seymour.png" x="398" y="926" w="42" h="42"/>
+    <sprite n="sg_Shandongclique.png" x="398" y="882" w="42" h="42"/>
+    <sprite n="sg_Shang_Yulin.png" x="398" y="838" w="42" h="42"/>
+    <sprite n="sg_Shelooked.png" x="398" y="794" w="42" h="42"/>
+    <sprite n="sg_Sherman.png" x="398" y="750" w="42" h="42"/>
+    <sprite n="sg_Shidakai.png" x="398" y="706" w="42" h="42"/>
+    <sprite n="sg_Sopinsky.png" x="398" y="662" w="42" h="42"/>
+    <sprite n="sg_Stalin.png" x="398" y="618" w="42" h="42"/>
+    <sprite n="sg_Stanislav Cecek.png" x="398" y="574" w="42" h="42"/>
+    <sprite n="sg_Straussenburg.png" x="363" y="530" w="42" h="42"/>
+    <sprite n="sg_Stuart.png" x="363" y="486" w="42" h="42"/>
+    <sprite n="sg_Sun.png" x="363" y="442" w="42" h="42"/>
+    <sprite n="sg_Sunyat-sen.png" x="363" y="398" w="42" h="42"/>
+    <sprite n="sg_Tansitong.png" x="363" y="354" w="42" h="42"/>
+    <sprite n="sg_Taylor.png" x="363" y="310" w="42" h="42"/>
+    <sprite n="sg_The shadow of chang.png" x="363" y="266" w="42" h="42"/>
+    <sprite n="sg_Thiers.png" x="363" y="222" w="42" h="42"/>
+    <sprite n="sg_Tian Zhongyu.png" x="363" y="178" w="42" h="42"/>
+    <sprite n="sg_Tirpitz.png" x="363" y="134" w="42" h="42"/>
+    <sprite n="sg_Tokugawa.png" x="363" y="90" w="42" h="42"/>
+    <sprite n="sg_Tougou.png" x="363" y="46" w="42" h="42"/>
+    <sprite n="sg_Trotsky.png" x="363" y="2" w="42" h="42"/>
+    <sprite n="sg_Tuanchi_jui.png" x="354" y="970" w="42" h="42"/>
+    <sprite n="sg_Tuhachevski.png" x="354" y="926" w="42" h="42"/>
+    <sprite n="sg_Tung_fu_hsiang.png" x="354" y="882" w="42" h="42"/>
+    <sprite n="sg_Urquiza.png" x="354" y="838" w="42" h="42"/>
+    <sprite n="sg_Varlin.png" x="354" y="794" w="42" h="42"/>
+    <sprite n="sg_Vladimir Alexyevich Kornilov.png" x="354" y="750" w="42" h="42"/>
+    <sprite n="sg_Von_moltke.png" x="354" y="706" w="42" h="42"/>
+    <sprite n="sg_Vrangel.png" x="354" y="662" w="42" h="42"/>
+    <sprite n="sg_Walbeck.png" x="354" y="618" w="42" h="42"/>
+    <sprite n="sg_Waldersee.png" x="354" y="574" w="42" h="42"/>
+    <sprite n="sg_Wang Huaiqing.png" x="319" y="530" w="42" h="42"/>
+    <sprite n="sg_Wang Shizhen.png" x="319" y="486" w="42" h="42"/>
+    <sprite n="sg_Wang Zhanyuan.png" x="319" y="442" w="42" h="42"/>
+    <sprite n="sg_Wang ching-wei.png" x="319" y="398" w="42" h="42"/>
+    <sprite n="sg_WangJiaxiang.png" x="319" y="354" w="42" h="42"/>
+    <sprite n="sg_WeiChangHui.png" x="319" y="310" w="42" h="42"/>
+    <sprite n="sg_Wilhelm ii.png" x="319" y="266" w="42" h="42"/>
+    <sprite n="sg_Wilson.png" x="319" y="222" w="42" h="42"/>
+    <sprite n="sg_Wup'ei_fu.png" x="319" y="178" w="42" h="42"/>
+    <sprite n="sg_Xiao Chaogui.png" x="319" y="134" w="42" h="42"/>
+    <sprite n="sg_Yakoob.png" x="319" y="90" w="42" h="42"/>
+    <sprite n="sg_Yamagata.png" x="319" y="46" w="42" h="42"/>
+    <sprite n="sg_Yamamoto Koji.png" x="319" y="2" w="42" h="42"/>
+    <sprite n="sg_Yang_xiu_qing.png" x="310" y="970" w="42" h="42"/>
+    <sprite n="sg_Yao-nan xiao.png" x="310" y="926" w="42" h="42"/>
+    <sprite n="sg_YeZhichao.png" x="310" y="882" w="42" h="42"/>
+    <sprite n="sg_Ye_ting.png" x="310" y="838" w="42" h="42"/>
+    <sprite n="sg_Yenhsi_shan.png" x="310" y="794" w="42" h="42"/>
+    <sprite n="sg_Yidong Youheng.png" x="310" y="750" w="42" h="42"/>
+    <sprite n="sg_Yixin.png" x="310" y="706" w="42" h="42"/>
+    <sprite n="sg_Yoshinori Uchimura.png" x="310" y="662" w="42" h="42"/>
+    <sprite n="sg_Yoshiro Kato.png" x="310" y="618" w="42" h="42"/>
+    <sprite n="sg_YuanShoushan.png" x="310" y="574" w="42" h="42"/>
+    <sprite n="sg_Yuan_shikai.png" x="275" y="530" w="42" h="42"/>
+    <sprite n="sg_Zeng_guofan.png" x="275" y="486" w="42" h="42"/>
+    <sprite n="sg_Zhang Xiluan.png" x="275" y="442" w="42" h="42"/>
+    <sprite n="sg_Zhang xun.png" x="275" y="398" w="42" h="42"/>
+    <sprite n="sg_ZhangZuoxiang.png" x="275" y="354" w="42" h="42"/>
+    <sprite n="sg_Zhang_zhidong.png" x="275" y="310" w="42" h="42"/>
+    <sprite n="sg_Zhangwentian.png" x="275" y="266" w="42" h="42"/>
+    <sprite n="sg_Zhangxueliang.png" x="275" y="222" w="42" h="42"/>
+    <sprite n="sg_Zhou Enlai.png" x="275" y="178" w="42" h="42"/>
+    <sprite n="sg_Zhukov.png" x="275" y="134" w="42" h="42"/>
+    <sprite n="sg_Zuo_zongtang.png" x="275" y="90" w="42" h="42"/>
+    <sprite n="sg_abote.png" x="275" y="46" w="42" h="42"/>
+    <sprite n="sg_adong.png" x="275" y="2" w="42" h="42"/>
+    <sprite n="sg_aideh.png" x="266" y="970" w="42" h="42"/>
+    <sprite n="sg_aidi.png" x="266" y="926" w="42" h="42"/>
+    <sprite n="sg_ailix.png" x="266" y="882" w="42" h="42"/>
+    <sprite n="sg_andel.png" x="266" y="838" w="42" h="42"/>
+    <sprite n="sg_andon.png" x="266" y="794" w="42" h="42"/>
+    <sprite n="sg_aobao.png" x="266" y="750" w="42" h="42"/>
+    <sprite n="sg_army_hp_b.png" x="2" y="532" w="51" h="51"/>
+    <sprite n="sg_army_hp_g.png" x="2" y="479" w="51" h="51"/>
+    <sprite n="sg_army_hp_n.png" x="2" y="426" w="51" h="51"/>
+    <sprite n="sg_army_hp_r.png" x="2" y="373" w="51" h="51"/>
+    <sprite n="sg_arrow.png" x="2" y="981" w="26" h="23"/>
+    <sprite n="sg_benzh.png" x="266" y="706" w="42" h="42"/>
+    <sprite n="sg_bg0.png" x="2" y="320" w="51" h="51"/>
+    <sprite n="sg_bg1.png" x="2" y="267" w="51" h="51"/>
+    <sprite n="sg_bg2.png" x="2" y="214" w="51" h="51"/>
+    <sprite n="sg_bg3.png" x="2" y="161" w="51" h="51"/>
+    <sprite n="sg_bg4.png" x="2" y="108" w="51" h="51"/>
+    <sprite n="sg_bg5.png" x="2" y="55" w="51" h="51"/>
+    <sprite n="sg_bg6.png" x="2" y="2" w="51" h="51"/>
+    <sprite n="sg_bismarck.png" x="266" y="662" w="42" h="42"/>
+    <sprite n="sg_bodon.png" x="266" y="618" w="42" h="42"/>
+    <sprite n="sg_boluo.png" x="266" y="574" w="42" h="42"/>
+    <sprite n="sg_chado.png" x="231" y="530" w="42" h="42"/>
+    <sprite n="sg_chenjia.png" x="231" y="486" w="42" h="42"/>
+    <sprite n="sg_chenjiongm.png" x="231" y="442" w="42" h="42"/>
+    <sprite n="sg_chenjishang.png" x="231" y="398" w="42" h="42"/>
+    <sprite n="sg_chenl.png" x="231" y="354" w="42" h="42"/>
+    <sprite n="sg_cheny.png" x="231" y="310" w="42" h="42"/>
+    <sprite n="sg_cixi.png" x="231" y="266" w="42" h="42"/>
+    <sprite n="sg_com.png" x="231" y="222" w="42" h="42"/>
+    <sprite n="sg_daiwe.png" x="231" y="178" w="42" h="42"/>
+    <sprite n="sg_daizo.png" x="231" y="134" w="42" h="42"/>
+    <sprite n="sg_dangy.png" x="231" y="90" w="42" h="42"/>
+    <sprite n="sg_daoge.png" x="231" y="46" w="42" h="42"/>
+    <sprite n="sg_dengx.png" x="231" y="2" w="42" h="42"/>
+    <sprite n="sg_dingr.png" x="222" y="970" w="42" h="42"/>
+    <sprite n="sg_dongs.png" x="222" y="926" w="42" h="42"/>
+    <sprite n="sg_dongw.png" x="222" y="882" w="42" h="42"/>
+    <sprite n="sg_dongz.png" x="222" y="838" w="42" h="42"/>
+    <sprite n="sg_douhet.png" x="222" y="794" w="42" h="42"/>
+    <sprite n="sg_feng.png" x="222" y="750" w="42" h="42"/>
+    <sprite n="sg_fulanke.png" x="222" y="706" w="42" h="42"/>
+    <sprite n="sg_fulankelin.png" x="222" y="662" w="42" h="42"/>
+    <sprite n="sg_fulid.png" x="222" y="618" w="42" h="42"/>
+    <sprite n="sg_fuzuoyi.png" x="222" y="574" w="42" h="42"/>
+    <sprite n="sg_geaodg.png" x="187" y="530" w="42" h="42"/>
+    <sprite n="sg_general.png" x="187" y="486" w="42" h="42"/>
+    <sprite n="sg_getef.png" x="187" y="442" w="42" h="42"/>
+    <sprite n="sg_gongs.png" x="187" y="398" w="42" h="42"/>
+    <sprite n="sg_guoji.png" x="187" y="354" w="42" h="42"/>
+    <sprite n="sg_hanfu.png" x="187" y="310" w="42" h="42"/>
+    <sprite n="sg_hedon.png" x="187" y="266" w="42" h="42"/>
+    <sprite n="sg_hejia.png" x="187" y="222" w="42" h="42"/>
+    <sprite n="sg_horvat.png" x="187" y="178" w="42" h="42"/>
+    <sprite n="sg_huang.png" x="187" y="134" w="42" h="42"/>
+    <sprite n="sg_hudier.png" x="187" y="90" w="42" h="42"/>
+    <sprite n="sg_huopu.png" x="187" y="46" w="42" h="42"/>
+    <sprite n="sg_jiami.png" x="187" y="2" w="42" h="42"/>
+    <sprite n="sg_jiate.png" x="178" y="970" w="42" h="42"/>
+    <sprite n="sg_jinsh.png" x="178" y="926" w="42" h="42"/>
+    <sprite n="sg_juneimei.png" x="178" y="882" w="42" h="42"/>
+    <sprite n="sg_kelim.png" x="178" y="838" w="42" h="42"/>
+    <sprite n="sg_laodo.png" x="178" y="794" w="42" h="42"/>
+    <sprite n="sg_leime.png" x="178" y="750" w="42" h="42"/>
+    <sprite n="sg_lenei.png" x="178" y="706" w="42" h="42"/>
+    <sprite n="sg_libin.png" x="178" y="662" w="42" h="42"/>
+    <sprite n="sg_linlv.png" x="178" y="618" w="42" h="42"/>
+    <sprite n="sg_linyo.png" x="178" y="574" w="42" h="42"/>
+    <sprite n="sg_liubo.png" x="143" y="530" w="42" h="42"/>
+    <sprite n="sg_liubu.png" x="143" y="486" w="42" h="42"/>
+    <sprite n="sg_liuwe.png" x="143" y="442" w="42" h="42"/>
+    <sprite n="sg_liuxiang.png" x="143" y="398" w="42" h="42"/>
+    <sprite n="sg_liuxiansh.png" x="143" y="354" w="42" h="42"/>
+    <sprite n="sg_liuzh.png" x="143" y="310" w="42" h="42"/>
+    <sprite n="sg_lixit.png" x="143" y="266" w="42" h="42"/>
+    <sprite n="sg_longy.png" x="143" y="222" w="42" h="42"/>
+    <sprite n="sg_luola.png" x="143" y="178" w="42" h="42"/>
+    <sprite n="sg_luoro.png" x="143" y="134" w="42" h="42"/>
+    <sprite n="sg_maanl.png" x="143" y="90" w="42" h="42"/>
+    <sprite n="sg_mabuq.png" x="143" y="46" w="42" h="42"/>
+    <sprite n="sg_mahongbin.png" x="143" y="2" w="42" h="42"/>
+    <sprite n="sg_mahongkui.png" x="134" y="970" w="42" h="42"/>
+    <sprite n="sg_makes.png" x="134" y="926" w="42" h="42"/>
+    <sprite n="sg_makex.png" x="134" y="882" w="42" h="42"/>
+    <sprite n="sg_makeximi.png" x="134" y="838" w="42" h="42"/>
+    <sprite n="sg_mazho.png" x="134" y="794" w="42" h="42"/>
+    <sprite n="sg_molis.png" x="134" y="750" w="42" h="42"/>
+    <sprite n="sg_muhan.png" x="134" y="706" w="42" h="42"/>
+    <sprite n="sg_naimu.png" x="134" y="662" w="42" h="42"/>
+    <sprite n="sg_nanci.png" x="134" y="618" w="42" h="42"/>
+    <sprite n="sg_nigul.png" x="134" y="574" w="42" h="42"/>
+    <sprite n="sg_nuodo.png" x="99" y="530" w="42" h="42"/>
+    <sprite n="sg_palmerston.png" x="99" y="486" w="42" h="42"/>
+    <sprite n="sg_player.png" x="99" y="442" w="42" h="42"/>
+    <sprite n="sg_puyi.png" x="99" y="398" w="42" h="42"/>
+    <sprite n="sg_qiaozhi.png" x="99" y="354" w="42" h="42"/>
+    <sprite n="sg_qikal.png" x="99" y="310" w="42" h="42"/>
+    <sprite n="sg_raglan.png" x="99" y="266" w="42" h="42"/>
+    <sprite n="sg_rang.png" x="99" y="222" w="42" h="42"/>
+    <sprite n="sg_saiwe.png" x="99" y="178" w="42" h="42"/>
+    <sprite n="sg_sheng.png" x="99" y="134" w="42" h="42"/>
+    <sprite n="sg_shenw.png" x="99" y="90" w="42" h="42"/>
+    <sprite n="sg_shiro.png" x="99" y="46" w="42" h="42"/>
+    <sprite n="sg_shite.png" x="99" y="2" w="42" h="42"/>
+    <sprite n="sg_tangj.png" x="90" y="970" w="42" h="42"/>
+    <sprite n="sg_tangn.png" x="90" y="926" w="42" h="42"/>
+    <sprite n="sg_tangs.png" x="90" y="882" w="42" h="42"/>
+    <sprite n="sg_tangxiang.png" x="90" y="838" w="42" h="42"/>
+    <sprite n="sg_tanya.png" x="90" y="794" w="42" h="42"/>
+    <sprite n="sg_tegetehuofu.png" x="90" y="750" w="42" h="42"/>
+    <sprite n="sg_wangj.png" x="90" y="706" w="42" h="42"/>
+    <sprite n="sg_weido.png" x="90" y="662" w="42" h="42"/>
+    <sprite n="sg_weili.png" x="90" y="618" w="42" h="42"/>
+    <sprite n="sg_weilimi.png" x="90" y="574" w="42" h="42"/>
+    <sprite n="sg_weini.png" x="55" y="530" w="42" h="42"/>
+    <sprite n="sg_wensi.png" x="55" y="486" w="42" h="42"/>
+    <sprite n="sg_xidon.png" x="55" y="442" w="42" h="42"/>
+    <sprite n="sg_xiemi.png" x="55" y="398" w="42" h="42"/>
+    <sprite n="sg_xusha.png" x="55" y="354" w="42" h="42"/>
+    <sprite n="sg_xushi.png" x="55" y="310" w="42" h="42"/>
+    <sprite n="sg_yalis.png" x="55" y="266" w="42" h="42"/>
+    <sprite n="sg_yalisbahe.png" x="55" y="222" w="42" h="42"/>
+    <sprite n="sg_yangh.png" x="55" y="178" w="42" h="42"/>
+    <sprite n="sg_yangs.png" x="55" y="134" w="42" h="42"/>
+    <sprite n="sg_yangy.png" x="55" y="90" w="42" h="42"/>
+    <sprite n="sg_yangyl.png" x="55" y="46" w="42" h="42"/>
+    <sprite n="sg_yangz.png" x="55" y="2" w="42" h="42"/>
+    <sprite n="sg_yaohu.png" x="46" y="937" w="42" h="42"/>
+    <sprite n="sg_yegeluofu.png" x="46" y="893" w="42" h="42"/>
+    <sprite n="sg_yiwei.png" x="46" y="849" w="42" h="42"/>
+    <sprite n="sg_youbi.png" x="46" y="805" w="42" h="42"/>
+    <sprite n="sg_youge.png" x="46" y="761" w="42" h="42"/>
+    <sprite n="sg_youli.png" x="46" y="717" w="42" h="42"/>
+    <sprite n="sg_yuanz.png" x="46" y="673" w="42" h="42"/>
+    <sprite n="sg_yuesh.png" x="46" y="629" w="42" h="42"/>
+    <sprite n="sg_yulu.png" x="46" y="585" w="42" h="42"/>
+    <sprite n="sg_zaita.png" x="2" y="937" w="42" h="42"/>
+    <sprite n="sg_zhang.png" x="2" y="893" w="42" h="42"/>
+    <sprite n="sg_zhangchaofa.png" x="2" y="849" w="42" h="42"/>
+    <sprite n="sg_zhanm.png" x="2" y="805" w="42" h="42"/>
+    <sprite n="sg_zhanmusi.png" x="2" y="761" w="42" h="42"/>
+    <sprite n="sg_zhaochou.png" x="2" y="717" w="42" h="42"/>
+    <sprite n="sg_zhoux.png" x="2" y="673" w="42" h="42"/>
+    <sprite n="sg_zhude.png" x="2" y="629" w="42" h="42"/>
+    <sprite n="sg_zuobaog.png" x="2" y="585" w="42" h="42"/>
+</TextureAtlas>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<diplomaticAttitudes>
+	<diplomaticAttitude id="0" sourceCountry="4" targetCountry="12" attitude="4" remark="埃及-奥斯曼:周旋"/>
+	<diplomaticAttitude id="1" sourceCountry="8" targetCountry="95" attitude="2" remark="奥地利-匈牙利:世交"/>
+	<diplomaticAttitude id="2" sourceCountry="8" targetCountry="77" attitude="3" remark="奥地利-塞尔维亚:世仇"/>
+	<diplomaticAttitude id="3" sourceCountry="8" targetCountry="30" attitude="2" remark="奥地利-德国:世交"/>
+	<diplomaticAttitude id="4" sourceCountry="8" targetCountry="18" attitude="2" remark="奥地利-保加利亚:世交"/>
+	<diplomaticAttitude id="5" sourceCountry="11" targetCountry="95" attitude="2" remark="奥地利-匈牙利:世交"/>
+	<diplomaticAttitude id="6" sourceCountry="11" targetCountry="77" attitude="3" remark="奥地利-塞尔维亚:世仇"/>
+	<diplomaticAttitude id="7" sourceCountry="11" targetCountry="30" attitude="2" remark="奥地利-德国:世交"/>
+	<diplomaticAttitude id="8" sourceCountry="11" targetCountry="18" attitude="2" remark="奥地利-保加利亚:世交"/>
+	<diplomaticAttitude id="9" sourceCountry="12" targetCountry="99" attitude="4" remark="奥斯曼-英国:周旋"/>
+	<diplomaticAttitude id="10" sourceCountry="12" targetCountry="96" attitude="3" remark="奥斯曼-第二沙特:世仇"/>
+	<diplomaticAttitude id="11" sourceCountry="12" targetCountry="79" attitude="3" remark="奥斯曼-苏俄:世仇"/>
+	<diplomaticAttitude id="12" sourceCountry="12" targetCountry="72" attitude="2" remark="奥斯曼-普鲁士:世交"/>
+	<diplomaticAttitude id="13" sourceCountry="12" targetCountry="57" attitude="4" remark="奥斯曼-美国:周旋"/>
+	<diplomaticAttitude id="14" sourceCountry="12" targetCountry="38" attitude="6" remark="奥斯曼-奥匈:尊重"/>
+	<diplomaticAttitude id="15" sourceCountry="12" targetCountry="35" attitude="4" remark="奥斯曼-法国:周旋"/>
+	<diplomaticAttitude id="16" sourceCountry="12" targetCountry="33" attitude="3" remark="奥斯曼-俄国:世仇"/>
+	<diplomaticAttitude id="17" sourceCountry="12" targetCountry="30" attitude="2" remark="奥斯曼-德国:世交"/>
+	<diplomaticAttitude id="18" sourceCountry="12" targetCountry="23" attitude="6" remark="奥斯曼-伊朗:尊重"/>
+	<diplomaticAttitude id="19" sourceCountry="12" targetCountry="22" attitude="6" remark="奥斯曼-波斯:尊重"/>
+	<diplomaticAttitude id="20" sourceCountry="15" targetCountry="17" attitude="5" remark="巴拉圭-巴西:觊觎"/>
+	<diplomaticAttitude id="21" sourceCountry="15" targetCountry="16" attitude="5" remark="巴拉圭-巴西:觊觎"/>
+	<diplomaticAttitude id="22" sourceCountry="15" targetCountry="1" attitude="5" remark="巴拉圭-阿根廷:觊觎"/>
+	<diplomaticAttitude id="23" sourceCountry="16" targetCountry="70" attitude="6" remark="巴西-葡萄牙:尊重"/>
+	<diplomaticAttitude id="24" sourceCountry="17" targetCountry="70" attitude="6" remark="巴西-葡萄牙:尊重"/>
+	<diplomaticAttitude id="25" sourceCountry="19" targetCountry="40" attitude="2" remark="比利时-刚果:世交"/>
+	<diplomaticAttitude id="26" sourceCountry="19" targetCountry="39" attitude="2" remark="比利时-刚果:世交"/>
+	<diplomaticAttitude id="27" sourceCountry="28" targetCountry="105" attitude="3" remark="大清-中华民国 青天白日旗:世仇"/>
+	<diplomaticAttitude id="28" sourceCountry="28" targetCountry="104" attitude="3" remark="大清-中华帝国:世仇"/>
+	<diplomaticAttitude id="29" sourceCountry="28" targetCountry="103" attitude="3" remark="大清-中华民国 五色旗:世仇"/>
+	<diplomaticAttitude id="30" sourceCountry="28" targetCountry="102" attitude="3" remark="大清-中国起义军:世仇"/>
+	<diplomaticAttitude id="31" sourceCountry="28" targetCountry="101" attitude="3" remark="大清-中共:世仇"/>
+	<diplomaticAttitude id="32" sourceCountry="28" targetCountry="99" attitude="4" remark="大清-英国:周旋"/>
+	<diplomaticAttitude id="33" sourceCountry="28" targetCountry="97" attitude="4" remark="大清-意大利:周旋"/>
+	<diplomaticAttitude id="34" sourceCountry="28" targetCountry="79" attitude="3" remark="大清-苏俄:世仇"/>
+	<diplomaticAttitude id="35" sourceCountry="28" targetCountry="73" attitude="3" remark="大清-日本:世仇"/>
+	<diplomaticAttitude id="36" sourceCountry="28" targetCountry="72" attitude="4" remark="大清-普鲁士:周旋"/>
+	<diplomaticAttitude id="37" sourceCountry="28" targetCountry="70" attitude="4" remark="大清-葡萄牙:周旋"/>
+	<diplomaticAttitude id="38" sourceCountry="28" targetCountry="67" attitude="4" remark="大清-美国邦联:周旋"/>
+	<diplomaticAttitude id="39" sourceCountry="28" targetCountry="57" attitude="4" remark="大清-美国:周旋"/>
+	<diplomaticAttitude id="40" sourceCountry="28" targetCountry="46" attitude="5" remark="大清-浩罕汗国:觊觎"/>
+	<diplomaticAttitude id="41" sourceCountry="28" targetCountry="38" attitude="4" remark="大清-奥匈:周旋"/>
+	<diplomaticAttitude id="42" sourceCountry="28" targetCountry="35" attitude="4" remark="大清-法国:周旋"/>
+	<diplomaticAttitude id="43" sourceCountry="28" targetCountry="33" attitude="5" remark="大清-俄国:觊觎"/>
+	<diplomaticAttitude id="44" sourceCountry="28" targetCountry="30" attitude="2" remark="大清-德国:世交"/>
+	<diplomaticAttitude id="45" sourceCountry="28" targetCountry="27" attitude="4" remark="大清-大南国:周旋"/>
+	<diplomaticAttitude id="46" sourceCountry="28" targetCountry="26" attitude="4" remark="大清-朝鲜:周旋"/>
+	<diplomaticAttitude id="47" sourceCountry="30" targetCountry="99" attitude="4" remark="德国-英国:周旋"/>
+	<diplomaticAttitude id="48" sourceCountry="30" targetCountry="97" attitude="4" remark="德国-意大利:周旋"/>
+	<diplomaticAttitude id="49" sourceCountry="30" targetCountry="79" attitude="4" remark="德国-苏俄:周旋"/>
+	<diplomaticAttitude id="50" sourceCountry="30" targetCountry="73" attitude="5" remark="德国-日本:觊觎"/>
+	<diplomaticAttitude id="51" sourceCountry="30" targetCountry="67" attitude="2" remark="德国-美国邦联:世交"/>
+	<diplomaticAttitude id="52" sourceCountry="30" targetCountry="57" attitude="4" remark="德国-美国:周旋"/>
+	<diplomaticAttitude id="53" sourceCountry="30" targetCountry="45" attitude="2" remark="德国-汉诺威:世交"/>
+	<diplomaticAttitude id="54" sourceCountry="30" targetCountry="38" attitude="2" remark="德国-奥匈:世交"/>
+	<diplomaticAttitude id="55" sourceCountry="30" targetCountry="35" attitude="2" remark="德国-法国:世交"/>
+	<diplomaticAttitude id="56" sourceCountry="30" targetCountry="33" attitude="4" remark="德国-俄国:周旋"/>
+	<diplomaticAttitude id="57" sourceCountry="30" targetCountry="31" attitude="2" remark="德国-德意志邦联:世交"/>
+	<diplomaticAttitude id="58" sourceCountry="30" targetCountry="14" attitude="2" remark="德国-巴伐利亚:世交"/>
+	<diplomaticAttitude id="59" sourceCountry="33" targetCountry="99" attitude="4" remark="俄国-英国:周旋"/>
+	<diplomaticAttitude id="60" sourceCountry="33" targetCountry="85" attitude="2" remark="俄国-瓦拉吉亚:世交"/>
+	<diplomaticAttitude id="61" sourceCountry="33" targetCountry="83" attitude="2" remark="俄国-土耳其斯坦:世交"/>
+	<diplomaticAttitude id="62" sourceCountry="33" targetCountry="79" attitude="3" remark="俄国-苏俄:世仇"/>
+	<diplomaticAttitude id="63" sourceCountry="33" targetCountry="77" attitude="2" remark="俄国-塞尔维亚:世交"/>
+	<diplomaticAttitude id="64" sourceCountry="33" targetCountry="73" attitude="3" remark="俄国-日本:世仇"/>
+	<diplomaticAttitude id="65" sourceCountry="33" targetCountry="72" attitude="4" remark="俄国-普鲁士:周旋"/>
+	<diplomaticAttitude id="66" sourceCountry="33" targetCountry="63" attitude="2" remark="俄国-摩尔达维亚:世交"/>
+	<diplomaticAttitude id="67" sourceCountry="33" targetCountry="60" attitude="3" remark="俄国-蒙古国:世仇"/>
+	<diplomaticAttitude id="68" sourceCountry="33" targetCountry="59" attitude="2" remark="俄国-蒙古:世交"/>
+	<diplomaticAttitude id="69" sourceCountry="33" targetCountry="57" attitude="2" remark="俄国-美国:世交"/>
+	<diplomaticAttitude id="70" sourceCountry="33" targetCountry="55" attitude="2" remark="俄国-罗马尼亚:世交"/>
+	<diplomaticAttitude id="71" sourceCountry="33" targetCountry="46" attitude="5" remark="俄国-浩罕汗国:觊觎"/>
+	<diplomaticAttitude id="72" sourceCountry="33" targetCountry="38" attitude="4" remark="俄国-奥匈:周旋"/>
+	<diplomaticAttitude id="73" sourceCountry="33" targetCountry="37" attitude="2" remark="俄国-芬兰:世交"/>
+	<diplomaticAttitude id="74" sourceCountry="33" targetCountry="35" attitude="2" remark="俄国-法国:世交"/>
+	<diplomaticAttitude id="75" sourceCountry="33" targetCountry="32" attitude="2" remark="俄国-远东共和国:世交"/>
+	<diplomaticAttitude id="76" sourceCountry="35" targetCountry="99" attitude="2" remark="法国-英国:世交"/>
+	<diplomaticAttitude id="77" sourceCountry="35" targetCountry="97" attitude="4" remark="法国-意大利:周旋"/>
+	<diplomaticAttitude id="78" sourceCountry="35" targetCountry="72" attitude="3" remark="法国-普鲁士:世仇"/>
+	<diplomaticAttitude id="79" sourceCountry="35" targetCountry="65" attitude="5" remark="法国-摩洛哥:觊觎"/>
+	<diplomaticAttitude id="80" sourceCountry="35" targetCountry="64" attitude="5" remark="法国-摩洛哥:觊觎"/>
+	<diplomaticAttitude id="81" sourceCountry="35" targetCountry="62" attitude="5" remark="法国-缅甸王国:觊觎"/>
+	<diplomaticAttitude id="82" sourceCountry="35" targetCountry="57" attitude="2" remark="法国-美国:世交"/>
+	<diplomaticAttitude id="83" sourceCountry="35" targetCountry="54" attitude="2" remark="法国-卢森堡:世交"/>
+	<diplomaticAttitude id="84" sourceCountry="35" targetCountry="47" attitude="2" remark="法国-荷兰:世交"/>
+	<diplomaticAttitude id="85" sourceCountry="35" targetCountry="38" attitude="4" remark="法国-奥匈:周旋"/>
+	<diplomaticAttitude id="86" sourceCountry="35" targetCountry="36" attitude="5" remark="法国-梅里纳:觊觎"/>
+	<diplomaticAttitude id="87" sourceCountry="35" targetCountry="27" attitude="5" remark="法国-大南国:觊觎"/>
+	<diplomaticAttitude id="88" sourceCountry="35" targetCountry="19" attitude="2" remark="法国-比利时:世交"/>
+	<diplomaticAttitude id="89" sourceCountry="38" targetCountry="99" attitude="4" remark="奥匈-英国:周旋"/>
+	<diplomaticAttitude id="90" sourceCountry="38" targetCountry="97" attitude="3" remark="奥匈-意大利:世仇"/>
+	<diplomaticAttitude id="91" sourceCountry="38" targetCountry="79" attitude="4" remark="奥匈-苏俄:周旋"/>
+	<diplomaticAttitude id="92" sourceCountry="38" targetCountry="72" attitude="2" remark="奥匈-普鲁士:世交"/>
+	<diplomaticAttitude id="93" sourceCountry="38" targetCountry="35" attitude="4" remark="奥匈-法国:周旋"/>
+	<diplomaticAttitude id="94" sourceCountry="38" targetCountry="18" attitude="2" remark="奥匈-保加利亚:世交"/>
+	<diplomaticAttitude id="95" sourceCountry="57" targetCountry="99" attitude="4" remark="美国-英国:周旋"/>
+	<diplomaticAttitude id="96" sourceCountry="57" targetCountry="67" attitude="3" remark="美国-美国邦联:世仇"/>
+	<diplomaticAttitude id="97" sourceCountry="57" targetCountry="66" attitude="4" remark="美国-墨西哥:周旋"/>
+	<diplomaticAttitude id="98" sourceCountry="72" targetCountry="99" attitude="4" remark="普鲁士-英国:周旋"/>
+	<diplomaticAttitude id="99" sourceCountry="72" targetCountry="97" attitude="4" remark="普鲁士-意大利:周旋"/>
+	<diplomaticAttitude id="100" sourceCountry="72" targetCountry="89" attitude="4" remark="普鲁士-乌克兰:周旋"/>
+	<diplomaticAttitude id="101" sourceCountry="72" targetCountry="79" attitude="2" remark="普鲁士-苏俄:世交"/>
+	<diplomaticAttitude id="102" sourceCountry="72" targetCountry="73" attitude="5" remark="普鲁士-日本:觊觎"/>
+	<diplomaticAttitude id="103" sourceCountry="72" targetCountry="18" attitude="2" remark="普鲁士-保加利亚:世交"/>
+	<diplomaticAttitude id="104" sourceCountry="79" targetCountry="89" attitude="3" remark="苏俄-乌克兰:世仇"/>
+	<diplomaticAttitude id="105" sourceCountry="79" targetCountry="21" attitude="3" remark="苏俄-波兰:世仇"/>
+	<diplomaticAttitude id="106" sourceCountry="81" targetCountry="99" attitude="3" remark="太平天国-英国:世仇"/>
+	<diplomaticAttitude id="107" sourceCountry="81" targetCountry="28" attitude="3" remark="太平天国-大清:世仇"/>
+	<diplomaticAttitude id="108" sourceCountry="97" targetCountry="99" attitude="4" remark="意大利-英国:周旋"/>
+	<diplomaticAttitude id="109" sourceCountry="99" targetCountry="98" attitude="3" remark="英国-印度:世仇"/>
+	<diplomaticAttitude id="110" sourceCountry="99" targetCountry="96" attitude="2" remark="英国-第二沙特:世交"/>
+	<diplomaticAttitude id="111" sourceCountry="99" targetCountry="67" attitude="2" remark="英国-美国邦联:世交"/>
+	<diplomaticAttitude id="112" sourceCountry="99" targetCountry="49" attitude="2" remark="英国-科威特:世交"/>
+	<diplomaticAttitude id="113" sourceCountry="99" targetCountry="48" attitude="2" remark="英国-加拿大:世交"/>
+	<diplomaticAttitude id="114" sourceCountry="99" targetCountry="13" attitude="2" remark="英国-澳大利亚:世交"/>
+	<diplomaticAttitude id="115" sourceCountry="101" targetCountry="105" attitude="3" remark="中共-中华民国 青天白日旗:世仇"/>
+	<diplomaticAttitude id="116" sourceCountry="101" targetCountry="104" attitude="3" remark="中共-中华帝国:世仇"/>
+	<diplomaticAttitude id="117" sourceCountry="101" targetCountry="103" attitude="3" remark="中共-中华民国 五色旗:世仇"/>
+	<diplomaticAttitude id="118" sourceCountry="101" targetCountry="102" attitude="6" remark="中共-中国起义军:尊重"/>
+	<diplomaticAttitude id="119" sourceCountry="103" targetCountry="105" attitude="3" remark="中华民国 五色旗-中华民国 青天白日旗:世仇"/>
+	<diplomaticAttitude id="120" sourceCountry="103" targetCountry="104" attitude="3" remark="中华民国 五色旗-中华帝国:世仇"/>
+	<diplomaticAttitude id="121" sourceCountry="104" targetCountry="105" attitude="3" remark="中华帝国-中华民国 青天白日旗:世仇"/>
+	<diplomaticAttitude id="122" sourceCountry="99" targetCountry="107" attitude="2" remark="英国-英属印度:世交"/>
+	<diplomaticAttitude id="123" sourceCountry="47" targetCountry="108" attitude="2" remark="荷兰-荷属东印度:世交"/>
+	<diplomaticAttitude id="124" sourceCountry="11" targetCountry="72" attitude="4" remark="奥匈-普鲁士:周旋"/>
+	<diplomaticAttitude id="125" sourceCountry="110" targetCountry="47" attitude="2" remark="布尔-荷兰:世交"/>
+	<diplomaticAttitude id="126" sourceCountry="110" targetCountry="30" attitude="2" remark="布尔-德国:世交"/>
+	<diplomaticAttitude id="127" sourceCountry="110" targetCountry="35" attitude="2" remark="布尔-法国:世交"/>
+	<diplomaticAttitude id="129" sourceCountry="110" targetCountry="38" attitude="2" remark="布尔-奥匈:世交"/>
+	<diplomaticAttitude id="130" sourceCountry="110" targetCountry="33" attitude="2" remark="布尔-俄国:世交"/>
+	<diplomaticAttitude id="131" sourceCountry="110" targetCountry="99" attitude="3" remark="布尔-英国:世仇"/>
+	<diplomaticAttitude id="132" sourceCountry="109" targetCountry="99" attitude="2" remark="南非-英国:世交"/>
+	<diplomaticAttitude id="133" sourceCountry="109" targetCountry="30" attitude="3" remark="南非-德国:世仇"/>
+	
+	
+	
+	
+	
+</diplomaticAttitudes>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<maps>
+	<map id="1" name="world_map" width="370" height="150" ifLoop="true" ifLat="1" lat60N="11" lat40N="43" lat20N="67" lat0="91" lat20S="114" lat40S="132" lat60S="148" topLat="0" footLat="0" image="world_map_pt.jpg" colorImage="world_map_conquest.jpg" alphaRate="0.7f" colorAlphaRate="1f" imageRefX="10" imageRefY="4" onlyZoomShow="true" floorImage=""  floorHexagonAlphaRate="1f" remark="世界地图"/> <!---->
+	<map id="2" name="v2x4_map" width="1280" height="416" ifLoop="true" remark="超大维多利亚2世界地图"/>
+	<map id="3" name="yz_map" width="240" height="238" ifLoop="false" remark="亚洲地图"/>
+	<map id="4" name="drb_map" width="160" height="140" ifLoop="false" remark="日本地图"/>
+	<map id="5" name="zd_map" width="128" height="70" ifLoop="false" remark="中东地图"/>
+	<map id="6" name="worldB_map" width="400" height="160" ifLoop="true" remark="世界地图2"/>
+	<map id="7" name="zg_map" width="111" height="111" ifLoop="false" remark="中国地图"/>
+	<map id="8" name="jw_map" width="80" height="92" ifLoop="false" remark="朝鲜地图"/>
+	<map id="9" name="worldC_map" width="320" height="104" ifLoop="true" remark="世界地图3 残缺"/>
+	<map id="10" name="rbh_map" width="96" height="64" ifLoop="false" remark="日本海地图"/>
+	<map id="11" name="nath_map" width="80" height="56" ifLoop="false" remark="南极地图"/>
+	<map id="12" name="eur_map" width="141" height="95" ifLoop="false" remark="欧洲地图"/>
+	<map id="13" name="eurB_map" width="237" height="136" ifLoop="false" remark="欧洲地图2"/>
+		
+		
+		
+		
+		
+		
+</maps>
